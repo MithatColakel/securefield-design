@@ -40,4 +40,4 @@ Text is centred, so lines only change reading order. The header mirrors: Close o
 - Vertical positions: this component preview (390 × 844) uses top inset 0. On the device the content starts below the system top inset, and the bottom comes from the window's safe area. The screen cards in the Screens group show this (47 pt top inset on a 390 × 844 iPhone, or the system sheet edge) and are checked against screenshots where one exists.
 - Prices and the trial length in the preview are samples.
 - The system spinner is a static stand-in.
-- The preview needs network access: it loads the pinned `lottie-web@5.12.2` from jsDelivr. Over `file://` the browser blocks the Lottie files; open it over HTTP (the design page does).
+- The preview loads the local copy of `lottie-web` 5.12.2 (`vendor/lottie-web-5.12.2/`). It needs no network. Over `file://` the browser blocks the Lottie files; open it over HTTP (the design page does).

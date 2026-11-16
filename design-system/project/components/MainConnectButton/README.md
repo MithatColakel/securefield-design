@@ -29,4 +29,4 @@ If the app opens already connected, it shows TTC's last frame with no animation.
 - Don't mirror the button or the ring direction in Arabic.
 
 ## Preview
-The preview needs network access. It loads the pinned `lottie-web@5.12.2` from jsDelivr (`https://cdn.jsdelivr.net/npm/lottie-web@5.12.2/build/player/lottie_svg.min.js`) and the two Lottie files by relative path. With no network, the face stays empty; the ring still shows. The app itself bundles Lottie and needs no network.
+The preview loads the local copy of `lottie-web` 5.12.2 (`vendor/lottie-web-5.12.2/`, MIT licence file beside it) and the two Lottie files by relative path. It needs no network. Over `file://` the browser blocks the Lottie files; open it over HTTP (the design page does). The app itself bundles Lottie.

@@ -21,4 +21,4 @@ No text. The bar fills from the leading edge (ZStack `.leading`), so in Arabic i
 
 ## Notes
 - Vertical positions: this component preview (390 × 844) uses top inset 0. On the device the content starts below the system top inset, and the bottom comes from the window's safe area. The screen cards in the Screens group show this (47 pt top inset on a 390 × 844 iPhone, or the system sheet edge) and are checked against screenshots where one exists.
-- The preview needs network access (pinned `lottie-web@5.12.2` from jsDelivr) and HTTP, not `file://`.
+- The preview loads the local copy of `lottie-web` 5.12.2 (`vendor/lottie-web-5.12.2/`). It needs no network, but HTTP, not `file://`.

@@ -16,5 +16,5 @@ Lottie animations (JSON), copied with no change from `native/SecureFieldApp/Secu
 `Lotties/Connect/TTF.json`, `DTF.json` and `FTD.json` are in the repo, but no Swift code loads them on `main@00e1b7b`. They are not copied here.
 
 ## Notes
-- The previews play these files with `lottie-web@5.12.2` from jsDelivr. They need network access and HTTP (a `file://` page cannot load the JSON).
+- The previews play these files with the local copy of `lottie-web` 5.12.2 in `vendor/lottie-web-5.12.2/` (MIT licence file beside it). They need no network, but HTTP (a `file://` page cannot load the JSON).
 - Arabic: the Connect button forces left-to-right on its animation (`MainConnectButton.swift:111`), so `TTC` and `TTD` never mirror. The onboarding and splash code sets no flip; whether the Lottie view mirrors there in Arabic is to confirm.

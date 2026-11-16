@@ -1,8 +1,9 @@
-<!-- @dsCard group="Connect" height=560 subtitle="Disconnected, connecting (ring at 35 %), connected — the app's own Lottie frames" -->
+<!-- @dsCard group="Connect" height=724 subtitle="Disconnected, connecting (ring at 35 %), connected — the app's own Lottie frames" -->
 <!doctype html>
 <html>
 <head><meta charset="utf-8">
 <meta name="robots" content="noindex,nofollow"><title>MainConnectButton — preview</title>
+<link rel="stylesheet" href="../../tokens.css">
 <style>
   body { margin:0; min-height:100vh; background:var(--gradient-background); color:var(--text-primary); }
   .wrap { --lw:390px; --edge:calc(var(--lw) * 0.53); width:var(--lw); padding:12px 0; display:flex; flex-direction:column; align-items:center; gap:6px; }
@@ -24,7 +25,7 @@
   <div class="label Caption">connected — TTC, last frame</div>
   <div class="btn"><div class="lottie" data-src="../../assets/Lotties/TTC.json"></div></div>
 </div>
-<script src="https://cdn.jsdelivr.net/npm/lottie-web@5.12.2/build/player/lottie_svg.min.js"></script>
+<script src="../../vendor/lottie-web-5.12.2/lottie_svg.min.js"></script>
 <script>
   document.querySelectorAll('.lottie').forEach(function (el) {
     fetch(el.dataset.src).then(function (r) { return r.json(); }).then(function (data) {

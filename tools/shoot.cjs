@@ -35,7 +35,8 @@ async function shoot(page, file, w, h, out, q) {
 }
 
 (async () => {
-  const browser = await chromium.launch();
+  // Local files may read local files (the Lottie cards fetch their JSON); the network stays blocked.
+  const browser = await chromium.launch({ args: ['--allow-file-access-from-files'] });
   const wide = [];
   for (const [dir, dsf, q] of LEVELS) {
     if (!want.has(dir)) continue;

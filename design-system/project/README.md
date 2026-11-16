@@ -21,6 +21,7 @@ SecureField is a VPN app for iPhone, iPad and Mac, used mainly in the Middle Eas
 - Green means "go" and "connected". Yellow means premium. Do not use yellow for warnings; the discouraged protocol uses `discouraged`.
 - The main action is `RadialGradientButton` (green, `gradient-controlGreen`). Use one per screen. On the Mac it is `MacButtons` Primary (`gradient-macPrimary`). Premium on the Mac is `gradient-premium` with `onPremium` text.
 - Literal colours with no token in code are tokens here with "Literal" in their note (`splashFill`, `loadingTint`, `onPremium` …). Use them only where their note says.
+- `tokens.css` is made from `tokens.json` by `design-system/tools/tokens_css.py`: one variable per token (`--<name>`), `--font-<family>`, an `@font-face` rule per font file, and one class per type style. Every card links it. Do not edit it; edit `tokens.json` and run the tool again.
 
 ## Type
 

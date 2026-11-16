@@ -1,8 +1,9 @@
-<!-- @dsCard group="Launch" height=880 subtitle="Launch screen at 390 × 844: progress creeping (40 %) and full; Arabic: fills from the right (to confirm)" -->
+<!-- @dsCard group="Launch" height=1712 subtitle="Launch screen at 390 × 844: progress creeping (40 %) and full; Arabic: fills from the right (to confirm)" -->
 <!doctype html>
 <html>
 <head><meta charset="utf-8">
 <meta name="robots" content="noindex,nofollow"><title>SplashScreen — preview</title>
+<link rel="stylesheet" href="../../tokens.css">
 <style>
   * { box-sizing:border-box; }
   body { margin:0; background:#000; display:flex; flex-wrap:wrap; gap:24px; }
@@ -16,7 +17,7 @@
 <div class="screen"><img src="../../assets/Logos/Splash.png" alt=""><div class="logo lottie" data-src="../../assets/Lotties/Logo.json"></div><div class="bar"><i style="width:40%"></i></div></div>
 <div class="screen"><img src="../../assets/Logos/Splash.png" alt=""><div class="logo lottie" data-src="../../assets/Lotties/Logo.json"></div><div class="bar"><i style="width:100%"></i></div></div>
 <div class="screen" dir="rtl" lang="ar"><img src="../../assets/Logos/Splash.png" alt=""><div class="logo lottie" data-src="../../assets/Lotties/Logo.json"></div><div class="bar"><i style="width:40%"></i></div></div>
-<script src="https://cdn.jsdelivr.net/npm/lottie-web@5.12.2/build/player/lottie_svg.min.js"></script>
+<script src="../../vendor/lottie-web-5.12.2/lottie_svg.min.js"></script>
 <script>
   document.querySelectorAll('.lottie').forEach(function (el) {
     fetch(el.dataset.src).then(function (r) { return r.json(); }).then(function (data) {

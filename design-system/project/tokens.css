@@ -1,0 +1,152 @@
+/* Made from tokens.json by design-system/tools/tokens_css.py. Do not edit: edit tokens.json, then run the tool. */
+
+@font-face { font-family: "NAMU-1850"; src: url("fonts/NAMU-1850.ttf") format("truetype"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "Red Hat Display"; src: url("fonts/RedHatDisplay-Regular.ttf") format("truetype"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "Red Hat Display"; src: url("fonts/RedHatDisplay-Bold.ttf") format("truetype"); font-weight: 700; font-style: normal; font-display: block; }
+@font-face { font-family: "Amiko"; src: url("fonts/Amiko-Regular.ttf") format("truetype"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "Amiko"; src: url("fonts/Amiko-Bold.ttf") format("truetype"); font-weight: 700; font-style: normal; font-display: block; }
+
+:root {
+  /* color */
+  --iceBlue: rgba(130, 179, 242, 0.2);
+  --lightBlue: #33a9fe;
+  --blue: #008ff5;
+  --darkBlue: #0073c5;
+  --lightYellow: #fac762;
+  --yellow: #f3af2d;
+  --darkYellow: #e59807;
+  --lightGreen: #35df91;
+  --green: #1eb972;
+  --mediumGreen: #178f59;
+  --darkGreen: #198f57;
+  --lightRed: #f47960;
+  --red: #e94e30;
+  --darkRed: #d72e0e;
+  --white: #ffffff;
+  --white20: rgba(255, 255, 255, 0.2);
+  --lightGray: #d1dcea;
+  --gray: #e3eaf2;
+  --mediumGray: #8c9197;
+  --darkGray: #3f4751;
+  --bgGraphit: #172231;
+  --bgGraphit20: rgba(23, 34, 49, 0.2);
+  --bgBlack: #000000;
+  --bgBlack20: rgba(0, 0, 0, 0.2);
+  --bgBlack80: rgba(0, 0, 0, 0.8);
+  --darkCharcoal: #141415;
+  --auroMetalGray: #6d767d;
+  --surface: rgba(255, 255, 255, 0.06);
+  --surfaceHigh: rgba(255, 255, 255, 0.1);
+  --hairline: rgba(255, 255, 255, 0.12);
+  --text-primary: var(--white);
+  --text-secondary: var(--lightGreen);
+  --text-tertiary: var(--lightGray);
+  --text-quaternary: var(--lightYellow);
+  --text-error: var(--lightRed);
+  --paginator-primary: var(--darkGray);
+  --paginator-secondary: var(--lightGreen);
+  --separator-primary: var(--lightGray);
+  --separator-secondary: var(--auroMetalGray);
+  --background-primary: var(--bgGraphit);
+  --background-secondary: var(--iceBlue);
+  --background-indicator: var(--darkCharcoal);
+  --background-tertiary: var(--lightGreen);
+  --background-quaternary: var(--bgBlack80);
+  --border-primary: var(--white);
+  --border-secondary: var(--lightYellow);
+  --border-tertiary: var(--white);
+  --border-quaternary: var(--lightGreen);
+  --border-fifth: var(--darkGray);
+  --icon-primary: var(--lightGray);
+  --icon-secondary: var(--darkGray);
+  --serverListRule: rgba(255, 255, 255, 0.0902);
+  --columnDivider: rgba(255, 255, 255, 0.09);
+  --fieldFill: rgba(255, 255, 255, 0.08);
+  --highlight: rgba(255, 255, 255, 0.25);
+  --discouraged: #e5484d;
+  --feedbackField: rgba(130, 179, 242, 0.16);
+  --splashFill: #34dc8f;
+  --sheetBackground: #0e1621;
+  --loadingTint: #5aad79;
+  --loadingBox: #3a3f46;
+  --onPremium: #1b1305;
+  --paywallTop: #0f3a4d;
+  --orbInner: #1e2c40;
+  --orbInnerEdge: #0b121c;
+  /* spacing */
+  --space-xs: 4px;
+  --space-s: 8px;
+  --space-m: 12px;
+  --space-l: 16px;
+  --space-xl: 24px;
+  --space-xxl: 32px;
+  --space-page: 40px;
+  /* radius */
+  --radius-chip: 8px;
+  --radius-card: 16px;
+  --radius-panel: 24px;
+  --radius-gradientCard: 28px;
+  --radius-button: 24px;
+  --radius-buttonSmall: 20px;
+  --radius-field: 12px;
+  --radius-rowHighlight: 14px;
+  --radius-listRow: 10px;
+  --radius-loadingBox: 15px;
+  --radius-grabber: 3px;
+  --radius-signalBar: 2px;
+  --radius-pill: 9999px;
+  /* shadow */
+  --shadow-grabber: 1px 1px 1px rgba(255, 255, 255, 0.25);
+  /* gradient */
+  --gradient-background: linear-gradient(135deg, #172231, #000000);
+  --gradient-backgroundOpacity: linear-gradient(135deg, rgba(23, 34, 49, 0.2), rgba(23, 34, 49, 0.2), rgba(0, 0, 0, 0.2));
+  --gradient-border: linear-gradient(135deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0));
+  --gradient-borderOrange: linear-gradient(135deg, #fac762, #f3af2d);
+  --gradient-radialOrange: linear-gradient(135deg, #fac762, #e59807);
+  --gradient-controlGreen: radial-gradient(474.806px 115.017px at 103.5px -2.68px, #35df91 10.0902%, #198f57 72.6833%);
+  --gradient-controlNeutral: radial-gradient(474.806px 115.017px at 103.5px -2.68px, #e3eaf2 10.0902%, #8c9197 72.6833%);
+  --gradient-controlOrange: radial-gradient(474.806px 115.017px at 103.5px -2.68px, #fac762 10.0902%, #e59807 72.6833%);
+  --gradient-controlTagBlue: radial-gradient(474.806px 115.017px at 103.5px -2.68px, #33a9fe 10.0902%, #0073c5 72.6833%);
+  --gradient-green: linear-gradient(135deg, #35df91, #198f57);
+  --gradient-tagBlue: linear-gradient(135deg, #33a9fe, #0073c5);
+  --gradient-neutralGray: linear-gradient(135deg, #e3eaf2, #8c9197);
+  --gradient-error: linear-gradient(135deg, #f47960, #d72e0e);
+  --gradient-multitone: linear-gradient(90deg, #0073c5, #33a9fe, #35df91, #178f59, #178f59);
+  --gradient-connectButton: conic-gradient(from 0deg, #0073c5 16%, #33a9fe 41.3%, #35df91 57.5%, #178f59 80.2%);
+  --gradient-macPrimary: linear-gradient(90deg, #33a9fe, #1eb972);
+  --gradient-premium: linear-gradient(180deg, #fac762, #e59807);
+  --gradient-macPaywall: linear-gradient(180deg, #0f3a4d, #172231, #000000);
+  /* opacity */
+  --opacity-pressed: 0.85;
+  --opacity-connectPressed: 0.8;
+  --opacity-disabled: 0.45;
+  --opacity-disabledMac: 0.4;
+  /* type families */
+  --font-namu: "NAMU-1850", "NAMU 1850", system-ui, sans-serif;
+  --font-redhat: "Red Hat Display", system-ui, sans-serif;
+  --font-amiko: Amiko, system-ui, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+/* type: iPhone and iPad */
+.H4 { font-family: var(--font-namu); font-size: 34px; line-height: 37.4px; font-weight: 400; }
+.H5 { font-family: var(--font-namu); font-size: 28px; line-height: 30.8px; font-weight: 400; }
+.H6 { font-family: var(--font-namu); font-size: 22px; line-height: 24.2px; font-weight: 400; }
+.Subtitle1 { font-family: var(--font-namu); font-size: 17px; line-height: 19.04px; font-weight: 400; }
+.Body1 { font-family: var(--font-redhat); font-size: 15px; line-height: 21px; letter-spacing: 0.04px; font-weight: 400; }
+.Body2 { font-family: var(--font-redhat); font-size: 15px; line-height: 21px; letter-spacing: 0.04px; font-weight: 700; }
+.Caption { font-family: var(--font-redhat); font-size: 12px; line-height: 16.8px; font-weight: 400; }
+.Amiko1 { font-family: var(--font-amiko); font-size: 16px; line-height: 17.92px; font-weight: 700; }
+.Amiko2 { font-family: var(--font-amiko); font-size: 13px; line-height: 13px; letter-spacing: -0.5px; font-weight: 700; }
+.Amiko3 { font-family: var(--font-redhat); font-size: 25px; line-height: 27.5px; letter-spacing: -0.5px; font-weight: 400; }
+.Amiko4 { font-family: var(--font-redhat); font-size: 14px; line-height: 19.6px; letter-spacing: 0.04px; font-weight: 400; }
+
+/* type: Mac */
+.display { font-family: var(--font-namu); font-size: 40px; font-weight: 400; }
+.title { font-family: var(--font-namu); font-size: 28px; font-weight: 400; }
+.headline { font-family: var(--font-namu); font-size: 22px; font-weight: 400; }
+.subtitle { font-family: var(--font-namu); font-size: 17px; font-weight: 400; }
+.body { font-family: var(--font-redhat); font-size: 15px; font-weight: 400; }
+.bodyBold { font-family: var(--font-redhat); font-size: 15px; font-weight: 700; }
+.caption { font-family: var(--font-redhat); font-size: 12px; font-weight: 400; }
+.mono { font-family: var(--font-mono); font-size: 15px; font-weight: 500; }
