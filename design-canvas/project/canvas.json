@@ -1543,6 +1543,134 @@
    "h": 1210,
    "page": "ipad",
    "title": "Server list · portrait sheet · free user · AR"
+  },
+  "iPhone-Connect-FirstConnectPrompt-ProposalVPN907-EN.dc.html": {
+   "x": 0,
+   "y": 19276,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-907 · Connect · 1 first Connect: iOS prompt over Main (stand-in) · EN"
+  },
+  "iPhone-Connect-HelpAfterDecline-ProposalVPN907-EN.dc.html": {
+   "x": 470,
+   "y": 19276,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help sheet · EN"
+  },
+  "iPhone-Connect-FirstConnectPrompt-ProposalVPN907-AR.dc.html": {
+   "x": 940,
+   "y": 19276,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-907 · Connect · 1 first Connect: iOS prompt over Main (stand-in) · AR"
+  },
+  "iPhone-Connect-HelpAfterDecline-ProposalVPN907-AR.dc.html": {
+   "x": 1410,
+   "y": 19276,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help sheet · AR"
+  },
+  "iPad-Connect-Portrait-FirstConnectPrompt-ProposalVPN907-EN.dc.html": {
+   "x": 0,
+   "y": 19310,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-907 · Connect · 1 first Connect: iPadOS prompt over Main (stand-in) · portrait · EN"
+  },
+  "iPad-Connect-Portrait-HelpAfterDecline-ProposalVPN907-EN.dc.html": {
+   "x": 914,
+   "y": 19310,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help sheet · portrait · EN"
+  },
+  "iPad-Connect-Landscape-FirstConnectPrompt-ProposalVPN907-EN.dc.html": {
+   "x": 1828,
+   "y": 19310,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Proposal — VPN-907 · Connect · 1 first Connect: iPadOS prompt over Main (stand-in) · landscape · EN"
+  },
+  "iPad-Connect-Landscape-HelpAfterDecline-ProposalVPN907-EN.dc.html": {
+   "x": 3118,
+   "y": 19310,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help sheet · landscape · EN"
+  },
+  "iPad-Connect-Portrait-FirstConnectPrompt-ProposalVPN907-AR.dc.html": {
+   "x": 4408,
+   "y": 19310,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-907 · Connect · 1 first Connect: iPadOS prompt over Main (stand-in) · portrait · AR"
+  },
+  "iPad-Connect-Portrait-HelpAfterDecline-ProposalVPN907-AR.dc.html": {
+   "x": 5322,
+   "y": 19310,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help sheet · portrait · AR"
+  },
+  "iPad-Connect-Landscape-FirstConnectPrompt-ProposalVPN907-AR.dc.html": {
+   "x": 6236,
+   "y": 19310,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Proposal — VPN-907 · Connect · 1 first Connect: iPadOS prompt over Main (stand-in) · landscape · AR"
+  },
+  "iPad-Connect-Landscape-HelpAfterDecline-ProposalVPN907-AR.dc.html": {
+   "x": 7526,
+   "y": 19310,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help sheet · landscape · AR"
+  },
+  "Mac-Connect-FirstConnectPrompt-ProposalVPN907-EN.dc.html": {
+   "x": 0,
+   "y": 12678,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-907 · Connect · 1 first Connect: macOS prompt over the main window (stand-in) · EN"
+  },
+  "Mac-Connect-HelpAfterDecline-ProposalVPN907-EN.dc.html": {
+   "x": 1002,
+   "y": 12678,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help (replaces First launch · permission denied) · EN"
+  },
+  "Mac-Connect-FirstConnectPrompt-ProposalVPN907-AR.dc.html": {
+   "x": 1562,
+   "y": 12678,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-907 · Connect · 1 first Connect: macOS prompt over the main window (stand-in) · AR"
+  },
+  "Mac-Connect-HelpAfterDecline-ProposalVPN907-AR.dc.html": {
+   "x": 2564,
+   "y": 12678,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help (replaces First launch · permission denied) · AR"
   }
  },
  "order": [
@@ -1735,7 +1863,23 @@
   "Mac-Settings-PremiumShowInDockOn-ProposalVPN809-AR.dc.html",
   "Mac-Settings-PremiumShowInDockOff-ProposalVPN809-AR.dc.html",
   "Mac-Settings-NotPremiumShowInDockOn-ProposalVPN809-AR.dc.html",
-  "Mac-Settings-NotPremiumShowInDockOff-ProposalVPN809-AR.dc.html"
+  "Mac-Settings-NotPremiumShowInDockOff-ProposalVPN809-AR.dc.html",
+  "iPhone-Connect-FirstConnectPrompt-ProposalVPN907-EN.dc.html",
+  "iPhone-Connect-HelpAfterDecline-ProposalVPN907-EN.dc.html",
+  "iPhone-Connect-FirstConnectPrompt-ProposalVPN907-AR.dc.html",
+  "iPhone-Connect-HelpAfterDecline-ProposalVPN907-AR.dc.html",
+  "iPad-Connect-Portrait-FirstConnectPrompt-ProposalVPN907-EN.dc.html",
+  "iPad-Connect-Portrait-HelpAfterDecline-ProposalVPN907-EN.dc.html",
+  "iPad-Connect-Landscape-FirstConnectPrompt-ProposalVPN907-EN.dc.html",
+  "iPad-Connect-Landscape-HelpAfterDecline-ProposalVPN907-EN.dc.html",
+  "iPad-Connect-Portrait-FirstConnectPrompt-ProposalVPN907-AR.dc.html",
+  "iPad-Connect-Portrait-HelpAfterDecline-ProposalVPN907-AR.dc.html",
+  "iPad-Connect-Landscape-FirstConnectPrompt-ProposalVPN907-AR.dc.html",
+  "iPad-Connect-Landscape-HelpAfterDecline-ProposalVPN907-AR.dc.html",
+  "Mac-Connect-FirstConnectPrompt-ProposalVPN907-EN.dc.html",
+  "Mac-Connect-HelpAfterDecline-ProposalVPN907-EN.dc.html",
+  "Mac-Connect-FirstConnectPrompt-ProposalVPN907-AR.dc.html",
+  "Mac-Connect-HelpAfterDecline-ProposalVPN907-AR.dc.html"
  ],
  "notes": {
   "iphone-Splash": {
@@ -1850,15 +1994,6 @@
    "maxW": 1800,
    "page": "iphone"
   },
-  "iphone-proposal": {
-   "x": 0,
-   "y": 18776,
-   "text": "Proposal — none at this commit. New proposals go here, below the approved block.",
-   "w": 900,
-   "page": "iphone",
-   "size": "l",
-   "fill": "orange"
-  },
   "ipad-Splash": {
    "x": 0,
    "y": 100,
@@ -1955,15 +2090,6 @@
    "page": "ipad",
    "size": "l",
    "fill": "green"
-  },
-  "ipad-proposal": {
-   "x": 1000,
-   "y": 18510,
-   "text": "Proposal — none at this commit.",
-   "w": 900,
-   "page": "ipad",
-   "size": "l",
-   "fill": "orange"
   },
   "mac-FirstLaunch": {
    "x": 0,
@@ -2142,6 +2268,162 @@
    "size": "m",
    "fill": "orange",
    "text": "VPN-809 — every other place that changes because of these proposals (not drawn; no new text):\n• First launch (Welcome, VPN permission, Permission denied): this is the same main window at 480 × 640, so it also has no title bar. The window buttons sit on its BrandBackground, top left. The current frames draw no title bar, so they stay.\n• Paywall, Report, FAQ and document sheets: sheets have no title bar. No change. From Settings they now open on the same window (before, Settings sent them to the main window).\n• Menu bar panel: its gear opens the main window with Settings shown. The panel and its connect control stay as approved.\n• App menu 'Settings…' (Command-comma): shows Settings in the main window. The Window menu no longer lists a 'Settings' window.\n• Show in Dock off (VPN-795): Settings is reached from the panel gear and the window gear, both in the main window now. The VPN-795 note above says 'toolbar gear'; read 'window gear'.\n• Connect / Disconnect from the keyboard: Command-Return (Connection menu) only; the Connect pill and its shortcut are gone.\n• Mac store screenshots and the Mac checks (code, not design): MacShoot draws a 'settings' scene as its own window, and MacActionCheck looks for a window titled 'Settings'. Owner: SecurefieldiOS, in the build task.\n• Not changed: the iPhone and iPad pages, the menu bar panel frames, the paywall canvas."
+  },
+  "vpn907-iphone-block": {
+   "x": 0,
+   "y": 18776,
+   "text": "Proposal — VPN-907 · Connect opens the iOS prompt directly; help only after a decline",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn907-iphone-row": {
+   "x": 0,
+   "y": 18976,
+   "text": "Proposal — VPN-907 · Connect, first press and decline (1 prompt, 2 help)",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn907-iphone-flow": {
+   "x": 1920,
+   "y": 19276,
+   "text": "iPhone flow (and iPad, same app):\n1 First Connect: iOS shows its prompt at once. No screen of ours comes before it. This is how the app works today; it stays.\n2 Don't Allow: the help sheet opens over Main. NEW. It replaces today's system alert \"VPN configuration not added\" (Try again / OK, MainScreen.VPNPermissionAlerts).\n3 Try again: the sheet closes, then the app asks again, and iOS shows its prompt over Main (= frame 1). Allow → Connecting (current frame \"Main · connecting\"). Don't Allow again → the help sheet again.\n4 ✕: the sheet closes. Back to Main, \"Tap to connect\" (current frame \"Main · disconnected, free user\"). The next Connect asks again. Nothing is remembered from a decline.\n5 A management profile can block new VPN configurations; then iOS shows no prompt and the press ends as a decline. The last line of the help says where to look.\nNot changed: the 20-second alert \"Could not start the connection\" (VPN-342).\nReplaces: the system alert above. It has no frame on this canvas, so no current frame goes away on the iPhone and iPad pages.",
+   "page": "iphone",
+   "w": 900,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907-iphone-texts": {
+   "x": 2900,
+   "y": 19276,
+   "text": "Texts — EN | AR. (app) = already in the app (Localizable.xcstrings), same EN and AR. (new) = new text. (system) = text of iOS or macOS, not ours.\nHelp after a decline, iPhone and iPad:\n• VPN configuration not added | لم تتم إضافة إعداد VPN (app: VPN_PERMISSION.DENIED_TITLE)\n• Securefield can't connect without a VPN configuration. Tap Try again and choose Allow. | لا يمكن لـ Securefield الاتصال بدون إعداد VPN. اضغط «حاول مرة أخرى» واختر «سماح». (app: perm.deniedBody)\n• The system window looks like this: | تظهر نافذة النظام هكذا: (new)\n• 1 Tap Allow in the system window | اضغط «سماح» في نافذة النظام (app: perm.step1.ios)\n• 2 Confirm with Face ID, Touch ID or your passcode | أكّد بـ Face ID أو Touch ID أو رمز الدخول (app: perm.step2.ios)\n• 3 Securefield connects. Nothing else to set up | يتصل Securefield. لا يلزم أي إعداد آخر (app: perm.step3)\n• If the iOS window doesn't appear, new VPN configurations may be blocked on this device; see Settings › General › VPN & Device Management. | إذا لم تظهر نافذة iOS، فقد تكون إضافة إعدادات VPN جديدة محظورة على هذا الجهاز؛ راجع الإعدادات › عام › VPN وإدارة الجهاز. (new: the second half of VPN_PERMISSION.DENIED_MESSAGE as its own line)\n• Try again | حاول مرة أخرى (app: VPN_PERMISSION.TRY_AGAIN)\n• ✕ = Close, as on the Report sheet (no visible text).\nHelp after a decline, Mac:\n• VPN configuration not added | لم تتم إضافة إعداد VPN (app: perm.deniedTitle)\n• Securefield can't connect without a VPN configuration. Click Try again and choose Allow. | لا يمكن لـ Securefield الاتصال بدون إعداد VPN. انقر «حاول مرة أخرى» واختر «سماح». (new: Mac wording; perm.deniedBody says \"Tap\")\n• The system window looks like this: | تظهر نافذة النظام هكذا: (new, the same text as above)\n• 1 Click Allow in the macOS window | انقر «سماح» في نافذة macOS (app: perm.step1.mac)\n• 2 Confirm with Touch ID or your Mac password | أكّد بـ Touch ID أو كلمة مرور جهاز Mac (app: perm.step2.mac)\n• Try again | حاول مرة أخرى (app: perm.tryAgain)\n• Open System Settings | فتح إعدادات النظام (app: perm.openSettings)\n• Not now | ليس الآن (app text: CONNECTION_RATING.SKIP; new on the Mac)\nSystem prompt (system; stand-in until the real screenshot, AR wording to confirm from it):\n• “Securefield VPN” Would Like to Add VPN Configurations | يريد “Securefield VPN” إضافة إعدادات VPN\n• All network activity on this iPhone (iPad, Mac) may be filtered or monitored when using VPN. | قد تتم تصفية كل نشاط الشبكة على هذا الـ iPhone (iPad، Mac) أو مراقبته عند استخدام VPN.\n• Don’t Allow | عدم السماح   • Allow | سماح\nNo longer shown: perm.title, perm.body.mac, perm.step3 on the Mac, perm.continue (the Mac step before the prompt) and VPN_PERMISSION.DENIED_MESSAGE (the iPhone and iPad alert). The keys can stay.",
+   "page": "iphone",
+   "w": 1300,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907-iphone-picture": {
+   "x": 4280,
+   "y": 19276,
+   "text": "The prompt picture. The board asked for the real iOS prompt picture. No screenshot of it is on the runner, and the runner may not open Apple pages. So every prompt in these frames (over the screens and inside the help) is a STAND-IN drawing in the dark look. Before the build, SecurefieldiOS takes the real prompt on SecureField's own test devices (iPhone, iPad and Mac), EN and AR, and the help uses a crop of it as an image asset (Assets › Images, one per platform and language). I then swap the drawing for the crop on this canvas. The green ring around Allow is ours (lightGreen #35DF91, 2.5 px, radius 12), drawn over the crop.\n\nTokens and components: GradientBackground; the Report sheet (iPhone radius 40/40/60/60, iPad form sheet radius 12); GradientBorderCard (iceBlue, radius 18, border gradient); the PermissionView step circles (darkBlue #0073C5, 26 pt, white bold); text lightGray #D1DCEA and white; RadialGradientButton green; Mac: PrimaryButtonStyle (#33A9FE → #1EB972), links lightGreen. No new token. New component: PromptPicture (card + crop of the system prompt + ring on Allow).\nContrast: white on darkBlue 4.93:1; lightGray on the card 7.72:1; lightGreen on the background 9.25:1. Below 4.5:1, kept exact because they are the app's own buttons: white on the green button 2.37:1, white on the Mac button 2.55:1 (see Proposals on VPN-907).",
+   "page": "iphone",
+   "w": 900,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907-iphone-mark": {
+   "x": 6620,
+   "y": 5936,
+   "text": "Proposal — VPN-907 (below): after Don't Allow, a help sheet opens over Main. It replaces the system alert \"VPN configuration not added\" (not drawn on this canvas). These Main frames stay.",
+   "page": "iphone",
+   "w": 700,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907-ipad-block": {
+   "x": 0,
+   "y": 18810,
+   "text": "Proposal — VPN-907 · Connect opens the iPadOS prompt directly; help only after a decline",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn907-ipad-row": {
+   "x": 0,
+   "y": 19010,
+   "text": "Proposal — VPN-907 · Connect, first press and decline (portrait, landscape)",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn907-ipad-flow": {
+   "x": 8856,
+   "y": 19310,
+   "text": "iPad: the same flow as the iPhone (see the iPhone page): 1 Connect → iPadOS prompt at once; 2 Don't Allow → help sheet; Try again closes the sheet and asks again (= frame 1); ✕ → back to Main, \"Tap to connect\".\nSheet: a form sheet 580 pt wide, as the Report sheet. It is 760 pt high (Report: 658), because the help has more lines; in landscape it still fits between the status bar and the home indicator. Type × 1.3 (Theme.typography on a tablet). The prompt picture is not scaled.\nReplaces: the system alert \"VPN configuration not added\" (no frame on this canvas). The Main frames stay.",
+   "page": "ipad",
+   "w": 900,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907-ipad-texts": {
+   "x": 9836,
+   "y": 19310,
+   "text": "Texts — EN | AR. (app) = already in the app (Localizable.xcstrings), same EN and AR. (new) = new text. (system) = text of iOS or macOS, not ours.\nHelp after a decline, iPhone and iPad:\n• VPN configuration not added | لم تتم إضافة إعداد VPN (app: VPN_PERMISSION.DENIED_TITLE)\n• Securefield can't connect without a VPN configuration. Tap Try again and choose Allow. | لا يمكن لـ Securefield الاتصال بدون إعداد VPN. اضغط «حاول مرة أخرى» واختر «سماح». (app: perm.deniedBody)\n• The system window looks like this: | تظهر نافذة النظام هكذا: (new)\n• 1 Tap Allow in the system window | اضغط «سماح» في نافذة النظام (app: perm.step1.ios)\n• 2 Confirm with Face ID, Touch ID or your passcode | أكّد بـ Face ID أو Touch ID أو رمز الدخول (app: perm.step2.ios)\n• 3 Securefield connects. Nothing else to set up | يتصل Securefield. لا يلزم أي إعداد آخر (app: perm.step3)\n• If the iOS window doesn't appear, new VPN configurations may be blocked on this device; see Settings › General › VPN & Device Management. | إذا لم تظهر نافذة iOS، فقد تكون إضافة إعدادات VPN جديدة محظورة على هذا الجهاز؛ راجع الإعدادات › عام › VPN وإدارة الجهاز. (new: the second half of VPN_PERMISSION.DENIED_MESSAGE as its own line)\n• Try again | حاول مرة أخرى (app: VPN_PERMISSION.TRY_AGAIN)\n• ✕ = Close, as on the Report sheet (no visible text).\nHelp after a decline, Mac:\n• VPN configuration not added | لم تتم إضافة إعداد VPN (app: perm.deniedTitle)\n• Securefield can't connect without a VPN configuration. Click Try again and choose Allow. | لا يمكن لـ Securefield الاتصال بدون إعداد VPN. انقر «حاول مرة أخرى» واختر «سماح». (new: Mac wording; perm.deniedBody says \"Tap\")\n• The system window looks like this: | تظهر نافذة النظام هكذا: (new, the same text as above)\n• 1 Click Allow in the macOS window | انقر «سماح» في نافذة macOS (app: perm.step1.mac)\n• 2 Confirm with Touch ID or your Mac password | أكّد بـ Touch ID أو كلمة مرور جهاز Mac (app: perm.step2.mac)\n• Try again | حاول مرة أخرى (app: perm.tryAgain)\n• Open System Settings | فتح إعدادات النظام (app: perm.openSettings)\n• Not now | ليس الآن (app text: CONNECTION_RATING.SKIP; new on the Mac)\nSystem prompt (system; stand-in until the real screenshot, AR wording to confirm from it):\n• “Securefield VPN” Would Like to Add VPN Configurations | يريد “Securefield VPN” إضافة إعدادات VPN\n• All network activity on this iPhone (iPad, Mac) may be filtered or monitored when using VPN. | قد تتم تصفية كل نشاط الشبكة على هذا الـ iPhone (iPad، Mac) أو مراقبته عند استخدام VPN.\n• Don’t Allow | عدم السماح   • Allow | سماح\nNo longer shown: perm.title, perm.body.mac, perm.step3 on the Mac, perm.continue (the Mac step before the prompt) and VPN_PERMISSION.DENIED_MESSAGE (the iPhone and iPad alert). The keys can stay.",
+   "page": "ipad",
+   "w": 1300,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907-ipad-picture": {
+   "x": 11216,
+   "y": 19310,
+   "text": "The prompt picture. The board asked for the real iOS prompt picture. No screenshot of it is on the runner, and the runner may not open Apple pages. So every prompt in these frames (over the screens and inside the help) is a STAND-IN drawing in the dark look. Before the build, SecurefieldiOS takes the real prompt on SecureField's own test devices (iPhone, iPad and Mac), EN and AR, and the help uses a crop of it as an image asset (Assets › Images, one per platform and language). I then swap the drawing for the crop on this canvas. The green ring around Allow is ours (lightGreen #35DF91, 2.5 px, radius 12), drawn over the crop.\n\nTokens and components: GradientBackground; the Report sheet (iPhone radius 40/40/60/60, iPad form sheet radius 12); GradientBorderCard (iceBlue, radius 18, border gradient); the PermissionView step circles (darkBlue #0073C5, 26 pt, white bold); text lightGray #D1DCEA and white; RadialGradientButton green; Mac: PrimaryButtonStyle (#33A9FE → #1EB972), links lightGreen. No new token. New component: PromptPicture (card + crop of the system prompt + ring on Allow).\nContrast: white on darkBlue 4.93:1; lightGray on the card 7.72:1; lightGreen on the background 9.25:1. Below 4.5:1, kept exact because they are the app's own buttons: white on the green button 2.37:1, white on the Mac button 2.55:1 (see Proposals on VPN-907).",
+   "page": "ipad",
+   "w": 900,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907-ipad-mark": {
+   "x": 17672,
+   "y": 6840,
+   "text": "Proposal — VPN-907 (below): after Don't Allow, a help sheet opens over Main. It replaces the system alert \"VPN configuration not added\" (not drawn on this canvas). These Main frames stay.",
+   "page": "ipad",
+   "w": 700,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907-mac-block": {
+   "x": 0,
+   "y": 12178,
+   "text": "Proposal — VPN-907 · Mac: no step before the macOS prompt; help only after a decline",
+   "page": "mac",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn907-mac-row": {
+   "x": 0,
+   "y": 12378,
+   "text": "Proposal — VPN-907 · Connect, first press and decline (1 prompt, 2 help)",
+   "page": "mac",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn907-mac-flow": {
+   "x": 3164,
+   "y": 12678,
+   "text": "Mac flow:\n1 First launch: Welcome (privacy, current frame, no change) → the main window. The step \"Allow the VPN configuration\" is REMOVED: no screen of ours before the prompt.\n2 First Connect: macOS shows its prompt over the main window. The Mac is premium only: a free user's Connect opens the paywall first, as today, so the prompt comes at the first Connect after premium. The frame shows a premium user (crowns, no Get Premium card).\n3 Don't Allow: the window shows the help. It replaces \"First launch · permission denied\". Try again → the macOS prompt again. Open System Settings → the VPN page, as today. Not now (NEW) → the main window, Connect; the next Connect asks again.\nToday the Mac asks for the permission from the first-launch step, before premium (MacRootView.requestPermission). After this change it asks from Connect (MacLive.toggle).\nThe frames use today's main window. If the board approves VPN-809 (window without top bar), the prompt sits over that window form; nothing else changes.\nReplaces: Mac \"First launch · VPN permission\" EN and AR (removed) and \"First launch · permission denied\" EN and AR (replaced by frame 2).",
+   "page": "mac",
+   "w": 900,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907-mac-texts": {
+   "x": 4144,
+   "y": 12678,
+   "text": "Texts — EN | AR. (app) = already in the app (Localizable.xcstrings), same EN and AR. (new) = new text. (system) = text of iOS or macOS, not ours.\nHelp after a decline, iPhone and iPad:\n• VPN configuration not added | لم تتم إضافة إعداد VPN (app: VPN_PERMISSION.DENIED_TITLE)\n• Securefield can't connect without a VPN configuration. Tap Try again and choose Allow. | لا يمكن لـ Securefield الاتصال بدون إعداد VPN. اضغط «حاول مرة أخرى» واختر «سماح». (app: perm.deniedBody)\n• The system window looks like this: | تظهر نافذة النظام هكذا: (new)\n• 1 Tap Allow in the system window | اضغط «سماح» في نافذة النظام (app: perm.step1.ios)\n• 2 Confirm with Face ID, Touch ID or your passcode | أكّد بـ Face ID أو Touch ID أو رمز الدخول (app: perm.step2.ios)\n• 3 Securefield connects. Nothing else to set up | يتصل Securefield. لا يلزم أي إعداد آخر (app: perm.step3)\n• If the iOS window doesn't appear, new VPN configurations may be blocked on this device; see Settings › General › VPN & Device Management. | إذا لم تظهر نافذة iOS، فقد تكون إضافة إعدادات VPN جديدة محظورة على هذا الجهاز؛ راجع الإعدادات › عام › VPN وإدارة الجهاز. (new: the second half of VPN_PERMISSION.DENIED_MESSAGE as its own line)\n• Try again | حاول مرة أخرى (app: VPN_PERMISSION.TRY_AGAIN)\n• ✕ = Close, as on the Report sheet (no visible text).\nHelp after a decline, Mac:\n• VPN configuration not added | لم تتم إضافة إعداد VPN (app: perm.deniedTitle)\n• Securefield can't connect without a VPN configuration. Click Try again and choose Allow. | لا يمكن لـ Securefield الاتصال بدون إعداد VPN. انقر «حاول مرة أخرى» واختر «سماح». (new: Mac wording; perm.deniedBody says \"Tap\")\n• The system window looks like this: | تظهر نافذة النظام هكذا: (new, the same text as above)\n• 1 Click Allow in the macOS window | انقر «سماح» في نافذة macOS (app: perm.step1.mac)\n• 2 Confirm with Touch ID or your Mac password | أكّد بـ Touch ID أو كلمة مرور جهاز Mac (app: perm.step2.mac)\n• Try again | حاول مرة أخرى (app: perm.tryAgain)\n• Open System Settings | فتح إعدادات النظام (app: perm.openSettings)\n• Not now | ليس الآن (app text: CONNECTION_RATING.SKIP; new on the Mac)\nSystem prompt (system; stand-in until the real screenshot, AR wording to confirm from it):\n• “Securefield VPN” Would Like to Add VPN Configurations | يريد “Securefield VPN” إضافة إعدادات VPN\n• All network activity on this iPhone (iPad, Mac) may be filtered or monitored when using VPN. | قد تتم تصفية كل نشاط الشبكة على هذا الـ iPhone (iPad، Mac) أو مراقبته عند استخدام VPN.\n• Don’t Allow | عدم السماح   • Allow | سماح\nNo longer shown: perm.title, perm.body.mac, perm.step3 on the Mac, perm.continue (the Mac step before the prompt) and VPN_PERMISSION.DENIED_MESSAGE (the iPhone and iPad alert). The keys can stay.",
+   "page": "mac",
+   "w": 1300,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907-mac-picture": {
+   "x": 5524,
+   "y": 12678,
+   "text": "The prompt picture. The board asked for the real iOS prompt picture. No screenshot of it is on the runner, and the runner may not open Apple pages. So every prompt in these frames (over the screens and inside the help) is a STAND-IN drawing in the dark look. Before the build, SecurefieldiOS takes the real prompt on SecureField's own test devices (iPhone, iPad and Mac), EN and AR, and the help uses a crop of it as an image asset (Assets › Images, one per platform and language). I then swap the drawing for the crop on this canvas. The green ring around Allow is ours (lightGreen #35DF91, 2.5 px, radius 12), drawn over the crop.\n\nTokens and components: GradientBackground; the Report sheet (iPhone radius 40/40/60/60, iPad form sheet radius 12); GradientBorderCard (iceBlue, radius 18, border gradient); the PermissionView step circles (darkBlue #0073C5, 26 pt, white bold); text lightGray #D1DCEA and white; RadialGradientButton green; Mac: PrimaryButtonStyle (#33A9FE → #1EB972), links lightGreen. No new token. New component: PromptPicture (card + crop of the system prompt + ring on Allow).\nContrast: white on darkBlue 4.93:1; lightGray on the card 7.72:1; lightGreen on the background 9.25:1. Below 4.5:1, kept exact because they are the app's own buttons: white on the green button 2.37:1, white on the Mac button 2.55:1 (see Proposals on VPN-907).",
+   "page": "mac",
+   "w": 900,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907-mac-mark": {
+   "x": 3400,
+   "y": 400,
+   "text": "Proposal — VPN-907 (below) replaces two frames of this row: \"VPN permission\" EN and AR are removed (no step before the macOS prompt), and \"permission denied\" EN and AR are replaced by the help after a decline. Welcome stays.",
+   "page": "mac",
+   "w": 700,
+   "size": "m",
+   "fill": "orange"
   }
  }
 }
