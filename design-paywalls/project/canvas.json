@@ -1055,6 +1055,70 @@
    "h": 640,
    "page": "mac",
    "title": "HOME_TOP_LEFT_PREMIUM · purchase message — off-screen render, local build, sample plans · AR · app screenshot"
+  },
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-PlansLoaded-EN.dc.html": {
+   "x": 0,
+   "y": 40705,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-873 · BLACK_FRIDAY · plans loaded (Monthly, com.monthlyTrialMembership) · EN · drawn for Adapty Paywall Builder"
+  },
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-Loading-EN.dc.html": {
+   "x": 482,
+   "y": 40705,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-873 · BLACK_FRIDAY · loading, up to 8 s after the tap (390 × 844, over the main screen) · EN · app's loading box: needs an iOS change; today nothing shows"
+  },
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-LoadFailed-EN.dc.html": {
+   "x": 952,
+   "y": 40705,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-873 · BLACK_FRIDAY · load failed (no product or no layout in 8 s) → the app's Premium screen, HOME_TOP_LEFT_PREMIUM plans · EN · app screenshot, no change"
+  },
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-PlansLoaded-AR.dc.html": {
+   "x": 1434,
+   "y": 40705,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-873 · BLACK_FRIDAY · plans loaded (Monthly, com.monthlyTrialMembership) · AR · drawn for Adapty Paywall Builder"
+  },
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-Loading-AR.dc.html": {
+   "x": 1916,
+   "y": 40705,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-873 · BLACK_FRIDAY · loading, up to 8 s after the tap (390 × 844, over the main screen) · AR · app's loading box: needs an iOS change; today nothing shows"
+  },
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-LoadFailed-AR.dc.html": {
+   "x": 2386,
+   "y": 40705,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-873 · BLACK_FRIDAY · load failed (no product or no layout in 8 s) → the app's Premium screen, HOME_TOP_LEFT_PREMIUM plans · AR · app screenshot, no change"
+  },
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-ChoiceYearlyOffer-EN.dc.html": {
+   "x": 0,
+   "y": 42229,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-873 · BLACK_FRIDAY · choice for the card, not the default: Yearly with its promotional first-year price (com.yearlyMembership) · EN"
+  },
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-ChoiceYearlyOffer-AR.dc.html": {
+   "x": 482,
+   "y": 42229,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-873 · BLACK_FRIDAY · choice for the card, not the default: Yearly with its promotional first-year price (com.yearlyMembership) · AR"
   }
  },
  "order": [
@@ -1186,7 +1250,15 @@
   "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-PlansLoaded-AR.dc.html",
   "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-Loading-AR.dc.html",
   "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-LoadFailed-AR.dc.html",
-  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-PurchaseMessage-AR.dc.html"
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-PurchaseMessage-AR.dc.html",
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-PlansLoaded-EN.dc.html",
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-Loading-EN.dc.html",
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-LoadFailed-EN.dc.html",
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-PlansLoaded-AR.dc.html",
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-Loading-AR.dc.html",
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-LoadFailed-AR.dc.html",
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-ChoiceYearlyOffer-EN.dc.html",
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-ChoiceYearlyOffer-AR.dc.html"
  ],
  "notes": {
   "pay-001": {
@@ -1927,6 +1999,58 @@
    "y": 530,
    "text": "Plans loaded: app screenshot. Loading, load failed and purchase message: an off-screen render of the app's own paywall view from a local build (not the store app). The purchase message uses the render's sample plans ($47.99 / year with a 3-day trial, $7.99 / month).",
    "page": "mac",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "vpn873-01": {
+   "x": 0,
+   "y": 39425,
+   "text": "Proposal — VPN-873 — BLACK_FRIDAY · Adapty paywall “Black Friday”, redesigned at the app's quality (for Black Friday, 2026-11-27)",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 3800
+  },
+  "vpn873-02": {
+   "x": 0,
+   "y": 39555,
+   "text": "What changes. The Adapty template (“Design your life…”, Terms and Privacy to google.com) is replaced by a paywall in the app's own look: the Premium screen's background, header, crown, plan card, Continue button and legal links (design system: GradientBackground, PaywallChrome, PremiumCard, RadioButton, RadialGradientButton, PremiumPopUp feature rows, PremiumMark). Built by the operator in Adapty's Paywall Builder; no app release for the default.\n\nProduct: com.monthlyTrialMembership (Monthly Trial, 1 month). It has no trial and no offer in App Store Connect, so the default sells the normal monthly price. Nothing on it is a Black Friday discount. A discounted choice is in the second row.\nPrices: never typed. [price] = the App Store price of the product, filled by Adapty in the user's currency. [offer price] = the promotional offer's price. The dashed line marks a price slot; it is not drawn in the paywall.\n\nStates (iPhone):\n• Plans loaded: the Adapty paywall. Drawn from tokens.json.\n• Loading: after the tap, the app loads placement, product and layout for up to 8 s. Today nothing shows in that time: the user sees the screen they were on. The frame shows the app's own loading box (LoadingOverlay: black 60 %, 75 × 75 box #3A3F46, radius 15, spinner #5AAD79) over the main screen. This part needs a small iOS change (see Proposals on VPN-873). Frame size 390 × 844, from the screen canvas's main screen.\n• Load failed (no product, no layout, or over 8 s): the app's own Premium screen with the HOME_TOP_LEFT_PREMIUM plans (Monthly, Yearly, Weekly). No Black Friday text. App screenshots, no change. Arabic: the same screen from the HOME_TOP_LEFT_PREMIUM row.\n\nNot shown: premium users (no paywall), a push tapped more than 15 days after it arrived (opens only the app).",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "vpn873-03": {
+   "x": 1880,
+   "y": 39555,
+   "text": "Texts — EN | AR. Each needs the board's approval on the card. “app” = the text is already in the app (Localizable.xcstrings), same EN and AR.\n• Restore | استعادة (app)\n• BLACK FRIDAY | الجمعة البيضاء (new). AR is “White Friday”: the name most Gulf stores use, because Friday is a holy day. Choice: الجمعة السوداء (“Black Friday”).\n• Experience Premium Service | تجربة الخدمة المميزة (app)\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• Monthly | شهري (app)\n• Then [price] / Month | ثم [السعر] / شهر (app)\n• [price] / Month | [السعر] / شهر (app)\n• Continue | متابعة (app)\n• Renews every month at [price] until you cancel. | يتجدد كل شهر بسعر [السعر] حتى تلغي الاشتراك. (new)\n• Privacy Policy | سياسة الخصوصية (app) → https://securefieldapp.com/policy\n• Terms of Use | شروط الاستخدام (app) → https://securefieldapp.com/terms\nChoice row only:\n• Yearly | سنوي (app)\n• Then [price] / Year | ثم [السعر] / سنة (app)\n• [offer price] / Year | [سعر العرض] / سنة (app pattern)\n• First year at [offer price], then every year at [price] until you cancel. | السنة الأولى بسعر [سعر العرض]، ثم كل سنة بسعر [السعر] حتى تلغي الاشتراك. (new)\nLegal links: SecureField's website pages (checked 2026-11-16, both open). The site has no “About Subscription” page, so the renewal line under the button says the terms instead.\nArabic today: the app asks Adapty with no language, so an Arabic device shows the English texts, left to right. The AR frames show the design for when the app sends the language (iOS change, see the questions).",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "vpn873-04": {
+   "x": 3760,
+   "y": 39555,
+   "text": "Questions for the Adapty build (operator, through Project Manager):\n1. Fonts: can Paywall Builder use the app's fonts (NAMU-1850 for the title, plan name and button; Red Hat Display for the rest)? Files: design-system/project/fonts. If not: the system font.\n2. Background: the gradient #172231 → #000000 (135°) with World-Map.png blended as “overlay”. If the builder has no blend mode, I can give one flat background image.\n3. Plan card: fill #82B3F2 at 20 %, radius 24, 1 pt border in the orange radial gradient (#FAC762 → #E59807), orange radio dot. If the builder allows only a solid border: #FAC762.\n4. Continue: green radial gradient (#35DF91 → #198F57), radius 24, 333.7 × 71.9 pt. If no radial gradient: linear 135° with the same colours.\n5. Images: crown Logos/Premium.png (180 pt), feature icons Icons/Speed.svg, World.svg, Protection.svg, Done.svg (the builder may need PNG).\n6. Arabic: does the builder mirror the layout for Arabic (close on the right, radio on the left)? And the app must send the language: does SecurefieldiOS add it before 11-24? If not, Arabic users see the English texts on 11-27.\n7. Choice row only: can a Paywall Builder paywall show and apply a promotional offer (com.yearlyMembership “Securefield_promotional_yearly_%50OFF”)? Which Adapty offer id is it (599380d9 or 268f5fc3)?\n\niPad: the app never draws an Adapty paywall. A BLACK_FRIDAY push opens the app's own Premium screen with the HOME_TOP_LEFT_PREMIUM plans (Yearly, Monthly, Weekly), no Black Friday text — as the iPad ramadan_2026 push row shows. Mac: no push and no Adapty paywall, so Mac users see nothing of the campaign.\nContrast: every text pair is 4.5:1 or more, except the white Continue label on the green button (2.37:1). That is the app's own button, kept exact; its fix is in the Design System README (Contrast).",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "vpn873-05": {
+   "x": 0,
+   "y": 41979,
+   "text": "Proposal — VPN-873 — BLACK_FRIDAY · choice for the card, not the default: Yearly with its promotional first-year price",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 3800
+  },
+  "vpn873-06": {
+   "x": 0,
+   "y": 42109,
+   "text": "A choice for the board, not the default. Black Friday buyers expect a lower price; the default product (Monthly Trial) has none. This row sells com.yearlyMembership with its existing promotional offer “Securefield_promotional_yearly_%50OFF” (pay up front for the first year; App Store Connect, VPN-731). Same layout and texts; only the card and the renewal line change. Products, prices and offers stay the board's decision. Loading and load failed: as in the row above.",
+   "page": "iphone",
    "w": 1800,
    "size": "m",
    "fill": "gray"
