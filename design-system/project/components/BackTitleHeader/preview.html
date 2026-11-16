@@ -1,0 +1,27 @@
+<!-- @dsCard group="Navigation" height=230 subtitle="Back (mirrors in Arabic) and Down (server list) variants" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>BackTitleHeader — preview</title>
+<style>
+  body { margin:0; min-height:100vh; background:var(--gradient-background); color:var(--text-primary); }
+  .label { color:var(--text-tertiary); padding:10px 16px 4px; }
+  .hdr { --lw:390px; width:var(--lw); height:calc(var(--lw) / 8.93); display:flex; align-items:center; }
+  .side { width:calc(var(--lw) * 0.2); flex:none; box-sizing:border-box; padding-inline-start:20px; }
+  .title { flex:1; text-align:center; }
+  .ic { display:block; width:24px; height:24px; background:var(--icon-primary); -webkit-mask:var(--m) center / contain no-repeat; mask:var(--m) center / contain no-repeat; }
+  .back { --m:url(../../assets/Icons/Back.svg); }
+  .down { --m:url(../../assets/Icons/Down.svg); }
+  [dir="rtl"] .back { transform:scaleX(-1); }
+  .rule { height:0.5px; background:var(--serverListRule); }
+</style></head>
+<body>
+<div class="label Caption">icons/Down — server list (with the 0.5 px rule below)</div>
+<div class="hdr"><div class="side"><span class="ic down"></span></div><div class="title Subtitle1">Server location</div><div class="side"></div></div><div class="rule"></div>
+<div class="label Caption">icons/Back — settings, protocols, report</div>
+<div class="hdr"><div class="side"><span class="ic back"></span></div><div class="title Subtitle1">Settings</div><div class="side"></div></div>
+<div class="label Caption" dir="rtl">العربية — Back mirrors, Down does not</div>
+<div class="hdr" dir="rtl" lang="ar"><div class="side"><span class="ic back"></span></div><div class="title Subtitle1">الإعدادات</div><div class="side"></div></div>
+<div class="hdr" dir="rtl" lang="ar"><div class="side"><span class="ic down"></span></div><div class="title Subtitle1">موقع الخادم</div><div class="side"></div></div>
+</body>
+</html>

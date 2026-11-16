@@ -1,0 +1,81 @@
+<!-- @dsCard group="Paywall" height=860 subtitle="Premium pop-up at 390 × 844: plain and with the server banner; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>PremiumPopUp — preview</title>
+<style>
+  * { box-sizing:border-box; }
+  body { margin:0; background:#000; color:var(--text-primary); display:flex; flex-wrap:wrap; gap:24px; }
+  .screen { --lw:390px; width:390px; height:844px; position:relative; overflow:hidden; background:var(--gradient-background); display:flex; flex-direction:column; }
+  .screen > .map { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; mix-blend-mode:overlay; pointer-events:none; }
+  .top { position:relative; flex:1; display:flex; flex-direction:column; container-type:size; }
+  .band { height:68cqh; justify-content:center; display:flex; flex-direction:column; align-items:center; gap:20px; width:100%; }
+  .band img.logo { width:min(calc(var(--lw) * 0.71), calc(54cqh - 52px)); height:min(calc(var(--lw) * 0.71), calc(54cqh - 52px)); }
+  .hdr { height:44px; padding:0 12px; display:flex; align-items:center; width:100%; }
+  .close { width:64px; height:44px; display:flex; align-items:center; justify-content:center; } .close img { width:24px; height:24px; }
+  .sp { flex:1; } .restore { color:var(--text-secondary); padding:0 8px; }
+  .cards { flex:1; display:flex; flex-direction:column; justify-content:space-around; }
+  .bottom { position:relative; display:flex; flex-direction:column; align-items:center; gap:20px; padding:0 24px 34px; }
+  .btn { display:flex; align-items:center; justify-content:center; font-family:var(--font-namu); font-size:17px; color:var(--text-primary);
+         width:calc(var(--lw) * 0.83); height:calc(var(--lw) * 0.83 / 4.64); border-radius:var(--radius-button);
+         background:var(--gradient-controlGreen); box-shadow:inset 0 0 0 1px rgba(255,255,255,0.1); }
+  .legal { display:flex; justify-content:center; align-items:center; height:17px; white-space:nowrap; font-size:12px; }
+  .legal a { color:var(--text-secondary); } .legal i { font-style:normal; color:var(--separator-primary); padding:0 5px; }
+  .pc { --w:calc(var(--lw) - 24px); margin:0 12px; position:relative; height:calc(var(--w) / 4.76); }
+  .card { position:absolute; inset:0; border-radius:var(--radius-button); background:var(--background-secondary); box-shadow: inset 1px 1px 2px 0 var(--highlight);
+          display:flex; align-items:center; box-sizing:border-box;
+          padding:calc(var(--w) * 0.045) calc(var(--w) * 0.055) calc(var(--w) * 0.034) calc(var(--w) * 0.08); }
+  [dir=rtl] .card { padding:calc(var(--w) * 0.045) calc(var(--w) * 0.08) calc(var(--w) * 0.034) calc(var(--w) * 0.055); }
+  .card::before { content:""; position:absolute; inset:0; border-radius:inherit; padding:1px; background:var(--gradient-border);
+          -webkit-mask:linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite:xor; mask-composite:exclude; pointer-events:none; }
+  .sel .card::before { background:var(--gradient-controlOrange); }
+  .lead { display:flex; flex-direction:column; justify-content:space-between; height:100%; }
+  .lead .Caption { color:var(--text-tertiary); }
+  .sp { flex:1; min-width:8px; }
+  .trail { display:flex; align-items:center; gap:calc(var(--w) * 0.075); }
+  .price { color:var(--text-quaternary); white-space:nowrap; }
+  .r { width:calc((var(--w) / 4.76 - var(--w) * 0.079) * 0.64); height:calc((var(--w) / 4.76 - var(--w) * 0.079) * 0.64); flex:none; display:block; }
+  .tag { position:absolute; top:calc(var(--w) / 4.76 * -0.1735); inset-inline-end:calc(var(--w) * 0.058); height:calc(var(--w) / 4.76 * 0.347);
+         padding:0 12px; box-sizing:border-box; display:flex; align-items:center; border-radius:var(--radius-pill);
+         background:var(--gradient-controlTagBlue); box-shadow:inset 0 0 0 1px rgba(255,255,255,0.1);
+         font-family:var(--font-redhat); font-size:12px; color:var(--text-primary); white-space:nowrap; z-index:1; }
+  .pc { --w:calc(var(--lw) - 24px); }
+
+  .srv .band { gap:8px; }
+  .hl { display:flex; flex-direction:column; align-items:center; width:100%; }
+  .plogo { width:calc(var(--lw) * 0.448); height:calc(var(--lw) * 0.448); } .srv .plogo { width:calc(var(--lw) * 0.2); height:calc(var(--lw) * 0.2); }
+  .body { display:flex; flex-direction:column; align-items:center; gap:32px; width:100%; text-align:center; } .srv .body { gap:16px; }
+  .feats { display:flex; flex-direction:column; align-items:flex-start; gap:8px; }
+  .fi { display:flex; align-items:center; gap:8px; color:var(--text-quaternary); } .fi img { width:24px; height:24px; } .fi img.done { width:20px; height:20px; }
+  .banner { margin:0 24px; align-self:stretch; padding:8px 16px; border-radius:12px; background:var(--background-secondary); box-shadow:inset 0 0 0 1px var(--border-secondary);
+            display:flex; flex-direction:column; gap:4px; } .banner .sub { color:var(--text-tertiary); }
+</style></head>
+<body>
+<svg width="0" height="0" style="position:absolute"><defs>
+  <radialGradient id="o" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="translate(10.8889 5.25) rotate(82.614) scale(28.2343 33.714)"><stop offset="0.22892" stop-color="#fac762"/><stop offset="0.633438" stop-color="#e59807"/></radialGradient>
+  <symbol id="on" viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="url(#o)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></symbol>
+  <symbol id="off" viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="var(--background-secondary)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></symbol>
+</defs></svg>
+<div class="screen" lang="en">
+  <div class="top"><div class="band"><div class="hl"><div class="hdr"><span class="close"><img src="../../assets/Icons/Close.svg" alt=""></span><span class="sp"></span><span class="restore Body1">Restore</span></div><img class="plogo" src="../../assets/Logos/Premium.png" alt=""></div>
+    <div class="body"><div class="H6">Experience Premium Service</div><div class="feats"><div class="fi"><img src="../../assets/Icons/Speed.svg" alt=""><span class="Body1">Ultra-fast connection</span><img class="done" src="../../assets/Icons/Done.svg" alt=""></div><div class="fi"><img src="../../assets/Icons/World.svg" alt=""><span class="Body1">Worldwide locations</span><img class="done" src="../../assets/Icons/Done.svg" alt=""></div><div class="fi"><img src="../../assets/Icons/Protection.svg" alt=""><span class="Body1">Unlimited protection</span><img class="done" src="../../assets/Icons/Done.svg" alt=""></div></div></div></div>
+    <div class="cards"><div class="pc sel"><div class="card"><div class="lead"><span class="Subtitle1">Yearly</span><span class="Caption">Then $39.99 / Year</span></div><span class="sp"></span><div class="trail"><span class="price Body1">$39.99 / Year</span><svg class="r"><use href="#on"/></svg></div></div><span class="tag">Best offer</span></div>
+      <div class="pc"><div class="card"><div class="lead"><span class="Subtitle1">Monthly</span><span class="Caption">Then $9.99 / Month</span></div><span class="sp"></span><div class="trail"><span class="price Body1">$9.99 / Month</span><svg class="r"><use href="#off"/></svg></div></div></div></div></div>
+  <div class="bottom"><div class="btn">Continue</div><div class="legal Caption"><a>Privacy Policy</a><i>•</i><a>Terms of Use</a><i>•</i><a>About Subscription</a></div></div>
+</div>
+<div class="screen srv" lang="en">
+  <div class="top"><div class="band"><div class="hl"><div class="hdr"><span class="close"><img src="../../assets/Icons/Close.svg" alt=""></span><span class="sp"></span><span class="restore Body1">Restore</span></div><img class="plogo" src="../../assets/Logos/Premium.png" alt=""></div>
+    <div class="body"><div class="banner"><div class="Body2">United States needs Premium.</div><div class="Caption sub">Subscribe to connect to this server.</div></div><div class="H6">Experience Premium Service</div><div class="feats"><div class="fi"><img src="../../assets/Icons/Speed.svg" alt=""><span class="Body1">Ultra-fast connection</span><img class="done" src="../../assets/Icons/Done.svg" alt=""></div><div class="fi"><img src="../../assets/Icons/World.svg" alt=""><span class="Body1">Worldwide locations</span><img class="done" src="../../assets/Icons/Done.svg" alt=""></div><div class="fi"><img src="../../assets/Icons/Protection.svg" alt=""><span class="Body1">Unlimited protection</span><img class="done" src="../../assets/Icons/Done.svg" alt=""></div></div></div></div>
+    <div class="cards"><div class="pc sel"><div class="card"><div class="lead"><span class="Subtitle1">Yearly</span><span class="Caption">Then $39.99 / Year</span></div><span class="sp"></span><div class="trail"><span class="price Body1">$39.99 / Year</span><svg class="r"><use href="#on"/></svg></div></div><span class="tag">Best offer</span></div>
+      <div class="pc"><div class="card"><div class="lead"><span class="Subtitle1">Monthly</span><span class="Caption">Then $9.99 / Month</span></div><span class="sp"></span><div class="trail"><span class="price Body1">$9.99 / Month</span><svg class="r"><use href="#off"/></svg></div></div></div></div></div>
+  <div class="bottom"><div class="btn">Continue</div><div class="legal Caption"><a>Privacy Policy</a><i>•</i><a>Terms of Use</a><i>•</i><a>About Subscription</a></div></div>
+</div>
+<div class="screen srv" dir="rtl" lang="ar">
+  <div class="top"><div class="band"><div class="hl"><div class="hdr"><span class="close"><img src="../../assets/Icons/Close.svg" alt=""></span><span class="sp"></span><span class="restore Body1">استعادة</span></div><img class="plogo" src="../../assets/Logos/Premium.png" alt=""></div>
+    <div class="body"><div class="banner"><div class="Body2">الولايات المتحدة يتطلب اشتراك Premium.</div><div class="Caption sub">اشترك للاتصال بهذا الخادم.</div></div><div class="H6">تجربة الخدمة المميزة</div><div class="feats"><div class="fi"><img src="../../assets/Icons/Speed.svg" alt=""><span class="Body1">اتصال فائق السرعة</span><img class="done" src="../../assets/Icons/Done.svg" alt=""></div><div class="fi"><img src="../../assets/Icons/World.svg" alt=""><span class="Body1">مواقع عالمية</span><img class="done" src="../../assets/Icons/Done.svg" alt=""></div><div class="fi"><img src="../../assets/Icons/Protection.svg" alt=""><span class="Body1">حماية غير محدودة</span><img class="done" src="../../assets/Icons/Done.svg" alt=""></div></div></div></div>
+    <div class="cards"><div class="pc sel"><div class="card"><div class="lead"><span class="Subtitle1">سنوي</span><span class="Caption">ثم $39.99 / سنة</span></div><span class="sp"></span><div class="trail"><span class="price Body1">$39.99 / سنة</span><svg class="r"><use href="#on"/></svg></div></div><span class="tag">أفضل عرض</span></div>
+      <div class="pc"><div class="card"><div class="lead"><span class="Subtitle1">شهري</span><span class="Caption">ثم $9.99 / شهر</span></div><span class="sp"></span><div class="trail"><span class="price Body1">$9.99 / شهر</span><svg class="r"><use href="#off"/></svg></div></div></div></div></div>
+  <div class="bottom"><div class="btn">متابعة</div><div class="legal Caption"><a>سياسة الخصوصية</a><i>•</i><a>شروط الاستخدام</a><i>•</i><a>حول الاشتراك</a></div></div>
+</div>
+</body>
+</html>

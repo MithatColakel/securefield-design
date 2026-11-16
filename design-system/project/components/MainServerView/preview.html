@@ -1,0 +1,27 @@
+<!-- @dsCard group="Main screen" height=330 subtitle="Bottom panel with the selected server; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>MainServerView — preview</title>
+<style>
+  body { margin:0; min-height:100vh; background:var(--gradient-background); color:var(--text-primary); }
+  .label { color:var(--text-tertiary); padding:10px 16px 4px; }
+  .panel { --lw:390px; width:var(--lw); height:calc(var(--lw) / 3.15); box-sizing:border-box; padding-top:12px; position:relative;
+           display:flex; flex-direction:column; align-items:center; gap:20px;
+           background:var(--background-secondary); border-radius:var(--radius-gradientCard) var(--radius-gradientCard) 0 0; box-shadow:inset 1px 1px 2px 0 rgba(255,255,255,0.25); }
+  .panel::before { content:""; position:absolute; inset:0; border-radius:inherit; padding:1px; background:var(--gradient-border);
+           -webkit-mask:linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite:xor; mask-composite:exclude; }
+  .grab { width:60px; height:4px; border-radius:var(--radius-grabber); background:var(--background-indicator); box-shadow:var(--shadow-grabber); flex:none; }
+  .row { flex:1; display:flex; align-items:center; padding:0 28px; width:100%; box-sizing:border-box; }
+  .srv { width:calc((var(--lw) - 56px) * 0.8); display:flex; align-items:center; gap:20px; min-width:0; }
+  .srv img { width:35px; height:35px; flex:none; }
+  .srv span { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; color:var(--text-primary); }
+  .chg { width:calc((var(--lw) - 56px) * 0.2); text-align:center; color:var(--text-secondary); white-space:nowrap; }
+</style></head>
+<body>
+<div class="label Caption">bottom safe-area inset 0 (the app adds the device inset below the row)</div>
+<div class="panel"><div class="grab"></div><div class="row"><div class="srv"><img src="../../assets/Flags/DE.svg" alt=""><span class="Body1">Germany</span></div><div class="chg Body2">Change</div></div></div>
+<div class="label Caption" dir="rtl">العربية</div>
+<div class="panel" dir="rtl" lang="ar"><div class="grab"></div><div class="row"><div class="srv"><img src="../../assets/Flags/GB.svg" alt=""><span class="Body1">المملكة المتحدة</span></div><div class="chg Body2">تغيير</div></div></div>
+</body>
+</html>

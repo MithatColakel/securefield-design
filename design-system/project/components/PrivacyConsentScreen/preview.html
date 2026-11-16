@@ -1,0 +1,36 @@
+<!-- @dsCard group="Launch" height=880 subtitle="Privacy consent at 390 × 844 (first run); English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>PrivacyConsentScreen — preview</title>
+<style>
+  * { box-sizing:border-box; }
+  body { margin:0; background:#000; color:var(--text-primary); display:flex; flex-wrap:wrap; gap:24px; }
+  .screen { --lw:390px; --avail:calc(844px - 34px); width:390px; height:844px; overflow:hidden; background:var(--gradient-background); display:flex; flex-direction:column; }
+  .top { flex:none; margin-top:14px; height:calc(var(--avail) * 4.75 / 5.75); display:flex; flex-direction:column; align-items:center; gap:20px; }
+  .top > img { width:calc(var(--lw) * 0.27); height:calc(var(--lw) * 0.27); flex:none; }
+  .title { padding:0 24px; text-align:center; flex:none; }
+  .box { flex:1; min-height:0; width:calc(var(--lw) * 0.88); border-radius:20px; background:rgba(255,255,255,0.045); border:1px solid rgba(255,255,255,0.09); overflow:hidden; }
+  .scroll { height:100%; overflow:hidden; padding:18px 18px 28px; display:flex; flex-direction:column; gap:14px;
+            -webkit-mask:linear-gradient(to bottom, #000 calc(100% - 48px), transparent); mask:linear-gradient(to bottom, #000 calc(100% - 48px), transparent); }
+  .scroll p { margin:0; font-family:var(--font-redhat); font-size:13.5px; line-height:20px; color:rgba(255,255,255,0.82); text-align:start; }
+  .scroll p.consent { color:var(--text-primary); }
+  .scroll a { color:var(--text-secondary); }
+  .foot { flex:none; height:calc(var(--avail) / 5.75); display:flex; align-items:center; justify-content:center; }
+  .btn { display:flex; align-items:center; justify-content:center; font-family:var(--font-namu); font-size:17px; color:var(--text-primary);
+         width:calc(var(--lw) * 0.83); height:calc(var(--lw) * 0.83 / 4.64); border-radius:var(--radius-button);
+         background:var(--gradient-controlGreen); box-shadow:inset 0 0 0 1px rgba(255,255,255,0.1); flex:none; }
+</style></head>
+<body>
+<div class="screen" lang="en">
+  <div class="top"><img src="../../assets/Logos/Privacy-Logo.png" alt=""><div class="H6 title">Your privacy is our top priority</div>
+    <div class="box"><div class="scroll"><p>Securefield VPN collects a minimal amount of data to offer you a fast, stable, and reliable VPN service.</p><p>We do not store your original IP address or the server IP address that you connect to, which means we cannot share it with anyone.</p><p>We do not keep logs of your online activities and never associate any domains or applications that you use with you, your device, IP address, or email.</p><p>We don’t sell, use, or disclose any personal data to third parties not mentioned in this privacy for any purpose. We designed our systems to not have sensitive data about our customers; even when compelled, we cannot provide data that we do not possess.</p><p class="consent">By clicking "Accept and continue", you agree to our <a>Terms of Use</a> and <a>Privacy Policy</a>, which describes how we collect and process your data.</p></div></div></div>
+  <div class="foot"><div class="btn">Accept and continue</div></div>
+</div>
+<div class="screen" dir="rtl" lang="ar">
+  <div class="top"><img src="../../assets/Logos/Privacy-Logo.png" alt=""><div class="H6 title">خصوصيتك هي أولويتنا القصوى</div>
+    <div class="box"><div class="scroll"><p>يجمع Securefield VPN الحد الأدنى من البيانات لتقديم خدمة VPN سريعة ومستقرة وموثوقة.</p><p>نحن لا نخزن عنوان IP الأصلي الخاص بك أو عنوان IP الخاص بالخادم الذي تتصل به، مما يعني أننا لا نستطيع مشاركته مع أي شخص.</p><p>نحن لا نحفظ سجلات لأنشطتك عبر الإنترنت ولا نربط أي مجالات أو تطبيقات تستخدمها بك أو بجهازك أو بعنوان IP الخاص بك أو بريدك الإلكتروني.</p><p>نحن لا نبيع أو نستخدم أو نكشف عن أي بيانات شخصية لأطراف ثالثة غير مذكورة في سياسة الخصوصية هذه لأي غرض. لقد صممنا أنظمتنا لعدم امتلاك بيانات حساسة عن عملائنا؛ حتى عند الإلزام، لا يمكننا تقديم بيانات لا نمتلكها.</p><p class="consent">بالنقر على "قبول ومتابعة"، فإنك توافق على <a>شروط الاستخدام</a> و<a>سياسة الخصوصية</a> الخاصة بنا، والتي تصف كيفية جمعنا ومعالجتنا لبياناتك.</p></div></div></div>
+  <div class="foot"><div class="btn">قبول ومتابعة</div></div>
+</div>
+</body>
+</html>

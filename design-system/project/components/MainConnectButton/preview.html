@@ -1,0 +1,37 @@
+<!-- @dsCard group="Connect" height=560 subtitle="Disconnected, connecting (ring at 35 %), connected — the app's own Lottie frames" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>MainConnectButton — preview</title>
+<style>
+  body { margin:0; min-height:100vh; background:var(--gradient-background); color:var(--text-primary); }
+  .wrap { --lw:390px; --edge:calc(var(--lw) * 0.53); width:var(--lw); padding:12px 0; display:flex; flex-direction:column; align-items:center; gap:6px; }
+  .label { color:var(--text-tertiary); }
+  .btn { position:relative; width:var(--edge); height:var(--edge); direction:ltr; }
+  .lottie { position:absolute; inset:0; }
+  /* CircularConnectingRing: stroke 6, centre-line diameter edge*0.89-6, angular gradient connectButton, starts at 12 o'clock */
+  .ring { position:absolute; inset:calc((var(--edge) - (var(--edge) * 0.89 - 6px)) / 2 - 3px); border-radius:50%;
+          background:var(--gradient-connectButton);
+          -webkit-mask: radial-gradient(farthest-side, transparent calc(100% - 6px), #000 calc(100% - 6px)), conic-gradient(#000 var(--p), transparent 0);
+          -webkit-mask-composite: source-in; mask-composite: intersect; }
+</style></head>
+<body>
+<div class="wrap">
+  <div class="label Caption">disconnected — TTD, last frame</div>
+  <div class="btn"><div class="lottie" data-src="../../assets/Lotties/TTD.json"></div></div>
+  <div class="label Caption">connecting — TTD last frame + ring (progress shown 35 %)</div>
+  <div class="btn"><div class="lottie" data-src="../../assets/Lotties/TTD.json"></div><div class="ring" style="--p:35%"></div></div>
+  <div class="label Caption">connected — TTC, last frame</div>
+  <div class="btn"><div class="lottie" data-src="../../assets/Lotties/TTC.json"></div></div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/lottie-web@5.12.2/build/player/lottie_svg.min.js"></script>
+<script>
+  document.querySelectorAll('.lottie').forEach(function (el) {
+    fetch(el.dataset.src).then(function (r) { return r.json(); }).then(function (data) {
+      var a = lottie.loadAnimation({ container: el, renderer: 'svg', loop: false, autoplay: false, animationData: data });
+      a.addEventListener('DOMLoaded', function () { a.goToAndStop(a.totalFrames - 1, true); });
+    }).catch(function () { el.textContent = 'Lottie file not reachable'; el.className += ' Caption'; });
+  });
+</script>
+</body>
+</html>

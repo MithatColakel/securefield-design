@@ -1,0 +1,63 @@
+<!-- @dsCard group="Advertisement" height=1760 subtitle="Watch-ads screen at 390 × 844: no ad watched, one watched, ad loading; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>Advertisement — preview</title>
+<style>
+  * { box-sizing:border-box; }
+  body { margin:0; background:#000; color:var(--text-primary); display:flex; flex-wrap:wrap; gap:24px; }
+  .screen { --lw:390px; --h:844px; width:390px; height:844px; overflow:hidden; background:var(--gradient-background); display:flex; flex-direction:column; }
+  .topv { position:relative; flex:none; height:calc(var(--h) * 0.38); overflow:hidden; }
+  .bgimg { position:absolute; left:0; bottom:0; width:100%; height:100%; object-fit:cover; object-position:bottom; }
+  .x { position:absolute; top:12px; inset-inline-start:12px; width:44px; height:44px; display:flex; align-items:center; justify-content:center; }
+  .x span { width:34px; height:34px; border-radius:50%; background:rgba(0,0,0,0.35); display:flex; align-items:center; justify-content:center; }
+  .x img { width:16px; height:16px; }
+  .mid { flex:none; height:calc(var(--h) * 0.31); display:flex; flex-direction:column; align-items:center; text-align:center; }
+  .g { flex:1; }
+  .t3 { max-width:calc(var(--lw) * 0.874); } .t4 { max-width:calc(var(--lw) * 0.829); }
+  .steps { width:calc(var(--lw) * 0.538); display:flex; justify-content:space-between; }
+  .r { width:calc(var(--lw) * 0.075); height:calc(var(--lw) * 0.075); }
+  .r.on { transform:scale(1.1); } .r.off { transform:scale(0.8); opacity:0.6; }
+  .bot { flex:none; height:calc(var(--h) * 0.29); margin-bottom:34px; display:flex; flex-direction:column; justify-content:flex-end; align-items:center; gap:3px; }
+  .btns { display:flex; flex-direction:column; align-items:center; gap:20px; }
+  .gb { position:relative; width:calc(var(--lw) * 0.83); aspect-ratio:4.64; border:0; padding:5px 0 0; display:flex; align-items:center; justify-content:center; gap:8px;
+        border-radius:var(--radius-button); background:var(--background-secondary); box-shadow:inset 1px 1px 2px 0 rgba(255,255,255,0.25);
+        font-family:var(--font-redhat); font-size:16px; color:var(--text-primary); }
+  .gb::before { content:""; position:absolute; inset:0; border-radius:inherit; padding:1px; background:var(--gradient-border);
+        -webkit-mask:linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite:xor; mask-composite:exclude; }
+  .gb img { width:20px; height:20px; }
+  .spin { width:20px; height:20px; border-radius:50%; border:2px solid rgba(255,255,255,0.25); border-top-color:var(--text-primary); }
+  .btn { display:flex; align-items:center; justify-content:center; font-family:var(--font-namu); font-size:17px; color:var(--text-primary);
+         width:calc(var(--lw) * 0.83); height:calc(var(--lw) * 0.83 / 4.64); border-radius:var(--radius-button);
+         background:var(--gradient-controlGreen); box-shadow:inset 0 0 0 1px rgba(255,255,255,0.1); }
+  .under { display:flex; flex-direction:column; align-items:center; gap:3px; }
+  .price { color:var(--text-secondary); white-space:nowrap; }
+  .legal { display:flex; justify-content:center; align-items:center; height:17px; white-space:nowrap; font-size:12px; }
+  .legal a { color:var(--text-secondary); } .legal i { font-style:normal; color:var(--separator-primary); padding:0 5px; }
+</style></head>
+<body>
+<svg width="0" height="0" style="position:absolute"><defs>
+  <radialGradient id="g" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="translate(10.8889 5.25) rotate(82.614) scale(28.2343 33.714)"><stop offset="0.22892" stop-color="#35df91"/><stop offset="0.633438" stop-color="#198f57"/></radialGradient>
+  <symbol id="on" viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="url(#g)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></symbol>
+  <symbol id="off" viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="var(--background-secondary)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></symbol>
+</defs></svg>
+<div class="screen" lang="en">
+  <div class="topv"><img class="bgimg" src="../../assets/Images/Advertisement-Background.png" alt=""><span class="x"><span><img src="../../assets/Icons/Close.svg" alt=""></span></span></div>
+  <div class="mid"><span class="g"></span><div class="Amiko3 t3">Watch ads to connect to Securefield</div><span class="g"></span><div class="Amiko4 t4">Watch 3 ads to unlock the reward and secure 15 minutes of access to Securefield. Get Premium to go unlimited with high speed servers.</div><span class="g"></span><div class="steps"><svg class="r off"><use href="#off"/></svg><svg class="r off"><use href="#off"/></svg><svg class="r off"><use href="#off"/></svg></div><span class="g"></span></div>
+  <div class="bot"><div class="btns"><button class="gb"><img src="../../assets/Icons/Play.svg" alt="">Watch Ads</button><div class="btn">Get Premium</div></div>
+    <div class="under"><span class="Caption price">$4.99 / Week. Cancel anytime.</span><div class="legal Caption"><a>Privacy Policy</a><i>•</i><a>Terms of Use</a><i>•</i><a>About Subscription</a></div></div></div>
+</div>
+<div class="screen" lang="en">
+  <div class="topv"><img class="bgimg" src="../../assets/Images/Advertisement-Background.png" alt=""><span class="x"><span><img src="../../assets/Icons/Close.svg" alt=""></span></span></div>
+  <div class="mid"><span class="g"></span><div class="Amiko3 t3">Watch ads to connect to Securefield</div><span class="g"></span><div class="Amiko4 t4">Watch 3 ads to unlock the reward and secure 15 minutes of access to Securefield. Get Premium to go unlimited with high speed servers.</div><span class="g"></span><div class="steps"><svg class="r on"><use href="#on"/></svg><svg class="r off"><use href="#off"/></svg><svg class="r off"><use href="#off"/></svg></div><span class="g"></span></div>
+  <div class="bot"><div class="btns"><button class="gb" disabled><span class="spin"></span></button><div class="btn">Get Premium</div></div>
+    <div class="under"><span class="Caption price">$4.99 / Week. Cancel anytime.</span><div class="legal Caption"><a>Privacy Policy</a><i>•</i><a>Terms of Use</a><i>•</i><a>About Subscription</a></div></div></div>
+</div>
+<div class="screen" dir="rtl" lang="ar">
+  <div class="topv"><img class="bgimg" src="../../assets/Images/Advertisement-Background.png" alt=""><span class="x"><span><img src="../../assets/Icons/Close.svg" alt=""></span></span></div>
+  <div class="mid"><span class="g"></span><div class="Amiko3 t3">شاهد الإعلانات للاتصال بـ Securefield</div><span class="g"></span><div class="Amiko4 t4">شاهد 3 إعلانات لفتح المكافأة وتأمين 15 دقيقة من الوصول إلى Securefield. احصل على المميز لتجربة غير محدودة مع خوادم عالية السرعة.</div><span class="g"></span><div class="steps"><svg class="r on"><use href="#on"/></svg><svg class="r off"><use href="#off"/></svg><svg class="r off"><use href="#off"/></svg></div><span class="g"></span></div>
+  <div class="bot"><div class="btns"><button class="gb"><img src="../../assets/Icons/Play.svg" alt="">شاهد الإعلانات</button><div class="btn">احصل على المميز</div></div>
+    <div class="under"><span class="Caption price">$4.99 / أسبوع. يمكنك الإلغاء في أي وقت.</span><div class="legal Caption"><a>سياسة الخصوصية</a><i>•</i><a>شروط الاستخدام</a><i>•</i><a>حول الاشتراك</a></div></div></div>
+</div>
+</body>
+</html>

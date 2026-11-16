@@ -1,0 +1,22 @@
+<!-- @dsCard group="Mac" height=300 width=760 subtitle="Mac card: white 6 % fill, 1 pt white 12 % border; radius 16 (default) and 12" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>CardBackground — preview</title>
+<style>
+  body { margin:0; padding:24px; min-height:100vh; box-sizing:border-box; background:linear-gradient(to bottom right, var(--bgGraphit), var(--bgBlack)); color:var(--white); display:flex; gap:24px; flex-wrap:wrap; align-items:flex-start; }
+  .card { background:var(--surface); border:1px solid var(--hairline); border-radius:var(--radius-card); padding:var(--space-l); width:300px; box-sizing:border-box; }
+  .r12 { border-radius:var(--radius-field); height:84px; padding:8px; color:var(--lightGray); }
+  .step { display:flex; gap:12px; align-items:center; margin:0 0 12px; } .step:last-child { margin:0; }
+  .n { width:26px; height:26px; border-radius:50%; background:var(--darkBlue); display:flex; align-items:center; justify-content:center; flex:none; }
+  .lbl { color:var(--mediumGray); margin-bottom:6px; }
+</style></head>
+<body>
+  <div><div class="caption lbl">brandCard() — radius 16 (Permission steps)</div>
+    <div class="card"><div class="step"><span class="n bodyBold">1</span><span class="body">Click Allow in the macOS window</span></div>
+    <div class="step"><span class="n bodyBold">2</span><span class="body">Confirm with Touch ID or your Mac password</span></div></div></div>
+  <div><div class="caption lbl">brandCard(radius: 12) — Report details field</div><div class="card r12 body"></div></div>
+  <div dir="rtl" lang="ar"><div class="caption lbl">العربية</div>
+    <div class="card"><div class="step"><span class="n bodyBold">1</span><span class="body">انقر «سماح» في نافذة macOS</span></div></div></div>
+</body>
+</html>

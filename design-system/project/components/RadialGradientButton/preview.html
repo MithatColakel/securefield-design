@@ -1,0 +1,39 @@
+<!-- @dsCard group="Buttons" height=560 subtitle="Green large (primary), disabled, fill 56/18, neutral and small; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>RadialGradientButton — preview</title>
+<style>
+  body { margin:0; min-height:100vh; background:var(--gradient-background); color:var(--text-primary); }
+  .wrap { --lw:390px; width:var(--lw); padding:16px 0; display:flex; flex-direction:column; align-items:center; gap:14px; }
+  .label { color:var(--text-tertiary); align-self:stretch; padding:0 16px; }
+  .btn { display:flex; align-items:center; justify-content:center; border:0; padding:0; cursor:pointer;
+         font-family:var(--font-namu); font-size:17px; color:var(--text-primary); white-space:nowrap;
+         background:var(--gradient-controlGreen); box-shadow:inset 0 0 0 1px rgba(255,255,255,0.1); }
+  .large { width:calc(var(--lw) * 0.83); height:calc(var(--lw) * 0.83 / 4.64); border-radius:var(--radius-button); }
+  .small { width:calc(var(--lw) * 0.277); height:calc(var(--lw) * 0.277 / 1.763); border-radius:var(--radius-buttonSmall); }
+  .fill { width:calc(var(--lw) - 56px); height:56px; border-radius:18px; font-size:15px; }
+  .neutral { background:var(--gradient-controlNeutral); }
+  .disabled { opacity:var(--opacity-disabled); }
+  .pressed { transform:scale(0.97); opacity:var(--opacity-pressed); }
+</style></head>
+<body>
+<div class="wrap">
+  <div class="label Caption">green · large (default)</div>
+  <button class="btn large">Continue</button>
+  <div class="label Caption">pressed (scale 0.97, opacity 0.85)</div>
+  <button class="btn large pressed">Continue</button>
+  <div class="label Caption">disabled (opacity 0.45)</div>
+  <button class="btn large disabled">Send</button>
+  <div class="label Caption">fill(height 56, radius 18), font 15 — Report</div>
+  <button class="btn fill">No problem to report</button>
+  <div class="label Caption">neutral · small (in code, not used on main)</div>
+  <div style="display:flex;gap:12px"><button class="btn small neutral">OK</button><button class="btn small">OK</button></div>
+</div>
+<div class="wrap" dir="rtl" lang="ar">
+  <div class="label Caption">العربية</div>
+  <button class="btn large">متابعة</button>
+  <button class="btn large">قبول ومتابعة</button>
+</div>
+</body>
+</html>

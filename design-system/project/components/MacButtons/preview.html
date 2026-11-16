@@ -1,0 +1,40 @@
+<!-- @dsCard group="Mac" height=520 width=760 subtitle="Mac buttons: Primary (blue to green), Premium (yellow), Outline, and the panel Connect button (off / on); normal, pressed, disabled; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>MacButtons — preview</title>
+<style>
+  body { margin:0; padding:20px; min-height:100vh; box-sizing:border-box; background:linear-gradient(to bottom right, var(--bgGraphit), var(--bgBlack)); color:var(--white); }
+  .grid { display:grid; grid-template-columns:150px repeat(3, 180px); gap:14px 16px; align-items:center; }
+  .h { color:var(--mediumGray); }
+  .btn { display:flex; align-items:center; justify-content:center; border-radius:var(--radius-pill); color:var(--white); box-sizing:border-box; padding:0 16px; text-align:center; }
+  .primary { min-height:48px; background:var(--gradient-macPrimary); }
+  [dir="rtl"] .primary { background:linear-gradient(270deg, var(--lightBlue), var(--green)); }
+  .premium { min-height:52px; background:var(--gradient-premium); color:var(--onPremium); }
+  .outline { min-height:44px; background:var(--surface); border:1.5px solid var(--hairline); }
+  .outline.pressed { background:var(--surfaceHigh); }
+  .conn-on { min-height:48px; background:var(--surfaceHigh); border:1.5px solid var(--hairline); }
+  .pressed { opacity:var(--opacity-pressed); transform:scale(0.98); }
+  .outline.pressed, .conn-on.pressed { transform:none; }
+  .disabled { opacity:var(--opacity-disabledMac); }
+</style></head>
+<body>
+<div class="grid">
+  <span></span><span class="caption h">normal</span><span class="caption h">pressed</span><span class="caption h">disabled</span>
+  <span class="caption h">PrimaryButtonStyle (48)</span>
+  <div class="btn primary bodyBold">Connect</div><div class="btn primary bodyBold pressed">Connect</div><div class="btn primary bodyBold disabled">Disconnect</div>
+  <span class="caption h">PremiumButtonStyle (52, paywall)</span>
+  <div class="btn premium bodyBold">Start 3 days free trial</div><div class="btn premium bodyBold pressed">Start 3 days free trial</div><span class="caption h">no disabled look in code</span>
+  <span class="caption h">OutlineButtonStyle (44)</span>
+  <div class="btn outline bodyBold">Cancel</div><div class="btn outline bodyBold pressed">Cancel</div><span class="caption h">no disabled look in code</span>
+  <span class="caption h">Panel Connect, off</span>
+  <div class="btn primary bodyBold">Connect</div><div class="btn primary bodyBold pressed" style="transform:none">Connect</div><span></span>
+  <span class="caption h">Panel Connect, on</span>
+  <div class="btn conn-on bodyBold">Disconnect</div><div class="btn conn-on bodyBold pressed">Disconnect</div><span></span>
+</div>
+<div class="grid" dir="rtl" lang="ar" style="margin-top:22px">
+  <span class="caption h">العربية</span>
+  <div class="btn primary bodyBold">اتصال</div><div class="btn premium bodyBold">ابدأ تجربة مجانية لمدة 3 أيام</div><div class="btn outline bodyBold">إلغاء</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!-- @dsCard group="Launch" height=880 subtitle="Blocking update screen at 390 × 844; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>UpdateRequiredScreen — preview</title>
+<style>
+  * { box-sizing:border-box; }
+  body { margin:0; background:#000; color:var(--text-primary); display:flex; flex-wrap:wrap; gap:24px; }
+  .screen { --lw:390px; width:390px; height:844px; overflow:hidden; background:var(--gradient-background); display:flex; flex-direction:column; align-items:center; padding-bottom:calc(34px + 24px); }
+  .sp { flex:1; }
+  .mid { display:flex; flex-direction:column; align-items:center; gap:20px; padding:0 32px; text-align:center; }
+  .mid img { width:161px; height:60px; object-fit:contain; }
+  .mid .Body1 { color:rgba(255,255,255,0.82); }
+  .btn { display:flex; align-items:center; justify-content:center; font-family:var(--font-namu); font-size:17px; color:var(--text-primary);
+         width:calc(var(--lw) * 0.83); height:calc(var(--lw) * 0.83 / 4.64); border-radius:var(--radius-button);
+         background:var(--gradient-controlGreen); box-shadow:inset 0 0 0 1px rgba(255,255,255,0.1); flex:none; }
+</style></head>
+<body>
+<div class="screen" lang="en"><div class="sp"></div><div class="mid"><img src="../../assets/Logos/App-Logo.png" alt=""><div class="H6">Update Required</div><div class="Body1">Your app version is outdated. Please update to continue.</div></div><div class="sp"></div><div class="btn">Update</div></div>
+<div class="screen" dir="rtl" lang="ar"><div class="sp"></div><div class="mid"><img src="../../assets/Logos/App-Logo.png" alt=""><div class="H6">يتطلب تحديثاً</div><div class="Body1">نسخة التطبيق الخاصة بك قديمة. يرجى التحديث للمتابعة.</div></div><div class="sp"></div><div class="btn">تحديث</div></div>
+</body>
+</html>

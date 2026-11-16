@@ -1,0 +1,33 @@
+<!-- @dsCard group="Surfaces" height=520 subtitle="Default, selected (radialOrange), top corners only, with RowSeparator" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>GradientBorderCard — preview</title>
+<style>
+  body { margin:0; min-height:100vh; background:var(--gradient-background); color:var(--text-primary); padding:16px; }
+  .stack { display:flex; flex-direction:column; gap:16px; }
+  /* GradientBorderCard: iceBlue fill, 1px border white20 -> clear (135deg), inset highlight 1px 1px 2px white@25% */
+  .card { position:relative; border-radius:var(--radius-gradientCard); background:var(--background-secondary);
+          box-shadow: inset 1px 1px 2px 0 rgba(255,255,255,0.25); }
+  .card::before { content:""; position:absolute; inset:0; border-radius:inherit; padding:1px; background:var(--gradient-border);
+          -webkit-mask:linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite:xor; mask-composite:exclude; pointer-events:none; }
+  .card.orange::before { background:var(--gradient-controlOrange); }
+  .card.top { border-bottom-left-radius:0; border-bottom-right-radius:0; }
+  .card.r24 { border-radius:var(--radius-button); }
+  .pad { padding:16px 20px; }
+  .sep { height:1px; width:95.3%; margin-inline-start:auto; background:var(--separator-secondary); }
+  .row { padding:14px 20px; }
+  .label { color:var(--text-tertiary); padding:0 4px 6px; }
+</style></head>
+<body>
+<div class="stack">
+  <div><div class="label Caption">gradient · radius 28</div><div class="card"><div class="pad Body1">Server location</div></div></div>
+  <div><div class="label Caption">radialOrange (selected plan) · radius 24</div><div class="card orange r24"><div class="pad Body1">12 months</div></div></div>
+  <div><div class="label Caption">With RowSeparator</div>
+    <div class="card"><div class="row Body1">Rate us</div><div class="sep"></div><div class="row Body1">FAQ</div></div></div>
+  <div dir="rtl" lang="ar"><div class="label Caption">العربية · RowSeparator starts from the right</div>
+    <div class="card"><div class="row Body1">قيمنا</div><div class="sep"></div><div class="row Body1">الأسئلة الشائعة</div></div></div>
+  <div><div class="label Caption">topCornersOnly</div><div class="card top"><div class="pad Body1" style="height:40px"></div></div></div>
+</div>
+</body>
+</html>

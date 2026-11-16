@@ -1,0 +1,69 @@
+<!-- @dsCard group="Mac" height=1360 width=1000 subtitle="Mac paywall sheet (480 × 640): plans loaded (yearly selected, trial), a purchase message, loading, load failed; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>MacPaywall — preview</title>
+<style>
+  body { margin:0; padding:16px; min-height:100vh; box-sizing:border-box; background:#000; color:var(--white); display:flex; flex-wrap:wrap; gap:20px; align-items:flex-start; }
+  figure { margin:0; } figcaption { color:var(--mediumGray); margin-bottom:6px; }
+  .lg { color:var(--lightGray); } .mg { color:var(--mediumGray); } .y { color:var(--lightYellow); } .gr { color:var(--lightGreen); }
+  .btn { display:flex; align-items:center; justify-content:center; border-radius:var(--radius-pill); color:var(--white); box-sizing:border-box; padding:0 16px; text-align:center; width:100%; }
+  .primary { min-height:48px; background:var(--gradient-macPrimary); }
+  [dir="rtl"] .primary { background:linear-gradient(270deg, var(--lightBlue), var(--green)); }
+  .premium { min-height:52px; background:var(--gradient-premium); color:var(--onPremium); }
+  .outline { min-height:44px; background:var(--surface); border:1.5px solid var(--hairline); }
+  .card { background:var(--surface); border:1px solid var(--hairline); border-radius:var(--radius-card); }
+  .c { text-align:center; }
+
+  .pw { position:relative; width:480px; height:640px; box-sizing:border-box; overflow:hidden; padding:0 24px 16px; display:flex; flex-direction:column; align-items:center; gap:16px; background:linear-gradient(180deg, var(--paywallTop), var(--bgGraphit), var(--bgBlack)); }
+  .x { position:absolute; top:14px; right:14px; width:22px; height:22px; color:var(--auroMetalGray); } [dir="rtl"] .x { right:auto; left:14px; } .x svg { width:22px; height:22px; }
+  .logo { height:34px; margin-top:28px; }
+  .feats { align-self:stretch; display:flex; flex-direction:column; gap:10px; }
+  .feat { display:flex; align-items:center; gap:12px; } .fi { width:26px; height:26px; border-radius:50%; background:rgba(53,223,145,0.14); color:var(--lightGreen); display:flex; align-items:center; justify-content:center; flex:none; } .fi svg { width:14px; height:14px; }
+  .plan { align-self:stretch; display:flex; align-items:center; gap:14px; padding:16px; border-radius:var(--radius-card); background:var(--surface); border:1px solid var(--hairline); }
+  .plan.on { background:rgba(250,199,98,0.08); border:2px solid var(--lightYellow); padding:15px; }
+  .rd { width:20px; height:20px; border-radius:50%; border:2px solid var(--auroMetalGray); box-sizing:border-box; position:relative; flex:none; } .rd.on { border-color:var(--lightYellow); } .rd.on::after { content:""; position:absolute; inset:2px; border-radius:50%; background:var(--lightYellow); }
+  .pv { display:flex; flex-direction:column; gap:3px; } .ph { display:flex; align-items:center; gap:8px; } .sp { flex:1; }
+  .badge { padding:3px 8px; border-radius:var(--radius-pill); background:var(--gradient-premium); color:var(--onPremium); font-weight:700; }
+  .links { display:flex; gap:18px; }
+  .spin { width:20px; height:20px; margin:40px 0; border-radius:50%; border:2px solid rgba(255,255,255,0.2); border-top-color:var(--lightGray); }
+</style></head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+  <!-- SF Symbol stand-ins (the symbols are not in the repo). Simple shapes, not Apple's drawings. -->
+  <symbol id="power" viewBox="0 0 24 24"><path d="M12 2.5v9" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/><path d="M6.2 5.8a8.5 8.5 0 1 0 11.6 0" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></symbol>
+  <symbol id="crown" viewBox="0 0 24 24"><path d="M3 7l4.5 4L12 4l4.5 7L21 7l-2 12H5z" fill="currentColor"/></symbol>
+  <symbol id="lock" viewBox="0 0 24 24"><rect x="5" y="10.5" width="14" height="10.5" rx="2" fill="currentColor"/><path d="M8 10.5V8a4 4 0 0 1 8 0v2.5" fill="none" stroke="currentColor" stroke-width="2.2"/></symbol>
+  <symbol id="chev-f" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="chev-b" viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5L21 21" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></symbol>
+  <symbol id="xfill" viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" fill="currentColor"/><path d="M8 8l8 8M16 8l-8 8" stroke="#0e1621" stroke-width="2.2" stroke-linecap="round"/></symbol>
+  <symbol id="gear" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="2" stroke-dasharray="3 2.3"/></symbol>
+  <symbol id="question" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M9.3 9.3a2.8 2.8 0 1 1 3.8 2.6c-.8.4-1.1.9-1.1 1.8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="12" cy="16.8" r="1.1" fill="currentColor"/></symbol>
+  <symbol id="exclam" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 6.8v6.4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="16.6" r="1.1" fill="currentColor"/></symbol>
+  <symbol id="check" viewBox="0 0 24 24"><path d="M4.5 12.5l5 5 10-11" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="checkfill" viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" fill="currentColor"/><path d="M7 12.3l3.4 3.4L17 9" fill="none" stroke="#0b121c" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="shieldlock" viewBox="0 0 24 24"><path d="M12 2l8 3v6.5c0 5-3.4 8.8-8 10.5-4.6-1.7-8-5.5-8-10.5V5z" fill="currentColor"/></symbol>
+  <symbol id="bolt" viewBox="0 0 24 24"><path d="M13.5 2L5 13.5h6L10 22l9-12h-6z" fill="currentColor"/></symbol>
+  <symbol id="globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><ellipse cx="12" cy="12" rx="4" ry="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M3 12h18" stroke="currentColor" stroke-width="2"/></symbol>
+  <symbol id="shieldhalf" viewBox="0 0 24 24"><path d="M12 2l8 3v6.5c0 5-3.4 8.8-8 10.5-4.6-1.7-8-5.5-8-10.5V5z" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 2v20c-4.6-1.7-8-5.5-8-10.5V5z" fill="currentColor"/></symbol>
+  <symbol id="wand" viewBox="0 0 24 24"><path d="M4 20L15 9" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/><path d="M17 2l1 3 3 1-3 1-1 3-1-3-3-1 3-1zM8 3l.6 1.6L10 5l-1.4.6L8 7l-.6-1.4L6 5l1.4-.4z" fill="currentColor"/></symbol>
+</defs></svg>
+<figure><figcaption class="caption">plans loaded, yearly selected (sample prices)</figcaption><div class="pw" dir="ltr" lang="en"><span class="x"><svg><use href="#xfill"/></svg></span>
+<img class="logo" src="../../assets/Logos/App-Logo.png" alt=""><div class="headline c">Experience Premium Service</div><div class="feats"><div class="feat"><span class="fi"><svg><use href="#bolt"/></svg></span><span class="body">Ultra-fast connection</span></div><div class="feat"><span class="fi"><svg><use href="#globe"/></svg></span><span class="body">Worldwide locations</span></div><div class="feat"><span class="fi"><svg><use href="#shieldhalf"/></svg></span><span class="body">Unlimited protection</span></div><div class="feat"><span class="fi"><svg><use href="#wand"/></svg></span><span class="body">Smart protocol that works on your network</span></div></div>
+<div class="body lg c">Securefield for Mac is a Premium service. Try it free first.</div><div class="plan on"><span class="rd on"></span><span class="pv"><span class="ph"><span class="subtitle">Yearly</span><span class="badge caption">Best offer</span></span><span class="bodyBold gr">3 days free trial</span><span class="caption lg">Then $39.99 / year</span></span><span class="sp"></span><span class="caption lg">Only $3.33 / month</span></div>
+<div class="plan"><span class="rd"></span><span class="pv"><span class="ph"><span class="subtitle">Monthly</span></span><span class="body lg">$9.99 / month</span></span><span class="sp"></span></div>
+<div class="btn premium bodyBold">Start 3 days free trial</div><div class="links caption gr"><span>Restore</span><span>Terms of Use</span><span>Privacy Policy</span></div><div class="caption mg c">Auto-renewable subscription. After the free trial, $39.99 per year is charged to your Apple ID unless you cancel at least 24 hours before the trial ends. Manage or cancel in your Apple ID settings.</div></div></figure>
+<figure><figcaption class="caption">العربية</figcaption><div class="pw" dir="rtl" lang="ar"><span class="x"><svg><use href="#xfill"/></svg></span>
+<img class="logo" src="../../assets/Logos/App-Logo.png" alt=""><div class="headline c">تجربة الخدمة المميزة</div><div class="feats"><div class="feat"><span class="fi"><svg><use href="#bolt"/></svg></span><span class="body">اتصال فائق السرعة</span></div><div class="feat"><span class="fi"><svg><use href="#globe"/></svg></span><span class="body">مواقع عالمية</span></div><div class="feat"><span class="fi"><svg><use href="#shieldhalf"/></svg></span><span class="body">حماية غير محدودة</span></div><div class="feat"><span class="fi"><svg><use href="#wand"/></svg></span><span class="body">بروتوكول ذكي يعمل على شبكتك</span></div></div>
+<div class="body lg c">Securefield لجهاز Mac خدمة مميزة. جرّبها مجانًا أولًا.</div><div class="plan on"><span class="rd on"></span><span class="pv"><span class="ph"><span class="subtitle">سنوي</span><span class="badge caption">أفضل عرض</span></span><span class="bodyBold gr">تجربة مجانية لمدة 3 أيام</span><span class="caption lg">ثم $39.99 / سنة</span></span><span class="sp"></span><span class="caption lg">فقط $3.33 / شهر</span></div>
+<div class="plan"><span class="rd"></span><span class="pv"><span class="ph"><span class="subtitle">شهري</span></span><span class="body lg">$9.99 / شهر</span></span><span class="sp"></span></div>
+<div class="btn premium bodyBold">ابدأ تجربة مجانية لمدة 3 أيام</div><div class="links caption gr"><span>استعادة</span><span>شروط الاستخدام</span><span>سياسة الخصوصية</span></div><div class="caption mg c">اشتراك متجدد تلقائيًا. بعد التجربة المجانية يُخصم $39.99 سنويًا من حسابك في Apple ID ما لم تلغِ قبل انتهاء التجربة بـ 24 ساعة على الأقل. أدر الاشتراك أو ألغِه من إعدادات Apple ID.</div></div></figure>
+<figure><figcaption class="caption">loading</figcaption><div class="pw" dir="ltr" lang="en"><span class="x"><svg><use href="#xfill"/></svg></span>
+<img class="logo" src="../../assets/Logos/App-Logo.png" alt=""><div class="headline c">Experience Premium Service</div><div class="feats"><div class="feat"><span class="fi"><svg><use href="#bolt"/></svg></span><span class="body">Ultra-fast connection</span></div><div class="feat"><span class="fi"><svg><use href="#globe"/></svg></span><span class="body">Worldwide locations</span></div><div class="feat"><span class="fi"><svg><use href="#shieldhalf"/></svg></span><span class="body">Unlimited protection</span></div><div class="feat"><span class="fi"><svg><use href="#wand"/></svg></span><span class="body">Smart protocol that works on your network</span></div></div>
+<div class="body lg c">Securefield for Mac is a Premium service. Try it free first.</div><div class="spin"></div><div class="body lg">Loading plans…</div><div class="links caption gr"><span>Restore</span><span>Terms of Use</span><span>Privacy Policy</span></div></div></figure>
+<figure><figcaption class="caption">load failed</figcaption><div class="pw" dir="ltr" lang="en"><span class="x"><svg><use href="#xfill"/></svg></span>
+<img class="logo" src="../../assets/Logos/App-Logo.png" alt=""><div class="headline c">Experience Premium Service</div><div class="feats"><div class="feat"><span class="fi"><svg><use href="#bolt"/></svg></span><span class="body">Ultra-fast connection</span></div><div class="feat"><span class="fi"><svg><use href="#globe"/></svg></span><span class="body">Worldwide locations</span></div><div class="feat"><span class="fi"><svg><use href="#shieldhalf"/></svg></span><span class="body">Unlimited protection</span></div><div class="feat"><span class="fi"><svg><use href="#wand"/></svg></span><span class="body">Smart protocol that works on your network</span></div></div>
+<div class="body lg c">Securefield for Mac is a Premium service. Try it free first.</div><div class="body lg c">The plans could not be loaded. Check your connection and try again.</div><div class="btn outline bodyBold">Try again</div><div class="links caption gr"><span>Restore</span><span>Terms of Use</span><span>Privacy Policy</span></div></div></figure>
+</body>
+</html>

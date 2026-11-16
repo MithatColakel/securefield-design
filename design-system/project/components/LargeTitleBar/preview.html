@@ -1,0 +1,47 @@
+<!-- @dsCard group="Navigation" height=760 subtitle="System bar with large title: large, folded, long title shrunk, close variant; English and Arabic (stand-in of the iOS bar)" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>LargeTitleBar — preview</title>
+<style>
+  * { box-sizing:border-box; }
+  body { margin:0; background:#000; color:var(--text-primary); display:flex; flex-wrap:wrap; gap:16px; padding-bottom:16px; }
+  .cap { color:var(--text-tertiary); width:100%; padding:12px 16px 0; }
+  .page { width:390px; background:var(--gradient-background); overflow:hidden; }
+  .bar { height:44px; display:flex; align-items:center; padding:0 8px; position:relative; }
+  .btn { width:44px; height:44px; display:flex; align-items:center; justify-content:center; color:var(--icon-primary); }
+  .btn svg { width:20px; height:20px; }
+  [dir=rtl] .btn.back svg { transform:scaleX(-1); }
+  .large { height:52px; display:flex; align-items:center; padding:0 16px; font-family:var(--font-namu); font-size:34px; white-space:nowrap; overflow:hidden; }
+  .folded { background:rgba(23,34,49,0.6); -webkit-backdrop-filter:blur(20px); backdrop-filter:blur(20px); }
+  .folded .t { position:absolute; left:0; right:0; text-align:center; pointer-events:none; }
+  .content { padding:8px 20px 16px; color:var(--text-tertiary); }
+</style></head>
+<body>
+<div class="cap Caption">Large (top of the page) · Folded (scrolled) · Long title shrunk to fit · Close (document in a sheet)</div>
+<div id="r1" style="display:contents"></div>
+<div class="cap Caption" dir="rtl">العربية</div>
+<div id="r2" style="display:contents" dir="rtl"></div>
+<script>
+// SF Symbol stand-ins (chevron.backward, xmark).
+const back = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M15 4l-8 8 8 8"/></svg>';
+const close = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"/></svg>';
+function page(lang, title, mode, exit) {
+  const b = `<div class="btn ${exit}">${exit === 'back' ? back : close}</div>`;
+  if (mode === 'folded')
+    return `<div class="page" lang="${lang}"${lang === 'ar' ? ' dir="rtl"' : ''}><div class="bar folded">${b}<div class="t Subtitle1">${title}</div></div><div class="content Caption">content scrolled under the bar</div></div>`;
+  return `<div class="page" lang="${lang}"${lang === 'ar' ? ' dir="rtl"' : ''}><div class="bar">${b}</div><div class="large" data-fit>${title}</div><div class="content Caption">page content</div></div>`;
+}
+document.getElementById('r1').innerHTML =
+  page('en','Settings','large','back') + page('en','Settings','folded','back') + page('en','Payment &amp; Subscription','large','back') + page('en','Privacy Policy','large','close');
+document.getElementById('r2').innerHTML =
+  page('ar','الإعدادات','large','back') + page('ar','الإعدادات','folded','back') + page('ar','لا يمكن الوصول إلى الويب/التطبيق','large','back') + page('ar','سياسة الخصوصية','large','close');
+// NavigationBarStyle.largeTitleFont: max(22, floor(34 × width / needed)) when the title is too wide.
+for (const el of document.querySelectorAll('[data-fit]')) {
+  const avail = el.clientWidth - 32;
+  const needed = el.scrollWidth - 32;
+  if (needed > avail) el.style.fontSize = Math.max(22, Math.floor(34 * avail / needed)) + 'px';
+}
+</script>
+</body>
+</html>

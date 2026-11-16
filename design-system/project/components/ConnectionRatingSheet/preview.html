@@ -1,0 +1,90 @@
+<!-- @dsCard group="Report" height=2700 subtitle="Rating sheet: no stars, low rating with reasons, five stars, free time ended, sent; iPhone 390 × 844 and iPad 820 × 1180; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>ConnectionRatingSheet — preview</title>
+<style>
+  * { box-sizing:border-box; }
+  body { margin:0; background:#000; color:var(--text-primary); display:flex; flex-wrap:wrap; gap:24px; align-items:flex-start; }
+  .cap { color:var(--text-tertiary); width:100%; padding:12px 16px 0; }
+  .screen { --W:390px; --H:844px; --lw:390px; --inset:34px; --btnFont:17px; position:relative; width:var(--W); height:var(--H); overflow:hidden; background:var(--gradient-background); }
+  .screen.tablet { --W:820px; --H:1180px; --lw:560px; --inset:20px; --btnFont:22.1px; }
+  .tablet .H6 { font-size:28.6px; line-height:31.5px; }
+  .tablet .Body1 { font-size:19.5px; line-height:27.3px; }
+  .tablet .Subtitle1 { font-size:22.1px; line-height:24.8px; }
+  .screen > img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; mix-blend-mode:overlay; }
+  .dim { position:absolute; inset:0; background:rgba(0,0,0,0.55); }
+  .sheet { position:absolute; left:0; right:0; bottom:0; max-height:calc(var(--H) * 0.85); display:flex; flex-direction:column;
+           background:var(--gradient-background); border-radius:30px 30px 0 0; overflow:hidden; }
+  /* lit top edge: 1px white 10% + inset highlight, fading out over the top 30 */
+  .sheet::before { content:""; position:absolute; left:0; right:0; top:0; height:30px; border-radius:30px 30px 0 0; pointer-events:none;
+           border:1px solid rgba(255,255,255,0.10); border-bottom:0; box-shadow:inset 1px 1px 2px 0 rgba(255,255,255,0.25);
+           -webkit-mask-image:linear-gradient(#000, transparent); mask-image:linear-gradient(#000, transparent); }
+  .handle { width:44px; height:4px; border-radius:2px; background:rgba(255,255,255,0.35); flex:none; }
+  .head { display:flex; flex-direction:column; align-items:center; gap:14px; padding:12px 24px 0; text-align:center; flex:none; }
+  .head .Body1 { color:var(--text-tertiary); padding:0 16px; }
+  .stars { display:flex; gap:8px; }
+  .stars svg { width:40px; height:40px; }
+  .stars .on path { fill:var(--text-quaternary); stroke:var(--text-quaternary); }
+  .stars .off path { fill:rgba(255,255,255,0.06); stroke:rgba(255,255,255,0.35); }
+  .reasons { display:flex; flex-direction:column; gap:10px; padding:16px 24px 0; min-height:0; }
+  .list { display:flex; flex-direction:column; gap:8px; overflow:hidden; min-height:0; }
+  /* EdgeFadingScrollView: up to 24 of fade at an edge with hidden content */
+  .list.fade { -webkit-mask-image:linear-gradient(to bottom, #000 0, #000 calc(100% - 24px), transparent 100%); mask-image:linear-gradient(to bottom, #000 0, #000 calc(100% - 24px), transparent 100%); }
+  .opt { display:flex; align-items:center; gap:12px; padding:12px 18px; border-radius:14px; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.14); flex:none; }
+  .opt .Body1 { flex:1; text-align:start; }
+  .box { width:22px; height:22px; border-radius:6px; border:1.5px solid rgba(255,255,255,0.35); display:flex; align-items:center; justify-content:center; flex:none; }
+  .opt.sel { background:rgba(53,223,145,0.12); border-color:var(--border-quaternary); }
+  .opt.sel .box { border-color:var(--border-quaternary); }
+  .box svg { width:12px; height:12px; color:var(--border-quaternary); }
+  .foot { display:flex; flex-direction:column; align-items:center; gap:10px; padding:16px 24px calc(var(--inset) + 16px); flex:none; }
+  .btn { display:flex; align-items:center; justify-content:center; font-family:var(--font-namu); font-size:var(--btnFont); color:var(--text-primary);
+         width:calc(var(--lw) * 0.83); height:calc(var(--lw) * 0.83 / 4.64); border-radius:var(--radius-button); flex:none;
+         background:var(--gradient-controlGreen); box-shadow:inset 0 0 0 1px rgba(255,255,255,0.1); }
+  .btn.disabled { opacity:var(--opacity-disabled); }
+  .skip { color:var(--text-tertiary); padding:6px 0; }
+  .sent { display:flex; flex-direction:column; align-items:center; padding:12px 24px calc(var(--inset) + 16px); }
+  .sent .grp { display:flex; flex-direction:column; align-items:center; gap:12px; padding:40px 0; text-align:center; }
+  .sent svg { width:52px; height:52px; color:var(--text-secondary); }
+</style></head>
+<body>
+<div class="cap Caption">iPhone · English · no stars (Send disabled) · 2 stars with reasons · 5 stars</div>
+<div id="a" class="screen" lang="en"></div><div id="b" class="screen" lang="en"></div><div id="c" class="screen" lang="en"></div>
+<div class="cap Caption">iPhone · English · free time ended (2 stars, no reasons) · sent · Arabic 2 stars with reasons</div>
+<div id="d" class="screen" lang="en"></div><div id="e" class="screen" lang="en"></div><div id="f" class="screen" dir="rtl" lang="ar"></div>
+<div class="cap Caption">iPad 820 × 1180 (type ×1.3, layout width 560 — to confirm) · English 2 stars · Arabic no stars</div>
+<div id="g" class="screen tablet" lang="en"></div><div id="h" class="screen tablet" dir="rtl" lang="ar"></div>
+<script>
+// SF Symbol stand-ins (not in the repo; the app draws the system symbols).
+const star = (on) => `<svg class="${on ? 'on' : 'off'}" viewBox="0 0 24 24"><path stroke-width="1.4" stroke-linejoin="round" d="M12 2.5l2.9 6 6.6.8-4.9 4.5 1.3 6.5L12 17l-5.9 3.3 1.3-6.5L2.5 9.3l6.6-.8z"/></svg>`;
+const check = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12.5l5 5L20 6.5"/></svg>';
+const checkCircle = '<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" fill="currentColor"/><path d="M7 12.5l3.2 3.2L17 9" fill="none" stroke="#000" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+const T = {
+  en: { title:'How was your connection?', sub:'Your feedback helps us improve your experience.', ttitle:'Your free time ran out',
+        tsub:'We ended the session — nothing went wrong. How was it while it lasted?', why:'What went wrong?', send:'Send', skip:'Not now', sent:'Feedback successfully sent',
+        reasons:['Slow speed','Frequent disconnects',"Couldn't connect",'Connected but no internet','Server problems','App problems','Other'] },
+  ar: { title:'كيف كان اتصالك؟', sub:'ملاحظاتك تساعدنا على تحسين تجربتك.', ttitle:'انتهى وقتك المجاني',
+        tsub:'نحن من أنهينا الجلسة، ولم يحدث أي خلل. كيف كانت حتى تلك اللحظة؟', why:'ما الخطأ الذي حدث؟', send:'إرسال', skip:'ليس الآن', sent:'تم إرسال ملاحظاتك بنجاح',
+        reasons:['سرعة بطيئة','انقطاعات متكررة','تعذّر الاتصال','متصل ولكن لا يوجد إنترنت','مشاكل في الخادم','مشاكل في التطبيق','أخرى'] }
+};
+function build(id, lang, stars, opts = {}) {
+  const t = T[lang], timer = !!opts.timer, sel = opts.sel || [];
+  let inner;
+  if (opts.sent) {
+    inner = `<div class="sent"><div class="handle"></div><div class="grp">${checkCircle}<div class="Subtitle1">${t.sent}</div></div></div>`;
+  } else {
+    const showReasons = stars > 0 && stars <= 3 && !timer;
+    inner = `<div class="head"><div class="handle"></div><div class="H6">${timer ? t.ttitle : t.title}</div><div class="Body1">${timer ? t.tsub : t.sub}</div>
+        <div class="stars">${[1,2,3,4,5].map(n => star(n <= stars)).join('')}</div></div>
+      ${showReasons ? `<div class="reasons"><div class="Subtitle1">${t.why}</div><div class="list">${t.reasons.map((r, i) =>
+        `<div class="opt${sel.includes(i) ? ' sel' : ''}"><span class="Body1">${r}</span><span class="box">${sel.includes(i) ? check : ''}</span></div>`).join('')}</div></div>` : ''}
+      <div class="foot"><div class="btn${stars ? '' : ' disabled'}">${t.send}</div><div class="Body1 skip">${t.skip}</div></div>`;
+  }
+  document.getElementById(id).innerHTML = `<img src="../../assets/Images/World-Map.png" alt=""><div class="dim"></div><div class="sheet">${inner}</div>`;
+}
+build('a','en',0); build('b','en',2,{sel:[0,1]}); build('c','en',5); build('d','en',2,{timer:true}); build('e','en',5,{sent:true});
+build('f','ar',2,{sel:[0,1]}); build('g','en',2,{sel:[2]}); build('h','ar',0);
+for (const l of document.querySelectorAll('.list')) if (l.scrollHeight > l.clientHeight) l.classList.add('fade');
+</script>
+</body>
+</html>

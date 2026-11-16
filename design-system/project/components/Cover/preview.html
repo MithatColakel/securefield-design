@@ -1,0 +1,50 @@
+<!-- @dsCard height=288 -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>SecureField — cover</title>
+<style>
+  html, body { margin:0; }
+  body { width:960px; height:288px; position:relative; overflow:hidden; background:var(--background-primary); }
+  svg { position:absolute; left:0; top:0; }
+  .blue { fill:var(--blue); }
+  .green { fill:var(--lightGreen); }
+  .tint { fill:var(--background-secondary); }
+  .premium { fill:var(--lightYellow); }
+  .panel { rx:var(--radius-panel); }
+  .card { rx:var(--radius-card); }
+  .ring { fill:none; stroke:var(--background-primary); stroke-width:var(--space-s); }
+  .text { position:absolute; left:var(--space-page); bottom:var(--space-page); max-width:440px; }
+  .name { margin:0; font-family:var(--font-namu); font-size:64px; line-height:.95; font-weight:700; color:var(--text-primary); }
+  .tagline { margin:var(--space-m) 0 0; font-family:var(--font-redhat); font-size:14px; line-height:20px; color:var(--text-tertiary); }
+</style></head>
+<body>
+<svg width="960" height="288" viewBox="0 0 960 288" aria-hidden="true">
+  <!--
+    blocks: blue 208×240 and lightGreen 256×144 (radius-panel), background-secondary 104×80 and lightYellow 136×80 (radius-card); every side is a space-s multiple.
+    arrangement: one tall slab with satellites, flush on a 16 px gutter (space-l), right of x = 480, bleeding off the right edge.
+    pattern: literal motif, the connect orb's ring: five concentric arcs cut out of the blocks in the ground colour (background-primary). The orb is the one shape every SecureField screen is built around.
+    steps and radii: gutter space-l 16, ring stroke space-s 8, ring pitch 48 (space-l × 3); radius-panel 24, radius-card 16.
+  -->
+  <defs><clipPath id="blocks">
+    <rect x="496" y="24" width="208" height="240" rx="24"/>
+    <rect x="720" y="24" width="256" height="144" rx="24"/>
+  </clipPath></defs>
+  <rect class="blue panel" x="496" y="24" width="208" height="240"/>
+  <rect class="green panel" x="720" y="24" width="256" height="144"/>
+  <rect class="tint card" x="720" y="184" width="104" height="80"/>
+  <rect class="premium card" x="840" y="184" width="136" height="80"/>
+  <g clip-path="url(#blocks)">
+    <circle class="ring" cx="712" cy="264" r="48"/>
+    <circle class="ring" cx="712" cy="264" r="96"/>
+    <circle class="ring" cx="712" cy="264" r="144"/>
+    <circle class="ring" cx="712" cy="264" r="192"/>
+    <circle class="ring" cx="712" cy="264" r="240"/>
+  </g>
+</svg>
+<div class="text">
+  <h1 class="name">SecureField</h1>
+  <p class="tagline">A VPN for iPhone, iPad and Mac. Dark screens, one green action.</p>
+</div>
+</body>
+</html>

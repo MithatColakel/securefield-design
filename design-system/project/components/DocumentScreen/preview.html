@@ -1,0 +1,82 @@
+<!-- @dsCard group="Navigation" height=1780 subtitle="FAQ list and a document page at 390 × 844; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>DocumentScreen — preview</title>
+<style>
+  * { box-sizing:border-box; }
+  body { margin:0; background:#000; color:var(--text-primary); display:flex; flex-wrap:wrap; gap:24px; align-items:flex-start; }
+  .cap { color:var(--text-tertiary); width:100%; padding:12px 16px 0; }
+  .screen { --lw:390px; width:390px; height:844px; overflow:hidden; background:var(--gradient-background); }
+  /* LargeTitleBar stand-in (system bar; see LargeTitleBar) */
+  .bar { height:44px; display:flex; align-items:center; padding:0 8px; }
+  .bar .btn { width:44px; height:44px; display:flex; align-items:center; justify-content:center; color:var(--icon-primary); }
+  .bar svg { width:20px; height:20px; }
+  [dir=rtl] .bar svg { transform:scaleX(-1); }
+  .large { height:52px; display:flex; align-items:center; padding:0 16px; font-family:var(--font-namu); font-size:34px; white-space:nowrap; }
+  /* FAQScreen */
+  .faq { padding:16px 0; display:flex; justify-content:center; }
+  .card { position:relative; width:calc(var(--lw) * 0.915); border-radius:var(--radius-gradientCard); background:var(--background-secondary);
+          box-shadow:inset 1px 1px 2px 0 rgba(255,255,255,0.25); }
+  .card::before { content:""; position:absolute; inset:0; border-radius:inherit; padding:1px; background:var(--gradient-border);
+          -webkit-mask:linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite:xor; mask-composite:exclude; pointer-events:none; }
+  .row { height:64px; padding:0 20px; display:flex; align-items:center; gap:8px; }
+  .row .Body1 { flex:1; text-align:start; }
+  .next { width:24px; height:24px; flex:none; background:var(--icon-primary);
+          -webkit-mask:url(../../assets/Icons/Next.svg) center / contain no-repeat; mask:url(../../assets/Icons/Next.svg) center / contain no-repeat; }
+  [dir=rtl] .next { transform:scaleX(-1); }
+  .sep { height:1px; width:95.3%; margin-inline-start:auto; background:var(--separator-secondary); }
+  /* The page's own stylesheet (Resources/Documents/*.html) + the app's 20 side margins */
+  .doc { font-family:'Red Hat Display', sans-serif; font-weight:400; font-size:16px; color:#fff; margin:8px 20px; }
+  .doc b { font-weight:700; }
+</style></head>
+<body>
+<div class="cap Caption">FAQ · English · Arabic</div>
+<div id="faq-en" class="screen" lang="en"></div>
+<div id="faq-ar" class="screen" lang="ar" dir="rtl"></div>
+<div class="cap Caption">Document "Can’t connect" (cant-connect.html, cant-connect.ar.html) · English · Arabic</div>
+<div id="doc-en" class="screen" lang="en"></div>
+<div id="doc-ar" class="screen" lang="ar" dir="rtl"></div>
+<script>
+const back = '<div class="btn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M15 4l-8 8 8 8"/></svg></div>';
+const bar = (t) => `<div class="bar">${back}</div><div class="large">${t}</div>`;
+const FAQ = {
+  en: ['FAQ', ['Payment &amp; Subscription','Can’t connect','Can’t access Web/App','Profile/Installation','How Securefield works?','Other Issues']],
+  ar: ['الأسئلة الشائعة', ['الدفع والاشتراك','لا يمكن الاتصال','لا يمكن الوصول إلى الويب/التطبيق','الملف الشخصي/التثبيت','كيف يعمل Securefield؟','مشاكل أخرى']]
+};
+for (const l of ['en','ar']) {
+  const [title, rows] = FAQ[l];
+  document.getElementById('faq-' + l).innerHTML = bar(title) +
+    `<div class="faq"><div class="card">${rows.map((r, i) => `<div class="row"><span class="Body1">${r}</span><span class="next"></span></div>${i < rows.length - 1 ? '<div class="sep"></div>' : ''}`).join('')}</div></div>`;
+}
+// First lines of the bundled pages, as they are on main (markup kept).
+const DOC = {
+  en: ['Can’t connect', `<b><p class="important">-I can't connect: </p></b>
+    <p class="important">Before troubleshooting, please make sure:</p>
+    <p class="important">-You are connected to the internet via Wi-Fi or mobile data network</p>
+    <p class="important">-Your device is not jailbroken</p>
+    <p class="important">-A 3rd party app is not interfering with Internet Settings 'For example, a sensitive Firewall or another VPN application.'</p>
+    <b><p class="important">Steps: </p></b>
+    <p class="important">1) Turn Securefield VPN ON</p>
+    <p class="important">2) Switch Airplane Mode ON and OFF</p>
+    <p class="important">3) Reinstall Securefield VPN Profile</p>
+    <p class="important">4) In the Securefield VPN app, tap Settings &gt; Re-install Profile</p>
+    <p class="important">5) Enter your password and click OK from Account Settings, click "Manage App Subscriptions"</p>`],
+  ar: ['لا يمكن الاتصال', `- <b><p class="important">I لا يمكنني الاتصال: </p></b>
+ <p class="important">قبل استكشاف الأخطاء وإصلاحها، يرجى التأكد مما يلي:</p>
+ - <p class="important">أنك متصل بالإنترنت عبر شبكة واي-فاي أو شبكة بيانات الهاتف المحمول</p>
+ -<p class="important">أن حماية جهازك ليست مكسورة</p>
+-<p class="important">لا يتداخل تطبيق جهة خارجية مع إعدادات الإنترنت “على سبيل المثال، جدار حماية حساس أو تطبيق VPN آخر.”</p>
+<b><p class="important">الخطوات: </p></b>
+ <p class="important">1) قم بتشغيل Securefield VPN</p>
+ <p class="important">2) قم بتشغيل وضع الطيران وإيقافه</p>
+ <p class="important">3) أعد تثبيت ملف تعريف Securefield VPN</p>
+<p class="important">4) في تطبيق Securefield VPN، انقر فوق الإعدادات &gt; إعادة تثبيت ملف التعريف</p>
+ <p class="important">5) أدخل كلمة المرور وانقر "موافق" من "إعدادات الحساب"، ثم انقر "إدارة اشتراكات التطبيقات"</p>`]
+};
+for (const l of ['en','ar']) {
+  document.getElementById('doc-' + l).innerHTML = bar(DOC[l][0]) + `<div class="doc">${DOC[l][1]}</div>`;
+}
+</script>
+</body>
+</html>

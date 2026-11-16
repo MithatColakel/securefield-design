@@ -1,0 +1,1935 @@
+{
+ "v": 3,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-11-12T17:33:15Z"
+ },
+ "title": "SecureField Paywall'ları",
+ "launch": {
+  "view": "canvas",
+  "page": "iphone"
+ },
+ "pages": [
+  {
+   "id": "iphone",
+   "name": "iPhone"
+  },
+  {
+   "id": "ipad",
+   "name": "iPad"
+  },
+  {
+   "id": "mac",
+   "name": "Mac"
+  }
+ ],
+ "boards": {
+  "Main.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 880,
+   "h": 560,
+   "page": "iphone",
+   "title": "Cover"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-YearlySelected-EN.dc.html": {
+   "x": 0,
+   "y": 4150,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_PREMIUM_FLOW · Yearly selected (default) · EN · app screenshot"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-MonthlySelected-EN.dc.html": {
+   "x": 482,
+   "y": 4150,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_PREMIUM_FLOW · Monthly selected · EN · app screenshot"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-WeeklySelected-EN.dc.html": {
+   "x": 964,
+   "y": 4150,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_PREMIUM_FLOW · Weekly selected · EN · app screenshot"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-PurchaseFailed-EN.dc.html": {
+   "x": 1446,
+   "y": 4150,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_PREMIUM_FLOW · purchase failed — local StoreKit test, no real purchase · EN · app screenshot"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-YearlySelected-AR.dc.html": {
+   "x": 1928,
+   "y": 4150,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_PREMIUM_FLOW · Yearly selected (default) · AR · Arabic device: the flow shows its English texts (the app sends no language) · app screenshot"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-MonthlySelected-AR.dc.html": {
+   "x": 2410,
+   "y": 4150,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_PREMIUM_FLOW · Monthly selected · AR · Arabic device: the flow shows its English texts (the app sends no language) · app screenshot"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-WeeklySelected-AR.dc.html": {
+   "x": 2892,
+   "y": 4150,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_PREMIUM_FLOW · Weekly selected · AR · Arabic device: the flow shows its English texts (the app sends no language) · app screenshot"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-PurchaseFailed-AR.dc.html": {
+   "x": 3374,
+   "y": 4150,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_PREMIUM_FLOW · purchase failed — local StoreKit test, no real purchase · AR · Arabic device: the flow shows its English texts (the app sends no language) · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-YearlySelected-EN.dc.html": {
+   "x": 0,
+   "y": 5804,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM_FLOW · Yearly selected (default) · EN · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-MonthlySelected-EN.dc.html": {
+   "x": 482,
+   "y": 5804,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM_FLOW · Monthly selected · EN · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-WeeklySelected-EN.dc.html": {
+   "x": 964,
+   "y": 5804,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM_FLOW · Weekly selected · EN · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-PurchaseFailed-EN.dc.html": {
+   "x": 1446,
+   "y": 5804,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM_FLOW · purchase failed — local StoreKit test, no real purchase · EN · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-YearlySelected-AR.dc.html": {
+   "x": 1928,
+   "y": 5804,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM_FLOW · Yearly selected (default) · AR · Arabic device: the flow shows its English texts (the app sends no language) · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-MonthlySelected-AR.dc.html": {
+   "x": 2410,
+   "y": 5804,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM_FLOW · Monthly selected · AR · Arabic device: the flow shows its English texts (the app sends no language) · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-WeeklySelected-AR.dc.html": {
+   "x": 2892,
+   "y": 5804,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM_FLOW · Weekly selected · AR · Arabic device: the flow shows its English texts (the app sends no language) · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-PurchaseFailed-AR.dc.html": {
+   "x": 3374,
+   "y": 5804,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM_FLOW · purchase failed — local StoreKit test, no real purchase · AR · Arabic device: the flow shows its English texts (the app sends no language) · app screenshot"
+  },
+  "iPhone-SETTINGS_PREMIUM_FLOW-SettingsPremium-Opened-EN.dc.html": {
+   "x": 0,
+   "y": 7328,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SETTINGS_PREMIUM_FLOW · opened from Settings · EN · app screenshot"
+  },
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-PlansLoaded-EN.dc.html": {
+   "x": 0,
+   "y": 8982,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_TOP_LEFT_PREMIUM · plans loaded · EN · app screenshot"
+  },
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-Loading-EN.dc.html": {
+   "x": 482,
+   "y": 8982,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_TOP_LEFT_PREMIUM · plans loading · EN · app screenshot"
+  },
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-LoadFailed-EN.dc.html": {
+   "x": 964,
+   "y": 8982,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_TOP_LEFT_PREMIUM · load failed · EN · app screenshot"
+  },
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-PurchaseFailed-EN.dc.html": {
+   "x": 1446,
+   "y": 8982,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_TOP_LEFT_PREMIUM · purchase failed — local StoreKit test, no real purchase · EN · app screenshot"
+  },
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-PlansLoaded-AR.dc.html": {
+   "x": 1928,
+   "y": 8982,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_TOP_LEFT_PREMIUM · plans loaded · AR · app screenshot"
+  },
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-Loading-AR.dc.html": {
+   "x": 2410,
+   "y": 8982,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_TOP_LEFT_PREMIUM · plans loading · AR · app screenshot"
+  },
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-LoadFailed-AR.dc.html": {
+   "x": 2892,
+   "y": 8982,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_TOP_LEFT_PREMIUM · load failed · AR · app screenshot"
+  },
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-PurchaseFailed-AR.dc.html": {
+   "x": 3374,
+   "y": 8982,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "HOME_TOP_LEFT_PREMIUM · purchase failed — local StoreKit test, no real purchase · AR · app screenshot"
+  },
+  "iPhone-ONBOARDING-Premium-ArmB_Weekly-EN.dc.html": {
+   "x": 0,
+   "y": 10676,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "ONBOARDING · arm B (ONBOARDING, Weekly, 50 %) · EN · app screenshot"
+  },
+  "iPhone-ONBOARDING-Premium-ArmB_Weekly-AR.dc.html": {
+   "x": 482,
+   "y": 10676,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "ONBOARDING · arm B (ONBOARDING, Weekly, 50 %) · AR · app screenshot"
+  },
+  "iPhone-ONBOARDING_YEARLY-OnboardingLastSlide-ArmA_Weekly-EN.dc.html": {
+   "x": 0,
+   "y": 12370,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "ONBOARDING_YEARLY · arm A (ONBOARDING, Weekly, 100 %) · EN · app screenshot"
+  },
+  "iPhone-ONBOARDING_YEARLY-OnboardingLastSlide-Loading-EN.dc.html": {
+   "x": 482,
+   "y": 12370,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "ONBOARDING_YEARLY · price loading · EN · app screenshot"
+  },
+  "iPhone-ONBOARDING_YEARLY-OnboardingLastSlide-ArmA_Weekly-AR.dc.html": {
+   "x": 964,
+   "y": 12370,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "ONBOARDING_YEARLY · arm A (ONBOARDING, Weekly, 100 %) · AR · app screenshot"
+  },
+  "iPhone-ONBOARDING_YEARLY-OnboardingLastSlide-Loading-AR.dc.html": {
+   "x": 1446,
+   "y": 12370,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "ONBOARDING_YEARLY · price loading · AR · app screenshot"
+  },
+  "iPhone-PROFILE_PREMIUM-Premium-PlansLoaded-EN.dc.html": {
+   "x": 0,
+   "y": 13894,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "PROFILE_PREMIUM · plans loaded · EN · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-Plain-EN.dc.html": {
+   "x": 0,
+   "y": 15548,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM · pop-up, no server banner · EN · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-ServerBanner-EN.dc.html": {
+   "x": 482,
+   "y": 15548,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM · pop-up with the server banner · EN · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-Loading-EN.dc.html": {
+   "x": 964,
+   "y": 15548,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM · server banner, plans loading · EN · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-LoadFailed-EN.dc.html": {
+   "x": 1446,
+   "y": 15548,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM · server banner, load failed · EN · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-PurchaseFailed-EN.dc.html": {
+   "x": 1928,
+   "y": 15548,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM · purchase failed — local StoreKit test, no real purchase · EN · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-Plain-AR.dc.html": {
+   "x": 2410,
+   "y": 15548,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM · pop-up, no server banner · AR · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-ServerBanner-AR.dc.html": {
+   "x": 2892,
+   "y": 15548,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM · pop-up with the server banner · AR · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-Loading-AR.dc.html": {
+   "x": 3374,
+   "y": 15548,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM · server banner, plans loading · AR · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-LoadFailed-AR.dc.html": {
+   "x": 3856,
+   "y": 15548,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM · server banner, load failed · AR · app screenshot"
+  },
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-PurchaseFailed-AR.dc.html": {
+   "x": 4338,
+   "y": 15548,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "SERVER_PREMIUM · purchase failed — local StoreKit test, no real purchase · AR · app screenshot"
+  },
+  "iPhone-WATCH_ADS-Advertisement-Loading-EN.dc.html": {
+   "x": 0,
+   "y": 17162,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "WATCH_ADS · loading · EN · app screenshot"
+  },
+  "iPhone-WATCH_ADS-Advertisement-NoAdWatched-EN.dc.html": {
+   "x": 482,
+   "y": 17162,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "WATCH_ADS · no ad watched · EN · app screenshot"
+  },
+  "iPhone-WATCH_ADS-Advertisement-OneAdWatched-EN.dc.html": {
+   "x": 964,
+   "y": 17162,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "WATCH_ADS · one ad watched — our house ad, played with the app's test hooks · EN · app screenshot"
+  },
+  "iPhone-WATCH_ADS-Advertisement-Loading-AR.dc.html": {
+   "x": 1446,
+   "y": 17162,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "WATCH_ADS · loading · AR · app screenshot"
+  },
+  "iPhone-WATCH_ADS-Advertisement-NoAdWatched-AR.dc.html": {
+   "x": 1928,
+   "y": 17162,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "WATCH_ADS · no ad watched · AR · app screenshot"
+  },
+  "iPhone-WATCH_ADS-Advertisement-OneAdWatched-AR.dc.html": {
+   "x": 2410,
+   "y": 17162,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "WATCH_ADS · one ad watched — our house ad, played with the app's test hooks · AR · app screenshot"
+  },
+  "iPhone-YEARLY_50_OFF-flow-Premium-PushFallback-EN.dc.html": {
+   "x": 0,
+   "y": 19376,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "YEARLY_50_OFF-flow · push, products not found → app Premium screen · EN · app screenshot"
+  },
+  "iPhone-YEARLY_50_OFF-flow-Premium-PushFallbackColdStart-EN.dc.html": {
+   "x": 482,
+   "y": 19376,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "YEARLY_50_OFF-flow · push on a closed app, products not found → app Premium screen · EN · app screenshot"
+  },
+  "iPhone-YEARLY_50_OFF-flow-Main-PremiumUser-EN.dc.html": {
+   "x": 964,
+   "y": 19376,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "YEARLY_50_OFF-flow · push to a premium user → no paywall, main screen · EN · app screenshot"
+  },
+  "iPhone-YEARLY_50_OFF-flow-Premium-PushFallback-AR.dc.html": {
+   "x": 1446,
+   "y": 19376,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "YEARLY_50_OFF-flow · push, products not found → app Premium screen · AR · app screenshot"
+  },
+  "iPhone-BLACK_FRIDAY-Premium-PushFallback-EN.dc.html": {
+   "x": 0,
+   "y": 21030,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "BLACK_FRIDAY · push, products not found → app Premium screen · EN · app screenshot"
+  },
+  "iPhone-BLACK_FRIDAY-Black_Friday-AdaptyPreview-EN.dc.html": {
+   "x": 482,
+   "y": 21030,
+   "w": 196,
+   "h": 418,
+   "page": "iphone",
+   "title": "BLACK_FRIDAY · Black_Friday · EN · Adapty preview — not shown today: products do not load"
+  },
+  "iPhone-DAILY_USING_USERS_FREE-Least_using_Users_FREE_introductory-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 22684,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "DAILY_USING_USERS_FREE · Least_using_Users_FREE_introductory · EN · Adapty preview"
+  },
+  "iPhone-DAILY_USING_USERS_FREE-Least_using_Users_FREE_introductory-AdaptyPreview-AR.dc.html": {
+   "x": 360,
+   "y": 22684,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "DAILY_USING_USERS_FREE · Least_using_Users_FREE_introductory · AR · Adapty preview — not shown today: Arabic texts (the app shows English)"
+  },
+  "iPhone-NEVER_USED_YEARLY_OFFER-BEST_OFFER_FOR_YEARLY_NEVER_USED-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 24061,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "NEVER_USED_YEARLY_OFFER · BEST_OFFER_FOR_YEARLY_NEVER_USED · EN · Adapty preview"
+  },
+  "iPhone-NEVER_USED_YEARLY_OFFER-BEST_OFFER_FOR_YEARLY_NEVER_USED-AdaptyPreview-AR.dc.html": {
+   "x": 360,
+   "y": 24061,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "NEVER_USED_YEARLY_OFFER · BEST_OFFER_FOR_YEARLY_NEVER_USED · AR · Adapty preview — not shown today: Arabic texts (the app shows English)"
+  },
+  "iPhone-NOT_USING_USERS_PREMIUM-Least_using_users_premiums_promotional-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 25978,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "NOT_USING_USERS_PREMIUM · Least_using_users_premiums_promotional · EN · Adapty preview"
+  },
+  "iPhone-NOT_USING_USERS_PREMIUM-Least_using_users_premiums_promotional-AdaptyPreview-AR.dc.html": {
+   "x": 360,
+   "y": 25978,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "NOT_USING_USERS_PREMIUM · Least_using_users_premiums_promotional · AR · Adapty preview — not shown today: Arabic texts (the app shows English)"
+  },
+  "iPhone-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 27895,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY · ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE · EN · Adapty preview"
+  },
+  "iPhone-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-AR.dc.html": {
+   "x": 360,
+   "y": 27895,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY · ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE · AR · Adapty preview — not shown today: Arabic texts (the app shows English)"
+  },
+  "iPhone-SPEED_PROBLEM_FREEMIUM-SPEED_TEST_PROBLEM_PROMOTIONAL-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 29272,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "SPEED_PROBLEM_FREEMIUM · SPEED_TEST_PROBLEM_PROMOTIONAL · EN · Adapty preview"
+  },
+  "iPhone-SPEED_PROBLEM_FREEMIUM-SPEED_TEST_PROBLEM_PROMOTIONAL-AdaptyPreview-AR.dc.html": {
+   "x": 360,
+   "y": 29272,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "SPEED_PROBLEM_FREEMIUM · SPEED_TEST_PROBLEM_PROMOTIONAL · AR · Adapty preview — not shown today: Arabic texts (the app shows English)"
+  },
+  "iPhone-WIN_BACK_YEARLY_OFFER-ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 30649,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "WIN_BACK_YEARLY_OFFER · ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL · EN · Adapty preview"
+  },
+  "iPhone-WIN_BACK_YEARLY_OFFER-ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-AR.dc.html": {
+   "x": 360,
+   "y": 30649,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "WIN_BACK_YEARLY_OFFER · ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL · AR · Adapty preview — not shown today: Arabic texts (the app shows English)"
+  },
+  "iPhone-YEARLY_50_OFF-FOR_PROMOTIONAL_FREE_USERS_YEARLY_50-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 32026,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "YEARLY_50_OFF · FOR_PROMOTIONAL_FREE_USERS_YEARLY_50 · EN · Adapty preview"
+  },
+  "iPhone-YEARLY_50_OFF-FOR_PROMOTIONAL_FREE_USERS_YEARLY_50-AdaptyPreview-AR.dc.html": {
+   "x": 360,
+   "y": 32026,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "YEARLY_50_OFF · FOR_PROMOTIONAL_FREE_USERS_YEARLY_50 · AR · Adapty preview — not shown today: Arabic texts (the app shows English)"
+  },
+  "iPhone-ramadan_2026-Ramadan_FEAST-Push-EN.dc.html": {
+   "x": 0,
+   "y": 33403,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "ramadan_2026 · push → Adapty layout “Ramadan Offer” · EN · app screenshot"
+  },
+  "iPhone-ramadan_2026-Ramadan_FEAST-AdaptyPreview-EN.dc.html": {
+   "x": 482,
+   "y": 33403,
+   "w": 196,
+   "h": 418,
+   "page": "iphone",
+   "title": "ramadan_2026 · Ramadan_FEAST · EN · Adapty preview"
+  },
+  "iPhone-ramadan_2026-Ramadan_FEAST-AdaptyPreview-AR.dc.html": {
+   "x": 758,
+   "y": 33403,
+   "w": 196,
+   "h": 418,
+   "page": "iphone",
+   "title": "ramadan_2026 · Ramadan_FEAST · AR · Adapty preview — not shown today: Arabic texts (the app shows English)"
+  },
+  "iPhone-UNKNOWN_ID-Premium-PushFallback-EN.dc.html": {
+   "x": 0,
+   "y": 34927,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "unknown placement id · push → app Premium screen · EN · app screenshot"
+  },
+  "iPhone-SPEED_PROBLEM_FREEMIUM-SPEED_PROBLEM_ALTERNATIVE_1-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 37091,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "Draft — not live — SPEED_PROBLEM_ALTERNATIVE_1 · arm B 0 % · EN · Adapty preview"
+  },
+  "iPhone-SPEED_PROBLEM_FREEMIUM-SPEED_PROBLEM_ALTERNATIVE_1-AdaptyPreview-AR.dc.html": {
+   "x": 360,
+   "y": 37091,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "Draft — not live — SPEED_PROBLEM_ALTERNATIVE_1 · arm B 0 % · AR · Adapty preview"
+  },
+  "iPhone-NO_PLACEMENT-PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 38428,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "Draft — not live — PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE · no placement · EN · Adapty preview"
+  },
+  "iPhone-NO_PLACEMENT-WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-EN.dc.html": {
+   "x": 360,
+   "y": 38428,
+   "w": 280,
+   "h": 597,
+   "page": "iphone",
+   "title": "Draft — not live — WIN_BACK_OFFER_YEARLY_PROMOTIONAL · no placement · EN · Adapty preview"
+  },
+  "iPad-HOME_PREMIUM_FLOW-HomePremiumTap-Opened-EN.dc.html": {
+   "x": 0,
+   "y": 820,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "HOME_PREMIUM_FLOW on iPad · Home Premium tap → app Premium screen · portrait · EN · app screenshot"
+  },
+  "iPad-SERVER_PREMIUM_FLOW-PremiumServerTap-Opened-EN.dc.html": {
+   "x": 914,
+   "y": 820,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "SERVER_PREMIUM_FLOW on iPad · premium server tap → app Premium pop-up · portrait · EN · app screenshot"
+  },
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitPlansLoaded-EN.dc.html": {
+   "x": 0,
+   "y": 2770,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "HOME_TOP_LEFT_PREMIUM · plans loaded · portrait · EN · app screenshot"
+  },
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitLoading-EN.dc.html": {
+   "x": 914,
+   "y": 2770,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "HOME_TOP_LEFT_PREMIUM · plans loading · portrait · EN · app screenshot"
+  },
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitPurchaseFailed-EN.dc.html": {
+   "x": 1828,
+   "y": 2770,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "HOME_TOP_LEFT_PREMIUM · purchase failed — local StoreKit test, no real purchase · portrait · EN · app screenshot"
+  },
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-LandscapePlansLoaded-EN.dc.html": {
+   "x": 2742,
+   "y": 2770,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "HOME_TOP_LEFT_PREMIUM · plans loaded · landscape · EN · app screenshot"
+  },
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitPlansLoaded-AR.dc.html": {
+   "x": 4032,
+   "y": 2770,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "HOME_TOP_LEFT_PREMIUM · plans loaded · portrait · AR · app screenshot"
+  },
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitLoading-AR.dc.html": {
+   "x": 4946,
+   "y": 2770,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "HOME_TOP_LEFT_PREMIUM · plans loading · portrait · AR · app screenshot"
+  },
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitPurchaseFailed-AR.dc.html": {
+   "x": 5860,
+   "y": 2770,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "HOME_TOP_LEFT_PREMIUM · purchase failed — local StoreKit test, no real purchase · portrait · AR · app screenshot"
+  },
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-LandscapePlansLoaded-AR.dc.html": {
+   "x": 6774,
+   "y": 2770,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "HOME_TOP_LEFT_PREMIUM · plans loaded · landscape · AR · app screenshot"
+  },
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-PortraitArmA_Weekly-EN.dc.html": {
+   "x": 0,
+   "y": 4760,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "ONBOARDING_YEARLY · arm A (Weekly, 100 %) · portrait · EN · app screenshot"
+  },
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-PortraitLoading-EN.dc.html": {
+   "x": 914,
+   "y": 4760,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "ONBOARDING_YEARLY · price loading · portrait · EN · app screenshot"
+  },
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-LandscapeArmA_Weekly-EN.dc.html": {
+   "x": 1828,
+   "y": 4760,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "ONBOARDING_YEARLY · arm A (Weekly, 100 %) · landscape · EN · app screenshot"
+  },
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-LandscapeLoading-EN.dc.html": {
+   "x": 3118,
+   "y": 4760,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "ONBOARDING_YEARLY · price loading · landscape · EN · app screenshot"
+  },
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-PortraitArmA_Weekly-AR.dc.html": {
+   "x": 4408,
+   "y": 4760,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "ONBOARDING_YEARLY · arm A (Weekly, 100 %) · portrait · AR · app screenshot"
+  },
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-PortraitLoading-AR.dc.html": {
+   "x": 5322,
+   "y": 4760,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "ONBOARDING_YEARLY · price loading · portrait · AR · app screenshot"
+  },
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-LandscapeArmA_Weekly-AR.dc.html": {
+   "x": 6236,
+   "y": 4760,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "ONBOARDING_YEARLY · arm A (Weekly, 100 %) · landscape · AR · app screenshot"
+  },
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-LandscapeLoading-AR.dc.html": {
+   "x": 7526,
+   "y": 4760,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "ONBOARDING_YEARLY · price loading · landscape · AR · app screenshot"
+  },
+  "iPad-SERVER_PREMIUM-PremiumPopUp-PortraitPlain-EN.dc.html": {
+   "x": 0,
+   "y": 6750,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "SERVER_PREMIUM · pop-up, no server banner · portrait · EN · app screenshot"
+  },
+  "iPad-SERVER_PREMIUM-PremiumPopUp-PortraitServerBanner-EN.dc.html": {
+   "x": 914,
+   "y": 6750,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "SERVER_PREMIUM · pop-up with the server banner · portrait · EN · app screenshot"
+  },
+  "iPad-SERVER_PREMIUM-PremiumPopUp-LandscapePlain-EN.dc.html": {
+   "x": 1828,
+   "y": 6750,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "SERVER_PREMIUM · pop-up, no server banner · landscape · EN · app screenshot"
+  },
+  "iPad-SERVER_PREMIUM-PremiumPopUp-PortraitPlain-AR.dc.html": {
+   "x": 3118,
+   "y": 6750,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "SERVER_PREMIUM · pop-up, no server banner · portrait · AR · app screenshot"
+  },
+  "iPad-SERVER_PREMIUM-PremiumPopUp-PortraitServerBanner-AR.dc.html": {
+   "x": 4032,
+   "y": 6750,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "SERVER_PREMIUM · pop-up with the server banner · portrait · AR · app screenshot"
+  },
+  "iPad-SERVER_PREMIUM-PremiumPopUp-LandscapePlain-AR.dc.html": {
+   "x": 4946,
+   "y": 6750,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "SERVER_PREMIUM · pop-up, no server banner · landscape · AR · app screenshot"
+  },
+  "iPad-WATCH_ADS-Advertisement-LandscapeNoAdWatched-AR.dc.html": {
+   "x": 0,
+   "y": 8610,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "WATCH_ADS · no ad watched · landscape · AR · app screenshot"
+  },
+  "iPad-DAILY_USING_USERS_FREE-Least_using_Users_FREE_introductory-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 10664,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "DAILY_USING_USERS_FREE · Least_using_Users_FREE_introductory · EN · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet)"
+  },
+  "iPad-DAILY_USING_USERS_FREE-Least_using_Users_FREE_introductory-AdaptyPreview-AR.dc.html": {
+   "x": 528,
+   "y": 10664,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "DAILY_USING_USERS_FREE · Least_using_Users_FREE_introductory · AR · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet); Arabic texts"
+  },
+  "iPad-NEVER_USED_YEARLY_OFFER-BEST_OFFER_FOR_YEARLY_NEVER_USED-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 11998,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "NEVER_USED_YEARLY_OFFER · BEST_OFFER_FOR_YEARLY_NEVER_USED · EN · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet)"
+  },
+  "iPad-NEVER_USED_YEARLY_OFFER-BEST_OFFER_FOR_YEARLY_NEVER_USED-AdaptyPreview-AR.dc.html": {
+   "x": 528,
+   "y": 11998,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "NEVER_USED_YEARLY_OFFER · BEST_OFFER_FOR_YEARLY_NEVER_USED · AR · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet); Arabic texts"
+  },
+  "iPad-NOT_USING_USERS_PREMIUM-Least_using_users_premiums_promotional-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 13332,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "NOT_USING_USERS_PREMIUM · Least_using_users_premiums_promotional · EN · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet)"
+  },
+  "iPad-NOT_USING_USERS_PREMIUM-Least_using_users_premiums_promotional-AdaptyPreview-AR.dc.html": {
+   "x": 528,
+   "y": 13332,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "NOT_USING_USERS_PREMIUM · Least_using_users_premiums_promotional · AR · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet); Arabic texts"
+  },
+  "iPad-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 14666,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY · ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE · EN · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet)"
+  },
+  "iPad-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-AR.dc.html": {
+   "x": 528,
+   "y": 14666,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY · ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE · AR · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet); Arabic texts"
+  },
+  "iPad-SPEED_PROBLEM_FREEMIUM-SPEED_TEST_PROBLEM_PROMOTIONAL-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 16000,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "SPEED_PROBLEM_FREEMIUM · SPEED_TEST_PROBLEM_PROMOTIONAL · EN · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet)"
+  },
+  "iPad-SPEED_PROBLEM_FREEMIUM-SPEED_TEST_PROBLEM_PROMOTIONAL-AdaptyPreview-AR.dc.html": {
+   "x": 528,
+   "y": 16000,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "SPEED_PROBLEM_FREEMIUM · SPEED_TEST_PROBLEM_PROMOTIONAL · AR · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet); Arabic texts"
+  },
+  "iPad-WIN_BACK_YEARLY_OFFER-ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 17334,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "WIN_BACK_YEARLY_OFFER · ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL · EN · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet)"
+  },
+  "iPad-WIN_BACK_YEARLY_OFFER-ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-AR.dc.html": {
+   "x": 528,
+   "y": 17334,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "WIN_BACK_YEARLY_OFFER · ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL · AR · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet); Arabic texts"
+  },
+  "iPad-YEARLY_50_OFF-FOR_PROMOTIONAL_FREE_USERS_YEARLY_50-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 18668,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "YEARLY_50_OFF · FOR_PROMOTIONAL_FREE_USERS_YEARLY_50 · EN · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet)"
+  },
+  "iPad-YEARLY_50_OFF-FOR_PROMOTIONAL_FREE_USERS_YEARLY_50-AdaptyPreview-AR.dc.html": {
+   "x": 528,
+   "y": 18668,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "YEARLY_50_OFF · FOR_PROMOTIONAL_FREE_USERS_YEARLY_50 · AR · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet); Arabic texts"
+  },
+  "iPad-ramadan_2026-Premium-PushFallback-EN.dc.html": {
+   "x": 0,
+   "y": 20002,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "ramadan_2026 on iPad · push → app Premium screen · portrait · EN · app screenshot"
+  },
+  "iPad-ramadan_2026-Ramadan_FEAST-AdaptyPreview-EN.dc.html": {
+   "x": 914,
+   "y": 20002,
+   "w": 314,
+   "h": 416,
+   "page": "ipad",
+   "title": "ramadan_2026 · Ramadan_FEAST · EN · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet)"
+  },
+  "iPad-ramadan_2026-Ramadan_FEAST-AdaptyPreview-AR.dc.html": {
+   "x": 1308,
+   "y": 20002,
+   "w": 314,
+   "h": 416,
+   "page": "ipad",
+   "title": "ramadan_2026 · Ramadan_FEAST · AR · Adapty preview — not shown today: iPad (the app draws no Adapty screen on a tablet); Arabic texts"
+  },
+  "iPad-SPEED_PROBLEM_FREEMIUM-SPEED_PROBLEM_ALTERNATIVE_1-AdaptyPreview-EN.dc.html": {
+   "x": 0,
+   "y": 22352,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "Draft — not live — SPEED_PROBLEM_ALTERNATIVE_1 · arm B 0 % · EN · Adapty preview"
+  },
+  "iPad-SPEED_PROBLEM_FREEMIUM-SPEED_PROBLEM_ALTERNATIVE_1-AdaptyPreview-AR.dc.html": {
+   "x": 528,
+   "y": 22352,
+   "w": 448,
+   "h": 594,
+   "page": "ipad",
+   "title": "Draft — not live — SPEED_PROBLEM_ALTERNATIVE_1 · arm B 0 % · AR · Adapty preview"
+  },
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-PlansLoaded-EN.dc.html": {
+   "x": 0,
+   "y": 780,
+   "w": 480,
+   "h": 640,
+   "page": "mac",
+   "title": "HOME_TOP_LEFT_PREMIUM · plans loaded · EN · app screenshot"
+  },
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-Loading-EN.dc.html": {
+   "x": 560,
+   "y": 780,
+   "w": 480,
+   "h": 640,
+   "page": "mac",
+   "title": "HOME_TOP_LEFT_PREMIUM · loading — off-screen render of the app's paywall view, local build · EN · app screenshot"
+  },
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-LoadFailed-EN.dc.html": {
+   "x": 1120,
+   "y": 780,
+   "w": 480,
+   "h": 640,
+   "page": "mac",
+   "title": "HOME_TOP_LEFT_PREMIUM · load failed — off-screen render of the app's paywall view, local build · EN · app screenshot"
+  },
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-PurchaseMessage-EN.dc.html": {
+   "x": 1680,
+   "y": 780,
+   "w": 480,
+   "h": 640,
+   "page": "mac",
+   "title": "HOME_TOP_LEFT_PREMIUM · purchase message — off-screen render, local build, sample plans · EN · app screenshot"
+  },
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-PlansLoaded-AR.dc.html": {
+   "x": 2240,
+   "y": 780,
+   "w": 480,
+   "h": 640,
+   "page": "mac",
+   "title": "HOME_TOP_LEFT_PREMIUM · plans loaded · AR · app screenshot"
+  },
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-Loading-AR.dc.html": {
+   "x": 2800,
+   "y": 780,
+   "w": 480,
+   "h": 640,
+   "page": "mac",
+   "title": "HOME_TOP_LEFT_PREMIUM · loading — off-screen render of the app's paywall view, local build · AR · app screenshot"
+  },
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-LoadFailed-AR.dc.html": {
+   "x": 3360,
+   "y": 780,
+   "w": 480,
+   "h": 640,
+   "page": "mac",
+   "title": "HOME_TOP_LEFT_PREMIUM · load failed — off-screen render of the app's paywall view, local build · AR · app screenshot"
+  },
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-PurchaseMessage-AR.dc.html": {
+   "x": 3920,
+   "y": 780,
+   "w": 480,
+   "h": 640,
+   "page": "mac",
+   "title": "HOME_TOP_LEFT_PREMIUM · purchase message — off-screen render, local build, sample plans · AR · app screenshot"
+  }
+ },
+ "order": [
+  "Main.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-YearlySelected-EN.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-MonthlySelected-EN.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-WeeklySelected-EN.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-PurchaseFailed-EN.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-YearlySelected-AR.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-MonthlySelected-AR.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-WeeklySelected-AR.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-HomePremium-PurchaseFailed-AR.dc.html",
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-YearlySelected-EN.dc.html",
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-MonthlySelected-EN.dc.html",
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-WeeklySelected-EN.dc.html",
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-PurchaseFailed-EN.dc.html",
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-YearlySelected-AR.dc.html",
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-MonthlySelected-AR.dc.html",
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-WeeklySelected-AR.dc.html",
+  "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-PurchaseFailed-AR.dc.html",
+  "iPhone-SETTINGS_PREMIUM_FLOW-SettingsPremium-Opened-EN.dc.html",
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-PlansLoaded-EN.dc.html",
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-Loading-EN.dc.html",
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-LoadFailed-EN.dc.html",
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-PurchaseFailed-EN.dc.html",
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-PlansLoaded-AR.dc.html",
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-Loading-AR.dc.html",
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-LoadFailed-AR.dc.html",
+  "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-PurchaseFailed-AR.dc.html",
+  "iPhone-ONBOARDING-Premium-ArmB_Weekly-EN.dc.html",
+  "iPhone-ONBOARDING-Premium-ArmB_Weekly-AR.dc.html",
+  "iPhone-ONBOARDING_YEARLY-OnboardingLastSlide-ArmA_Weekly-EN.dc.html",
+  "iPhone-ONBOARDING_YEARLY-OnboardingLastSlide-Loading-EN.dc.html",
+  "iPhone-ONBOARDING_YEARLY-OnboardingLastSlide-ArmA_Weekly-AR.dc.html",
+  "iPhone-ONBOARDING_YEARLY-OnboardingLastSlide-Loading-AR.dc.html",
+  "iPhone-PROFILE_PREMIUM-Premium-PlansLoaded-EN.dc.html",
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-Plain-EN.dc.html",
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-ServerBanner-EN.dc.html",
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-Loading-EN.dc.html",
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-LoadFailed-EN.dc.html",
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-PurchaseFailed-EN.dc.html",
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-Plain-AR.dc.html",
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-ServerBanner-AR.dc.html",
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-Loading-AR.dc.html",
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-LoadFailed-AR.dc.html",
+  "iPhone-SERVER_PREMIUM-PremiumPopUp-PurchaseFailed-AR.dc.html",
+  "iPhone-WATCH_ADS-Advertisement-Loading-EN.dc.html",
+  "iPhone-WATCH_ADS-Advertisement-NoAdWatched-EN.dc.html",
+  "iPhone-WATCH_ADS-Advertisement-OneAdWatched-EN.dc.html",
+  "iPhone-WATCH_ADS-Advertisement-Loading-AR.dc.html",
+  "iPhone-WATCH_ADS-Advertisement-NoAdWatched-AR.dc.html",
+  "iPhone-WATCH_ADS-Advertisement-OneAdWatched-AR.dc.html",
+  "iPhone-YEARLY_50_OFF-flow-Premium-PushFallback-EN.dc.html",
+  "iPhone-YEARLY_50_OFF-flow-Premium-PushFallbackColdStart-EN.dc.html",
+  "iPhone-YEARLY_50_OFF-flow-Main-PremiumUser-EN.dc.html",
+  "iPhone-YEARLY_50_OFF-flow-Premium-PushFallback-AR.dc.html",
+  "iPhone-BLACK_FRIDAY-Premium-PushFallback-EN.dc.html",
+  "iPhone-BLACK_FRIDAY-Black_Friday-AdaptyPreview-EN.dc.html",
+  "iPhone-DAILY_USING_USERS_FREE-Least_using_Users_FREE_introductory-AdaptyPreview-EN.dc.html",
+  "iPhone-DAILY_USING_USERS_FREE-Least_using_Users_FREE_introductory-AdaptyPreview-AR.dc.html",
+  "iPhone-NEVER_USED_YEARLY_OFFER-BEST_OFFER_FOR_YEARLY_NEVER_USED-AdaptyPreview-EN.dc.html",
+  "iPhone-NEVER_USED_YEARLY_OFFER-BEST_OFFER_FOR_YEARLY_NEVER_USED-AdaptyPreview-AR.dc.html",
+  "iPhone-NOT_USING_USERS_PREMIUM-Least_using_users_premiums_promotional-AdaptyPreview-EN.dc.html",
+  "iPhone-NOT_USING_USERS_PREMIUM-Least_using_users_premiums_promotional-AdaptyPreview-AR.dc.html",
+  "iPhone-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-EN.dc.html",
+  "iPhone-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-AR.dc.html",
+  "iPhone-SPEED_PROBLEM_FREEMIUM-SPEED_TEST_PROBLEM_PROMOTIONAL-AdaptyPreview-EN.dc.html",
+  "iPhone-SPEED_PROBLEM_FREEMIUM-SPEED_TEST_PROBLEM_PROMOTIONAL-AdaptyPreview-AR.dc.html",
+  "iPhone-WIN_BACK_YEARLY_OFFER-ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-EN.dc.html",
+  "iPhone-WIN_BACK_YEARLY_OFFER-ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-AR.dc.html",
+  "iPhone-YEARLY_50_OFF-FOR_PROMOTIONAL_FREE_USERS_YEARLY_50-AdaptyPreview-EN.dc.html",
+  "iPhone-YEARLY_50_OFF-FOR_PROMOTIONAL_FREE_USERS_YEARLY_50-AdaptyPreview-AR.dc.html",
+  "iPhone-ramadan_2026-Ramadan_FEAST-Push-EN.dc.html",
+  "iPhone-ramadan_2026-Ramadan_FEAST-AdaptyPreview-EN.dc.html",
+  "iPhone-ramadan_2026-Ramadan_FEAST-AdaptyPreview-AR.dc.html",
+  "iPhone-UNKNOWN_ID-Premium-PushFallback-EN.dc.html",
+  "iPhone-SPEED_PROBLEM_FREEMIUM-SPEED_PROBLEM_ALTERNATIVE_1-AdaptyPreview-EN.dc.html",
+  "iPhone-SPEED_PROBLEM_FREEMIUM-SPEED_PROBLEM_ALTERNATIVE_1-AdaptyPreview-AR.dc.html",
+  "iPhone-NO_PLACEMENT-PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-EN.dc.html",
+  "iPhone-NO_PLACEMENT-WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-EN.dc.html",
+  "iPad-HOME_PREMIUM_FLOW-HomePremiumTap-Opened-EN.dc.html",
+  "iPad-SERVER_PREMIUM_FLOW-PremiumServerTap-Opened-EN.dc.html",
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitPlansLoaded-EN.dc.html",
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitLoading-EN.dc.html",
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitPurchaseFailed-EN.dc.html",
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-LandscapePlansLoaded-EN.dc.html",
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitPlansLoaded-AR.dc.html",
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitLoading-AR.dc.html",
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitPurchaseFailed-AR.dc.html",
+  "iPad-HOME_TOP_LEFT_PREMIUM-Premium-LandscapePlansLoaded-AR.dc.html",
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-PortraitArmA_Weekly-EN.dc.html",
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-PortraitLoading-EN.dc.html",
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-LandscapeArmA_Weekly-EN.dc.html",
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-LandscapeLoading-EN.dc.html",
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-PortraitArmA_Weekly-AR.dc.html",
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-PortraitLoading-AR.dc.html",
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-LandscapeArmA_Weekly-AR.dc.html",
+  "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-LandscapeLoading-AR.dc.html",
+  "iPad-SERVER_PREMIUM-PremiumPopUp-PortraitPlain-EN.dc.html",
+  "iPad-SERVER_PREMIUM-PremiumPopUp-PortraitServerBanner-EN.dc.html",
+  "iPad-SERVER_PREMIUM-PremiumPopUp-LandscapePlain-EN.dc.html",
+  "iPad-SERVER_PREMIUM-PremiumPopUp-PortraitPlain-AR.dc.html",
+  "iPad-SERVER_PREMIUM-PremiumPopUp-PortraitServerBanner-AR.dc.html",
+  "iPad-SERVER_PREMIUM-PremiumPopUp-LandscapePlain-AR.dc.html",
+  "iPad-WATCH_ADS-Advertisement-LandscapeNoAdWatched-AR.dc.html",
+  "iPad-DAILY_USING_USERS_FREE-Least_using_Users_FREE_introductory-AdaptyPreview-EN.dc.html",
+  "iPad-DAILY_USING_USERS_FREE-Least_using_Users_FREE_introductory-AdaptyPreview-AR.dc.html",
+  "iPad-NEVER_USED_YEARLY_OFFER-BEST_OFFER_FOR_YEARLY_NEVER_USED-AdaptyPreview-EN.dc.html",
+  "iPad-NEVER_USED_YEARLY_OFFER-BEST_OFFER_FOR_YEARLY_NEVER_USED-AdaptyPreview-AR.dc.html",
+  "iPad-NOT_USING_USERS_PREMIUM-Least_using_users_premiums_promotional-AdaptyPreview-EN.dc.html",
+  "iPad-NOT_USING_USERS_PREMIUM-Least_using_users_premiums_promotional-AdaptyPreview-AR.dc.html",
+  "iPad-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-EN.dc.html",
+  "iPad-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-AR.dc.html",
+  "iPad-SPEED_PROBLEM_FREEMIUM-SPEED_TEST_PROBLEM_PROMOTIONAL-AdaptyPreview-EN.dc.html",
+  "iPad-SPEED_PROBLEM_FREEMIUM-SPEED_TEST_PROBLEM_PROMOTIONAL-AdaptyPreview-AR.dc.html",
+  "iPad-WIN_BACK_YEARLY_OFFER-ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-EN.dc.html",
+  "iPad-WIN_BACK_YEARLY_OFFER-ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-AR.dc.html",
+  "iPad-YEARLY_50_OFF-FOR_PROMOTIONAL_FREE_USERS_YEARLY_50-AdaptyPreview-EN.dc.html",
+  "iPad-YEARLY_50_OFF-FOR_PROMOTIONAL_FREE_USERS_YEARLY_50-AdaptyPreview-AR.dc.html",
+  "iPad-ramadan_2026-Premium-PushFallback-EN.dc.html",
+  "iPad-ramadan_2026-Ramadan_FEAST-AdaptyPreview-EN.dc.html",
+  "iPad-ramadan_2026-Ramadan_FEAST-AdaptyPreview-AR.dc.html",
+  "iPad-SPEED_PROBLEM_FREEMIUM-SPEED_PROBLEM_ALTERNATIVE_1-AdaptyPreview-EN.dc.html",
+  "iPad-SPEED_PROBLEM_FREEMIUM-SPEED_PROBLEM_ALTERNATIVE_1-AdaptyPreview-AR.dc.html",
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-PlansLoaded-EN.dc.html",
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-Loading-EN.dc.html",
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-LoadFailed-EN.dc.html",
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-PurchaseMessage-EN.dc.html",
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-PlansLoaded-AR.dc.html",
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-Loading-AR.dc.html",
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-LoadFailed-AR.dc.html",
+  "Mac-HOME_TOP_LEFT_PREMIUM-Paywall-PurchaseMessage-AR.dc.html"
+ ],
+ "notes": {
+  "pay-001": {
+   "x": 0,
+   "y": 860,
+   "text": "SecureField Paywall'ları — iPhone",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "pay-002": {
+   "x": 0,
+   "y": 1160,
+   "text": "Products and offers — App Store Connect (asc-products on VPN-731, read 2026-11-12 18:27 UTC) and Adapty (export 2026-11-12 09:41Z). 1 of 3; prices and offers are in the next two notes.\nPrices on the frames are samples: App Store sandbox prices in the app screenshots, Adapty's sample values in the Adapty previews. The App Store sets the real price per country. Adapty's USD value is not the store price.\nAll 8 products are auto-renewable subscriptions in the group \"Premium Membership\". iPhone, iPad and Mac use the same products (one app record). No non-subscription in-app purchase.\nPlacements: as Adapty names them. (B) = Paywall Builder placement. On iPhone a push shows its Adapty layout when its products load. If they do not load, and always on iPad, the app shows its own Premium screen with the HOME_TOP_LEFT_PREMIUM plans (Yearly, Monthly, Weekly).\n\n• com.yearlyMembership — Yearly — 1 year — group level 1. Intro: none. Promotional: pay up front for the first year (\"%50OFF\" by its name). Win-back: 3 months free. Adapty offers 599380d9 and 268f5fc3. Placements: HOME_TOP_LEFT_PREMIUM, PROFILE_PREMIUM, SERVER_PREMIUM, Home / Server / Settings Premium flows; WIN_BACK_YEARLY_OFFER (B), NOT_USING_USERS_PREMIUM (B).\n• com.monthlyMembership — Monthly — 1 month — level 1. Intro: none. Promotional: 1 month free (\"Premium 30 Trial\"). Adapty offer 8eff407d. Placements: HOME_TOP_LEFT_PREMIUM, PROFILE_PREMIUM, the three Premium flows; PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY (B).\n• com.weeklyMembership — Weekly — 1 week — level 1. Intro: 3-day free trial. Promotional: 3-day free trial. Offer codes: yes. Adapty offer 0091d7f1. Placements: HOME_TOP_LEFT_PREMIUM, PROFILE_PREMIUM, SERVER_PREMIUM, WATCH_ADS, the three Premium flows, ONBOARDING_YEARLY (arm A, 100 %), ONBOARDING (arm B, 50 %); ramadan_2026 (B).\n• com.yearlyIntroductoryPromotionalOfferYearly — Yearly With Introductory and Promotional — 1 year — level 4. Intro: 3-day free trial. Promotional: pay up front for the first year. Adapty offer 23da726b. Placements: YEARLY_50_OFF-flow (push), ONBOARDING (arm A, 50 %), ONBOARDING_YEARLY (arm B, 0 %, draft); TEST_DENEME (test).\n• com.yearlyBestintroductoryoffer — Yearly Best Introductory Offer — 1 year — level 3. Intro: pay up front for the first year. No Adapty offer. Placements: NEVER_USED_YEARLY_OFFER, DAILY_USING_USERS_FREE, NOT_USING_USERS_FREE, YEARLY_50_OFF (all B).\n• com.yearlyIntroductoryMembership — Yearly Introductory Offer 1 Month 2,99 USD — 1 year — level 2. Intro: pay up front for the first month. Offer code: 1 (inactive). No Adapty offer. Placements: DAILY_USING_USERS_FREE, NOT_USING_USERS_FREE, YEARLY_50_OFF (all B).\n• com.monthlyTrialMembership — Monthly Trial — 1 month — level 1. Intro: none (no trial in App Store Connect, despite the name). Promotional: none. Placement: BLACK_FRIDAY (B).\n• com.sixMonthsMembership — 6 Months — 6 months — level 1. No offers. No placement shows it.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "teal"
+  },
+  "pay-002b": {
+   "x": 1880,
+   "y": 1160,
+   "text": "Store prices — App Store Connect, current price on 2026-11-12, in the storefront currency. 2 of 3.\nCurrencies: USA USD, SAU SAR, ARE AED, QAT QAR, EGY EGP; OMN, KWT, BHR, IRQ, JOR, LBN, LBY, TUN, DZA, MAR, YEM in USD. Every product is sold in all 16. No price change is scheduled.\nOrder: USA · SAU · ARE · QAT · OMN · KWT · BHR · IRQ · JOR · LBN · EGY · LBY · TUN · DZA · MAR · YEM\n\n• com.yearlyMembership: 74.99 · 299.99 · 299.99 · 299.99 · 74.99 · 74.99 · 79.99 · 74.99 · 74.99 · 74.99 · 2299.99 · 74.99 · 74.99 · 74.99 · 74.99 · 74.99\n• com.monthlyMembership: 15.9 · 69.99 · 59.99 · 59.99 · 15.9 · 15.9 · 17.9 · 15.9 · 15.9 · 15.9 · 499.99 · 15.9 · 15.9 · 15.9 · 15.9 · 15.9\n• com.weeklyMembership: 8.99 · 39.99 · 34.99 · 29.99 · 8.99 · 8.99 · 9.99 · 8.99 · 8.99 · 8.99 · 299.99 · 8.99 · 8.99 · 8.99 · 8.99 · 8.99\n• com.yearlyIntroductoryPromotionalOfferYearly: 59.99 · 249.99 · 229.99 · 199.99 · 59.99 · 59.99 · 69.99 · 59.99 · 59.99 · 59.99 · 2999.99 · 59.99 · 59.99 · 59.99 · 59.99 · 59.99\n• com.yearlyBestintroductoryoffer: 49.99 · 199.99 · 199.99 · 199.99 · 49.99 · 49.99 · 49.99 · 49.99 · 49.99 · 49.99 · 2499.99 · 49.99 · 49.99 · 49.99 · 49.99 · 49.99\n• com.yearlyIntroductoryMembership: 74.99 · 299.99 · 299.99 · 299.99 · 74.99 · 74.99 · 79.99 · 74.99 · 74.99 · 74.99 · 2499.99 · 74.99 · 74.99 · 74.99 · 74.99 · 74.99\n• com.monthlyTrialMembership: 15.9 · 69.99 · 59.99 · 59.99 · 15.9 · 15.9 · 17.9 · 15.9 · 15.9 · 15.9 · 499.99 · 15.9 · 15.9 · 15.9 · 15.9 · 15.9\n• com.sixMonthsMembership: 42.99 · 199.99 · 179.99 · 149.99 · 42.99 · 42.99 · 49.99 · 42.99 · 42.99 · 42.99 · 1299.99 · 42.99 · 42.99 · 42.99 · 42.99 · 42.99\n\nSyria, Sudan and Palestine: not in App Store Connect read (asc-products lists USA and the 15 storefronts above only).",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "teal"
+  },
+  "pay-002c": {
+   "x": 3760,
+   "y": 1160,
+   "text": "Offers — App Store Connect, with the Adapty link. 3 of 3. Price order: USA · SAU · ARE · QAT · OMN · KWT · BHR · IRQ · JOR · LBN · EGY · LBY · TUN · DZA · MAR · YEM.\n\nIntroductory (the store gives it to new subscribers; Adapty has no offer id for it):\n• com.weeklyMembership — free trial, 3 days, since 2020-03-30. 155 storefronts: not in IRQ and LBY.\n• com.yearlyIntroductoryPromotionalOfferYearly — free trial, 3 days, since 2025-05-20. All 16.\n• com.yearlyBestintroductoryoffer — pay up front, 1 year, since 2025-05-18: 29.99 · 129.99 · 119.99 · 99.99 · 29.99 · 29.99 · 29.99 · 29.99 · 29.99 · 29.99 · 1499.99 · 29.99 · 29.99 · 29.99 · 29.99 · 29.99\n• com.yearlyIntroductoryMembership — pay up front, 1 month, since 2025-03-13: 2.99 · 12.99 · 12.99 · 9.99 · 2.99 · 2.99 · 2.99 · 2.99 · 2.99 · 2.99 · 149.99 · 2.99 · 2.99 · 2.99 · 2.99 · 2.99\n\nPromotional (price USA / SAU / ARE / EGY; other storefronts: not in App Store Connect read):\n• com.yearlyMembership — \"Securefield_promotional_yearly_%50OFF\" — pay up front, 1 year: 39.99 / 179.99 / 149.99 / 1999.99\n• com.yearlyIntroductoryPromotionalOfferYearly — \"Onboarding_Promotional_Year\" — pay up front, 1 year: 29.99 / 129.99 / 119.99 / 1499.99\n• com.monthlyMembership — \"Premium 30 Trial - Monthly\" — free trial, 1 month.\n• com.weeklyMembership — \"Promo_weekly\" — free trial, 3 days.\n\nWin-back: com.yearlyMembership — \"Yearly Win Back Offer\" — free trial, 3 months, since 2025-03-14. Paid 3 months, lapsed 6–24 months, wait 6 months.\nOffer codes (redeemed in the App Store, not shown on a paywall): weekly SecureField1121 (1 week free, active, 1000 codes), test_codes (3 days free, active, 500 codes), FreeGiftCode and weekly_offer_codes (3 days free, inactive); yearlyIntroductoryMembership \"offer code\" (pay up front 1 month, inactive).\n\nAdapty ↔ App Store Connect: all 8 products are in both. Per product, the Adapty offer count is the same as the App Store Connect promotional + win-back count (Yearly 2, Monthly 1, Weekly 1, Yearly With Introductory and Promotional 1). The Adapty offer ids 599380d9, 268f5fc3, 8eff407d, 0091d7f1 and 23da726b: not in App Store Connect. The export gives no store offer id, so the link is by product only. For Yearly, which Adapty offer is the \"%50OFF\" promotional offer and which is the win-back offer is not known.\nNames that do not match: \"Monthly Trial\" has no trial. Paywall ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE matches the Monthly 1-month free promotional offer. Paywall ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL: the store win-back offer is a 3-month free trial.\n\nHow the app's own screens show an offer: only through the offer Adapty attaches to the product (subscriptionOffer). A free trial replaces the price on a card; a lower first price shows that price and its period. An Adapty layout (Flow or Paywall Builder) shows its own offer texts.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "teal"
+  },
+  "iphone-001": {
+   "x": 0,
+   "y": 2580,
+   "text": "How to read this canvas. Every frame is one screenshot at its real size. Nothing is redrawn, cropped or retouched.\n• “app screenshot”: the app on the iPhone 17 simulator (402 × 874), the iPad Pro 11-inch simulator (834 × 1210 or 1210 × 834) or the Mac (480 × 640); dark mode, free user, App Store sandbox prices. States reached in a special way say so in the frame title.\n• “Adapty preview”: the operator's image from Adapty's builder preview (iPhone 15 Pro, iPad 10.2\"), shown at its file size. Its prices are Adapty's samples. A preview that no user sees today says “Adapty preview — not shown today: <reason>”.\n• Rows: one per placement and audience, in Adapty's order. Row title: placement · audience · who draws it · A/B test. English frames left to right, then Arabic. The note under the title says what the user sees today.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-002": {
+   "x": 1880,
+   "y": 2580,
+   "text": "Push → placement → Adapty paywall (app code main 682ab48, Adapty SDK 4.1.2, checked with local pushes on the simulator, 2026-11-16).\n• Adapty Flow: iPhone yes · iPad no · Mac no.\n• Paywall Builder paywall: iPhone yes (seen: ramadan_2026) · iPad no · Mac no.\nA push, a data push or a OneLink can name any placement id. The app asks Adapty at the tap and draws the Adapty layout, with no app update.\nLimits on iPhone: the paywall's products must load from the App Store, and placement, products and layout within 8 s; else the app's own Premium screen (HOME_TOP_LEFT_PREMIUM plans for an id the app does not know). Texts are always English: the app sends no language. Free users only. A push tapped more than 15 days after it arrived opens only the app. The securefield://paywall link opens only 6 fixed placements, so it always shows the app's own screen.\niPad: the app never draws an Adapty screen. Mac: no push, no Adapty UI.\nSeen: ramadan_2026 → Adapty “Ramadan Offer”. YEARLY_50_OFF-flow and BLACK_FRIDAY → products not found → app Premium screen. Unknown id → app Premium screen. ramadan_2026 on iPad → app Premium screen.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "teal"
+  },
+  "iphone-003": {
+   "x": 0,
+   "y": 3330,
+   "text": "iPhone — live placements (named in the app code). Adapty's order.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "blue",
+   "bold": true
+  },
+  "iphone-004": {
+   "x": 0,
+   "y": 3730,
+   "text": "HOME_PREMIUM_FLOW · All users · Adapty Flow “SecureField — Home Premium”",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 3776
+  },
+  "iphone-005": {
+   "x": 0,
+   "y": 3860,
+   "text": "Today on iPhone: the Adapty Flow, drawn by Adapty. Opened by the Premium button on the main screen. App screenshots. On an Arabic device the flow shows its English texts, left to right, because the app sends no language to Adapty. Purchase failed: reached with a local StoreKit test, no real purchase. iPad: see the iPad page.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-006": {
+   "x": 0,
+   "y": 5424,
+   "text": "SERVER_PREMIUM_FLOW · All users · Adapty Flow “SecureField — Server Premium”",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 3776
+  },
+  "iphone-007": {
+   "x": 0,
+   "y": 5554,
+   "text": "Today on iPhone: the Adapty Flow, drawn by Adapty. Opened by a tap on a premium server. App screenshots. Arabic device: English texts, left to right (the app sends no language). Purchase failed: local StoreKit test, no real purchase.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-008": {
+   "x": 0,
+   "y": 7078,
+   "text": "SETTINGS_PREMIUM_FLOW · All users · Adapty Flow “SecureField — Home Premium”. Today: the same flow as HOME_PREMIUM_FLOW (see that row), opened by the Premium card in Settings. App screenshot, EN. An Arabic device shows the same English flow.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray",
+   "bold": true
+  },
+  "iphone-009": {
+   "x": 0,
+   "y": 8602,
+   "text": "HOME_TOP_LEFT_PREMIUM · All users · app (Premium screen)",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 3776
+  },
+  "iphone-010": {
+   "x": 0,
+   "y": 8732,
+   "text": "Today: the app's own Premium screen. The app also shows it when a flow or a pushed paywall cannot draw, for a placement id it does not know, and from the securefield://paywall link. App screenshots. Purchase failed: local StoreKit test, no real purchase.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-011": {
+   "x": 0,
+   "y": 10256,
+   "text": "ONBOARDING · All users (priority 1) · app (Premium screen, one plan) · A/B “Weekly & Yearly Onboarding tesi”",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "iphone-012": {
+   "x": 0,
+   "y": 10386,
+   "text": "Today: the app's Premium screen with one plan. Arm B (paywall ONBOARDING, Weekly with a 3-day free trial, 50 %): app screenshot, opened by securefield://paywall/onboarding; opened by a link, no plan is selected. Arm A (paywall ONBOARDING_YEARLY, 50 %): no screenshot, because Adapty served arm B to the test device. Priority 0 “Board test segment”: not shown.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-013": {
+   "x": 0,
+   "y": 11950,
+   "text": "ONBOARDING_YEARLY · All users · app (onboarding, last slide) · A/B “Onboarding Yearly”: arm A 100 %",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1848
+  },
+  "iphone-014": {
+   "x": 0,
+   "y": 12080,
+   "text": "Today: the last onboarding slide with arm A (paywall ONBOARDING: Weekly, 3-day free trial, then $8.99 per week). App screenshots. On iPhone the trial line is cut after its first line, so the price after the trial does not show. In Arabic the period stays in English (“3 days”). Arm B (paywall ONBOARDING_YEARLY, 0 %): nobody sees it; see Drafts.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-015": {
+   "x": 0,
+   "y": 13644,
+   "text": "PROFILE_PREMIUM · All users · app (Premium screen). Today: the app's Premium screen with this placement's plans, opened by securefield://paywall/profile or a push. App screenshot, EN. AR: no screenshot.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray",
+   "bold": true
+  },
+  "iphone-016": {
+   "x": 0,
+   "y": 15168,
+   "text": "SERVER_PREMIUM · All users · app (Premium pop-up)",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4740
+  },
+  "iphone-017": {
+   "x": 0,
+   "y": 15298,
+   "text": "Today: the app's own Premium pop-up, when the Server flow is not ready. App screenshots. The server banner names the server the user tapped (here: Netherlands). Purchase failed: local StoreKit test, no real purchase.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-018": {
+   "x": 0,
+   "y": 16822,
+   "text": "WATCH_ADS · All users · app (Advertisement)",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 2812
+  },
+  "iphone-019": {
+   "x": 0,
+   "y": 16952,
+   "text": "Today: the app's own Advertisement screen. App screenshots. One ad watched: our house ad (not a network ad), played with the app's test hooks.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-020": {
+   "x": 0,
+   "y": 18436,
+   "text": "iPhone — Campaign (push only). No app screen names these placements. A push or a OneLink opens one by its id. On iPhone the app asks Adapty at the tap and shows the Adapty layout (Flow or Paywall Builder) when the paywall's products load within 8 s. If not, it shows its own Premium screen with the HOME_TOP_LEFT_PREMIUM plans. Free users only. Texts are English on every device. “Adapty preview” = the operator's image from Adapty's builder preview, at its file size; its prices are Adapty's samples. An Adapty preview with no app screenshot was not tested on a device.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "blue",
+   "bold": true
+  },
+  "iphone-021": {
+   "x": 0,
+   "y": 18956,
+   "text": "YEARLY_50_OFF-flow · All users · Adapty Flow “FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50 (flow)”",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1848
+  },
+  "iphone-022": {
+   "x": 0,
+   "y": 19086,
+   "text": "Today the flow does not draw: its products did not load from the App Store (noProductIDsFound). A push opens the app's own Premium screen with the HOME_TOP_LEFT_PREMIUM plans. App screenshots: app running (EN, AR) and cold start (EN). Premium user: no paywall; the main screen stays. None of the flow's offer states shows today. No Adapty preview of this flow is on file.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-023": {
+   "x": 0,
+   "y": 20650,
+   "text": "BLACK_FRIDAY · All users · Adapty paywall “Black Friday” (Adapty template)",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "iphone-024": {
+   "x": 0,
+   "y": 20780,
+   "text": "Today: its product (com.monthlyTrialMembership) did not load (noProductIDsFound), so a push opens the app's own Premium screen (app screenshot). The Adapty preview is an untouched Adapty template, English only.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-025": {
+   "x": 0,
+   "y": 22304,
+   "text": "DAILY_USING_USERS_FREE · All users · Adapty paywall “Least_using_Users_FREE_introductory”",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "iphone-026": {
+   "x": 0,
+   "y": 22434,
+   "text": "Today on iPhone: this Adapty layout, in English, when its products load. Not tested on a device: Adapty preview only. The Arabic preview is not shown today: the app shows English texts.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-027": {
+   "x": 0,
+   "y": 23681,
+   "text": "NEVER_USED_YEARLY_OFFER · All users · Adapty paywall “BEST_OFFER_FOR_YEARLY_NEVER_USED”",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "iphone-028": {
+   "x": 0,
+   "y": 23811,
+   "text": "Today on iPhone: this Adapty layout, in English, when its products load. Not tested on a device: Adapty preview only. The Arabic preview is not shown today: the app shows English texts.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-029": {
+   "x": 0,
+   "y": 25058,
+   "text": "NOT_USING_USERS_FREE · All users · Adapty paywall “Least_using_Users_FREE_introductory”. The same paywall as DAILY_USING_USERS_FREE: see that row.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-030": {
+   "x": 0,
+   "y": 25598,
+   "text": "NOT_USING_USERS_PREMIUM · All users · Adapty paywall “Least_using_users_premiums_promotional”",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "iphone-031": {
+   "x": 0,
+   "y": 25728,
+   "text": "Today on iPhone: this Adapty layout, in English, when its products load. Not tested on a device: Adapty preview only. The Arabic preview is not shown today: the app shows English texts.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-032": {
+   "x": 0,
+   "y": 26975,
+   "text": "ONBOARDING_END · All users · paywall “ONBOARDING” (drawn by the app, no Adapty layout). The app has no own screen for this id, so a push shows the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans, as for an unknown id (last row of this block). No screenshot of this placement.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-033": {
+   "x": 0,
+   "y": 27515,
+   "text": "PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY · All users · Adapty paywall “ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE”",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "iphone-034": {
+   "x": 0,
+   "y": 27645,
+   "text": "Today on iPhone: this Adapty layout, in English, when its products load. Not tested on a device: Adapty preview only. The Arabic preview is not shown today: the app shows English texts.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-035": {
+   "x": 0,
+   "y": 28892,
+   "text": "SPEED_PROBLEM_FREEMIUM · All users · Adapty paywall “SPEED_TEST_PROBLEM_PROMOTIONAL” · A/B “SPEED TEST”: arm A 100 %",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "iphone-036": {
+   "x": 0,
+   "y": 29022,
+   "text": "Today on iPhone: this Adapty layout, in English, when its products load. Not tested on a device: Adapty preview only. The Arabic preview is not shown today: the app shows English texts. Arm B (SPEED_PROBLEM_ALTERNATIVE_1, 0 %): see Drafts. The free-trial texts of this paywall are filler in Adapty.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-037": {
+   "x": 0,
+   "y": 30269,
+   "text": "WIN_BACK_YEARLY_OFFER · All users · Adapty paywall “ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL”",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "iphone-038": {
+   "x": 0,
+   "y": 30399,
+   "text": "Today on iPhone: this Adapty layout, in English, when its products load. Not tested on a device: Adapty preview only. The Arabic preview is not shown today: the app shows English texts.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-039": {
+   "x": 0,
+   "y": 31646,
+   "text": "YEARLY_50_OFF · All users · Adapty paywall “FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50”",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "iphone-040": {
+   "x": 0,
+   "y": 31776,
+   "text": "Today on iPhone: this Adapty layout, in English, when its products load. Not tested on a device: Adapty preview only. The Arabic preview is not shown today: the app shows English texts.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-041": {
+   "x": 0,
+   "y": 33023,
+   "text": "ramadan_2026 · All users · Adapty paywall “Ramadan_FEAST”",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "iphone-042": {
+   "x": 0,
+   "y": 33153,
+   "text": "Today on iPhone: the Adapty-drawn “Ramadan Offer”, in English (app screenshot after a push). Adapty preview EN and AR next to it; the Arabic one is not shown today.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-043": {
+   "x": 0,
+   "y": 34677,
+   "text": "Unknown placement id · push. A push with an id that Adapty does not know (test id VPN838_NOT_A_PLACEMENT): the app's own Premium screen with the HOME_TOP_LEFT_PREMIUM plans. App screenshot, EN.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray",
+   "bold": true
+  },
+  "iphone-044": {
+   "x": 0,
+   "y": 36201,
+   "text": "Drafts — not live. Only a draft with an operator's Adapty preview is shown. No Adapty preview, so listed only: flows SECUREFIELD ONBOARDING FLOW (placement flow_onboarding; the app does not fetch it), YEDEK - Onboarding (carousel oncesi), Paywall Settings 1, SecureField Free Trial Paywall; arm B (0 %) of “Onboarding Yearly” (paywall ONBOARDING_YEARLY, drawn by the app; Adapty never serves it). HAPPY_NEW_YEAR (Adapty template): its preview shows a person's photo and name, so it is not on this public page. Nothing to show: DRAFT (no layout), DENEME_SONRA_SİL (test placement TEST_DENEME), CANCELLATION (no placement, no app code). Untitled and archived flows: not shown.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray",
+   "bold": true
+  },
+  "iphone-045": {
+   "x": 0,
+   "y": 36751,
+   "text": "Draft — not live — SPEED_PROBLEM_ALTERNATIVE_1 · arm B (0 %) of “SPEED TEST” · SPEED_PROBLEM_FREEMIUM",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "iphone-046": {
+   "x": 0,
+   "y": 36881,
+   "text": "Adapty preview. Nobody sees this arm (0 %). “montly” is spelled so in Adapty.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "iphone-047": {
+   "x": 0,
+   "y": 38088,
+   "text": "Draft — not live — Paywall Builder paywalls with no placement",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "iphone-048": {
+   "x": 0,
+   "y": 38218,
+   "text": "Adapty previews, English only (these paywalls have no Arabic). No placement uses them.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "ipad-049": {
+   "x": 0,
+   "y": 0,
+   "text": "iPad — Adapty draws nothing on iPad (AdaptyUI is off on a tablet). Every placement, flows and pushes too, shows the app's own screens. App screenshots: iPad Pro 11-inch simulator, dark mode, free user, App Store sandbox prices. The Adapty previews in the Campaign block are not shown today on iPad.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "blue",
+   "bold": true
+  },
+  "ipad-050": {
+   "x": 0,
+   "y": 440,
+   "text": "HOME_PREMIUM_FLOW and SERVER_PREMIUM_FLOW on iPad · app screens",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "ipad-051": {
+   "x": 0,
+   "y": 570,
+   "text": "Home Premium button: the app's Premium screen (the same as HOME_TOP_LEFT_PREMIUM). A premium server in the left column: the plain Premium pop-up (no server banner). App screenshots, EN.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "ipad-052": {
+   "x": 0,
+   "y": 2430,
+   "text": "HOME_TOP_LEFT_PREMIUM · All users · app (Premium screen) · also every flow and push on iPad",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 7984
+  },
+  "ipad-053": {
+   "x": 0,
+   "y": 2560,
+   "text": "Today: the app's own Premium screen, in a sheet. App screenshots. Purchase failed: local StoreKit test, no real purchase.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "ipad-054": {
+   "x": 0,
+   "y": 4380,
+   "text": "ONBOARDING_YEARLY · All users · app (onboarding, last slide) · A/B “Onboarding Yearly”: arm A 100 %",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 8736
+  },
+  "ipad-055": {
+   "x": 0,
+   "y": 4510,
+   "text": "Today: the last onboarding slide with arm A (Weekly, 3-day free trial). App screenshots. In landscape the title, the text, the price and the page dots are below the screen edge: only the shield and Continue show, so the landscape arm A and loading screenshots look the same.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "ipad-056": {
+   "x": 0,
+   "y": 6370,
+   "text": "SERVER_PREMIUM · All users · app (Premium pop-up)",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 6156
+  },
+  "ipad-057": {
+   "x": 0,
+   "y": 6500,
+   "text": "Today: the app's own Premium pop-up. App screenshots. In the plain pop-up the feature lines lie over the Yearly card; in landscape, Close and Restore are not visible.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "ipad-058": {
+   "x": 0,
+   "y": 8360,
+   "text": "WATCH_ADS · All users · app (Advertisement). Today: the app's own Advertisement screen. App screenshot, landscape, AR. EN and portrait: no screenshot in this set.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray",
+   "bold": true
+  },
+  "ipad-059": {
+   "x": 0,
+   "y": 9844,
+   "text": "iPad — Campaign (push only). A push to any placement shows the app's own Premium screen with the HOME_TOP_LEFT_PREMIUM plans on iPad (seen: ramadan_2026). The Adapty previews show what Adapty would draw; no iPad user sees them today. BLACK_FRIDAY: no iPad preview on file. NOT_USING_USERS_FREE: the same paywall as DAILY_USING_USERS_FREE. ONBOARDING_END and YEARLY_50_OFF-flow: no iPad preview.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "blue",
+   "bold": true
+  },
+  "ipad-060": {
+   "x": 0,
+   "y": 10324,
+   "text": "DAILY_USING_USERS_FREE · All users · Adapty paywall “Least_using_Users_FREE_introductory”",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "ipad-061": {
+   "x": 0,
+   "y": 10454,
+   "text": "On iPad today: the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans (see the ramadan_2026 row). Adapty previews: not shown today.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "ipad-062": {
+   "x": 0,
+   "y": 11658,
+   "text": "NEVER_USED_YEARLY_OFFER · All users · Adapty paywall “BEST_OFFER_FOR_YEARLY_NEVER_USED”",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "ipad-063": {
+   "x": 0,
+   "y": 11788,
+   "text": "On iPad today: the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans (see the ramadan_2026 row). Adapty previews: not shown today.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "ipad-064": {
+   "x": 0,
+   "y": 12992,
+   "text": "NOT_USING_USERS_PREMIUM · All users · Adapty paywall “Least_using_users_premiums_promotional”",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "ipad-065": {
+   "x": 0,
+   "y": 13122,
+   "text": "On iPad today: the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans (see the ramadan_2026 row). Adapty previews: not shown today.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "ipad-066": {
+   "x": 0,
+   "y": 14326,
+   "text": "PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY · All users · Adapty paywall “ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE”",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "ipad-067": {
+   "x": 0,
+   "y": 14456,
+   "text": "On iPad today: the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans (see the ramadan_2026 row). Adapty previews: not shown today.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "ipad-068": {
+   "x": 0,
+   "y": 15660,
+   "text": "SPEED_PROBLEM_FREEMIUM · All users · Adapty paywall “SPEED_TEST_PROBLEM_PROMOTIONAL” · A/B “SPEED TEST”: arm A 100 %",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "ipad-069": {
+   "x": 0,
+   "y": 15790,
+   "text": "On iPad today: the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans (see the ramadan_2026 row). Adapty previews: not shown today.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "ipad-070": {
+   "x": 0,
+   "y": 16994,
+   "text": "WIN_BACK_YEARLY_OFFER · All users · Adapty paywall “ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL”",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "ipad-071": {
+   "x": 0,
+   "y": 17124,
+   "text": "On iPad today: the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans (see the ramadan_2026 row). Adapty previews: not shown today.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "ipad-072": {
+   "x": 0,
+   "y": 18328,
+   "text": "YEARLY_50_OFF · All users · Adapty paywall “FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50”",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "ipad-073": {
+   "x": 0,
+   "y": 18458,
+   "text": "On iPad today: the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans (see the ramadan_2026 row). Adapty previews: not shown today.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "ipad-074": {
+   "x": 0,
+   "y": 19662,
+   "text": "ramadan_2026 · All users · Adapty paywall “Ramadan_FEAST”",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "ipad-075": {
+   "x": 0,
+   "y": 19792,
+   "text": "On iPad today: a push opens the app's own Premium screen with the HOME_TOP_LEFT_PREMIUM plans (app screenshot). Adapty previews: not shown today.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "ipad-076": {
+   "x": 0,
+   "y": 21612,
+   "text": "Drafts — not live. Only a draft with an operator's Adapty preview is shown. Arm B (0 %) of “Onboarding Yearly”: no screenshot (Adapty never serves it).",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray",
+   "bold": true
+  },
+  "ipad-077": {
+   "x": 0,
+   "y": 22012,
+   "text": "Draft — not live — SPEED_PROBLEM_ALTERNATIVE_1 · arm B (0 %) of “SPEED TEST” · SPEED_PROBLEM_FREEMIUM",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "ipad-078": {
+   "x": 0,
+   "y": 22142,
+   "text": "Adapty preview. Nobody sees this arm (0 %). On iPad the feature list lies over the picture.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "mac-079": {
+   "x": 0,
+   "y": 0,
+   "text": "Mac — no Adapty UI and no push. The app draws its own paywall with the HOME_TOP_LEFT_PREMIUM products. A new Adapty paywall never shows on the Mac.",
+   "page": "mac",
+   "w": 1800,
+   "size": "m",
+   "fill": "blue",
+   "bold": true
+  },
+  "mac-080": {
+   "x": 0,
+   "y": 400,
+   "text": "HOME_TOP_LEFT_PREMIUM · All users · app (Mac Paywall)",
+   "page": "mac",
+   "kind": "title1",
+   "maxW": 4400
+  },
+  "mac-081": {
+   "x": 0,
+   "y": 530,
+   "text": "Plans loaded: app screenshot. Loading, load failed and purchase message: an off-screen render of the app's own paywall view from a local build (not the store app). The purchase message uses the render's sample plans ($47.99 / year with a 3-day trial, $7.99 / month).",
+   "page": "mac",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  }
+ }
+}

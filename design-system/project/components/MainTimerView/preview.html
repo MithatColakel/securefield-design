@@ -1,0 +1,35 @@
+<!-- @dsCard group="Main screen" height=330 subtitle="Free user's remaining time with the Add button; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>MainTimerView — preview</title>
+<style>
+  body { margin:0; min-height:100vh; background:var(--gradient-background); color:var(--text-primary); }
+  .label { color:var(--text-tertiary); padding:10px 16px 6px; }
+  .stage { --lw:390px; width:var(--lw); display:flex; justify-content:center; padding-top:calc(var(--lw) * 0.07); padding-bottom:16px; }
+  .timer { max-width:calc(var(--lw) * 0.5); display:flex; flex-direction:column; align-items:center; gap:10px; }
+  .timer .Subtitle1 { text-align:center; color:var(--text-primary); }
+  .add { margin:0; background:none; font:inherit; color:inherit; cursor:pointer; box-sizing:border-box; height:30px; padding:0 10px; display:flex; align-items:center; gap:2px;
+         border:1px solid var(--border-quaternary); border-radius:999px; }
+  .add img { width:9px; height:9px; }
+  .add .Amiko2 { color:var(--text-secondary); padding-inline-start:1px; padding-top:2px; text-transform:uppercase; }
+  .digits { unicode-bidi:isolate; direction:ltr; }
+</style></head>
+<body>
+<div class="label Caption">running (free gift)</div>
+<div class="stage"><div class="timer">
+  <div class="Subtitle1">Your free gift expires in <span class="digits">00:29:41</span></div>
+  <button class="add"><img src="../../assets/Icons/Plus.svg" alt=""><span class="Amiko2">Add</span></button>
+</div></div>
+<div class="label Caption">expired (floors at zero)</div>
+<div class="stage"><div class="timer">
+  <div class="Subtitle1">Your free gift expires in <span class="digits">00:00:00</span></div>
+  <button class="add"><img src="../../assets/Icons/Plus.svg" alt=""><span class="Amiko2">Add</span></button>
+</div></div>
+<div class="label Caption" dir="rtl">العربية</div>
+<div class="stage" dir="rtl" lang="ar"><div class="timer">
+  <div class="Subtitle1">تنتهي هديتك المجانية بعد <span class="digits">00:29:41</span></div>
+  <button class="add"><img src="../../assets/Icons/Plus.svg" alt=""><span class="Amiko2">إضافة</span></button>
+</div></div>
+</body>
+</html>

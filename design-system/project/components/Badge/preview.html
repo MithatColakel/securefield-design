@@ -1,0 +1,19 @@
+<!-- @dsCard group="Mac" height=200 width=600 subtitle="Mac badge: Best offer (premium yellow) and Recommended (green); English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>Badge — preview</title>
+<style>
+  body { margin:0; padding:24px; min-height:100vh; box-sizing:border-box; background:var(--sheetBackground); color:var(--white); }
+  .row { display:flex; gap:16px; align-items:center; margin-bottom:16px; }
+  .badge { display:inline-block; padding:3px 8px; border-radius:var(--radius-pill); font-weight:700; }
+  .y { background:var(--gradient-premium); color:var(--onPremium); }
+  .g { background:linear-gradient(180deg, var(--lightGreen), var(--darkGreen)); color:var(--white); }
+  .lbl { color:var(--mediumGray); width:180px; }
+</style></head>
+<body>
+  <div class="row"><span class="caption lbl">default (premiumGradient)</span><span class="subtitle">Yearly</span><span class="badge y caption">Best offer</span></div>
+  <div class="row"><span class="caption lbl">green (greenGradient)</span><span class="body">Smart</span><span class="badge g caption">Recommended</span></div>
+  <div class="row" dir="rtl" lang="ar"><span class="caption lbl">العربية</span><span class="subtitle">سنوي</span><span class="badge y caption">أفضل عرض</span><span class="body">الوضع الذكي</span><span class="badge g caption">موصى به</span></div>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!-- @dsCard group="Settings" height=620 subtitle="Settings offer card: free user and premium user; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>SettingsPremiumCard — preview</title>
+<style>
+  body { margin:0; min-height:100vh; background:var(--gradient-background); color:var(--text-primary); }
+  .label { color:var(--text-tertiary); padding:10px 16.6px 6px; }
+  .wrap { --lw:390px; width:var(--lw); display:flex; flex-direction:column; align-items:center; }
+  .card { position:relative; border-radius:var(--radius-gradientCard); background:var(--background-secondary); box-shadow: inset 1px 1px 2px 0 var(--highlight); overflow:hidden; }
+  .card::before { content:""; position:absolute; inset:0; border-radius:inherit; padding:1px; background:var(--gradient-border); z-index:2;
+          -webkit-mask:linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite:xor; mask-composite:exclude; pointer-events:none; }
+  .sep { height:1px; width:95.3%; margin-inline-start:auto; background:var(--separator-secondary); flex:none; }
+  .card { width:calc(var(--lw) * 0.915); height:calc(var(--lw) * 0.915 / 1.367); }
+  .in { position:absolute; inset:0; background:var(--gradient-backgroundOpacity); display:flex; flex-direction:column; align-items:center; }
+  .top { flex:1; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:4px; text-align:center; }
+  .top img { width:calc(var(--lw) * 0.233); height:calc(var(--lw) * 0.233); }
+  .feat { flex:1; width:calc(var(--lw) * 0.915 * 0.41); display:flex; flex-direction:column; justify-content:center; gap:14px; }
+  .feat div { display:flex; align-items:center; gap:16px; white-space:nowrap; }
+  .feat img { width:20px; height:20px; flex:none; }
+</style></head>
+<body>
+<div class="label Caption">free user</div>
+<div class="wrap"><div class="card"><div class="in">
+  <div class="top"><img src="../../assets/Logos/Premium.png" alt=""><div class="Subtitle1">Get Premium Now</div></div>
+  <div class="feat"><div><img src="../../assets/Icons/Speed.svg" alt=""><span class="Caption">Ultra-fast connection</span></div>
+    <div><img src="../../assets/Icons/World.svg" alt=""><span class="Caption">Worldwide locations</span></div>
+    <div><img src="../../assets/Icons/Protection.svg" alt=""><span class="Caption">Unlimited protection</span></div></div>
+</div></div></div>
+<div class="label Caption" dir="rtl">العربية · مستخدم مميز (premium user)</div>
+<div class="wrap" dir="rtl" lang="ar"><div class="card"><div class="in">
+  <div class="top"><img src="../../assets/Logos/Premium.png" alt=""><div class="Subtitle1">مستخدم مميز</div></div>
+  <div class="feat"><div><img src="../../assets/Icons/Speed.svg" alt=""><span class="Caption">اتصال فائق السرعة</span></div>
+    <div><img src="../../assets/Icons/World.svg" alt=""><span class="Caption">مواقع عالمية</span></div>
+    <div><img src="../../assets/Icons/Protection.svg" alt=""><span class="Caption">حماية غير محدودة</span></div></div>
+</div></div></div>
+</body>
+</html>

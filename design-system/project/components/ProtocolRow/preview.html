@@ -1,0 +1,34 @@
+<!-- @dsCard group="Settings" height=700 subtitle="Protocols card: Smart with Recommended tag, selected, applying, discouraged; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>ProtocolRow — preview</title>
+<style>
+  body { margin:0; min-height:100vh; background:var(--gradient-background); color:var(--text-primary); }
+  .label { color:var(--text-tertiary); padding:10px 16.6px 6px; }
+  .wrap { --lw:390px; width:var(--lw); display:flex; flex-direction:column; align-items:center; padding-bottom:8px; }
+  .card { position:relative; border-radius:var(--radius-gradientCard); background:var(--background-secondary); box-shadow: inset 1px 1px 2px 0 var(--highlight); overflow:hidden; }
+  .card::before { content:""; position:absolute; inset:0; border-radius:inherit; padding:1px; background:var(--gradient-border); z-index:2;
+          -webkit-mask:linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite:xor; mask-composite:exclude; pointer-events:none; }
+  .sep { height:1px; width:95.3%; margin-inline-start:auto; background:var(--separator-secondary); flex:none; }
+  .card { width:calc(var(--lw) * 0.915); height:calc(var(--lw) * 0.915 / 1.2); display:flex; flex-direction:column; }
+  .row { position:relative; flex:1; display:flex; align-items:center; padding:0 calc(var(--lw) * 0.055); }
+  .row.disc::after { content:""; position:absolute; inset:0; border:1px solid var(--discouraged); border-radius:12px; pointer-events:none; }
+  .lead { display:flex; align-items:center; gap:16px; } .nm { display:flex; align-items:center; gap:8px; }
+  .ex { color:var(--discouraged); font-weight:700; }
+  .sp { flex:1; }
+  .tag { font-family:var(--font-redhat); font-weight:700; font-size:10px; letter-spacing:0.6px; text-transform:uppercase; white-space:nowrap; color:var(--text-secondary);
+         padding:4px 8px; border-radius:var(--radius-pill); border:1px solid var(--border-quaternary); background:color-mix(in srgb, var(--background-tertiary) 12%, transparent); }
+  .r { position:relative; width:30px; height:30px; flex:none; } .r svg { position:absolute; inset:0; width:30px; height:30px; }
+  .r img { position:absolute; width:45%; height:45%; left:27.5%; top:27.5%; }
+</style></head>
+<body>
+<svg width="0" height="0" style="position:absolute"><defs>
+  <radialGradient id="g" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="translate(10.8889 5.25) rotate(82.614) scale(28.2343 33.714)"><stop offset="0.22892" stop-color="#35df91"/><stop offset="0.633438" stop-color="#198f57"/></radialGradient>
+</defs></svg>
+<div class="label Caption">Smart selected · OpenVPN applying (spinner stand-in) · Wireguard discouraged</div>
+<div class="wrap"><div class="card"><div class="row "><span class="lead"><span class="nm"><span class="Body1">Smart</span><span class="tag">RECOMMENDED</span></span></span><span class="sp"></span><span class="r"><svg viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="url(#g)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></svg><img src="../../assets/Icons/Tick.svg" alt=""></span></div><div class="sep"></div><div class="row "><span class="lead"><span class="nm"><span class="Body1">OpenVPN</span></span></span><span class="sp"></span><span class="r"><svg viewBox="0 0 30 30"><circle cx="15" cy="15" r="9" fill="none" stroke="var(--text-secondary)" stroke-width="2.5" stroke-dasharray="40 20" stroke-linecap="round"/></svg></span></div><div class="sep"></div><div class="row disc"><span class="lead"><span class="nm"><span class="Body1">Wireguard</span></span><span class="Body1 ex">!</span></span><span class="sp"></span><span class="r"><svg viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="var(--background-secondary)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></svg></span></div><div class="sep"></div><div class="row "><span class="lead"><span class="nm"><span class="Body1">Securefield Shield</span></span></span><span class="sp"></span><span class="r"><svg viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="var(--background-secondary)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></svg></span></div><div class="sep"></div><div class="row "><span class="lead"><span class="nm"><span class="Body1">Hysteria2</span></span></span><span class="sp"></span><span class="r"><svg viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="var(--background-secondary)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></svg></span></div></div></div>
+<div class="label Caption" dir="rtl">العربية · Wireguard discouraged + selected</div>
+<div class="wrap" dir="rtl" lang="ar"><div class="card"><div class="row "><span class="lead"><span class="nm"><span class="Body1">الوضع الذكي</span><span class="tag">موصى به</span></span></span><span class="sp"></span><span class="r"><svg viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="var(--background-secondary)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></svg></span></div><div class="sep"></div><div class="row "><span class="lead"><span class="nm"><span class="Body1">OpenVPN</span></span></span><span class="sp"></span><span class="r"><svg viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="var(--background-secondary)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></svg></span></div><div class="sep"></div><div class="row disc"><span class="lead"><span class="nm"><span class="Body1">Wireguard</span></span><span class="Body1 ex">!</span></span><span class="sp"></span><span class="r"><svg viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="url(#g)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></svg><img src="../../assets/Icons/Tick.svg" alt=""></span></div><div class="sep"></div><div class="row "><span class="lead"><span class="nm"><span class="Body1">Securefield Shield</span></span></span><span class="sp"></span><span class="r"><svg viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="var(--background-secondary)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></svg></span></div><div class="sep"></div><div class="row "><span class="lead"><span class="nm"><span class="Body1">Hysteria2</span></span></span><span class="sp"></span><span class="r"><svg viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="var(--background-secondary)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></svg></span></div></div></div>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!-- @dsCard group="Server list" height=640 subtitle="Server / location rows: selected, free, premium (with PREMIUM mark), auto; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>ServerItem — preview</title>
+<style>
+  body { margin:0; min-height:100vh; background:var(--gradient-background); color:var(--text-primary); }
+  .label { color:var(--text-tertiary); padding:10px 16px 4px; }
+  .list { --lw:390px; --rh:calc(var(--lw) * 0.86 / 5.32); width:var(--lw); }
+  .row { height:var(--rh); padding:0 calc(var(--lw) * 0.07); display:flex; align-items:center; }
+  .lead, .trail { display:flex; align-items:center; gap:20px; }
+  .mark .lead, .mark .trail { gap:12px; }
+  .lead { min-width:0; } .lead img { width:35px; height:35px; flex:none; }
+  .lead span { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .sp { flex:1; min-width:20px; }
+  /* PremiumMark */
+  .pm { padding:2px 6px; border-radius:var(--radius-pill); background:var(--gradient-radialOrange); color:var(--bgGraphit); white-space:nowrap; }
+  /* ServerSignal: size = rh*0.4; bar w = size*0.1667; gap = size*0.1667/2; heights 0.1667..0.7917 */
+  .sig { --s:calc(var(--rh) * 0.4); width:var(--s); height:var(--s); display:flex; align-items:flex-end; gap:calc(var(--s) * 0.1667 / 2); }
+  .sig i { width:calc(var(--s) * 0.1667); border-radius:var(--radius-signalBar); background:var(--gradient-border); }
+  .sig i:nth-child(1) { height:calc(var(--s) * 0.1667); } .sig i:nth-child(2) { height:calc(var(--s) * 0.375); }
+  .sig i:nth-child(3) { height:calc(var(--s) * 0.5833); } .sig i:nth-child(4) { height:calc(var(--s) * 0.7917); }
+  .sig.f2 i:nth-child(-n+2), .sig.f4 i { background:var(--sc); }
+  .sig { --sc:var(--background-tertiary); } .sig.auto { --sc:var(--text-error); }
+  /* RadioButton (see its own card) */
+  .radio { width:calc(var(--rh) * 0.4667); height:calc(var(--rh) * 0.4667); flex:none; display:block; }
+</style></head>
+<body>
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <radialGradient id="rg" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="translate(10.8889 5.25) rotate(82.614) scale(28.2343 33.714)"><stop offset="0.22892" stop-color="#35df91"/><stop offset="0.633438" stop-color="#198f57"/></radialGradient>
+    <radialGradient id="ro" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="translate(10.8889 5.25) rotate(82.614) scale(28.2343 33.714)"><stop offset="0.22892" stop-color="#fac762"/><stop offset="0.633438" stop-color="#e59807"/></radialGradient>
+  </defs>
+</svg>
+<div class="label Caption">selected free server (green radio, 2 bars)</div>
+<div class="list">
+  <div class="row"><div class="lead"><img src="../../assets/Flags/DE.svg" alt=""><span class="Body1">Germany</span></div><div class="sp"></div>
+    <div class="trail"><span class="sig f2"><i></i><i></i><i></i><i></i></span>
+      <svg class="radio" viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="url(#rg)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></svg></div></div>
+  <div class="row"><div class="lead"><img src="../../assets/Flags/NL.svg" alt=""><span class="Body1">Netherlands</span></div><div class="sp"></div>
+    <div class="trail"><span class="sig f2"><i></i><i></i><i></i><i></i></span>
+      <svg class="radio" viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="var(--background-secondary)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></svg></div></div>
+  <div class="row"><div class="lead"><img src="../../assets/Flags/EARTH.svg" alt=""><span class="Body1">Auto Location</span></div><div class="sp"></div>
+    <div class="trail"><span class="sig f2 auto"><i></i><i></i><i></i><i></i></span>
+      <svg class="radio" viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="var(--background-secondary)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></svg></div></div>
+</div>
+<div class="label Caption">premium server, free user (PREMIUM mark, orange radio with lightYellow ring, 4 bars)</div>
+<div class="list">
+  <div class="row mark"><div class="lead"><img src="../../assets/Flags/US.svg" alt=""><span class="Body1">United States</span></div><div class="sp"></div>
+    <div class="trail"><span class="pm Caption">PREMIUM</span><span class="sig f4"><i></i><i></i><i></i><i></i></span>
+      <svg class="radio" viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="var(--background-secondary)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="var(--border-secondary)"/></svg></div></div>
+</div>
+<div class="label Caption" dir="rtl">العربية</div>
+<div class="list" dir="rtl" lang="ar">
+  <div class="row"><div class="lead"><img src="../../assets/Flags/GB.svg" alt=""><span class="Body1">المملكة المتحدة</span></div><div class="sp"></div>
+    <div class="trail"><span class="sig f2"><i></i><i></i><i></i><i></i></span>
+      <svg class="radio" viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="url(#rg)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="rgba(255,255,255,0.1)"/></svg></div></div>
+  <div class="row mark"><div class="lead"><img src="../../assets/Flags/US.svg" alt=""><span class="Body1">الولايات المتحدة</span></div><div class="sp"></div>
+    <div class="trail"><span class="pm Caption">مميز</span><span class="sig f4"><i></i><i></i><i></i><i></i></span>
+      <svg class="radio" viewBox="0 0 29.42 29.42"><circle cx="14.71" cy="14.71" r="14.71" fill="var(--background-secondary)"/><circle cx="14.71" cy="14.71" r="14.21" fill="none" stroke="var(--border-secondary)"/></svg></div></div>
+</div>
+</body>
+</html>

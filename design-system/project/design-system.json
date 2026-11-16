@@ -1,0 +1,57 @@
+{
+ "v": 3,
+ "layout": "files",
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-11-10T09:19:24Z"
+ },
+ "title": "SecureField",
+ "namespace": "SecureField",
+ "libraries": [],
+ "sections": {},
+ "groups": [
+  "Logos",
+  "Icons",
+  "Flags",
+  "Images",
+  "Lotties"
+ ],
+ "assetGroups": {
+  "Logos": {
+   "name": "Logos",
+   "order": [],
+   "files": {}
+  },
+  "Icons": {
+   "name": "Icons",
+   "order": [],
+   "files": {}
+  },
+  "Flags": {
+   "name": "Flags",
+   "order": [],
+   "files": {}
+  },
+  "Images": {
+   "name": "Images",
+   "order": [],
+   "files": {}
+  },
+  "Lotties": {
+   "name": "Lotties",
+   "order": [],
+   "files": {}
+  }
+ },
+ "blobs": {},
+ "docs": {
+  "readme": "project/README.md",
+  "sections": []
+ },
+ "lastChange": {
+  "by": "SecurefieldDesigner",
+  "via": "GitHub · SecureField@00e1b7b",
+  "at": "2026-11-10T09:19:24Z",
+  "note": "Built from code (VPN-669): tokens, components iPhone/iPad/Mac, assets. README brand book comes next."
+ }
+}

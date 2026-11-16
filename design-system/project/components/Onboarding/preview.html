@@ -1,0 +1,94 @@
+<!-- @dsCard group="Onboarding" height=1760 subtitle="First-run carousel at 390 × 844: first slide, last slide (price loaded, price loading); English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>Onboarding — preview</title>
+<style>
+  * { box-sizing:border-box; }
+  body { margin:0; background:#000; color:var(--text-primary); display:flex; flex-wrap:wrap; gap:24px; }
+  .screen { --lw:390px; width:390px; height:844px; position:relative; overflow:hidden; background:var(--gradient-background); display:flex; flex-direction:column; padding-bottom:34px; }
+  .pages { flex:none; height:calc((844px - 34px) - (844px - 34px) / 5.75); display:flex; flex-direction:column; }
+  .slide { flex:1; min-height:0; display:flex; flex-direction:column; }
+  .art { flex:1; min-height:0; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px; }
+  .hdr { height:44px; padding:0 12px; display:flex; align-items:center; width:100%; }
+  .hdr.hidden { opacity:0; }
+  .close { width:64px; height:44px; display:flex; align-items:center; justify-content:center; } .close img { width:24px; height:24px; }
+  .sp { flex:1; } .restore { color:var(--text-secondary); padding:0 8px; }
+  .lottie { width:calc(var(--lw) * 0.8); height:calc(var(--lw) * 0.8); }
+  .copy { flex:none; min-height:calc((844px - 34px - (844px - 34px) / 5.75 - 18px) * 0.32); padding:calc((844px - 34px - (844px - 34px) / 5.75 - 18px) * 0.05) 0; display:flex; flex-direction:column; align-items:center; text-align:center; }
+  .title { font-family:var(--font-namu); font-size:32px; line-height:35.2px; color:var(--text-primary); margin-bottom:28px; }
+  .text { font-family:var(--font-redhat); font-size:17px; line-height:23.8px; color:var(--text-primary); padding:0 calc(var(--lw) * 0.12); }
+  .gap { flex:1; min-height:16px; }
+  .price { position:relative; font-family:var(--font-redhat); font-size:14px; color:var(--text-tertiary); white-space:pre-line; }
+  .price.hidden, .hidden-line { opacity:0; }
+  .spin { position:absolute; left:50%; top:50%; width:16px; height:16px; margin:-8px 0 0 -8px; border-radius:50%; border:2px solid var(--text-tertiary); border-right-color:transparent; }
+  .dots { display:flex; justify-content:center; gap:8px; padding-bottom:12px; }
+  .dots i { width:6px; height:6px; border-radius:3px; background:var(--paginator-primary); }
+  .dots i.on { width:24px; background:var(--paginator-secondary); }
+  .foot { flex:none; height:calc((844px - 34px) / 5.75); padding:0 24px; display:flex; flex-direction:column; justify-content:flex-end; align-items:center; gap:12px; }
+  .btn { display:flex; align-items:center; justify-content:center; font-family:var(--font-namu); font-size:17px; color:var(--text-primary);
+         width:calc(var(--lw) * 0.83); height:calc(var(--lw) * 0.83 / 4.64); border-radius:var(--radius-button);
+         background:var(--gradient-controlGreen); box-shadow:inset 0 0 0 1px rgba(255,255,255,0.1); }
+  .btn.disabled { opacity:var(--opacity-disabled); }
+  .under { display:flex; flex-direction:column; align-items:center; gap:8px; }
+  .under .Caption { color:var(--text-tertiary); }
+  .legal { display:flex; justify-content:center; align-items:center; height:17px; white-space:nowrap; font-size:12px; }
+  .legal a { color:var(--text-secondary); } .legal i { font-style:normal; color:var(--separator-primary); padding:0 5px; }
+</style></head>
+<body>
+<div class="screen" lang="en">
+  <div class="pages"><div class="slide">
+    <div class="art"><div class="hdr hidden"><span class="close"><img src="../../assets/Icons/Close.svg" alt=""></span><span class="sp"></span><span class="restore Body1">Restore</span></div><div class="lottie" data-src="../../assets/Lotties/Lock.json"></div></div>
+    <div class="copy"><div class="title">Surf the Web Privately</div><div class="text">Securefield VPN encrypts your online traffic to keep hackers and snoops away</div><div class="gap"></div><div class="price hidden"> </div></div>
+  </div><div class="dots"><i class="on"></i><i></i><i></i><i></i></div></div>
+  <div class="foot"><div class="btn">Next</div><div class="under"><span class="Caption">Auto-renewable subscription</span><div class="legal Caption"><a>Privacy Policy</a><i>•</i><a>Terms of Use</a><i>•</i><a>About Subscription</a></div></div></div>
+</div>
+<div class="screen" lang="en">
+  <div class="pages"><div class="slide">
+    <div class="art"><div class="hdr"><span class="close"><img src="../../assets/Icons/Close.svg" alt=""></span><span class="sp"></span><span class="restore Body1">Restore</span></div><div class="lottie" data-src="../../assets/Lotties/Shield.json"></div></div>
+    <div class="copy"><div class="title">Connect now!</div><div class="text">Join the millions who trust us for their online privacy and security today</div><div class="gap"></div><div class="price">Start your 3-day free trial
+Then $39.99 per year</div></div>
+  </div><div class="dots"><i></i><i></i><i></i><i class="on"></i></div></div>
+  <div class="foot"><div class="btn">Continue</div><div class="under"><span class="Caption">Auto-renewable subscription</span><div class="legal Caption"><a>Privacy Policy</a><i>•</i><a>Terms of Use</a><i>•</i><a>About Subscription</a></div></div></div>
+</div>
+<div class="screen" lang="en">
+  <div class="pages"><div class="slide">
+    <div class="art"><div class="hdr"><span class="close"><img src="../../assets/Icons/Close.svg" alt=""></span><span class="sp"></span><span class="restore Body1">Restore</span></div><div class="lottie" data-src="../../assets/Lotties/Shield.json"></div></div>
+    <div class="copy"><div class="title">Connect now!</div><div class="text">Join the millions who trust us for their online privacy and security today</div><div class="gap"></div><div class="price"><span class="hidden-line"> </span><span class="spin"></span></div></div>
+  </div><div class="dots"><i></i><i></i><i></i><i class="on"></i></div></div>
+  <div class="foot"><div class="btn">Continue</div><div class="under"><span class="Caption">Auto-renewable subscription</span><div class="legal Caption"><a>Privacy Policy</a><i>•</i><a>Terms of Use</a><i>•</i><a>About Subscription</a></div></div></div>
+</div>
+<div class="screen" dir="rtl" lang="ar">
+  <div class="pages"><div class="slide">
+    <div class="art"><div class="hdr hidden"><span class="close"><img src="../../assets/Icons/Close.svg" alt=""></span><span class="sp"></span><span class="restore Body1">استعادة</span></div><div class="lottie" data-src="../../assets/Lotties/Lock.json"></div></div>
+    <div class="copy"><div class="title">تصفح الويب بشكل خاص</div><div class="text">يقوم Securefield VPN بتشفير حركة المرور الخاصة بك عبر الإنترنت لإبعاد المتسللين والمتطفلين</div><div class="gap"></div><div class="price hidden"> </div></div>
+  </div><div class="dots"><i class="on"></i><i></i><i></i><i></i></div></div>
+  <div class="foot"><div class="btn">التالي</div><div class="under"><span class="Caption">اشتراك متجدد تلقائيًا</span><div class="legal Caption"><a>سياسة الخصوصية</a><i>•</i><a>شروط الاستخدام</a><i>•</i><a>حول الاشتراك</a></div></div></div>
+</div>
+<div class="screen" dir="rtl" lang="ar">
+  <div class="pages"><div class="slide">
+    <div class="art"><div class="hdr hidden"><span class="close"><img src="../../assets/Icons/Close.svg" alt=""></span><span class="sp"></span><span class="restore Body1">استعادة</span></div><div class="lottie" data-src="../../assets/Lotties/Speedometer.json"></div></div>
+    <div class="copy"><div class="title">اتصال سريع ومستقر</div><div class="text">استمتع بأسرع تجربة إنترنت، تصفح المواقع، قم بتنزيل ملفات الألعاب وقم ببث المحتويات العالمية بدون تأخير</div><div class="gap"></div><div class="price hidden"> </div></div>
+  </div><div class="dots"><i></i><i></i><i class="on"></i><i></i></div></div>
+  <div class="foot"><div class="btn">التالي</div><div class="under"><span class="Caption">اشتراك متجدد تلقائيًا</span><div class="legal Caption"><a>سياسة الخصوصية</a><i>•</i><a>شروط الاستخدام</a><i>•</i><a>حول الاشتراك</a></div></div></div>
+</div>
+<div class="screen" dir="rtl" lang="ar">
+  <div class="pages"><div class="slide">
+    <div class="art"><div class="hdr"><span class="close"><img src="../../assets/Icons/Close.svg" alt=""></span><span class="sp"></span><span class="restore Body1">استعادة</span></div><div class="lottie" data-src="../../assets/Lotties/Shield.json"></div></div>
+    <div class="copy"><div class="title">اتصل الآن!</div><div class="text">انضم إلى الملايين الذين يثقون بنا من أجل خصوصيتهم وأمانهم على الإنترنت اليوم</div><div class="gap"></div><div class="price">ابدأ تجربتك المجانية لمدة 3 أيام
+ثم $39.99 كل سنة</div></div>
+  </div><div class="dots"><i></i><i></i><i></i><i class="on"></i></div></div>
+  <div class="foot"><div class="btn">متابعة</div><div class="under"><span class="Caption">اشتراك متجدد تلقائيًا</span><div class="legal Caption"><a>سياسة الخصوصية</a><i>•</i><a>شروط الاستخدام</a><i>•</i><a>حول الاشتراك</a></div></div></div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/lottie-web@5.12.2/build/player/lottie_svg.min.js"></script>
+<script>
+  // playOnce in the app: each slide plays to its end and holds. The preview shows the held last frame.
+  document.querySelectorAll('.lottie').forEach(function (el) {
+    fetch(el.dataset.src).then(function (r) { return r.json(); }).then(function (data) {
+      var a = lottie.loadAnimation({ container: el, renderer: 'svg', loop: false, autoplay: false, animationData: data });
+      a.addEventListener('DOMLoaded', function () { a.goToAndStop(a.totalFrames - 1, true); });
+    });
+  });
+</script>
+</body>
+</html>

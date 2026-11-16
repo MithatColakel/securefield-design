@@ -1,0 +1,25 @@
+<!-- @dsCard group="Settings" height=980 subtitle="Restore purchases button and the six settings rows; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>ActionsCard — preview</title>
+<style>
+  body { margin:0; min-height:100vh; background:var(--gradient-background); color:var(--text-primary); }
+  .wrap { --lw:390px; width:var(--lw); display:flex; flex-direction:column; align-items:center; padding-bottom:16px; }
+  .card { position:relative; border-radius:var(--radius-gradientCard); background:var(--background-secondary); box-shadow: inset 1px 1px 2px 0 var(--highlight); overflow:hidden; }
+  .card::before { content:""; position:absolute; inset:0; border-radius:inherit; padding:1px; background:var(--gradient-border); z-index:2;
+          -webkit-mask:linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite:xor; mask-composite:exclude; pointer-events:none; }
+  .sep { height:1px; width:95.3%; margin-inline-start:auto; background:var(--separator-secondary); flex:none; }
+  .restore { height:calc(var(--lw) * 0.915 / 6.47); display:flex; align-items:center; justify-content:center; color:var(--text-secondary); }
+  .card { width:calc(var(--lw) * 0.915); height:calc(var(--lw) * 0.915 / 0.765 / 8 * 6); display:flex; flex-direction:column; }
+  .row { flex:1; display:flex; align-items:center; padding:0 16px; }
+  .lead { display:flex; align-items:center; gap:16px; padding:4px; }
+  .lead img, .next { width:24px; height:24px; flex:none; }
+  .sp { flex:1; }
+  [dir=rtl] .next { transform:scaleX(-1); }
+</style></head>
+<body>
+<div class="wrap"><div class="restore Body1">Restore purchases</div><div class="card"><div class="row"><span class="lead"><img src="../../assets/Icons/Heart.svg" alt=""><span class="Body1">Rate us</span></span><span class="sp"></span><img class="next" src="../../assets/Icons/Next.svg" alt=""></div><div class="sep"></div><div class="row"><span class="lead"><img src="../../assets/Icons/Faq.svg" alt=""><span class="Body1">FAQ</span></span><span class="sp"></span><img class="next" src="../../assets/Icons/Next.svg" alt=""></div><div class="sep"></div><div class="row"><span class="lead"><img src="../../assets/Icons/Support.svg" alt=""><span class="Body1">Support</span></span><span class="sp"></span><img class="next" src="../../assets/Icons/Next.svg" alt=""></div><div class="sep"></div><div class="row"><span class="lead"><img src="../../assets/Icons/Privacy-Policy.svg" alt=""><span class="Body1">Privacy Policy</span></span><span class="sp"></span><img class="next" src="../../assets/Icons/Next.svg" alt=""></div><div class="sep"></div><div class="row"><span class="lead"><img src="../../assets/Icons/Terms.svg" alt=""><span class="Body1">Terms of Use</span></span><span class="sp"></span><img class="next" src="../../assets/Icons/Next.svg" alt=""></div><div class="sep"></div><div class="row"><span class="lead"><img src="../../assets/Icons/Protocol.svg" alt=""><span class="Body1">Protocols</span></span><span class="sp"></span><img class="next" src="../../assets/Icons/Next.svg" alt=""></div></div></div>
+<div class="wrap" dir="rtl" lang="ar"><div class="restore Body1">استعادة المشتريات</div><div class="card"><div class="row"><span class="lead"><img src="../../assets/Icons/Heart.svg" alt=""><span class="Body1">قيمنا</span></span><span class="sp"></span><img class="next" src="../../assets/Icons/Next.svg" alt=""></div><div class="sep"></div><div class="row"><span class="lead"><img src="../../assets/Icons/Faq.svg" alt=""><span class="Body1">الأسئلة الشائعة</span></span><span class="sp"></span><img class="next" src="../../assets/Icons/Next.svg" alt=""></div><div class="sep"></div><div class="row"><span class="lead"><img src="../../assets/Icons/Support.svg" alt=""><span class="Body1">الدعم</span></span><span class="sp"></span><img class="next" src="../../assets/Icons/Next.svg" alt=""></div><div class="sep"></div><div class="row"><span class="lead"><img src="../../assets/Icons/Privacy-Policy.svg" alt=""><span class="Body1">سياسة الخصوصية</span></span><span class="sp"></span><img class="next" src="../../assets/Icons/Next.svg" alt=""></div><div class="sep"></div><div class="row"><span class="lead"><img src="../../assets/Icons/Terms.svg" alt=""><span class="Body1">شروط الاستخدام</span></span><span class="sp"></span><img class="next" src="../../assets/Icons/Next.svg" alt=""></div><div class="sep"></div><div class="row"><span class="lead"><img src="../../assets/Icons/Protocol.svg" alt=""><span class="Body1">البروتوكولات</span></span><span class="sp"></span><img class="next" src="../../assets/Icons/Next.svg" alt=""></div></div></div>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!-- @dsCard group="Launch" height=880 subtitle="Launch screen at 390 × 844: progress creeping (40 %) and full; Arabic: fills from the right (to confirm)" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>SplashScreen — preview</title>
+<style>
+  * { box-sizing:border-box; }
+  body { margin:0; background:#000; display:flex; flex-wrap:wrap; gap:24px; }
+  .screen { width:390px; height:844px; position:relative; overflow:hidden; background:var(--gradient-background); }
+  .screen > img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+  .logo { position:absolute; width:calc(390px * 0.75); height:calc(844px * 0.5); left:calc(195px - 390px * 0.75 / 2); top:calc(422px - 844px * 0.07 - 844px * 0.25); }
+  .bar { position:absolute; width:195px; height:6px; left:97.5px; top:calc(844px * 0.75 - 3px); border-radius:3px; background:var(--darkGray); overflow:hidden; }
+  .bar i { display:block; height:100%; border-radius:3px; background:var(--splashFill); }
+</style></head>
+<body>
+<div class="screen"><img src="../../assets/Logos/Splash.png" alt=""><div class="logo lottie" data-src="../../assets/Lotties/Logo.json"></div><div class="bar"><i style="width:40%"></i></div></div>
+<div class="screen"><img src="../../assets/Logos/Splash.png" alt=""><div class="logo lottie" data-src="../../assets/Lotties/Logo.json"></div><div class="bar"><i style="width:100%"></i></div></div>
+<div class="screen" dir="rtl" lang="ar"><img src="../../assets/Logos/Splash.png" alt=""><div class="logo lottie" data-src="../../assets/Lotties/Logo.json"></div><div class="bar"><i style="width:40%"></i></div></div>
+<script src="https://cdn.jsdelivr.net/npm/lottie-web@5.12.2/build/player/lottie_svg.min.js"></script>
+<script>
+  document.querySelectorAll('.lottie').forEach(function (el) {
+    fetch(el.dataset.src).then(function (r) { return r.json(); }).then(function (data) {
+      var a = lottie.loadAnimation({ container: el, renderer: 'svg', loop: false, autoplay: false, animationData: data });
+      a.addEventListener('DOMLoaded', function () { a.goToAndStop(a.totalFrames - 1, true); });
+    });
+  });
+</script>
+</body>
+</html>

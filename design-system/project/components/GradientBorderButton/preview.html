@@ -1,0 +1,32 @@
+<!-- @dsCard group="Buttons" height=330 subtitle="Outline card button: with icon, loading; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>GradientBorderButton — preview</title>
+<style>
+  body { margin:0; min-height:100vh; background:var(--gradient-background); color:var(--text-primary); }
+  .wrap { --lw:390px; width:var(--lw); padding:16px 0; display:flex; flex-direction:column; align-items:center; gap:14px; }
+  .label { color:var(--text-tertiary); align-self:stretch; padding:0 16px; }
+  .btn { position:relative; width:calc(var(--lw) * 0.83); aspect-ratio:4.64; border:0; padding:5px 0 0; cursor:pointer;
+         display:flex; align-items:center; justify-content:center; gap:8px;
+         border-radius:var(--radius-button); background:var(--background-secondary); box-shadow:inset 1px 1px 2px 0 rgba(255,255,255,0.25);
+         font-family:var(--font-redhat); font-size:16px; color:var(--text-primary); }
+  .btn::before { content:""; position:absolute; inset:0; border-radius:inherit; padding:1px; background:var(--gradient-border);
+         -webkit-mask:linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite:xor; mask-composite:exclude; }
+  .btn img { width:20px; height:20px; }
+  [dir="rtl"] .btn img { transform:none; }
+  .spin { width:20px; height:20px; border-radius:50%; border:2px solid rgba(255,255,255,0.25); border-top-color:var(--text-primary); }
+</style></head>
+<body>
+<div class="wrap">
+  <div class="label Caption">with icon (icons/Play)</div>
+  <button class="btn"><img src="../../assets/Icons/Play.svg" alt="">Watch Ads</button>
+  <div class="label Caption">loading (spinner, button disabled)</div>
+  <button class="btn" disabled><span class="spin"></span></button>
+</div>
+<div class="wrap" dir="rtl" lang="ar">
+  <div class="label Caption">العربية — icon stays before the label (leading side)</div>
+  <button class="btn"><img src="../../assets/Icons/Play.svg" alt="">شاهد الإعلانات</button>
+</div>
+</body>
+</html>

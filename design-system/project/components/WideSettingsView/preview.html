@@ -1,0 +1,82 @@
+<!-- @dsCard group="Settings" height=1530 subtitle="iPad Settings form sheet 1000 × 720: sidebar and FAQ pane; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>WideSettingsView — preview</title>
+<style>
+  * { box-sizing:border-box; }
+  body { margin:0; background:#000; color:var(--text-primary); }
+  .cap { color:var(--text-tertiary); padding:12px 16px 8px; }
+  /* tablet type (×1.3) */
+  .H4 { font-size:44.2px; line-height:48.6px; }
+  .Subtitle1 { font-size:22.1px; line-height:24.8px; }
+  .Body1 { font-size:19.5px; line-height:27.3px; }
+  .sheet { width:1000px; height:720px; display:flex; background:var(--sheetBackground); overflow:hidden; margin-bottom:24px; }
+  .side { position:relative; width:320px; flex:none; background:var(--gradient-background); overflow:hidden; }
+  .side > img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; mix-blend-mode:overlay; }
+  .side .in { position:relative; display:flex; flex-direction:column; align-items:center; }
+  .hd { align-self:stretch; display:flex; align-items:center; padding:24px 20px 12px; }
+  .hd .H4 { flex:1; text-align:start; }
+  .x { width:32px; height:32px; border-radius:50%; background:rgba(255,255,255,0.1); display:flex; align-items:center; justify-content:center; color:var(--icon-primary); }
+  .x svg { width:14px; height:14px; }
+  .card { position:relative; width:292.8px; border-radius:var(--radius-gradientCard); background:var(--background-secondary); box-shadow:inset 1px 1px 2px 0 var(--highlight); }
+  .card::before { content:""; position:absolute; inset:0; border-radius:inherit; padding:1px; background:var(--gradient-border);
+          -webkit-mask:linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite:xor; mask-composite:exclude; pointer-events:none; }
+  .prem { height:76px; display:flex; align-items:center; gap:14px; padding:0 16px; margin-bottom:12px; }
+  .prem img { width:48px; height:48px; object-fit:contain; }
+  .row { position:relative; height:60px; display:flex; align-items:center; gap:14px; padding:0 14px; }
+  .row.sel::before { content:""; position:absolute; top:0; bottom:0; left:6px; right:6px; border-radius:14px; background:color-mix(in srgb, var(--background-tertiary) 16%, transparent); }
+  .row > * { position:relative; }
+  .ib { width:38px; height:38px; border-radius:10px; background:rgba(255,255,255,0.08); display:flex; align-items:center; justify-content:center; flex:none; }
+  .ib img { width:22px; height:22px; object-fit:contain; }
+  .row .Body1 { flex:1; text-align:start; }
+  .tr { width:13px; height:13px; color:var(--text-secondary); flex:none; }
+  [dir=rtl] .tr { transform:scaleX(-1); }
+  .sep { height:1px; width:95.3%; margin-inline-start:auto; background:var(--separator-secondary); }
+  .restore { height:52px; display:flex; align-items:center; color:var(--text-secondary); margin-bottom:20px; }
+  .div { width:1px; flex:none; background:var(--columnDivider); }
+  .detail { flex:1; padding-inline-start:24px; display:flex; }
+  .pane { --lw:560px; flex:1; background:var(--gradient-background); }
+  .large { height:52px; margin-top:44px; display:flex; align-items:center; padding:0 16px; font-family:var(--font-namu); font-size:44.2px; }
+  .faq { padding:16px 0; display:flex; justify-content:center; }
+  .faq .card { width:calc(var(--lw) * 0.915); }
+  .frow { height:64px; padding:0 20px; display:flex; align-items:center; gap:8px; }
+  .frow .Body1 { flex:1; text-align:start; }
+  .next { width:24px; height:24px; flex:none; background:var(--icon-primary);
+          -webkit-mask:url(../../assets/Icons/Next.svg) center / contain no-repeat; mask:url(../../assets/Icons/Next.svg) center / contain no-repeat; }
+  [dir=rtl] .next { transform:scaleX(-1); }
+</style></head>
+<body>
+<div class="cap Caption">English · FAQ selected (default is Protocols)</div>
+<div id="en" class="sheet" lang="en"></div>
+<div class="cap Caption" dir="rtl">العربية</div>
+<div id="ar" class="sheet" lang="ar" dir="rtl"></div>
+<script>
+// SF Symbol stand-ins: xmark, chevron.right, arrow.up.forward.
+const xmark = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"/></svg>';
+const chev = '<svg class="tr" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4l8 8-8 8"/></svg>';
+const arrow = '<svg class="tr" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 18L18 6M8 6h10v10"/></svg>';
+const ROWS = [['../../assets/Icons/Heart.svg', false], ['../../assets/Icons/Faq.svg', true], ['../../assets/Icons/Support.svg', true], ['../../assets/Icons/Privacy-Policy.svg', true], ['../../assets/Icons/Terms.svg', true], ['../../assets/Icons/Protocol.svg', true]];
+const T = {
+  en: { title:'Settings', prem:'Get Premium Now', restore:'Restore purchases', rows:['Rate us','FAQ','Support','Privacy Policy','Terms of Use','Protocols'],
+        faq:['FAQ', ['Payment &amp; Subscription','Can’t connect','Can’t access Web/App','Profile/Installation','How Securefield works?','Other Issues']] },
+  ar: { title:'الإعدادات', prem:'احصل على المميز الآن', restore:'استعادة المشتريات', rows:['قيمنا','الأسئلة الشائعة','الدعم','سياسة الخصوصية','شروط الاستخدام','البروتوكولات'],
+        faq:['الأسئلة الشائعة', ['الدفع والاشتراك','لا يمكن الاتصال','لا يمكن الوصول إلى الويب/التطبيق','الملف الشخصي/التثبيت','كيف يعمل Securefield؟','مشاكل أخرى']] }
+};
+for (const l of ['en','ar']) {
+  const t = T[l];
+  const rows = ROWS.map(([icon, pane], i) =>
+    `<div class="row${i === 1 ? ' sel' : ''}"><span class="ib"><img src="${icon}" alt=""></span><span class="Body1">${t.rows[i]}</span>${pane ? chev : arrow}</div>${i < ROWS.length - 1 ? '<div class="sep"></div>' : ''}`).join('');
+  const faq = t.faq[1].map((r, i, a) => `<div class="frow"><span class="Body1">${r}</span><span class="next"></span></div>${i < a.length - 1 ? '<div class="sep"></div>' : ''}`).join('');
+  document.getElementById(l).innerHTML =
+    `<div class="side"><img src="../../assets/Images/World-Map.png" alt=""><div class="in">
+       <div class="hd"><span class="H4">${t.title}</span><span class="x">${xmark}</span></div>
+       <div class="card prem"><img src="../../assets/Logos/Premium.png" alt=""><span class="Subtitle1">${t.prem}</span></div>
+       <div class="card">${rows}</div>
+       <div class="restore Body1">${t.restore}</div></div></div>
+     <div class="div"></div>
+     <div class="detail"><div class="pane"><div class="large">${t.faq[0]}</div><div class="faq"><div class="card">${faq}</div></div></div></div>`;
+}
+</script>
+</body>
+</html>

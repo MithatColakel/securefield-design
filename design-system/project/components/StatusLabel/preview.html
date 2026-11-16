@@ -1,0 +1,27 @@
+<!-- @dsCard group="Mac" height=440 width=760 subtitle="Mac connection status: not connected (with Click to connect), connecting, connected (green), disconnecting; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>StatusLabel — preview</title>
+<style>
+  body { margin:0; padding:20px; min-height:100vh; box-sizing:border-box; background:linear-gradient(to bottom right, var(--bgGraphit), var(--bgBlack)); color:var(--white); }
+  .grid { display:grid; grid-template-columns:repeat(2, 1fr); gap:24px 12px; text-align:center; }
+  .s { display:flex; flex-direction:column; gap:6px; align-items:center; }
+  .on { color:var(--lightGreen); } .hint { color:var(--lightGray); }
+  .lbl { color:var(--mediumGray); }
+</style></head>
+<body>
+<div class="grid">
+  <div class="s"><span class="caption lbl">disconnected</span><span class="title">Not connected</span><span class="body hint">Click to connect</span></div>
+  <div class="s"><span class="caption lbl">connecting</span><span class="title">Connecting…</span></div>
+  <div class="s"><span class="caption lbl">connected</span><span class="title on">Connected</span></div>
+  <div class="s"><span class="caption lbl">disconnecting</span><span class="title">Disconnecting…</span></div>
+</div>
+<div class="grid" dir="rtl" lang="ar" style="margin-top:24px">
+  <div class="s"><span class="title">غير متصل</span><span class="body hint">انقر للاتصال</span></div>
+  <div class="s"><span class="title">جارٍ الاتصال…</span></div>
+  <div class="s"><span class="title on">متصل</span></div>
+  <div class="s"><span class="title">جارٍ قطع الاتصال…</span></div>
+</div>
+</body>
+</html>

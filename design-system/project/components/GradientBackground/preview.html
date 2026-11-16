@@ -1,0 +1,25 @@
+<!-- @dsCard group="Surfaces" height=780 subtitle="Graphite to black, with and without the world map" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>GradientBackground — preview</title>
+<style>
+  body { margin:0; min-height:100vh; background:var(--bgBlack); color:var(--text-primary); }
+  .row { display:flex; gap:12px; padding:12px; }
+  figure { margin:0; flex:1; }
+  .bg { position:relative; height:340px; overflow:hidden; background:var(--gradient-background); }
+  .bg img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; mix-blend-mode:overlay; pointer-events:none; }
+  .bg.rtl { background:linear-gradient(225deg, var(--bgGraphit), var(--bgBlack)); }
+  figcaption { padding-top:6px; color:var(--text-tertiary); }
+</style></head>
+<body>
+<div class="row">
+  <figure><div class="bg"></div><figcaption class="Caption">gradientOnly</figcaption></figure>
+  <figure><div class="bg"><img src="../../assets/Images/World-Map.png" alt=""></div><figcaption class="Caption">withBackgroundImage</figcaption></figure>
+</div>
+<div class="row" dir="rtl">
+  <figure><div class="bg rtl"></div><figcaption class="Caption">العربية — gradientOnly (mirrored)</figcaption></figure>
+  <figure><div class="bg rtl"><img src="../../assets/Images/World-Map.png" alt=""></div><figcaption class="Caption">العربية — withBackgroundImage (map not mirrored)</figcaption></figure>
+</div>
+</body>
+</html>

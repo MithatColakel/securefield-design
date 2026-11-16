@@ -1,0 +1,2147 @@
+{
+ "v": 3,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-11-12T08:15:00Z"
+ },
+ "title": "SecureField Ekranları",
+ "launch": {
+  "view": "canvas",
+  "page": "iphone"
+ },
+ "pages": [
+  {
+   "id": "iphone",
+   "name": "iPhone"
+  },
+  {
+   "id": "ipad",
+   "name": "iPad"
+  },
+  {
+   "id": "mac",
+   "name": "Mac"
+  }
+ ],
+ "boards": {
+  "Main.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 880,
+   "h": 560,
+   "page": "iphone",
+   "title": "Cover"
+  },
+  "iPhone-Splash-Progress40-EN.dc.html": {
+   "x": 0,
+   "y": 960,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Splash · progress 40 % · EN"
+  },
+  "iPhone-Splash-Full-EN.dc.html": {
+   "x": 470,
+   "y": 960,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Splash · full · EN"
+  },
+  "iPhone-Splash-Progress40-AR.dc.html": {
+   "x": 940,
+   "y": 960,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Splash · progress 40 % · AR"
+  },
+  "iPhone-Splash-Full-AR.dc.html": {
+   "x": 1410,
+   "y": 960,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Splash · full · AR"
+  },
+  "iPhone-PrivacyConsent-Default-EN.dc.html": {
+   "x": 0,
+   "y": 2204,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Privacy consent · default · EN"
+  },
+  "iPhone-PrivacyConsent-Default-AR.dc.html": {
+   "x": 470,
+   "y": 2204,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Privacy consent · default · AR"
+  },
+  "iPhone-Onboarding-FirstSlide-EN.dc.html": {
+   "x": 0,
+   "y": 3448,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Onboarding · first slide · EN"
+  },
+  "iPhone-Onboarding-SecondSlide-EN.dc.html": {
+   "x": 470,
+   "y": 3448,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Onboarding · second slide · EN"
+  },
+  "iPhone-Onboarding-ThirdSlide-EN.dc.html": {
+   "x": 940,
+   "y": 3448,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Onboarding · third slide · EN"
+  },
+  "iPhone-Onboarding-FirstSlide-AR.dc.html": {
+   "x": 1410,
+   "y": 3448,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Onboarding · first slide · AR"
+  },
+  "iPhone-Onboarding-SecondSlide-AR.dc.html": {
+   "x": 1880,
+   "y": 3448,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Onboarding · second slide · AR"
+  },
+  "iPhone-Onboarding-ThirdSlide-AR.dc.html": {
+   "x": 2350,
+   "y": 3448,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Onboarding · third slide · AR"
+  },
+  "iPhone-UpdateRequired-Default-EN.dc.html": {
+   "x": 0,
+   "y": 4692,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Update required · default · EN"
+  },
+  "iPhone-UpdateRequired-Default-AR.dc.html": {
+   "x": 470,
+   "y": 4692,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Update required · default · AR"
+  },
+  "iPhone-Main-Disconnected-EN.dc.html": {
+   "x": 0,
+   "y": 5936,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Main · disconnected, free user · EN"
+  },
+  "iPhone-Main-Connecting-EN.dc.html": {
+   "x": 470,
+   "y": 5936,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Main · connecting · EN"
+  },
+  "iPhone-Main-Connected-EN.dc.html": {
+   "x": 940,
+   "y": 5936,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Main · connected · EN"
+  },
+  "iPhone-Main-NoInternet-EN.dc.html": {
+   "x": 1410,
+   "y": 5936,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Main · no internet, notice band · EN"
+  },
+  "iPhone-Main-GiftEnded-EN.dc.html": {
+   "x": 1880,
+   "y": 5936,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Main · gift ended · EN"
+  },
+  "iPhone-Main-PremiumConnected-EN.dc.html": {
+   "x": 2820,
+   "y": 5936,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Main · connected, premium user · EN"
+  },
+  "iPhone-Main-Disconnected-AR.dc.html": {
+   "x": 3290,
+   "y": 5936,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Main · disconnected, free user · AR"
+  },
+  "iPhone-Main-Connecting-AR.dc.html": {
+   "x": 3760,
+   "y": 5936,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Main · connecting · AR"
+  },
+  "iPhone-Main-Connected-AR.dc.html": {
+   "x": 4230,
+   "y": 5936,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Main · connected · AR"
+  },
+  "iPhone-Main-NoInternet-AR.dc.html": {
+   "x": 4700,
+   "y": 5936,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Main · no internet, notice band · AR"
+  },
+  "iPhone-Main-GiftEnded-AR.dc.html": {
+   "x": 5170,
+   "y": 5936,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Main · gift ended · AR"
+  },
+  "iPhone-Main-PremiumConnected-AR.dc.html": {
+   "x": 6110,
+   "y": 5936,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Main · connected, premium user · AR"
+  },
+  "iPhone-ServerList-FreeUser-EN.dc.html": {
+   "x": 0,
+   "y": 7180,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Server list · free user · EN"
+  },
+  "iPhone-ServerList-PremiumUser-EN.dc.html": {
+   "x": 940,
+   "y": 7180,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Server list · premium user · EN"
+  },
+  "iPhone-ServerList-FreeUser-AR.dc.html": {
+   "x": 1410,
+   "y": 7180,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Server list · free user · AR"
+  },
+  "iPhone-ServerList-PremiumUser-AR.dc.html": {
+   "x": 1880,
+   "y": 7180,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Server list · premium user · AR"
+  },
+  "iPhone-Rating-NoStars-EN.dc.html": {
+   "x": 0,
+   "y": 8824,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Connection rating · no stars · EN"
+  },
+  "iPhone-Rating-LowRating-EN.dc.html": {
+   "x": 470,
+   "y": 8824,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Connection rating · 2 stars with reasons · EN"
+  },
+  "iPhone-Rating-FiveStars-EN.dc.html": {
+   "x": 940,
+   "y": 8824,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Connection rating · 5 stars · EN"
+  },
+  "iPhone-Rating-FreeTimeEnded-EN.dc.html": {
+   "x": 1410,
+   "y": 8824,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Connection rating · free time ended · EN"
+  },
+  "iPhone-Rating-Sent-EN.dc.html": {
+   "x": 1880,
+   "y": 8824,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Connection rating · sent · EN"
+  },
+  "iPhone-Rating-NoStars-AR.dc.html": {
+   "x": 2350,
+   "y": 8824,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Connection rating · no stars · AR"
+  },
+  "iPhone-Rating-LowRating-AR.dc.html": {
+   "x": 2820,
+   "y": 8824,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Connection rating · 2 stars with reasons · AR"
+  },
+  "iPhone-Rating-FiveStars-AR.dc.html": {
+   "x": 3290,
+   "y": 8824,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Connection rating · 5 stars · AR"
+  },
+  "iPhone-Rating-FreeTimeEnded-AR.dc.html": {
+   "x": 3760,
+   "y": 8824,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Connection rating · free time ended · AR"
+  },
+  "iPhone-Rating-Sent-AR.dc.html": {
+   "x": 4230,
+   "y": 8824,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Connection rating · sent · AR"
+  },
+  "iPhone-Feedback-Default-EN.dc.html": {
+   "x": 0,
+   "y": 10068,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Feedback · default · EN"
+  },
+  "iPhone-Feedback-Default-AR.dc.html": {
+   "x": 470,
+   "y": 10068,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Feedback · default · AR"
+  },
+  "iPhone-Settings-FreeUser-EN.dc.html": {
+   "x": 0,
+   "y": 11312,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Settings · free user · EN"
+  },
+  "iPhone-Settings-PremiumUser-EN.dc.html": {
+   "x": 470,
+   "y": 11312,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Settings · premium user · EN"
+  },
+  "iPhone-Settings-FreeUser-AR.dc.html": {
+   "x": 940,
+   "y": 11312,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Settings · free user · AR"
+  },
+  "iPhone-Settings-PremiumUser-AR.dc.html": {
+   "x": 1410,
+   "y": 11312,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Settings · premium user · AR"
+  },
+  "iPhone-Protocols-Default-EN.dc.html": {
+   "x": 0,
+   "y": 12556,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Protocols · default · EN"
+  },
+  "iPhone-Protocols-Default-AR.dc.html": {
+   "x": 470,
+   "y": 12556,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Protocols · default · AR"
+  },
+  "iPhone-FAQ-List-EN.dc.html": {
+   "x": 0,
+   "y": 13800,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "FAQ · list · EN"
+  },
+  "iPhone-FAQ-List-AR.dc.html": {
+   "x": 470,
+   "y": 13800,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "FAQ · list · AR"
+  },
+  "iPhone-Document-FAQPage-EN.dc.html": {
+   "x": 0,
+   "y": 15044,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Document · FAQ page pushed · EN"
+  },
+  "iPhone-Document-PrivacySheet-EN.dc.html": {
+   "x": 470,
+   "y": 15044,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Document · privacy policy in a sheet · EN"
+  },
+  "iPhone-Document-FAQPage-AR.dc.html": {
+   "x": 940,
+   "y": 15044,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Document · FAQ page pushed · AR"
+  },
+  "iPhone-Document-PrivacySheet-AR.dc.html": {
+   "x": 1410,
+   "y": 15044,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Document · privacy policy in a sheet · AR"
+  },
+  "iPhone-Report-ChooseProblem-EN.dc.html": {
+   "x": 0,
+   "y": 16288,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Report · choose a problem · EN"
+  },
+  "iPhone-Report-Connected-EN.dc.html": {
+   "x": 470,
+   "y": 16288,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Report · while connected · EN"
+  },
+  "iPhone-Report-ChooseProblem-AR.dc.html": {
+   "x": 940,
+   "y": 16288,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Report · choose a problem · AR"
+  },
+  "iPhone-Report-Connected-AR.dc.html": {
+   "x": 1410,
+   "y": 16288,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Report · while connected · AR"
+  },
+  "iPhone-Main-NetworkProblemFreeUser-ApprovedVPN653-EN.dc.html": {
+   "x": 0,
+   "y": 17732,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Approved, not built — VPN-653 · Main · network problem, free user · EN"
+  },
+  "iPhone-Main-NetworkProblemPremiumUser-ApprovedVPN653-EN.dc.html": {
+   "x": 470,
+   "y": 17732,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Approved, not built — VPN-653 · Main · network problem, premium user · EN"
+  },
+  "iPhone-Main-NetworkProblemFreeUser-ApprovedVPN653-AR.dc.html": {
+   "x": 940,
+   "y": 17732,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Approved, not built — VPN-653 · Main · network problem, free user · AR"
+  },
+  "iPhone-Main-NetworkProblemPremiumUser-ApprovedVPN653-AR.dc.html": {
+   "x": 1410,
+   "y": 17732,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Approved, not built — VPN-653 · Main · network problem, premium user · AR"
+  },
+  "iPad-Splash-Portrait-Progress40-EN.dc.html": {
+   "x": 0,
+   "y": 400,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Splash · progress 40 % · portrait · EN"
+  },
+  "iPad-Splash-Landscape-Progress40-EN.dc.html": {
+   "x": 914,
+   "y": 400,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Splash · progress 40 % · landscape · EN"
+  },
+  "iPad-Splash-Portrait-Progress40-AR.dc.html": {
+   "x": 2204,
+   "y": 400,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Splash · progress 40 % · portrait · AR"
+  },
+  "iPad-Splash-Landscape-Progress40-AR.dc.html": {
+   "x": 3118,
+   "y": 400,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Splash · progress 40 % · landscape · AR"
+  },
+  "iPad-PrivacyConsent-Portrait-Default-EN.dc.html": {
+   "x": 0,
+   "y": 2010,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Privacy consent · default · portrait · EN"
+  },
+  "iPad-PrivacyConsent-Landscape-Default-EN.dc.html": {
+   "x": 914,
+   "y": 2010,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Privacy consent · default · landscape · EN"
+  },
+  "iPad-PrivacyConsent-Portrait-Default-AR.dc.html": {
+   "x": 2204,
+   "y": 2010,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Privacy consent · default · portrait · AR"
+  },
+  "iPad-PrivacyConsent-Landscape-Default-AR.dc.html": {
+   "x": 3118,
+   "y": 2010,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Privacy consent · default · landscape · AR"
+  },
+  "iPad-Onboarding-Portrait-FirstSlide-EN.dc.html": {
+   "x": 0,
+   "y": 3620,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Onboarding · first slide · portrait · EN"
+  },
+  "iPad-Onboarding-Landscape-FirstSlide-EN.dc.html": {
+   "x": 914,
+   "y": 3620,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Onboarding · first slide · landscape · EN"
+  },
+  "iPad-Onboarding-Portrait-FirstSlide-AR.dc.html": {
+   "x": 2204,
+   "y": 3620,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Onboarding · first slide · portrait · AR"
+  },
+  "iPad-Onboarding-Landscape-FirstSlide-AR.dc.html": {
+   "x": 3118,
+   "y": 3620,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Onboarding · first slide · landscape · AR"
+  },
+  "iPad-UpdateRequired-Portrait-Default-EN.dc.html": {
+   "x": 0,
+   "y": 5230,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Update required · default · portrait · EN"
+  },
+  "iPad-UpdateRequired-Landscape-Default-EN.dc.html": {
+   "x": 914,
+   "y": 5230,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Update required · default · landscape · EN"
+  },
+  "iPad-UpdateRequired-Portrait-Default-AR.dc.html": {
+   "x": 2204,
+   "y": 5230,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Update required · default · portrait · AR"
+  },
+  "iPad-UpdateRequired-Landscape-Default-AR.dc.html": {
+   "x": 3118,
+   "y": 5230,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Update required · default · landscape · AR"
+  },
+  "iPad-Main-Portrait-FreeDisconnected-EN.dc.html": {
+   "x": 0,
+   "y": 6840,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Main · free user, disconnected · portrait · EN"
+  },
+  "iPad-Main-Portrait-PremiumDisconnected-EN.dc.html": {
+   "x": 914,
+   "y": 6840,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Main · premium user, disconnected · portrait · EN"
+  },
+  "iPad-Main-Portrait-Connecting-EN.dc.html": {
+   "x": 1828,
+   "y": 6840,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Main · connecting · portrait · EN"
+  },
+  "iPad-Main-Portrait-Connected-EN.dc.html": {
+   "x": 2742,
+   "y": 6840,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Main · connected · portrait · EN"
+  },
+  "iPad-Main-Landscape-FreeDisconnected-EN.dc.html": {
+   "x": 3656,
+   "y": 6840,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Main · free user, disconnected · landscape · EN"
+  },
+  "iPad-Main-Landscape-PremiumDisconnected-EN.dc.html": {
+   "x": 4946,
+   "y": 6840,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Main · premium user, disconnected · landscape · EN"
+  },
+  "iPad-Main-Landscape-Connecting-EN.dc.html": {
+   "x": 6236,
+   "y": 6840,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Main · connecting · landscape · EN"
+  },
+  "iPad-Main-Landscape-Connected-EN.dc.html": {
+   "x": 7526,
+   "y": 6840,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Main · connected · landscape · EN"
+  },
+  "iPad-Main-Portrait-FreeDisconnected-AR.dc.html": {
+   "x": 8816,
+   "y": 6840,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Main · free user, disconnected · portrait · AR"
+  },
+  "iPad-Main-Portrait-PremiumDisconnected-AR.dc.html": {
+   "x": 9730,
+   "y": 6840,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Main · premium user, disconnected · portrait · AR"
+  },
+  "iPad-Main-Portrait-Connecting-AR.dc.html": {
+   "x": 10644,
+   "y": 6840,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Main · connecting · portrait · AR"
+  },
+  "iPad-Main-Portrait-Connected-AR.dc.html": {
+   "x": 11558,
+   "y": 6840,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Main · connected · portrait · AR"
+  },
+  "iPad-Main-Landscape-FreeDisconnected-AR.dc.html": {
+   "x": 12472,
+   "y": 6840,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Main · free user, disconnected · landscape · AR"
+  },
+  "iPad-Main-Landscape-PremiumDisconnected-AR.dc.html": {
+   "x": 13762,
+   "y": 6840,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Main · premium user, disconnected · landscape · AR"
+  },
+  "iPad-Main-Landscape-Connecting-AR.dc.html": {
+   "x": 15052,
+   "y": 6840,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Main · connecting · landscape · AR"
+  },
+  "iPad-Main-Landscape-Connected-AR.dc.html": {
+   "x": 16342,
+   "y": 6840,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Main · connected · landscape · AR"
+  },
+  "iPad-Rating-Portrait-NoStars-EN.dc.html": {
+   "x": 0,
+   "y": 10460,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Connection rating · no stars · portrait · EN"
+  },
+  "iPad-Rating-Landscape-NoStars-EN.dc.html": {
+   "x": 914,
+   "y": 10460,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Connection rating · no stars · landscape · EN"
+  },
+  "iPad-Rating-Portrait-LowRating-EN.dc.html": {
+   "x": 2204,
+   "y": 10460,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Connection rating · 2 stars with reasons · portrait · EN"
+  },
+  "iPad-Rating-Landscape-LowRating-EN.dc.html": {
+   "x": 3118,
+   "y": 10460,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Connection rating · 2 stars with reasons · landscape · EN"
+  },
+  "iPad-Rating-Portrait-NoStars-AR.dc.html": {
+   "x": 4408,
+   "y": 10460,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Connection rating · no stars · portrait · AR"
+  },
+  "iPad-Rating-Landscape-NoStars-AR.dc.html": {
+   "x": 5322,
+   "y": 10460,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Connection rating · no stars · landscape · AR"
+  },
+  "iPad-Rating-Portrait-LowRating-AR.dc.html": {
+   "x": 6612,
+   "y": 10460,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Connection rating · 2 stars with reasons · portrait · AR"
+  },
+  "iPad-Rating-Landscape-LowRating-AR.dc.html": {
+   "x": 7526,
+   "y": 10460,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Connection rating · 2 stars with reasons · landscape · AR"
+  },
+  "iPad-Feedback-Portrait-Default-EN.dc.html": {
+   "x": 0,
+   "y": 12070,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Feedback · default · portrait · EN"
+  },
+  "iPad-Feedback-Landscape-Default-EN.dc.html": {
+   "x": 914,
+   "y": 12070,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Feedback · default · landscape · EN"
+  },
+  "iPad-Feedback-Portrait-Default-AR.dc.html": {
+   "x": 2204,
+   "y": 12070,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Feedback · default · portrait · AR"
+  },
+  "iPad-Feedback-Landscape-Default-AR.dc.html": {
+   "x": 3118,
+   "y": 12070,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Feedback · default · landscape · AR"
+  },
+  "iPad-Settings-Portrait-ProtocolsPane-EN.dc.html": {
+   "x": 0,
+   "y": 13680,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Settings · Protocols pane · portrait · EN"
+  },
+  "iPad-Settings-Landscape-ProtocolsPane-EN.dc.html": {
+   "x": 914,
+   "y": 13680,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Settings · Protocols pane · landscape · EN"
+  },
+  "iPad-Settings-Portrait-FAQPane-EN.dc.html": {
+   "x": 2204,
+   "y": 13680,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Settings · FAQ pane · portrait · EN"
+  },
+  "iPad-Settings-Landscape-FAQPane-EN.dc.html": {
+   "x": 3118,
+   "y": 13680,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Settings · FAQ pane · landscape · EN"
+  },
+  "iPad-Settings-Portrait-SupportPane-EN.dc.html": {
+   "x": 4408,
+   "y": 13680,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Settings · Support pane (Report a problem) · portrait · EN"
+  },
+  "iPad-Settings-Landscape-SupportPane-EN.dc.html": {
+   "x": 5322,
+   "y": 13680,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Settings · Support pane (Report a problem) · landscape · EN"
+  },
+  "iPad-Settings-Portrait-PrivacyPane-EN.dc.html": {
+   "x": 6612,
+   "y": 13680,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Settings · Privacy Policy pane · portrait · EN"
+  },
+  "iPad-Settings-Landscape-PrivacyPane-EN.dc.html": {
+   "x": 7526,
+   "y": 13680,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Settings · Privacy Policy pane · landscape · EN"
+  },
+  "iPad-Settings-Portrait-TermsPane-EN.dc.html": {
+   "x": 8816,
+   "y": 13680,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Settings · Terms of Use pane · portrait · EN"
+  },
+  "iPad-Settings-Landscape-TermsPane-EN.dc.html": {
+   "x": 9730,
+   "y": 13680,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Settings · Terms of Use pane · landscape · EN"
+  },
+  "iPad-Settings-Portrait-ProtocolsPane-AR.dc.html": {
+   "x": 11020,
+   "y": 13680,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Settings · Protocols pane · portrait · AR"
+  },
+  "iPad-Settings-Landscape-ProtocolsPane-AR.dc.html": {
+   "x": 11934,
+   "y": 13680,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Settings · Protocols pane · landscape · AR"
+  },
+  "iPad-Settings-Portrait-FAQPane-AR.dc.html": {
+   "x": 13224,
+   "y": 13680,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Settings · FAQ pane · portrait · AR"
+  },
+  "iPad-Settings-Landscape-FAQPane-AR.dc.html": {
+   "x": 14138,
+   "y": 13680,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Settings · FAQ pane · landscape · AR"
+  },
+  "iPad-Settings-Portrait-SupportPane-AR.dc.html": {
+   "x": 15428,
+   "y": 13680,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Settings · Support pane (Report a problem) · portrait · AR"
+  },
+  "iPad-Settings-Landscape-SupportPane-AR.dc.html": {
+   "x": 16342,
+   "y": 13680,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Settings · Support pane (Report a problem) · landscape · AR"
+  },
+  "iPad-Settings-Portrait-PrivacyPane-AR.dc.html": {
+   "x": 17632,
+   "y": 13680,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Settings · Privacy Policy pane · portrait · AR"
+  },
+  "iPad-Settings-Landscape-PrivacyPane-AR.dc.html": {
+   "x": 18546,
+   "y": 13680,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Settings · Privacy Policy pane · landscape · AR"
+  },
+  "iPad-Settings-Portrait-TermsPane-AR.dc.html": {
+   "x": 19836,
+   "y": 13680,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Settings · Terms of Use pane · portrait · AR"
+  },
+  "iPad-Settings-Landscape-TermsPane-AR.dc.html": {
+   "x": 20750,
+   "y": 13680,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Settings · Terms of Use pane · landscape · AR"
+  },
+  "iPad-Document-Portrait-PrivacySheet-EN.dc.html": {
+   "x": 0,
+   "y": 15290,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Document · privacy policy in a sheet · portrait · EN"
+  },
+  "iPad-Document-Landscape-PrivacySheet-EN.dc.html": {
+   "x": 914,
+   "y": 15290,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Document · privacy policy in a sheet · landscape · EN"
+  },
+  "iPad-Document-Portrait-PrivacySheet-AR.dc.html": {
+   "x": 2204,
+   "y": 15290,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Document · privacy policy in a sheet · portrait · AR"
+  },
+  "iPad-Document-Landscape-PrivacySheet-AR.dc.html": {
+   "x": 3118,
+   "y": 15290,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Document · privacy policy in a sheet · landscape · AR"
+  },
+  "iPad-Report-Portrait-ChooseProblem-EN.dc.html": {
+   "x": 0,
+   "y": 16900,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Report · choose a problem · portrait · EN"
+  },
+  "iPad-Report-Landscape-ChooseProblem-EN.dc.html": {
+   "x": 914,
+   "y": 16900,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Report · choose a problem · landscape · EN"
+  },
+  "iPad-Report-Portrait-ChooseProblem-AR.dc.html": {
+   "x": 2204,
+   "y": 16900,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Report · choose a problem · portrait · AR"
+  },
+  "iPad-Report-Landscape-ChooseProblem-AR.dc.html": {
+   "x": 3118,
+   "y": 16900,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Report · choose a problem · landscape · AR"
+  },
+  "Mac-FirstLaunch-Welcome-EN.dc.html": {
+   "x": 0,
+   "y": 400,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "First launch · welcome · EN"
+  },
+  "Mac-FirstLaunch-Permission-EN.dc.html": {
+   "x": 560,
+   "y": 400,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "First launch · VPN permission · EN"
+  },
+  "Mac-FirstLaunch-Denied-EN.dc.html": {
+   "x": 1120,
+   "y": 400,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "First launch · permission denied · EN"
+  },
+  "Mac-FirstLaunch-Welcome-AR.dc.html": {
+   "x": 1680,
+   "y": 400,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "First launch · welcome · AR"
+  },
+  "Mac-FirstLaunch-Permission-AR.dc.html": {
+   "x": 2240,
+   "y": 400,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "First launch · VPN permission · AR"
+  },
+  "Mac-FirstLaunch-Denied-AR.dc.html": {
+   "x": 2800,
+   "y": 400,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "First launch · permission denied · AR"
+  },
+  "Mac-Panel-NotConnected-EN.dc.html": {
+   "x": 0,
+   "y": 1472,
+   "w": 340,
+   "h": 292,
+   "page": "mac",
+   "title": "Menu bar panel · not connected · EN"
+  },
+  "Mac-Panel-Connecting-EN.dc.html": {
+   "x": 420,
+   "y": 1472,
+   "w": 340,
+   "h": 292,
+   "page": "mac",
+   "title": "Menu bar panel · connecting · EN"
+  },
+  "Mac-Panel-Connected-EN.dc.html": {
+   "x": 840,
+   "y": 1472,
+   "w": 340,
+   "h": 292,
+   "page": "mac",
+   "title": "Menu bar panel · connected · EN"
+  },
+  "Mac-Panel-NotPremium-EN.dc.html": {
+   "x": 1260,
+   "y": 1472,
+   "w": 340,
+   "h": 369,
+   "page": "mac",
+   "title": "Menu bar panel · not premium, strip · EN"
+  },
+  "Mac-Panel-LocationPicker-EN.dc.html": {
+   "x": 1680,
+   "y": 1472,
+   "w": 340,
+   "h": 516,
+   "page": "mac",
+   "title": "Menu bar panel · location picker open · EN"
+  },
+  "Mac-Panel-NotConnected-AR.dc.html": {
+   "x": 2100,
+   "y": 1472,
+   "w": 340,
+   "h": 292,
+   "page": "mac",
+   "title": "Menu bar panel · not connected · AR"
+  },
+  "Mac-Panel-Connecting-AR.dc.html": {
+   "x": 2520,
+   "y": 1472,
+   "w": 340,
+   "h": 292,
+   "page": "mac",
+   "title": "Menu bar panel · connecting · AR"
+  },
+  "Mac-Panel-Connected-AR.dc.html": {
+   "x": 2940,
+   "y": 1472,
+   "w": 340,
+   "h": 292,
+   "page": "mac",
+   "title": "Menu bar panel · connected · AR"
+  },
+  "Mac-Panel-NotPremium-AR.dc.html": {
+   "x": 3360,
+   "y": 1472,
+   "w": 340,
+   "h": 369,
+   "page": "mac",
+   "title": "Menu bar panel · not premium, strip · AR"
+  },
+  "Mac-Panel-LocationPicker-AR.dc.html": {
+   "x": 3780,
+   "y": 1472,
+   "w": 340,
+   "h": 516,
+   "page": "mac",
+   "title": "Menu bar panel · location picker open · AR"
+  },
+  "Mac-MainWindow-NotConnected-EN.dc.html": {
+   "x": 0,
+   "y": 2388,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Main window · not connected, not premium · EN"
+  },
+  "Mac-MainWindow-Connecting-EN.dc.html": {
+   "x": 1002,
+   "y": 2388,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Main window · connecting · EN"
+  },
+  "Mac-MainWindow-Connected-EN.dc.html": {
+   "x": 2004,
+   "y": 2388,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Main window · connected, premium · EN"
+  },
+  "Mac-MainWindow-NotConnected-AR.dc.html": {
+   "x": 3006,
+   "y": 2388,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Main window · not connected, not premium · AR"
+  },
+  "Mac-MainWindow-Connecting-AR.dc.html": {
+   "x": 4008,
+   "y": 2388,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Main window · connecting · AR"
+  },
+  "Mac-MainWindow-Connected-AR.dc.html": {
+   "x": 5010,
+   "y": 2388,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Main window · connected, premium · AR"
+  },
+  "Mac-Settings-Premium-EN.dc.html": {
+   "x": 0,
+   "y": 3810,
+   "w": 460,
+   "h": 732,
+   "page": "mac",
+   "title": "Settings · premium · EN"
+  },
+  "Mac-Settings-NotPremium-EN.dc.html": {
+   "x": 540,
+   "y": 3810,
+   "w": 460,
+   "h": 732,
+   "page": "mac",
+   "title": "Settings · not premium · EN"
+  },
+  "Mac-Settings-Premium-AR.dc.html": {
+   "x": 1080,
+   "y": 3810,
+   "w": 460,
+   "h": 732,
+   "page": "mac",
+   "title": "Settings · premium · AR"
+  },
+  "Mac-Settings-NotPremium-AR.dc.html": {
+   "x": 1620,
+   "y": 3810,
+   "w": 460,
+   "h": 732,
+   "page": "mac",
+   "title": "Settings · not premium · AR"
+  },
+  "Mac-Report-Default-EN.dc.html": {
+   "x": 0,
+   "y": 4942,
+   "w": 480,
+   "h": 640,
+   "page": "mac",
+   "title": "Report · default · EN"
+  },
+  "Mac-Report-Sent-EN.dc.html": {
+   "x": 560,
+   "y": 4942,
+   "w": 480,
+   "h": 640,
+   "page": "mac",
+   "title": "Report · sent · EN"
+  },
+  "Mac-Report-Default-AR.dc.html": {
+   "x": 1120,
+   "y": 4942,
+   "w": 480,
+   "h": 640,
+   "page": "mac",
+   "title": "Report · default · AR"
+  },
+  "Mac-Report-Sent-AR.dc.html": {
+   "x": 1680,
+   "y": 4942,
+   "w": 480,
+   "h": 640,
+   "page": "mac",
+   "title": "Report · sent · AR"
+  },
+  "Mac-Document-FAQList-EN.dc.html": {
+   "x": 0,
+   "y": 5982,
+   "w": 820,
+   "h": 560,
+   "page": "mac",
+   "title": "FAQ and documents · FAQ list · EN"
+  },
+  "Mac-Document-Page-EN.dc.html": {
+   "x": 900,
+   "y": 5982,
+   "w": 620,
+   "h": 560,
+   "page": "mac",
+   "title": "FAQ and documents · one document · EN"
+  },
+  "Mac-Document-FAQList-AR.dc.html": {
+   "x": 1600,
+   "y": 5982,
+   "w": 820,
+   "h": 560,
+   "page": "mac",
+   "title": "FAQ and documents · FAQ list · AR"
+  },
+  "Mac-Document-Page-AR.dc.html": {
+   "x": 2500,
+   "y": 5982,
+   "w": 620,
+   "h": 560,
+   "page": "mac",
+   "title": "FAQ and documents · one document · AR"
+  },
+  "Mac-Panel-ConnectedOpenButton-ProposalVPN795-EN.dc.html": {
+   "x": 0,
+   "y": 7542,
+   "w": 340,
+   "h": 292,
+   "page": "mac",
+   "title": "Proposal — VPN-795 · Menu bar panel · connected, new Open button · EN"
+  },
+  "Mac-Panel-ConnectedOpenButton-ProposalVPN795-AR.dc.html": {
+   "x": 420,
+   "y": 7542,
+   "w": 340,
+   "h": 292,
+   "page": "mac",
+   "title": "Proposal — VPN-795 · Menu bar panel · connected, new Open button · AR"
+  },
+  "Mac-MainWindow-NotConnected-ProposalVPN809-EN.dc.html": {
+   "x": 0,
+   "y": 9534,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-809 · Main window, no top bar · not connected, not premium · EN"
+  },
+  "Mac-MainWindow-Connecting-ProposalVPN809-EN.dc.html": {
+   "x": 1002,
+   "y": 9534,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-809 · Main window, no top bar · connecting · EN"
+  },
+  "Mac-MainWindow-Connected-ProposalVPN809-EN.dc.html": {
+   "x": 2004,
+   "y": 9534,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-809 · Main window, no top bar · connected, premium · EN"
+  },
+  "Mac-MainWindow-NotConnected-ProposalVPN809-AR.dc.html": {
+   "x": 3006,
+   "y": 9534,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-809 · Main window, no top bar · not connected, not premium · AR"
+  },
+  "Mac-MainWindow-Connecting-ProposalVPN809-AR.dc.html": {
+   "x": 4008,
+   "y": 9534,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-809 · Main window, no top bar · connecting · AR"
+  },
+  "Mac-MainWindow-Connected-ProposalVPN809-AR.dc.html": {
+   "x": 5010,
+   "y": 9534,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-809 · Main window, no top bar · connected, premium · AR"
+  },
+  "Mac-Settings-PremiumShowInDockOn-ProposalVPN809-EN.dc.html": {
+   "x": 0,
+   "y": 11356,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-809 · Settings in the window · premium · Show in Dock on (default) · EN"
+  },
+  "Mac-Settings-PremiumShowInDockOff-ProposalVPN809-EN.dc.html": {
+   "x": 1002,
+   "y": 11356,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-809 · Settings in the window · premium · Show in Dock off · EN"
+  },
+  "Mac-Settings-NotPremiumShowInDockOn-ProposalVPN809-EN.dc.html": {
+   "x": 2004,
+   "y": 11356,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-809 · Settings in the window · not premium · Show in Dock on (default) · EN"
+  },
+  "Mac-Settings-NotPremiumShowInDockOff-ProposalVPN809-EN.dc.html": {
+   "x": 3006,
+   "y": 11356,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-809 · Settings in the window · not premium · Show in Dock off · EN"
+  },
+  "Mac-Settings-PremiumShowInDockOn-ProposalVPN809-AR.dc.html": {
+   "x": 4008,
+   "y": 11356,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-809 · Settings in the window · premium · Show in Dock on (default) · AR"
+  },
+  "Mac-Settings-PremiumShowInDockOff-ProposalVPN809-AR.dc.html": {
+   "x": 5010,
+   "y": 11356,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-809 · Settings in the window · premium · Show in Dock off · AR"
+  },
+  "Mac-Settings-NotPremiumShowInDockOn-ProposalVPN809-AR.dc.html": {
+   "x": 6012,
+   "y": 11356,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-809 · Settings in the window · not premium · Show in Dock on (default) · AR"
+  },
+  "Mac-Settings-NotPremiumShowInDockOff-ProposalVPN809-AR.dc.html": {
+   "x": 7014,
+   "y": 11356,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-809 · Settings in the window · not premium · Show in Dock off · AR"
+  },
+  "iPhone-Main-PremiumDisconnected-EN.dc.html": {
+   "x": 2350,
+   "y": 5936,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Main · disconnected, premium user · EN"
+  },
+  "iPhone-Main-PremiumDisconnected-AR.dc.html": {
+   "x": 5640,
+   "y": 5936,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Main · disconnected, premium user · AR"
+  },
+  "iPhone-ServerList-FreeUserScrolledEnd-EN.dc.html": {
+   "x": 470,
+   "y": 7180,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Server list · free user · scrolled to the end · EN"
+  },
+  "iPad-ServerList-Portrait-FreeUser-EN.dc.html": {
+   "x": 0,
+   "y": 8850,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Server list · portrait sheet · free user · EN"
+  },
+  "iPad-ServerList-Portrait-FreeUser-AR.dc.html": {
+   "x": 914,
+   "y": 8850,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Server list · portrait sheet · free user · AR"
+  }
+ },
+ "order": [
+  "Main.dc.html",
+  "iPhone-Splash-Progress40-EN.dc.html",
+  "iPhone-Splash-Full-EN.dc.html",
+  "iPhone-Splash-Progress40-AR.dc.html",
+  "iPhone-Splash-Full-AR.dc.html",
+  "iPhone-PrivacyConsent-Default-EN.dc.html",
+  "iPhone-PrivacyConsent-Default-AR.dc.html",
+  "iPhone-Onboarding-FirstSlide-EN.dc.html",
+  "iPhone-Onboarding-SecondSlide-EN.dc.html",
+  "iPhone-Onboarding-ThirdSlide-EN.dc.html",
+  "iPhone-Onboarding-FirstSlide-AR.dc.html",
+  "iPhone-Onboarding-SecondSlide-AR.dc.html",
+  "iPhone-Onboarding-ThirdSlide-AR.dc.html",
+  "iPhone-UpdateRequired-Default-EN.dc.html",
+  "iPhone-UpdateRequired-Default-AR.dc.html",
+  "iPhone-Main-Disconnected-EN.dc.html",
+  "iPhone-Main-Connecting-EN.dc.html",
+  "iPhone-Main-Connected-EN.dc.html",
+  "iPhone-Main-NoInternet-EN.dc.html",
+  "iPhone-Main-GiftEnded-EN.dc.html",
+  "iPhone-Main-PremiumDisconnected-EN.dc.html",
+  "iPhone-Main-PremiumConnected-EN.dc.html",
+  "iPhone-Main-Disconnected-AR.dc.html",
+  "iPhone-Main-Connecting-AR.dc.html",
+  "iPhone-Main-Connected-AR.dc.html",
+  "iPhone-Main-NoInternet-AR.dc.html",
+  "iPhone-Main-GiftEnded-AR.dc.html",
+  "iPhone-Main-PremiumDisconnected-AR.dc.html",
+  "iPhone-Main-PremiumConnected-AR.dc.html",
+  "iPhone-ServerList-FreeUser-EN.dc.html",
+  "iPhone-ServerList-FreeUserScrolledEnd-EN.dc.html",
+  "iPhone-ServerList-PremiumUser-EN.dc.html",
+  "iPhone-ServerList-FreeUser-AR.dc.html",
+  "iPhone-ServerList-PremiumUser-AR.dc.html",
+  "iPhone-Rating-NoStars-EN.dc.html",
+  "iPhone-Rating-LowRating-EN.dc.html",
+  "iPhone-Rating-FiveStars-EN.dc.html",
+  "iPhone-Rating-FreeTimeEnded-EN.dc.html",
+  "iPhone-Rating-Sent-EN.dc.html",
+  "iPhone-Rating-NoStars-AR.dc.html",
+  "iPhone-Rating-LowRating-AR.dc.html",
+  "iPhone-Rating-FiveStars-AR.dc.html",
+  "iPhone-Rating-FreeTimeEnded-AR.dc.html",
+  "iPhone-Rating-Sent-AR.dc.html",
+  "iPhone-Feedback-Default-EN.dc.html",
+  "iPhone-Feedback-Default-AR.dc.html",
+  "iPhone-Settings-FreeUser-EN.dc.html",
+  "iPhone-Settings-PremiumUser-EN.dc.html",
+  "iPhone-Settings-FreeUser-AR.dc.html",
+  "iPhone-Settings-PremiumUser-AR.dc.html",
+  "iPhone-Protocols-Default-EN.dc.html",
+  "iPhone-Protocols-Default-AR.dc.html",
+  "iPhone-FAQ-List-EN.dc.html",
+  "iPhone-FAQ-List-AR.dc.html",
+  "iPhone-Document-FAQPage-EN.dc.html",
+  "iPhone-Document-PrivacySheet-EN.dc.html",
+  "iPhone-Document-FAQPage-AR.dc.html",
+  "iPhone-Document-PrivacySheet-AR.dc.html",
+  "iPhone-Report-ChooseProblem-EN.dc.html",
+  "iPhone-Report-Connected-EN.dc.html",
+  "iPhone-Report-ChooseProblem-AR.dc.html",
+  "iPhone-Report-Connected-AR.dc.html",
+  "iPhone-Main-NetworkProblemFreeUser-ApprovedVPN653-EN.dc.html",
+  "iPhone-Main-NetworkProblemPremiumUser-ApprovedVPN653-EN.dc.html",
+  "iPhone-Main-NetworkProblemFreeUser-ApprovedVPN653-AR.dc.html",
+  "iPhone-Main-NetworkProblemPremiumUser-ApprovedVPN653-AR.dc.html",
+  "iPad-Splash-Portrait-Progress40-EN.dc.html",
+  "iPad-Splash-Landscape-Progress40-EN.dc.html",
+  "iPad-Splash-Portrait-Progress40-AR.dc.html",
+  "iPad-Splash-Landscape-Progress40-AR.dc.html",
+  "iPad-PrivacyConsent-Portrait-Default-EN.dc.html",
+  "iPad-PrivacyConsent-Landscape-Default-EN.dc.html",
+  "iPad-PrivacyConsent-Portrait-Default-AR.dc.html",
+  "iPad-PrivacyConsent-Landscape-Default-AR.dc.html",
+  "iPad-Onboarding-Portrait-FirstSlide-EN.dc.html",
+  "iPad-Onboarding-Landscape-FirstSlide-EN.dc.html",
+  "iPad-Onboarding-Portrait-FirstSlide-AR.dc.html",
+  "iPad-Onboarding-Landscape-FirstSlide-AR.dc.html",
+  "iPad-UpdateRequired-Portrait-Default-EN.dc.html",
+  "iPad-UpdateRequired-Landscape-Default-EN.dc.html",
+  "iPad-UpdateRequired-Portrait-Default-AR.dc.html",
+  "iPad-UpdateRequired-Landscape-Default-AR.dc.html",
+  "iPad-Main-Portrait-FreeDisconnected-EN.dc.html",
+  "iPad-Main-Portrait-PremiumDisconnected-EN.dc.html",
+  "iPad-Main-Portrait-Connecting-EN.dc.html",
+  "iPad-Main-Portrait-Connected-EN.dc.html",
+  "iPad-Main-Landscape-FreeDisconnected-EN.dc.html",
+  "iPad-Main-Landscape-PremiumDisconnected-EN.dc.html",
+  "iPad-Main-Landscape-Connecting-EN.dc.html",
+  "iPad-Main-Landscape-Connected-EN.dc.html",
+  "iPad-Main-Portrait-FreeDisconnected-AR.dc.html",
+  "iPad-Main-Portrait-PremiumDisconnected-AR.dc.html",
+  "iPad-Main-Portrait-Connecting-AR.dc.html",
+  "iPad-Main-Portrait-Connected-AR.dc.html",
+  "iPad-Main-Landscape-FreeDisconnected-AR.dc.html",
+  "iPad-Main-Landscape-PremiumDisconnected-AR.dc.html",
+  "iPad-Main-Landscape-Connecting-AR.dc.html",
+  "iPad-Main-Landscape-Connected-AR.dc.html",
+  "iPad-ServerList-Portrait-FreeUser-EN.dc.html",
+  "iPad-ServerList-Portrait-FreeUser-AR.dc.html",
+  "iPad-Rating-Portrait-NoStars-EN.dc.html",
+  "iPad-Rating-Landscape-NoStars-EN.dc.html",
+  "iPad-Rating-Portrait-LowRating-EN.dc.html",
+  "iPad-Rating-Landscape-LowRating-EN.dc.html",
+  "iPad-Rating-Portrait-NoStars-AR.dc.html",
+  "iPad-Rating-Landscape-NoStars-AR.dc.html",
+  "iPad-Rating-Portrait-LowRating-AR.dc.html",
+  "iPad-Rating-Landscape-LowRating-AR.dc.html",
+  "iPad-Feedback-Portrait-Default-EN.dc.html",
+  "iPad-Feedback-Landscape-Default-EN.dc.html",
+  "iPad-Feedback-Portrait-Default-AR.dc.html",
+  "iPad-Feedback-Landscape-Default-AR.dc.html",
+  "iPad-Settings-Portrait-ProtocolsPane-EN.dc.html",
+  "iPad-Settings-Landscape-ProtocolsPane-EN.dc.html",
+  "iPad-Settings-Portrait-FAQPane-EN.dc.html",
+  "iPad-Settings-Landscape-FAQPane-EN.dc.html",
+  "iPad-Settings-Portrait-SupportPane-EN.dc.html",
+  "iPad-Settings-Landscape-SupportPane-EN.dc.html",
+  "iPad-Settings-Portrait-PrivacyPane-EN.dc.html",
+  "iPad-Settings-Landscape-PrivacyPane-EN.dc.html",
+  "iPad-Settings-Portrait-TermsPane-EN.dc.html",
+  "iPad-Settings-Landscape-TermsPane-EN.dc.html",
+  "iPad-Settings-Portrait-ProtocolsPane-AR.dc.html",
+  "iPad-Settings-Landscape-ProtocolsPane-AR.dc.html",
+  "iPad-Settings-Portrait-FAQPane-AR.dc.html",
+  "iPad-Settings-Landscape-FAQPane-AR.dc.html",
+  "iPad-Settings-Portrait-SupportPane-AR.dc.html",
+  "iPad-Settings-Landscape-SupportPane-AR.dc.html",
+  "iPad-Settings-Portrait-PrivacyPane-AR.dc.html",
+  "iPad-Settings-Landscape-PrivacyPane-AR.dc.html",
+  "iPad-Settings-Portrait-TermsPane-AR.dc.html",
+  "iPad-Settings-Landscape-TermsPane-AR.dc.html",
+  "iPad-Document-Portrait-PrivacySheet-EN.dc.html",
+  "iPad-Document-Landscape-PrivacySheet-EN.dc.html",
+  "iPad-Document-Portrait-PrivacySheet-AR.dc.html",
+  "iPad-Document-Landscape-PrivacySheet-AR.dc.html",
+  "iPad-Report-Portrait-ChooseProblem-EN.dc.html",
+  "iPad-Report-Landscape-ChooseProblem-EN.dc.html",
+  "iPad-Report-Portrait-ChooseProblem-AR.dc.html",
+  "iPad-Report-Landscape-ChooseProblem-AR.dc.html",
+  "Mac-FirstLaunch-Welcome-EN.dc.html",
+  "Mac-FirstLaunch-Permission-EN.dc.html",
+  "Mac-FirstLaunch-Denied-EN.dc.html",
+  "Mac-FirstLaunch-Welcome-AR.dc.html",
+  "Mac-FirstLaunch-Permission-AR.dc.html",
+  "Mac-FirstLaunch-Denied-AR.dc.html",
+  "Mac-Panel-NotConnected-EN.dc.html",
+  "Mac-Panel-Connecting-EN.dc.html",
+  "Mac-Panel-Connected-EN.dc.html",
+  "Mac-Panel-NotPremium-EN.dc.html",
+  "Mac-Panel-LocationPicker-EN.dc.html",
+  "Mac-Panel-NotConnected-AR.dc.html",
+  "Mac-Panel-Connecting-AR.dc.html",
+  "Mac-Panel-Connected-AR.dc.html",
+  "Mac-Panel-NotPremium-AR.dc.html",
+  "Mac-Panel-LocationPicker-AR.dc.html",
+  "Mac-MainWindow-NotConnected-EN.dc.html",
+  "Mac-MainWindow-Connecting-EN.dc.html",
+  "Mac-MainWindow-Connected-EN.dc.html",
+  "Mac-MainWindow-NotConnected-AR.dc.html",
+  "Mac-MainWindow-Connecting-AR.dc.html",
+  "Mac-MainWindow-Connected-AR.dc.html",
+  "Mac-Settings-Premium-EN.dc.html",
+  "Mac-Settings-NotPremium-EN.dc.html",
+  "Mac-Settings-Premium-AR.dc.html",
+  "Mac-Settings-NotPremium-AR.dc.html",
+  "Mac-Report-Default-EN.dc.html",
+  "Mac-Report-Sent-EN.dc.html",
+  "Mac-Report-Default-AR.dc.html",
+  "Mac-Report-Sent-AR.dc.html",
+  "Mac-Document-FAQList-EN.dc.html",
+  "Mac-Document-Page-EN.dc.html",
+  "Mac-Document-FAQList-AR.dc.html",
+  "Mac-Document-Page-AR.dc.html",
+  "Mac-Panel-ConnectedOpenButton-ProposalVPN795-EN.dc.html",
+  "Mac-Panel-ConnectedOpenButton-ProposalVPN795-AR.dc.html",
+  "Mac-MainWindow-NotConnected-ProposalVPN809-EN.dc.html",
+  "Mac-MainWindow-Connecting-ProposalVPN809-EN.dc.html",
+  "Mac-MainWindow-Connected-ProposalVPN809-EN.dc.html",
+  "Mac-MainWindow-NotConnected-ProposalVPN809-AR.dc.html",
+  "Mac-MainWindow-Connecting-ProposalVPN809-AR.dc.html",
+  "Mac-MainWindow-Connected-ProposalVPN809-AR.dc.html",
+  "Mac-Settings-PremiumShowInDockOn-ProposalVPN809-EN.dc.html",
+  "Mac-Settings-PremiumShowInDockOff-ProposalVPN809-EN.dc.html",
+  "Mac-Settings-NotPremiumShowInDockOn-ProposalVPN809-EN.dc.html",
+  "Mac-Settings-NotPremiumShowInDockOff-ProposalVPN809-EN.dc.html",
+  "Mac-Settings-PremiumShowInDockOn-ProposalVPN809-AR.dc.html",
+  "Mac-Settings-PremiumShowInDockOff-ProposalVPN809-AR.dc.html",
+  "Mac-Settings-NotPremiumShowInDockOn-ProposalVPN809-AR.dc.html",
+  "Mac-Settings-NotPremiumShowInDockOff-ProposalVPN809-AR.dc.html"
+ ],
+ "notes": {
+  "iphone-Splash": {
+   "x": 0,
+   "y": 660,
+   "text": "Splash",
+   "kind": "title1",
+   "maxW": 1800,
+   "page": "iphone"
+  },
+  "iphone-PrivacyConsent": {
+   "x": 0,
+   "y": 1904,
+   "text": "Privacy consent",
+   "kind": "title1",
+   "maxW": 1200,
+   "page": "iphone"
+  },
+  "iphone-Onboarding": {
+   "x": 0,
+   "y": 3148,
+   "text": "Onboarding (the last slide with the price: see the paywall canvas)",
+   "kind": "title1",
+   "maxW": 2740,
+   "page": "iphone"
+  },
+  "iphone-UpdateRequired": {
+   "x": 0,
+   "y": 4392,
+   "text": "Update required",
+   "kind": "title1",
+   "maxW": 1200,
+   "page": "iphone"
+  },
+  "iphone-Main": {
+   "x": 0,
+   "y": 5636,
+   "text": "Main",
+   "kind": "title1",
+   "maxW": 6500,
+   "page": "iphone"
+  },
+  "iphone-ServerList": {
+   "x": 0,
+   "y": 6880,
+   "text": "Server list",
+   "kind": "title1",
+   "maxW": 2270,
+   "page": "iphone"
+  },
+  "iphone-Rating": {
+   "x": 0,
+   "y": 8524,
+   "text": "Connection rating",
+   "kind": "title1",
+   "maxW": 4620,
+   "page": "iphone"
+  },
+  "iphone-Feedback": {
+   "x": 0,
+   "y": 9768,
+   "text": "Feedback",
+   "kind": "title1",
+   "maxW": 1200,
+   "page": "iphone"
+  },
+  "iphone-Settings": {
+   "x": 0,
+   "y": 11012,
+   "text": "Settings",
+   "kind": "title1",
+   "maxW": 1800,
+   "page": "iphone"
+  },
+  "iphone-Protocols": {
+   "x": 0,
+   "y": 12256,
+   "text": "Protocols",
+   "kind": "title1",
+   "maxW": 1200,
+   "page": "iphone"
+  },
+  "iphone-FAQ": {
+   "x": 0,
+   "y": 13500,
+   "text": "FAQ",
+   "kind": "title1",
+   "maxW": 1200,
+   "page": "iphone"
+  },
+  "iphone-Document": {
+   "x": 0,
+   "y": 14744,
+   "text": "Document",
+   "kind": "title1",
+   "maxW": 1800,
+   "page": "iphone"
+  },
+  "iphone-Report": {
+   "x": 0,
+   "y": 15988,
+   "text": "Report",
+   "kind": "title1",
+   "maxW": 1800,
+   "page": "iphone"
+  },
+  "iphone-NetworkProblem-ApprovedVPN653": {
+   "x": 0,
+   "y": 17432,
+   "text": "Approved, not built — VPN-653 · Network problem",
+   "kind": "title1",
+   "maxW": 1800,
+   "page": "iphone"
+  },
+  "iphone-proposal": {
+   "x": 0,
+   "y": 18776,
+   "text": "Proposal — none at this commit. New proposals go here, below the approved block.",
+   "w": 900,
+   "page": "iphone",
+   "size": "l",
+   "fill": "orange"
+  },
+  "ipad-Splash": {
+   "x": 0,
+   "y": 100,
+   "text": "Splash",
+   "kind": "title1",
+   "maxW": 4328,
+   "page": "ipad"
+  },
+  "ipad-PrivacyConsent": {
+   "x": 0,
+   "y": 1710,
+   "text": "Privacy consent",
+   "kind": "title1",
+   "maxW": 4328,
+   "page": "ipad"
+  },
+  "ipad-Onboarding": {
+   "x": 0,
+   "y": 3320,
+   "text": "Onboarding (the last slide with the price: see the paywall canvas)",
+   "kind": "title1",
+   "maxW": 4328,
+   "page": "ipad"
+  },
+  "ipad-UpdateRequired": {
+   "x": 0,
+   "y": 4930,
+   "text": "Update required",
+   "kind": "title1",
+   "maxW": 4328,
+   "page": "ipad"
+  },
+  "ipad-Main": {
+   "x": 0,
+   "y": 6540,
+   "text": "Main",
+   "kind": "title1",
+   "maxW": 17552,
+   "page": "ipad"
+  },
+  "ipad-ServerList": {
+   "x": 0,
+   "y": 8550,
+   "text": "Server list (portrait: a sheet; landscape: the column on the Main screen)",
+   "kind": "title1",
+   "maxW": 1748,
+   "page": "ipad"
+  },
+  "ipad-Rating": {
+   "x": 0,
+   "y": 10160,
+   "text": "Connection rating",
+   "kind": "title1",
+   "maxW": 8736,
+   "page": "ipad"
+  },
+  "ipad-Feedback": {
+   "x": 0,
+   "y": 11770,
+   "text": "Feedback",
+   "kind": "title1",
+   "maxW": 4328,
+   "page": "ipad"
+  },
+  "ipad-Settings": {
+   "x": 0,
+   "y": 13380,
+   "text": "Settings",
+   "kind": "title1",
+   "maxW": 21960,
+   "page": "ipad"
+  },
+  "ipad-Document": {
+   "x": 0,
+   "y": 14990,
+   "text": "Document",
+   "kind": "title1",
+   "maxW": 4328,
+   "page": "ipad"
+  },
+  "ipad-Report": {
+   "x": 0,
+   "y": 16600,
+   "text": "Report",
+   "kind": "title1",
+   "maxW": 4328,
+   "page": "ipad"
+  },
+  "ipad-approved": {
+   "x": 0,
+   "y": 18510,
+   "text": "Approved, not built — none at this commit.",
+   "w": 900,
+   "page": "ipad",
+   "size": "l",
+   "fill": "green"
+  },
+  "ipad-proposal": {
+   "x": 1000,
+   "y": 18510,
+   "text": "Proposal — none at this commit.",
+   "w": 900,
+   "page": "ipad",
+   "size": "l",
+   "fill": "orange"
+  },
+  "mac-FirstLaunch": {
+   "x": 0,
+   "y": 100,
+   "text": "First launch",
+   "kind": "title1",
+   "maxW": 3280,
+   "page": "mac"
+  },
+  "mac-Panel": {
+   "x": 0,
+   "y": 1172,
+   "text": "Menu bar panel",
+   "kind": "title1",
+   "maxW": 4120,
+   "page": "mac"
+  },
+  "mac-MainWindow": {
+   "x": 0,
+   "y": 2088,
+   "text": "Main window",
+   "kind": "title1",
+   "maxW": 5932,
+   "page": "mac"
+  },
+  "mac-Settings": {
+   "x": 0,
+   "y": 3510,
+   "text": "Settings",
+   "kind": "title1",
+   "maxW": 2088,
+   "page": "mac"
+  },
+  "mac-Report": {
+   "x": 0,
+   "y": 4642,
+   "text": "Report",
+   "kind": "title1",
+   "maxW": 2160,
+   "page": "mac"
+  },
+  "mac-Document": {
+   "x": 0,
+   "y": 5682,
+   "text": "FAQ and documents",
+   "kind": "title1",
+   "maxW": 3120,
+   "page": "mac"
+  },
+  "mac-approved": {
+   "x": 0,
+   "y": 6942,
+   "text": "Approved, not built — none at this commit.",
+   "w": 900,
+   "page": "mac",
+   "size": "l",
+   "fill": "green"
+  },
+  "iphone-paywalls-moved": {
+   "x": 0,
+   "y": 8124,
+   "text": "Paywalls and offers: see the paywall canvas",
+   "w": 900,
+   "page": "iphone",
+   "size": "l",
+   "fill": "blue"
+  },
+  "ipad-paywalls-moved": {
+   "x": 0,
+   "y": 8150,
+   "text": "Paywalls and offers: see the paywall canvas",
+   "w": 900,
+   "page": "ipad",
+   "size": "l",
+   "fill": "blue"
+  },
+  "mac-paywalls-moved": {
+   "x": 0,
+   "y": 3110,
+   "text": "Paywalls and offers: see the paywall canvas",
+   "w": 900,
+   "page": "mac",
+   "size": "l",
+   "fill": "blue"
+  },
+  "mac-proposal-VPN795": {
+   "x": 0,
+   "y": 7142,
+   "text": "Proposal — VPN-795 · Mac menu-bar-only mode (no Dock icon)",
+   "kind": "title1",
+   "maxW": 4000,
+   "page": "mac"
+  },
+  "mac-VPN795-panel": {
+   "x": 0,
+   "y": 7242,
+   "text": "Proposal — VPN-795 · Menu bar panel",
+   "kind": "title1",
+   "maxW": 1800,
+   "page": "mac"
+  },
+  "mac-VPN795-panel-texts": {
+   "x": 840,
+   "y": 7542,
+   "w": 700,
+   "page": "mac",
+   "size": "m",
+   "fill": "orange",
+   "text": "Panel footer: one new button, first in the row: \"Open Securefield\". It opens the main window and brings it to the front. Icon: SF Symbol macwindow, 15 pt, lightGray, like the other footer buttons. Shown in both modes (with and without the Dock icon).\nText: existing key menu.open — EN \"Open Securefield\", AR \"فتح Securefield\" (already in Localizable.xcstrings; not new). It is the button's tooltip and accessibility label.\nSettings (gear) and Quit (power, \"Quit Securefield\") are already in this footer. No change to them."
+  },
+  "mac-VPN795-board": {
+   "x": 3000,
+   "y": 7542,
+   "w": 1300,
+   "page": "mac",
+   "size": "l",
+   "fill": "orange",
+   "text": "VPN-795 — how the user gets menu-bar-only mode\nRECOMMENDED (b): a \"Show in Dock\" switch in Settings, default on. Nothing changes for current users. A user who wants a menu-bar-only app turns it off.\nOther options:\n(a) Always menu-bar-only, no setting. Not recommended: every user loses the Dock icon, Command-Tab and the app menu; a new user may not find the app after first launch.\n(c) Dock icon only while a Securefield window is open. Not recommended: the icon comes and goes, which looks unstable; it also needs the new panel button.\n(b) with default off is possible. Then first launch changes, and I add a first-launch hint frame (new text).\n\nEvery place that changes when \"Show in Dock\" is off:\n• Main window at launch: it does not open when the Mac opens the app at login (Open at login). It opens when the user opens the app (Finder, Launchpad, Spotlight). If the code cannot tell a login launch from a user launch, it opens at every launch, as today.\n• Open the main window again: new panel button \"Open Securefield\" (frames above). Opening the app again from Finder, Launchpad or Spotlight also opens it. There is no Dock icon to click.\n• Settings: panel gear and main-window toolbar gear, as today. Command-comma works only while a Securefield window is in front.\n• Quit: panel power button \"Quit Securefield\", as today. Closing the windows does not quit, as today.\n• Help, Report, Premium, Connect: in the panel and the main window, as today. The app menu and the Connection menu are not visible, so their shortcuts have no visible menu.\n• First launch: no change (default on). Welcome and VPN permission open as today.\n• Command-Tab: Securefield is not in it. Each button that opens a window brings it to the front.\nNo change: main window, first launch, report, FAQ and document windows, the iPhone and iPad pages."
+  },
+  "mac-proposal-VPN809": {
+   "x": 0,
+   "y": 9034,
+   "text": "Proposal — VPN-809 · Mac window: no top bar, Connect as on iPhone, Settings in the window",
+   "kind": "title1",
+   "maxW": 6000,
+   "page": "mac"
+  },
+  "mac-VPN809-main": {
+   "x": 0,
+   "y": 9234,
+   "text": "Proposal — VPN-809 · Main window",
+   "kind": "title1",
+   "maxW": 5932,
+   "page": "mac"
+  },
+  "mac-VPN809-settings": {
+   "x": 0,
+   "y": 11056,
+   "text": "Proposal — VPN-809 · Settings in the main window (replaces the VPN-795 Settings proposals)",
+   "kind": "title1",
+   "maxW": 7936,
+   "page": "mac"
+  },
+  "mac-VPN809-main-note": {
+   "x": 6012,
+   "y": 9534,
+   "w": 900,
+   "page": "mac",
+   "size": "m",
+   "fill": "orange",
+   "text": "Main window, new form (board finding 4: no title or top bar).\n• No title bar and no toolbar. One background fills the whole window: BrandBackground (native/Design/Brand.swift: Brand.backgroundGradient #172231 → #000000, top-leading to bottom-trailing, World-Map in blend mode overlay), the same background as the first-launch screens. SwiftUI: .windowStyle(.hiddenTitleBar) on Window(\"Securefield\", id: \"main\"); the content goes under the top edge.\n• The window buttons (close, minimise, zoom) sit on the background, top left, where macOS puts them. The user drags the window by its background.\n• The sidebar has no fill of its own now (was black 25 %). The divider stays: hairline, white 12 %. The logo stays under the window buttons.\n• Report, FAQ, Settings: the same 3 buttons (SF Symbols exclamationmark.circle, questionmark.circle, gearshape, 16 pt, lightGray) at the top right of the window, now on the background, without the toolbar capsule. Tooltips as today: settings.report, settings.faq, menu.settings. Same place in Arabic, as in the current frames.\n• Connection column: the iPhone connect control (next note). For a user who is not premium: the Get Premium Now card at the bottom, as today. The error line under the control stays as today (caption, lightRed); not drawn.\n• Removed from the connection column: the power-button ring (ConnectOrb), the two-line label 'Not connected / Click to connect', the flag and location line, the session timer and the Connect / Disconnect pill. The iPhone has none of these. The chosen location stays visible: it is the selected row in the sidebar. Connect and disconnect: click the button, or Command-Return (Connection menu), as today.\n• No new text. No new artwork. No new component: the Design System page already has MainConnectButton and ConnectionStatusText."
+  },
+  "mac-VPN809-motion": {
+   "x": 7012,
+   "y": 9534,
+   "w": 900,
+   "page": "mac",
+   "size": "m",
+   "fill": "orange",
+   "text": "Connect control = the iPhone control, one to one (board finding 3). The Mac uses the same SwiftUI views:\n• native/SecureFieldApp/SecureFieldApp/UI/MainConnectButton.swift — MainConnectButton (artwork and ring).\n• native/SecureFieldApp/SecureFieldApp/UI/MainScreen.swift — ConnectionStatusText (status line and dots).\nArtwork: the iOS Lottie files TTD.json (to disconnected: the globe) and TTC.json (to connected: the green button with the stop square). No new artwork.\nLayout: status line above the button, 36 pt apart (MainScreen: VStack spacing 36). Button edge on iPhone: 0.53 × layout width = 206.7 pt at 390 pt. Mac: a fixed 206.7 pt (proposal: the Mac has no phone width). Centred in the connection column.\nStatus texts (Subtitle1: NAMU 1850, 17 / 19.04; white, Connected in lightGreen = text-secondary): not connected 'Click to connect' (hint.click, the Mac wording of MAIN.DISCONNECTED 'Tap to connect'); connecting 'Connecting' (MAIN.CONNECTING) + dots; optimizing MAIN.OPTIMIZING, no dots; connected 'Connected' (MAIN.CONNECTED); disconnecting 'Disconnecting' (MAIN.DISCONNECTING) + dots. All existing texts.\nMotion, as the iOS code does it:\n• Status change: the text fades out in 300 ms (linear), changes, fades in in 300 ms.\n• Dots (connecting, disconnecting only): 3 circles 4 × 4 pt, 1 pt apart, 2 pt after the text, on its baseline. Cycle 1300 ms: dot 1, 2, 3 fade in (250 ms each) at 0, 150, 300 ms; all 3 stay on; at 750 ms all fade out (300 ms); the cycle starts again at 1300 ms.\n• Ring: stroke 6 pt, round cap, angular gradient darkBlue #0073C5 16 %, lightBlue #33A9FE 41.3 %, lightGreen #35DF91 57.5 %, mediumGreen #178F59 80.2 %. Diameter 0.89 × edge − 6. Starts at 12 o'clock and fills clockwise in every language (never mirrored, also in Arabic). On connect: fades in in 100 ms (ease-out) and fills the whole circle in 40 s (linear, by clock). It shows progress, not a countdown.\n• Connected: the ring closes the rest of the circle (300 ms for a whole circle), fades out in 500 ms (ease-in-out), then TTC plays from its first frame. Ring and green button are never on screen together.\n• Disconnect or failed connect: the ring fades out in 500 ms, then TTD plays (only when the artwork changes).\n• Tunnel already up at launch: the last frame of TTC, no ring, no animation.\n• Press: opacity 0.8 while pressed. The iPhone haptic: none on the Mac.\nTimer: the iPhone timer is the free-time countdown (MainTimerView), for free users only. The Mac has no free time (MacLive). So the Mac window shows no timer, as the iPhone does for a premium user. Other option for the board: keep the Mac session timer ('00:12:34') under the button.\nQuestion for SecurefieldiOS (through PM): MainConnectButton uses Lottie (LottiePlayer) and a UIKit haptic. Can the Mac target use Lottie and share these 2 views, with the haptic left out on the Mac?"
+  },
+  "mac-VPN809-settings-note": {
+   "x": 8016,
+   "y": 11356,
+   "w": 900,
+   "page": "mac",
+   "size": "m",
+   "fill": "orange",
+   "text": "Settings inside the main window (board finding 2). RECOMMENDED form, drawn in the frames: Settings takes the place of the connection in the connection column (right; left in Arabic). The locations sidebar stays. There is no Settings window any more.\nHow the user opens Settings: (1) the gear at the top right of the window; (2) the gear in the menu bar panel footer: it brings the main window to the front with Settings shown (it opens the window if it is closed); (3) Command-comma, app menu 'Settings…'.\nHow the user goes back to the connection: (1) the back button at the top of the column (icons/Back, 24 pt, lightGray, mirrored in Arabic; tooltip and accessibility label 'Connection' / 'الاتصال' = nav.connect, an existing text); (2) the Escape key; (3) the gear again. Choosing a location in the sidebar also goes back to the connection.\nHeader: back button + 'Settings' (settings.title), Mac subtitle style (NAMU 1850, 17), white, in the 52 pt strip at the height of the window buttons. No new text.\nContent: the current Mac Settings page, unchanged: same groups, rows and order, 460 pt wide (the old window width), centred in the column. It scrolls under the header. Not premium: the subscription group starts with 'Get Premium Now'.\nReport a problem, FAQ, Privacy Policy, Terms of Use from Settings: they open as sheets on this window, as today.\nShow in Dock (VPN-795 option (b), approved by the board 2026-11-15): second row in General, default on; its note under the General group. Texts as approved on VPN-795 (not new): settings.showInDock EN 'Show in Dock', AR 'إظهار في Dock'; settings.showInDock.note EN 'When this is off, Securefield is only in the menu bar at the top of the screen.', AR 'عند إيقاف هذا الخيار، يظهر Securefield في شريط القائمة أعلى الشاشة فقط.' On / off: the Dock icon goes or comes back at once, no restart.\nThese 8 frames replace the VPN-795 Settings proposals (Mac-Settings-ShowInDockOn/Off-ProposalVPN795-EN/AR); I removed those 4 frames from the canvas. The VPN-795 panel proposal (Mac-Panel-ConnectedOpenButton-ProposalVPN795-EN/AR) stays.\nOther forms for the board (not drawn):\n(B) A sheet on the main window, like Report, with Done. Not recommended: it covers the window like a separate page.\n(C) Settings fills the whole window, sidebar hidden, with a back button (like the iPhone). Not recommended: the user loses the locations.\n(D) A third column at the right of the connection. Not recommended: the window must grow by about 460 pt, or the connection column gets too narrow."
+  },
+  "mac-VPN809-other": {
+   "x": 8012,
+   "y": 9534,
+   "w": 1100,
+   "page": "mac",
+   "size": "m",
+   "fill": "orange",
+   "text": "VPN-809 — every other place that changes because of these proposals (not drawn; no new text):\n• First launch (Welcome, VPN permission, Permission denied): this is the same main window at 480 × 640, so it also has no title bar. The window buttons sit on its BrandBackground, top left. The current frames draw no title bar, so they stay.\n• Paywall, Report, FAQ and document sheets: sheets have no title bar. No change. From Settings they now open on the same window (before, Settings sent them to the main window).\n• Menu bar panel: its gear opens the main window with Settings shown. The panel and its connect control stay as approved.\n• App menu 'Settings…' (Command-comma): shows Settings in the main window. The Window menu no longer lists a 'Settings' window.\n• Show in Dock off (VPN-795): Settings is reached from the panel gear and the window gear, both in the main window now. The VPN-795 note above says 'toolbar gear'; read 'window gear'.\n• Connect / Disconnect from the keyboard: Command-Return (Connection menu) only; the Connect pill and its shortcut are gone.\n• Mac store screenshots and the Mac checks (code, not design): MacShoot draws a 'settings' scene as its own window, and MacActionCheck looks for a window titled 'Settings'. Owner: SecurefieldiOS, in the build task.\n• Not changed: the iPhone and iPad pages, the menu bar panel frames, the paywall canvas."
+  }
+ }
+}

@@ -1,0 +1,59 @@
+<!-- @dsCard group="Mac" height=1400 width=1000 subtitle="Mac first launch (480 × 640 on BrandBackground): Welcome, VPN permission, permission refused; English and Arabic" -->
+<!doctype html>
+<html>
+<head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow"><title>MacFirstLaunch — preview</title>
+<style>
+  body { margin:0; padding:16px; min-height:100vh; box-sizing:border-box; background:#000; color:var(--white); display:flex; flex-wrap:wrap; gap:20px; align-items:flex-start; }
+  figure { margin:0; } figcaption { color:var(--mediumGray); margin-bottom:6px; }
+  .lg { color:var(--lightGray); } .mg { color:var(--mediumGray); } .y { color:var(--lightYellow); } .gr { color:var(--lightGreen); }
+  .btn { display:flex; align-items:center; justify-content:center; border-radius:var(--radius-pill); color:var(--white); box-sizing:border-box; padding:0 16px; text-align:center; width:100%; }
+  .primary { min-height:48px; background:var(--gradient-macPrimary); }
+  [dir="rtl"] .primary { background:linear-gradient(270deg, var(--lightBlue), var(--green)); }
+  .premium { min-height:52px; background:var(--gradient-premium); color:var(--onPremium); }
+  .outline { min-height:44px; background:var(--surface); border:1.5px solid var(--hairline); }
+  .card { background:var(--surface); border:1px solid var(--hairline); border-radius:var(--radius-card); }
+  .c { text-align:center; }
+
+  .pg { position:relative; width:480px; height:640px; overflow:hidden; display:flex; align-items:center; justify-content:center; background:linear-gradient(to bottom right, var(--bgGraphit), var(--bgBlack)); }
+  [dir="rtl"].pg { background:linear-gradient(to bottom left, var(--bgGraphit), var(--bgBlack)); }
+  .map { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; mix-blend-mode:overlay; }
+  .in { position:relative; padding:32px; box-sizing:border-box; width:100%; max-width:520px; display:flex; flex-direction:column; align-items:center; gap:24px; }
+  .lw { height:64px; }
+  .pts { display:flex; flex-direction:column; gap:12px; } .pt { display:flex; align-items:center; gap:12px; } .pt svg { width:18px; height:18px; color:var(--lightGreen); flex:none; }
+  .b320 { max-width:320px; }
+  .ic { width:96px; height:96px; border-radius:50%; background:rgba(0,143,245,0.18); display:flex; align-items:center; justify-content:center; position:relative; }
+  .ic svg { width:44px; height:44px; color:var(--lightBlue); } .ic.red { background:rgba(233,78,48,0.18); } .ic.red svg { color:var(--red); }
+  .ic b { position:absolute; color:#0b121c; font:700 22px system-ui, sans-serif; }
+  .steps { align-self:stretch; padding:16px; display:flex; flex-direction:column; gap:12px; }
+  .stp { display:flex; align-items:center; gap:12px; } .n { width:26px; height:26px; border-radius:50%; background:var(--darkBlue); display:flex; align-items:center; justify-content:center; flex:none; }
+</style></head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+  <!-- SF Symbol stand-ins (the symbols are not in the repo). Simple shapes, not Apple's drawings. -->
+  <symbol id="power" viewBox="0 0 24 24"><path d="M12 2.5v9" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/><path d="M6.2 5.8a8.5 8.5 0 1 0 11.6 0" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></symbol>
+  <symbol id="crown" viewBox="0 0 24 24"><path d="M3 7l4.5 4L12 4l4.5 7L21 7l-2 12H5z" fill="currentColor"/></symbol>
+  <symbol id="lock" viewBox="0 0 24 24"><rect x="5" y="10.5" width="14" height="10.5" rx="2" fill="currentColor"/><path d="M8 10.5V8a4 4 0 0 1 8 0v2.5" fill="none" stroke="currentColor" stroke-width="2.2"/></symbol>
+  <symbol id="chev-f" viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="chev-b" viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5L21 21" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></symbol>
+  <symbol id="xfill" viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" fill="currentColor"/><path d="M8 8l8 8M16 8l-8 8" stroke="#0e1621" stroke-width="2.2" stroke-linecap="round"/></symbol>
+  <symbol id="gear" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="2" stroke-dasharray="3 2.3"/></symbol>
+  <symbol id="question" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M9.3 9.3a2.8 2.8 0 1 1 3.8 2.6c-.8.4-1.1.9-1.1 1.8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="12" cy="16.8" r="1.1" fill="currentColor"/></symbol>
+  <symbol id="exclam" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 6.8v6.4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="12" cy="16.6" r="1.1" fill="currentColor"/></symbol>
+  <symbol id="check" viewBox="0 0 24 24"><path d="M4.5 12.5l5 5 10-11" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="checkfill" viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" fill="currentColor"/><path d="M7 12.3l3.4 3.4L17 9" fill="none" stroke="#0b121c" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="shieldlock" viewBox="0 0 24 24"><path d="M12 2l8 3v6.5c0 5-3.4 8.8-8 10.5-4.6-1.7-8-5.5-8-10.5V5z" fill="currentColor"/></symbol>
+  <symbol id="bolt" viewBox="0 0 24 24"><path d="M13.5 2L5 13.5h6L10 22l9-12h-6z" fill="currentColor"/></symbol>
+  <symbol id="globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><ellipse cx="12" cy="12" rx="4" ry="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M3 12h18" stroke="currentColor" stroke-width="2"/></symbol>
+  <symbol id="shieldhalf" viewBox="0 0 24 24"><path d="M12 2l8 3v6.5c0 5-3.4 8.8-8 10.5-4.6-1.7-8-5.5-8-10.5V5z" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 2v20c-4.6-1.7-8-5.5-8-10.5V5z" fill="currentColor"/></symbol>
+  <symbol id="wand" viewBox="0 0 24 24"><path d="M4 20L15 9" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/><path d="M17 2l1 3 3 1-3 1-1 3-1-3-3-1 3-1zM8 3l.6 1.6L10 5l-1.4.6L8 7l-.6-1.4L6 5l1.4-.4z" fill="currentColor"/></symbol>
+</defs></svg>
+<figure><figcaption class="caption">WelcomeView</figcaption><div class="pg" dir="ltr" lang="en"><img class="map" src="../../assets/Images/World-Map.png" alt=""><div class="in"><img class="lw" src="../../assets/Logos/App-Logo.png" alt=""><div class="title c">Your privacy is our top priority</div><div class="pts"><div class="pt"><svg><use href="#checkfill"/></svg><span class="body">We do not keep logs of your online activities.</span></div><div class="pt"><svg><use href="#checkfill"/></svg><span class="body">We do not store your original IP address.</span></div><div class="pt"><svg><use href="#checkfill"/></svg><span class="body">We never sell your personal data.</span></div></div><div class="btn primary bodyBold b320">Accept and continue</div></div></div></figure>
+<figure><figcaption class="caption">PermissionView</figcaption><div class="pg" dir="ltr" lang="en"><img class="map" src="../../assets/Images/World-Map.png" alt=""><div class="in"><div class="ic"><svg><use href="#shieldlock"/></svg><b></b></div><div class="title c">Allow the VPN configuration</div><div class="body lg c">To protect your connection, macOS asks for your permission to add a VPN configuration for Securefield. You see this question once.</div><div class="card steps"><div class="stp"><span class="n bodyBold">1</span><span class="body">Click Allow in the macOS window</span></div><div class="stp"><span class="n bodyBold">2</span><span class="body">Confirm with Touch ID or your Mac password</span></div><div class="stp"><span class="n bodyBold">3</span><span class="body">Securefield connects. Nothing else to set up</span></div></div><div class="btn primary bodyBold b320">Continue</div></div></div></figure>
+<figure><figcaption class="caption">PermissionView, denied (Mac: Open System Settings)</figcaption><div class="pg" dir="ltr" lang="en"><img class="map" src="../../assets/Images/World-Map.png" alt=""><div class="in"><div class="ic red"><svg><use href="#shieldlock"/></svg><b>!</b></div><div class="title c">VPN configuration not added</div><div class="body lg c">Securefield can't connect without a VPN configuration. Tap Try again and choose Allow.</div><div class="btn primary bodyBold b320">Try again</div><div class="body gr">Open System Settings</div></div></div></figure>
+<figure><figcaption class="caption">العربية — الترحيب</figcaption><div class="pg" dir="rtl" lang="ar"><img class="map" src="../../assets/Images/World-Map.png" alt=""><div class="in"><img class="lw" src="../../assets/Logos/App-Logo.png" alt=""><div class="title c">خصوصيتك هي أولويتنا القصوى</div><div class="pts"><div class="pt"><svg><use href="#checkfill"/></svg><span class="body">نحن لا نحفظ سجلات لأنشطتك عبر الإنترنت.</span></div><div class="pt"><svg><use href="#checkfill"/></svg><span class="body">نحن لا نخزن عنوان IP الأصلي الخاص بك.</span></div><div class="pt"><svg><use href="#checkfill"/></svg><span class="body">نحن لا نبيع بياناتك الشخصية.</span></div></div><div class="btn primary bodyBold b320">قبول ومتابعة</div></div></div></figure>
+<figure><figcaption class="caption">العربية — الإذن</figcaption><div class="pg" dir="rtl" lang="ar"><img class="map" src="../../assets/Images/World-Map.png" alt=""><div class="in"><div class="ic"><svg><use href="#shieldlock"/></svg><b></b></div><div class="title c">اسمح بإعداد VPN</div><div class="body lg c">لحماية اتصالك، يطلب macOS إذنك لإضافة إعداد VPN لـ Securefield. ستظهر لك هذه الرسالة مرة واحدة.</div><div class="card steps"><div class="stp"><span class="n bodyBold">1</span><span class="body">انقر «سماح» في نافذة macOS</span></div><div class="stp"><span class="n bodyBold">2</span><span class="body">أكّد بـ Touch ID أو كلمة مرور جهاز Mac</span></div><div class="stp"><span class="n bodyBold">3</span><span class="body">يتصل Securefield. لا يلزم أي إعداد آخر</span></div></div><div class="btn primary bodyBold b320">متابعة</div></div></div></figure>
+<figure><figcaption class="caption">العربية — مرفوض</figcaption><div class="pg" dir="rtl" lang="ar"><img class="map" src="../../assets/Images/World-Map.png" alt=""><div class="in"><div class="ic red"><svg><use href="#shieldlock"/></svg><b>!</b></div><div class="title c">لم تتم إضافة إعداد VPN</div><div class="body lg c">لا يمكن لـ Securefield الاتصال بدون إعداد VPN. اضغط «حاول مرة أخرى» واختر «سماح».</div><div class="btn primary bodyBold b320">حاول مرة أخرى</div><div class="body gr">فتح إعدادات النظام</div></div></div></figure>
+</body>
+</html>
