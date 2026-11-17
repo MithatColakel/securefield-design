@@ -1799,6 +1799,70 @@
    "h": 672,
    "page": "mac",
    "title": "Proposal — VPN-923 · Help after Don't Allow (VPN-907) · Try again normal · AR"
+  },
+  "iPhone-Connect-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html": {
+   "x": 0,
+   "y": 21020,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help sheet · EN"
+  },
+  "iPhone-Connect-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html": {
+   "x": 470,
+   "y": 21020,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help sheet · AR"
+  },
+  "iPad-Connect-Portrait-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html": {
+   "x": 0,
+   "y": 21420,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help sheet · portrait · EN"
+  },
+  "iPad-Connect-Landscape-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html": {
+   "x": 914,
+   "y": 21420,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help sheet · landscape · EN"
+  },
+  "iPad-Connect-Portrait-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html": {
+   "x": 2204,
+   "y": 21420,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help sheet · portrait · AR"
+  },
+  "iPad-Connect-Landscape-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html": {
+   "x": 3118,
+   "y": 21420,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help sheet · landscape · AR"
+  },
+  "Mac-Connect-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html": {
+   "x": 0,
+   "y": 20648,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help · EN"
+  },
+  "Mac-Connect-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html": {
+   "x": 560,
+   "y": 20648,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help · AR"
   }
  },
  "order": [
@@ -2023,7 +2087,15 @@
   "Mac-Panel-NotConnected-ProposalVPN923-EN.dc.html",
   "Mac-Panel-NotConnected-ProposalVPN923-AR.dc.html",
   "Mac-Connect-HelpAfterDecline-ProposalVPN923-EN.dc.html",
-  "Mac-Connect-HelpAfterDecline-ProposalVPN923-AR.dc.html"
+  "Mac-Connect-HelpAfterDecline-ProposalVPN923-AR.dc.html",
+  "iPhone-Connect-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html",
+  "iPhone-Connect-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html",
+  "iPad-Connect-Portrait-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html",
+  "iPad-Connect-Landscape-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html",
+  "iPad-Connect-Portrait-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html",
+  "iPad-Connect-Landscape-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html",
+  "Mac-Connect-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html",
+  "Mac-Connect-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html"
  ],
  "notes": {
   "iphone-Splash": {
@@ -2632,6 +2704,135 @@
    "text": "VPN-923 — every Mac frame with this button (current gradient, white text). All change in the same way when this is built.\nScreen canvas, current rows:\n• First launch · welcome EN, AR (Accept and continue)\n• First launch · VPN permission EN, AR (Continue) — removed by VPN-907\n• First launch · permission denied EN, AR (Try again) — replaced by the VPN-907 help\n• Menu bar panel · not connected EN, AR; not premium, strip EN, AR (Connect; ConnectStyle)\n• Main window · not connected EN, AR (Connect); connecting EN, AR and connected EN, AR (Disconnect)\n• Report · default EN, AR; sent EN, AR (Send, 44 pt high)\nScreen canvas, proposals:\n• VPN-907: Connect · 1 first Connect EN, AR (the button is in the main window under the prompt); Connect · 2 help after Don't Allow EN, AR (Try again)\n• VPN-809 main window (approved by the board): NO primary button. Connect there is the iPhone Connect control (ring + text); Settings in the window has no primary button either. After VPN-809 is built, the main-window rows above leave the app; the button stays on Welcome, Report, the VPN-907 help and the panel.\n• VPN-795 panel proposal: the panel shows Connected (Disconnect, no gradient): no change.\nPaywall canvas, Mac frames (HOME_TOP_LEFT_PREMIUM · plans loaded, loading, load failed, purchase message; EN, AR): NOT this button. They use PremiumButtonStyle (dark text on yellow) and OutlineButtonStyle. No change.\nSettings (current Mac rows): no primary button.\nFAQ and documents: no primary button.",
    "page": "mac",
    "w": 1100,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907np-iphone-block": {
+   "x": 0,
+   "y": 20520,
+   "text": "Proposal — VPN-907 NoPrompt · iOS shows no VPN prompt: help sheet without the prompt picture",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn907np-iphone-row": {
+   "x": 0,
+   "y": 20720,
+   "text": "Proposal — VPN-907 NoPrompt · Connect, no system prompt",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn907np-iphone-flow": {
+   "x": 980,
+   "y": 21020,
+   "text": "No-prompt flow (iPhone and iPad):\n1 Connect: the app asks iOS for the VPN configuration.\n2 iOS shows no prompt (for example a management profile blocks new VPN configurations, or iOS cannot load or save the configuration). The build tells this apart from a decline: refused while the app stayed active, or a load or save error = no prompt → THIS sheet over Main. Refused while the app was inactive (the prompt was up) = decline → the round-1 help sheet.\n3 Try again: the sheet closes and the app asks again at once. The prompt shows (round-1 frame 1), or this sheet comes again.\n4 ✕: the sheet closes. Back to Main, \"Tap to connect\". The next Connect asks again.\nIn the iOS Simulator every Connect ends here (the Simulator never shows the VPN prompt). Design review and QA see this screen first.\nScrolling (approval item 41, build rule in VPN-924): the content scrolls only when it does not fit; Try again stays fixed. These frames show the case that fits.\nReplaces: no current frame. Today this case ends in the system alert \"VPN configuration not added\", which has no frame on this canvas.",
+   "page": "iphone",
+   "w": 900,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907np-iphone-texts": {
+   "x": 1960,
+   "y": 21020,
+   "text": "Texts — EN | AR. (app) = already in the app (Localizable.xcstrings), same EN and AR. (new) = new text.\niPhone and iPad:\n• iOS didn't show the VPN window | لم يعرض iOS نافذة VPN (new)\n• New VPN configurations may be blocked on this device. | قد تكون إضافة إعدادات VPN جديدة محظورة على هذا الجهاز. (new: the first half of the approved round-1 help line)\n• See | راجع (new, from the approved help line)\n• Settings › General › VPN & Device Management | الإعدادات › عام › VPN وإدارة الجهاز (new, from the approved help line; the iOS path)\n• Try again | حاول مرة أخرى (app: VPN_PERMISSION.TRY_AGAIN)\n• ✕ = Close, as on the Report sheet (no visible text).\nMac:\n• macOS didn't show the VPN window | لم يعرض macOS نافذة VPN (new)\n• New VPN configurations may be blocked on this device. | قد تكون إضافة إعدادات VPN جديدة محظورة على هذا الجهاز. (new, the same text as above)\n• See | راجع (new, the same text as above)\n• System Settings › General › Device Management | إعدادات النظام › عام › إدارة الجهاز (new) — TO BE CHECKED ON THE MAC. This is the macOS 15 path (from web search results). The app runs from macOS 14; on macOS 14 the profiles are in System Settings › Privacy & Security › Profiles. The AR names must match the Arabic macOS menus.\n• Try again | حاول مرة أخرى (app: perm.tryAgain)\n• Open System Settings | فتح إعدادات النظام (app: perm.openSettings)\n• Not now | ليس الآن (app text: CONNECTION_RATING.SKIP; new on the Mac in round 1)\nIn Arabic the › marks mirror on their own (Unicode mirrored character); the path reads right to left.",
+   "page": "iphone",
+   "w": 1300,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907np-iphone-parts": {
+   "x": 3340,
+   "y": 21020,
+   "text": "Parts and tokens: the round-1 help on each device. iPhone: the Report sheet (radius 40/40/60/60). iPad: the Report form sheet, 580 × 658 pt as today (this content fits; the round-1 help needs 760). Type × 1.3 on the iPad (Theme.typography). Mac: the round-1 Mac help window (480 × 640 + title bar).\nIn place of the prompt picture: the app's own Warning icon (assets/Icons/Warning.png, the main header report button), template, white (Theme.icon.primary), 44 pt (iPad 57 pt), in a GradientBorderCard (iceBlue, radius 18) on iPhone and iPad and in the round-1 Mac card.\nText: title NAMU-1850 white; line Red Hat Display lightGray #D1DCEA; path Red Hat Display bold white; button RadialGradientButton green (iPhone, iPad), PrimaryButtonStyle #33A9FE → #1EB972 (Mac); links lightGreen #35DF91. No new token, no new component, no new asset.\nContrast: lightGray on the card 7.72:1; white text and the white icon on the card 10.72:1 (at its lightest point); Mac card (white 6 %): white 13.48:1, lightGray 9.72:1; lightGreen on the background 9.25:1. Below 4.5:1, kept exact (the app's own buttons): white on the green button 2.37:1; white on the Mac button 2.55:1 — if the board approves VPN-923, the Mac button takes its new look here too.\nCheck: the iPhone sheet fits iPhone SE (375 × 667) in EN and AR without scrolling (rendered, not on the canvas).",
+   "page": "iphone",
+   "w": 900,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907np-ipad-block": {
+   "x": 0,
+   "y": 20920,
+   "text": "Proposal — VPN-907 NoPrompt · iPadOS shows no VPN prompt: help sheet without the prompt picture",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn907np-ipad-row": {
+   "x": 0,
+   "y": 21120,
+   "text": "Proposal — VPN-907 NoPrompt · Connect, no system prompt (portrait, landscape)",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn907np-ipad-flow": {
+   "x": 4448,
+   "y": 21420,
+   "text": "iPad: the same flow as the iPhone (see the iPhone page).\n1 Connect: the app asks iOS for the VPN configuration.\n2 iOS shows no prompt (for example a management profile blocks new VPN configurations, or iOS cannot load or save the configuration). The build tells this apart from a decline: refused while the app stayed active, or a load or save error = no prompt → THIS sheet over Main. Refused while the app was inactive (the prompt was up) = decline → the round-1 help sheet.\n3 Try again: the sheet closes and the app asks again at once. The prompt shows (round-1 frame 1), or this sheet comes again.\n4 ✕: the sheet closes. Back to Main, \"Tap to connect\". The next Connect asks again.\nIn the iOS Simulator every Connect ends here (the Simulator never shows the VPN prompt). Design review and QA see this screen first.\nScrolling (approval item 41, build rule in VPN-924): the content scrolls only when it does not fit; Try again stays fixed. These frames show the case that fits.\nReplaces: no current frame. Today this case ends in the system alert \"VPN configuration not added\", which has no frame on this canvas.",
+   "page": "ipad",
+   "w": 900,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907np-ipad-texts": {
+   "x": 5428,
+   "y": 21420,
+   "text": "Texts — EN | AR. (app) = already in the app (Localizable.xcstrings), same EN and AR. (new) = new text.\niPhone and iPad:\n• iOS didn't show the VPN window | لم يعرض iOS نافذة VPN (new)\n• New VPN configurations may be blocked on this device. | قد تكون إضافة إعدادات VPN جديدة محظورة على هذا الجهاز. (new: the first half of the approved round-1 help line)\n• See | راجع (new, from the approved help line)\n• Settings › General › VPN & Device Management | الإعدادات › عام › VPN وإدارة الجهاز (new, from the approved help line; the iOS path)\n• Try again | حاول مرة أخرى (app: VPN_PERMISSION.TRY_AGAIN)\n• ✕ = Close, as on the Report sheet (no visible text).\nMac:\n• macOS didn't show the VPN window | لم يعرض macOS نافذة VPN (new)\n• New VPN configurations may be blocked on this device. | قد تكون إضافة إعدادات VPN جديدة محظورة على هذا الجهاز. (new, the same text as above)\n• See | راجع (new, the same text as above)\n• System Settings › General › Device Management | إعدادات النظام › عام › إدارة الجهاز (new) — TO BE CHECKED ON THE MAC. This is the macOS 15 path (from web search results). The app runs from macOS 14; on macOS 14 the profiles are in System Settings › Privacy & Security › Profiles. The AR names must match the Arabic macOS menus.\n• Try again | حاول مرة أخرى (app: perm.tryAgain)\n• Open System Settings | فتح إعدادات النظام (app: perm.openSettings)\n• Not now | ليس الآن (app text: CONNECTION_RATING.SKIP; new on the Mac in round 1)\nIn Arabic the › marks mirror on their own (Unicode mirrored character); the path reads right to left.",
+   "page": "ipad",
+   "w": 1300,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907np-ipad-parts": {
+   "x": 6808,
+   "y": 21420,
+   "text": "Parts and tokens: the round-1 help on each device. iPhone: the Report sheet (radius 40/40/60/60). iPad: the Report form sheet, 580 × 658 pt as today (this content fits; the round-1 help needs 760). Type × 1.3 on the iPad (Theme.typography). Mac: the round-1 Mac help window (480 × 640 + title bar).\nIn place of the prompt picture: the app's own Warning icon (assets/Icons/Warning.png, the main header report button), template, white (Theme.icon.primary), 44 pt (iPad 57 pt), in a GradientBorderCard (iceBlue, radius 18) on iPhone and iPad and in the round-1 Mac card.\nText: title NAMU-1850 white; line Red Hat Display lightGray #D1DCEA; path Red Hat Display bold white; button RadialGradientButton green (iPhone, iPad), PrimaryButtonStyle #33A9FE → #1EB972 (Mac); links lightGreen #35DF91. No new token, no new component, no new asset.\nContrast: lightGray on the card 7.72:1; white text and the white icon on the card 10.72:1 (at its lightest point); Mac card (white 6 %): white 13.48:1, lightGray 9.72:1; lightGreen on the background 9.25:1. Below 4.5:1, kept exact (the app's own buttons): white on the green button 2.37:1; white on the Mac button 2.55:1 — if the board approves VPN-923, the Mac button takes its new look here too.\nCheck: the iPhone sheet fits iPhone SE (375 × 667) in EN and AR without scrolling (rendered, not on the canvas).",
+   "page": "ipad",
+   "w": 900,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907np-mac-block": {
+   "x": 0,
+   "y": 20148,
+   "text": "Proposal — VPN-907 NoPrompt · macOS shows no VPN prompt: help without the prompt picture",
+   "page": "mac",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn907np-mac-row": {
+   "x": 0,
+   "y": 20348,
+   "text": "Proposal — VPN-907 NoPrompt · Connect, no system prompt",
+   "page": "mac",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn907np-mac-flow": {
+   "x": 1160,
+   "y": 20648,
+   "text": "No-prompt flow (Mac):\n1 Connect (premium user, as round 1): the app asks macOS for the VPN configuration.\n2 macOS shows no prompt → THIS help in the window (decline → the round-1 Mac help).\n3 Try again: asks again at once; the prompt shows, or this help comes again.\n4 Open System Settings: as today (perm.openSettings, the VPN page). SecurefieldiOS: say if the Device Management page can be opened instead.\n5 Not now: back to the main window, Connect. The next Connect asks again.\nScrolling: as item 41; the buttons stay fixed.\nReplaces: no current frame.\nThe board's 11-17 answer: macOS 7.6 may ship with today's first-launch step; the VPN-907 Mac change, with this screen, comes in the next Mac version.",
+   "page": "mac",
+   "w": 900,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907np-mac-texts": {
+   "x": 2140,
+   "y": 20648,
+   "text": "Texts — EN | AR. (app) = already in the app (Localizable.xcstrings), same EN and AR. (new) = new text.\niPhone and iPad:\n• iOS didn't show the VPN window | لم يعرض iOS نافذة VPN (new)\n• New VPN configurations may be blocked on this device. | قد تكون إضافة إعدادات VPN جديدة محظورة على هذا الجهاز. (new: the first half of the approved round-1 help line)\n• See | راجع (new, from the approved help line)\n• Settings › General › VPN & Device Management | الإعدادات › عام › VPN وإدارة الجهاز (new, from the approved help line; the iOS path)\n• Try again | حاول مرة أخرى (app: VPN_PERMISSION.TRY_AGAIN)\n• ✕ = Close, as on the Report sheet (no visible text).\nMac:\n• macOS didn't show the VPN window | لم يعرض macOS نافذة VPN (new)\n• New VPN configurations may be blocked on this device. | قد تكون إضافة إعدادات VPN جديدة محظورة على هذا الجهاز. (new, the same text as above)\n• See | راجع (new, the same text as above)\n• System Settings › General › Device Management | إعدادات النظام › عام › إدارة الجهاز (new) — TO BE CHECKED ON THE MAC. This is the macOS 15 path (from web search results). The app runs from macOS 14; on macOS 14 the profiles are in System Settings › Privacy & Security › Profiles. The AR names must match the Arabic macOS menus.\n• Try again | حاول مرة أخرى (app: perm.tryAgain)\n• Open System Settings | فتح إعدادات النظام (app: perm.openSettings)\n• Not now | ليس الآن (app text: CONNECTION_RATING.SKIP; new on the Mac in round 1)\nIn Arabic the › marks mirror on their own (Unicode mirrored character); the path reads right to left.",
+   "page": "mac",
+   "w": 1300,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn907np-mac-parts": {
+   "x": 3520,
+   "y": 20648,
+   "text": "Parts and tokens: the round-1 help on each device. iPhone: the Report sheet (radius 40/40/60/60). iPad: the Report form sheet, 580 × 658 pt as today (this content fits; the round-1 help needs 760). Type × 1.3 on the iPad (Theme.typography). Mac: the round-1 Mac help window (480 × 640 + title bar).\nIn place of the prompt picture: the app's own Warning icon (assets/Icons/Warning.png, the main header report button), template, white (Theme.icon.primary), 44 pt (iPad 57 pt), in a GradientBorderCard (iceBlue, radius 18) on iPhone and iPad and in the round-1 Mac card.\nText: title NAMU-1850 white; line Red Hat Display lightGray #D1DCEA; path Red Hat Display bold white; button RadialGradientButton green (iPhone, iPad), PrimaryButtonStyle #33A9FE → #1EB972 (Mac); links lightGreen #35DF91. No new token, no new component, no new asset.\nContrast: lightGray on the card 7.72:1; white text and the white icon on the card 10.72:1 (at its lightest point); Mac card (white 6 %): white 13.48:1, lightGray 9.72:1; lightGreen on the background 9.25:1. Below 4.5:1, kept exact (the app's own buttons): white on the green button 2.37:1; white on the Mac button 2.55:1 — if the board approves VPN-923, the Mac button takes its new look here too.\nCheck: the iPhone sheet fits iPhone SE (375 × 667) in EN and AR without scrolling (rendered, not on the canvas).",
+   "page": "mac",
+   "w": 900,
    "size": "m",
    "fill": "orange"
   }
