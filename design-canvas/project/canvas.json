@@ -1671,6 +1671,134 @@
    "h": 672,
    "page": "mac",
    "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help (replaces First launch · permission denied) · AR"
+  },
+  "Mac-MainWindow-NotConnected-ProposalVPN923-EN.dc.html": {
+   "x": 0,
+   "y": 14050,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · Main window · not connected · button normal (Connect) · EN"
+  },
+  "Mac-MainWindow-ConnectPressed-ProposalVPN923-EN.dc.html": {
+   "x": 1002,
+   "y": 14050,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · Main window · not connected · button pressed · EN"
+  },
+  "Mac-MainWindow-Disconnecting-ProposalVPN923-EN.dc.html": {
+   "x": 2004,
+   "y": 14050,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · Main window · disconnecting · button disabled (Disconnect) · EN"
+  },
+  "Mac-MainWindow-NotConnected-ProposalVPN923-AR.dc.html": {
+   "x": 3006,
+   "y": 14050,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · Main window · not connected · button normal (Connect) · AR"
+  },
+  "Mac-MainWindow-ConnectPressed-ProposalVPN923-AR.dc.html": {
+   "x": 4008,
+   "y": 14050,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · Main window · not connected · button pressed · AR"
+  },
+  "Mac-MainWindow-Disconnecting-ProposalVPN923-AR.dc.html": {
+   "x": 5010,
+   "y": 14050,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · Main window · disconnecting · button disabled (Disconnect) · AR"
+  },
+  "Mac-FirstLaunch-Welcome-ProposalVPN923-EN.dc.html": {
+   "x": 0,
+   "y": 15372,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · First launch · welcome · button normal · EN"
+  },
+  "Mac-FirstLaunch-WelcomePressed-ProposalVPN923-EN.dc.html": {
+   "x": 560,
+   "y": 15372,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · First launch · welcome · button pressed · EN"
+  },
+  "Mac-FirstLaunch-Welcome-ProposalVPN923-AR.dc.html": {
+   "x": 1120,
+   "y": 15372,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · First launch · welcome · button normal · AR"
+  },
+  "Mac-FirstLaunch-WelcomePressed-ProposalVPN923-AR.dc.html": {
+   "x": 1680,
+   "y": 15372,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · First launch · welcome · button pressed · AR"
+  },
+  "Mac-Report-Default-ProposalVPN923-EN.dc.html": {
+   "x": 0,
+   "y": 16744,
+   "w": 480,
+   "h": 640,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · Report · default · Send normal · EN"
+  },
+  "Mac-Report-Default-ProposalVPN923-AR.dc.html": {
+   "x": 560,
+   "y": 16744,
+   "w": 480,
+   "h": 640,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · Report · default · Send normal · AR"
+  },
+  "Mac-Panel-NotConnected-ProposalVPN923-EN.dc.html": {
+   "x": 0,
+   "y": 18084,
+   "w": 340,
+   "h": 292,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · Menu bar panel · not connected · Connect normal · EN"
+  },
+  "Mac-Panel-NotConnected-ProposalVPN923-AR.dc.html": {
+   "x": 420,
+   "y": 18084,
+   "w": 340,
+   "h": 292,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · Menu bar panel · not connected · Connect normal · AR"
+  },
+  "Mac-Connect-HelpAfterDecline-ProposalVPN923-EN.dc.html": {
+   "x": 0,
+   "y": 19076,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · Help after Don't Allow (VPN-907) · Try again normal · EN"
+  },
+  "Mac-Connect-HelpAfterDecline-ProposalVPN923-AR.dc.html": {
+   "x": 560,
+   "y": 19076,
+   "w": 480,
+   "h": 672,
+   "page": "mac",
+   "title": "Proposal — VPN-923 · Help after Don't Allow (VPN-907) · Try again normal · AR"
   }
  },
  "order": [
@@ -1879,7 +2007,23 @@
   "Mac-Connect-FirstConnectPrompt-ProposalVPN907-EN.dc.html",
   "Mac-Connect-HelpAfterDecline-ProposalVPN907-EN.dc.html",
   "Mac-Connect-FirstConnectPrompt-ProposalVPN907-AR.dc.html",
-  "Mac-Connect-HelpAfterDecline-ProposalVPN907-AR.dc.html"
+  "Mac-Connect-HelpAfterDecline-ProposalVPN907-AR.dc.html",
+  "Mac-MainWindow-NotConnected-ProposalVPN923-EN.dc.html",
+  "Mac-MainWindow-ConnectPressed-ProposalVPN923-EN.dc.html",
+  "Mac-MainWindow-Disconnecting-ProposalVPN923-EN.dc.html",
+  "Mac-MainWindow-NotConnected-ProposalVPN923-AR.dc.html",
+  "Mac-MainWindow-ConnectPressed-ProposalVPN923-AR.dc.html",
+  "Mac-MainWindow-Disconnecting-ProposalVPN923-AR.dc.html",
+  "Mac-FirstLaunch-Welcome-ProposalVPN923-EN.dc.html",
+  "Mac-FirstLaunch-WelcomePressed-ProposalVPN923-EN.dc.html",
+  "Mac-FirstLaunch-Welcome-ProposalVPN923-AR.dc.html",
+  "Mac-FirstLaunch-WelcomePressed-ProposalVPN923-AR.dc.html",
+  "Mac-Report-Default-ProposalVPN923-EN.dc.html",
+  "Mac-Report-Default-ProposalVPN923-AR.dc.html",
+  "Mac-Panel-NotConnected-ProposalVPN923-EN.dc.html",
+  "Mac-Panel-NotConnected-ProposalVPN923-AR.dc.html",
+  "Mac-Connect-HelpAfterDecline-ProposalVPN923-EN.dc.html",
+  "Mac-Connect-HelpAfterDecline-ProposalVPN923-AR.dc.html"
  ],
  "notes": {
   "iphone-Splash": {
@@ -2422,6 +2566,72 @@
    "text": "Proposal — VPN-907 (below) replaces two frames of this row: \"VPN permission\" EN and AR are removed (no step before the macOS prompt), and \"permission denied\" EN and AR are replaced by the help after a decline. Welcome stays.",
    "page": "mac",
    "w": 700,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn923-mac-block": {
+   "x": 0,
+   "y": 13550,
+   "text": "Proposal — VPN-923 · Mac primary button: dark text on the brand gradient (contrast 4.5:1 in every state)",
+   "page": "mac",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn923-mac-row0": {
+   "x": 0,
+   "y": 13750,
+   "text": "Proposal — VPN-923 · Main window (today's window, until VPN-809 is built)",
+   "page": "mac",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn923-mac-row1": {
+   "x": 0,
+   "y": 15072,
+   "text": "Proposal — VPN-923 · First launch · welcome",
+   "page": "mac",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn923-mac-row2": {
+   "x": 0,
+   "y": 16444,
+   "text": "Proposal — VPN-923 · Report",
+   "page": "mac",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn923-mac-row3": {
+   "x": 0,
+   "y": 17784,
+   "text": "Proposal — VPN-923 · Menu bar panel (ConnectStyle, the same gradient)",
+   "page": "mac",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn923-mac-row4": {
+   "x": 0,
+   "y": 18776,
+   "text": "Proposal — VPN-923 · Help after a decline (Proposal — VPN-907)",
+   "page": "mac",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn923-mac-contrast": {
+   "x": 6052,
+   "y": 14050,
+   "text": "VPN-923 — Mac primary button: contrast per state (WCAG 2.x; text Red Hat Display Bold 15 pt = normal text, needs 4.5:1).\nMeasured from the values, at every point of the gradient; for pressed and disabled the button is laid over the window background (graphite #172231 → black), and the worst point counts.\n\nTODAY (white text, #FFFFFF):\n• normal: 2.55:1 (lightBlue end 2.55, green end 2.55, middle 2.59) — FAIL\n• pressed (opacity 0.85): 2.40:1 worst point — FAIL\n• disabled (opacity 0.4): 1.75:1 worst point — FAIL (WCAG does not require contrast for a disabled control; the board asked for 4.5:1 in every state)\n\nPROPOSAL (drawn in these frames):\n• normal: text graphite #172231 on lightBlue #33A9FE → green #1EB972: 6.15:1 worst point (6.30 at the blue end, 6.29 at the green end) — PASS\n• pressed: as today, opacity 0.85 and scale 0.98: 4.79:1 worst point — PASS\n• disabled: fill surfaceHigh (white 10 %, no gradient), text lightGray #D1DCEA: 8.54:1 over graphite, 12.61:1 over black — PASS\nPixel check on the renders of these 16 frames (Chromium; solid text colour against the fill at each column under the label; worst column): normal 6.10–6.16:1; pressed 4.74–4.81:1 (Welcome lowest: the map shows through); disabled 11.07:1. Today's frames, same check: 2.58:1.\n\nWhy dark text and not a darker gradient:\n• Dark text keeps the brand gradient exactly, and it uses an existing token (graphite). The app already has a dark-text button: PremiumButtonStyle (#1B1305 on the yellow gradient).\n• A darker gradient needs two new colours. darkBlue #0073C5 → darkGreen #198F57 gives only 4.11:1 at the green end. #0073C5 → #167F4E passes at rest (4.93) but fails when pressed (4.38).\nTokens: lightBlue, green, graphite, surfaceHigh, lightGray. No new token.\n\nBuild (SecurefieldiOS, Mac only):\n• PrimaryButtonStyle (native/Design/Brand.swift): .foregroundStyle(Brand.graphite) when enabled. Disabled: Capsule fill Brand.surfaceHigh and text Brand.lightGray, in place of .opacity(0.4). Pressed: no change.\n• ConnectStyle (native/MacApp/MacPanel.swift), Connect side (on == false): text Brand.graphite. The Disconnect side (white 10 % fill, white text) does not change.\n• A ProgressView in the button (Report, while sending) takes the same disabled fill.\n• iPhone and iPad: no change.",
+   "page": "mac",
+   "w": 1100,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn923-mac-uses": {
+   "x": 7232,
+   "y": 14050,
+   "text": "VPN-923 — every Mac frame with this button (current gradient, white text). All change in the same way when this is built.\nScreen canvas, current rows:\n• First launch · welcome EN, AR (Accept and continue)\n• First launch · VPN permission EN, AR (Continue) — removed by VPN-907\n• First launch · permission denied EN, AR (Try again) — replaced by the VPN-907 help\n• Menu bar panel · not connected EN, AR; not premium, strip EN, AR (Connect; ConnectStyle)\n• Main window · not connected EN, AR (Connect); connecting EN, AR and connected EN, AR (Disconnect)\n• Report · default EN, AR; sent EN, AR (Send, 44 pt high)\nScreen canvas, proposals:\n• VPN-907: Connect · 1 first Connect EN, AR (the button is in the main window under the prompt); Connect · 2 help after Don't Allow EN, AR (Try again)\n• VPN-809 main window (approved by the board): NO primary button. Connect there is the iPhone Connect control (ring + text); Settings in the window has no primary button either. After VPN-809 is built, the main-window rows above leave the app; the button stays on Welcome, Report, the VPN-907 help and the panel.\n• VPN-795 panel proposal: the panel shows Connected (Disconnect, no gradient): no change.\nPaywall canvas, Mac frames (HOME_TOP_LEFT_PREMIUM · plans loaded, loading, load failed, purchase message; EN, AR): NOT this button. They use PremiumButtonStyle (dark text on yellow) and OutlineButtonStyle. No change.\nSettings (current Mac rows): no primary button.\nFAQ and documents: no primary button.",
+   "page": "mac",
+   "w": 1100,
    "size": "m",
    "fill": "orange"
   }
