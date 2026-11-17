@@ -98,7 +98,7 @@
   },
   "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-YearlySelected-EN.dc.html": {
    "x": 0,
-   "y": 5804,
+   "y": 6005.734375,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -106,7 +106,7 @@
   },
   "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-MonthlySelected-EN.dc.html": {
    "x": 482,
-   "y": 5804,
+   "y": 6005.734375,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -114,7 +114,7 @@
   },
   "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-WeeklySelected-EN.dc.html": {
    "x": 964,
-   "y": 5804,
+   "y": 6005.734375,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -122,7 +122,7 @@
   },
   "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-PurchaseFailed-EN.dc.html": {
    "x": 1446,
-   "y": 5804,
+   "y": 6005.734375,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -130,7 +130,7 @@
   },
   "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-YearlySelected-AR.dc.html": {
    "x": 1928,
-   "y": 5804,
+   "y": 6005.734375,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -138,7 +138,7 @@
   },
   "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-MonthlySelected-AR.dc.html": {
    "x": 2410,
-   "y": 5804,
+   "y": 6005.734375,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -146,7 +146,7 @@
   },
   "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-WeeklySelected-AR.dc.html": {
    "x": 2892,
-   "y": 5804,
+   "y": 6005.734375,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -154,7 +154,7 @@
   },
   "iPhone-SERVER_PREMIUM_FLOW-ServerPremium-PurchaseFailed-AR.dc.html": {
    "x": 3374,
-   "y": 5804,
+   "y": 6005.734375,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -162,7 +162,7 @@
   },
   "iPhone-SETTINGS_PREMIUM_FLOW-SettingsPremium-Opened-EN.dc.html": {
    "x": 0,
-   "y": 7328,
+   "y": 7864.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -170,7 +170,7 @@
   },
   "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-PlansLoaded-EN.dc.html": {
    "x": 0,
-   "y": 8982,
+   "y": 9518.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -178,7 +178,7 @@
   },
   "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-Loading-EN.dc.html": {
    "x": 482,
-   "y": 8982,
+   "y": 9518.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -186,7 +186,7 @@
   },
   "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-LoadFailed-EN.dc.html": {
    "x": 964,
-   "y": 8982,
+   "y": 9518.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -194,7 +194,7 @@
   },
   "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-PurchaseFailed-EN.dc.html": {
    "x": 1446,
-   "y": 8982,
+   "y": 9518.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -202,7 +202,7 @@
   },
   "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-PlansLoaded-AR.dc.html": {
    "x": 1928,
-   "y": 8982,
+   "y": 9518.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -210,7 +210,7 @@
   },
   "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-Loading-AR.dc.html": {
    "x": 2410,
-   "y": 8982,
+   "y": 9518.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -218,7 +218,7 @@
   },
   "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-LoadFailed-AR.dc.html": {
    "x": 2892,
-   "y": 8982,
+   "y": 9518.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -226,7 +226,7 @@
   },
   "iPhone-HOME_TOP_LEFT_PREMIUM-Premium-PurchaseFailed-AR.dc.html": {
    "x": 3374,
-   "y": 8982,
+   "y": 9518.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -234,7 +234,7 @@
   },
   "iPhone-ONBOARDING-Premium-ArmB_Weekly-EN.dc.html": {
    "x": 0,
-   "y": 10676,
+   "y": 11212.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -242,7 +242,7 @@
   },
   "iPhone-ONBOARDING-Premium-ArmB_Weekly-AR.dc.html": {
    "x": 482,
-   "y": 10676,
+   "y": 11212.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -250,7 +250,7 @@
   },
   "iPhone-ONBOARDING_YEARLY-OnboardingLastSlide-ArmA_Weekly-EN.dc.html": {
    "x": 0,
-   "y": 12370,
+   "y": 12906.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -258,7 +258,7 @@
   },
   "iPhone-ONBOARDING_YEARLY-OnboardingLastSlide-Loading-EN.dc.html": {
    "x": 482,
-   "y": 12370,
+   "y": 12906.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -266,7 +266,7 @@
   },
   "iPhone-ONBOARDING_YEARLY-OnboardingLastSlide-ArmA_Weekly-AR.dc.html": {
    "x": 964,
-   "y": 12370,
+   "y": 12906.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -274,7 +274,7 @@
   },
   "iPhone-ONBOARDING_YEARLY-OnboardingLastSlide-Loading-AR.dc.html": {
    "x": 1446,
-   "y": 12370,
+   "y": 12906.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -282,7 +282,7 @@
   },
   "iPhone-PROFILE_PREMIUM-Premium-PlansLoaded-EN.dc.html": {
    "x": 0,
-   "y": 13894,
+   "y": 14600.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -290,7 +290,7 @@
   },
   "iPhone-SERVER_PREMIUM-PremiumPopUp-Plain-EN.dc.html": {
    "x": 0,
-   "y": 15548,
+   "y": 16254.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -298,7 +298,7 @@
   },
   "iPhone-SERVER_PREMIUM-PremiumPopUp-ServerBanner-EN.dc.html": {
    "x": 482,
-   "y": 15548,
+   "y": 16254.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -306,7 +306,7 @@
   },
   "iPhone-SERVER_PREMIUM-PremiumPopUp-Loading-EN.dc.html": {
    "x": 964,
-   "y": 15548,
+   "y": 16254.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -314,7 +314,7 @@
   },
   "iPhone-SERVER_PREMIUM-PremiumPopUp-LoadFailed-EN.dc.html": {
    "x": 1446,
-   "y": 15548,
+   "y": 16254.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -322,7 +322,7 @@
   },
   "iPhone-SERVER_PREMIUM-PremiumPopUp-PurchaseFailed-EN.dc.html": {
    "x": 1928,
-   "y": 15548,
+   "y": 16254.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -330,7 +330,7 @@
   },
   "iPhone-SERVER_PREMIUM-PremiumPopUp-Plain-AR.dc.html": {
    "x": 2410,
-   "y": 15548,
+   "y": 16254.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -338,7 +338,7 @@
   },
   "iPhone-SERVER_PREMIUM-PremiumPopUp-ServerBanner-AR.dc.html": {
    "x": 2892,
-   "y": 15548,
+   "y": 16254.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -346,7 +346,7 @@
   },
   "iPhone-SERVER_PREMIUM-PremiumPopUp-Loading-AR.dc.html": {
    "x": 3374,
-   "y": 15548,
+   "y": 16254.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -354,7 +354,7 @@
   },
   "iPhone-SERVER_PREMIUM-PremiumPopUp-LoadFailed-AR.dc.html": {
    "x": 3856,
-   "y": 15548,
+   "y": 16254.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -362,7 +362,7 @@
   },
   "iPhone-SERVER_PREMIUM-PremiumPopUp-PurchaseFailed-AR.dc.html": {
    "x": 4338,
-   "y": 15548,
+   "y": 16254.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -370,7 +370,7 @@
   },
   "iPhone-WATCH_ADS-Advertisement-Loading-EN.dc.html": {
    "x": 0,
-   "y": 17162,
+   "y": 17868.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -378,7 +378,7 @@
   },
   "iPhone-WATCH_ADS-Advertisement-NoAdWatched-EN.dc.html": {
    "x": 482,
-   "y": 17162,
+   "y": 17868.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -386,7 +386,7 @@
   },
   "iPhone-WATCH_ADS-Advertisement-OneAdWatched-EN.dc.html": {
    "x": 964,
-   "y": 17162,
+   "y": 17868.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -394,7 +394,7 @@
   },
   "iPhone-WATCH_ADS-Advertisement-Loading-AR.dc.html": {
    "x": 1446,
-   "y": 17162,
+   "y": 17868.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -402,7 +402,7 @@
   },
   "iPhone-WATCH_ADS-Advertisement-NoAdWatched-AR.dc.html": {
    "x": 1928,
-   "y": 17162,
+   "y": 17868.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -410,7 +410,7 @@
   },
   "iPhone-WATCH_ADS-Advertisement-OneAdWatched-AR.dc.html": {
    "x": 2410,
-   "y": 17162,
+   "y": 17868.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -418,7 +418,7 @@
   },
   "iPhone-YEARLY_50_OFF-flow-Premium-PushFallback-EN.dc.html": {
    "x": 0,
-   "y": 19376,
+   "y": 20082.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -426,7 +426,7 @@
   },
   "iPhone-YEARLY_50_OFF-flow-Premium-PushFallbackColdStart-EN.dc.html": {
    "x": 482,
-   "y": 19376,
+   "y": 20082.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -434,7 +434,7 @@
   },
   "iPhone-YEARLY_50_OFF-flow-Main-PremiumUser-EN.dc.html": {
    "x": 964,
-   "y": 19376,
+   "y": 20082.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -442,7 +442,7 @@
   },
   "iPhone-YEARLY_50_OFF-flow-Premium-PushFallback-AR.dc.html": {
    "x": 1446,
-   "y": 19376,
+   "y": 20082.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -450,7 +450,7 @@
   },
   "iPhone-BLACK_FRIDAY-Premium-PushFallback-EN.dc.html": {
    "x": 0,
-   "y": 21030,
+   "y": 21770.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -458,7 +458,7 @@
   },
   "iPhone-BLACK_FRIDAY-Black_Friday-AdaptyPreview-EN.dc.html": {
    "x": 482,
-   "y": 21030,
+   "y": 21770.515625,
    "w": 196,
    "h": 418,
    "page": "iphone",
@@ -466,7 +466,7 @@
   },
   "iPhone-DAILY_USING_USERS_FREE-Least_using_Users_FREE_introductory-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 22684,
+   "y": 23424.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -474,7 +474,7 @@
   },
   "iPhone-DAILY_USING_USERS_FREE-Least_using_Users_FREE_introductory-AdaptyPreview-AR.dc.html": {
    "x": 360,
-   "y": 22684,
+   "y": 23424.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -482,7 +482,7 @@
   },
   "iPhone-NEVER_USED_YEARLY_OFFER-BEST_OFFER_FOR_YEARLY_NEVER_USED-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 24061,
+   "y": 25112.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -490,7 +490,7 @@
   },
   "iPhone-NEVER_USED_YEARLY_OFFER-BEST_OFFER_FOR_YEARLY_NEVER_USED-AdaptyPreview-AR.dc.html": {
    "x": 360,
-   "y": 24061,
+   "y": 25112.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -498,7 +498,7 @@
   },
   "iPhone-NOT_USING_USERS_PREMIUM-Least_using_users_premiums_promotional-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 25978,
+   "y": 27029.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -506,7 +506,7 @@
   },
   "iPhone-NOT_USING_USERS_PREMIUM-Least_using_users_premiums_promotional-AdaptyPreview-AR.dc.html": {
    "x": 360,
-   "y": 25978,
+   "y": 27029.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -514,7 +514,7 @@
   },
   "iPhone-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 27895,
+   "y": 28946.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -522,7 +522,7 @@
   },
   "iPhone-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-AR.dc.html": {
    "x": 360,
-   "y": 27895,
+   "y": 28946.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -530,7 +530,7 @@
   },
   "iPhone-SPEED_PROBLEM_FREEMIUM-SPEED_TEST_PROBLEM_PROMOTIONAL-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 29272,
+   "y": 30634.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -538,7 +538,7 @@
   },
   "iPhone-SPEED_PROBLEM_FREEMIUM-SPEED_TEST_PROBLEM_PROMOTIONAL-AdaptyPreview-AR.dc.html": {
    "x": 360,
-   "y": 29272,
+   "y": 30634.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -546,7 +546,7 @@
   },
   "iPhone-WIN_BACK_YEARLY_OFFER-ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 30649,
+   "y": 32322.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -554,7 +554,7 @@
   },
   "iPhone-WIN_BACK_YEARLY_OFFER-ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-AR.dc.html": {
    "x": 360,
-   "y": 30649,
+   "y": 32322.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -562,7 +562,7 @@
   },
   "iPhone-YEARLY_50_OFF-FOR_PROMOTIONAL_FREE_USERS_YEARLY_50-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 32026,
+   "y": 34010.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -570,7 +570,7 @@
   },
   "iPhone-YEARLY_50_OFF-FOR_PROMOTIONAL_FREE_USERS_YEARLY_50-AdaptyPreview-AR.dc.html": {
    "x": 360,
-   "y": 32026,
+   "y": 34010.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -578,7 +578,7 @@
   },
   "iPhone-ramadan_2026-Ramadan_FEAST-Push-EN.dc.html": {
    "x": 0,
-   "y": 33403,
+   "y": 35387.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -586,7 +586,7 @@
   },
   "iPhone-ramadan_2026-Ramadan_FEAST-AdaptyPreview-EN.dc.html": {
    "x": 482,
-   "y": 33403,
+   "y": 35387.515625,
    "w": 196,
    "h": 418,
    "page": "iphone",
@@ -594,7 +594,7 @@
   },
   "iPhone-ramadan_2026-Ramadan_FEAST-AdaptyPreview-AR.dc.html": {
    "x": 758,
-   "y": 33403,
+   "y": 35387.515625,
    "w": 196,
    "h": 418,
    "page": "iphone",
@@ -602,7 +602,7 @@
   },
   "iPhone-UNKNOWN_ID-Premium-PushFallback-EN.dc.html": {
    "x": 0,
-   "y": 34927,
+   "y": 37115.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -610,7 +610,7 @@
   },
   "iPhone-SPEED_PROBLEM_FREEMIUM-SPEED_PROBLEM_ALTERNATIVE_1-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 37091,
+   "y": 39279.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -618,7 +618,7 @@
   },
   "iPhone-SPEED_PROBLEM_FREEMIUM-SPEED_PROBLEM_ALTERNATIVE_1-AdaptyPreview-AR.dc.html": {
    "x": 360,
-   "y": 37091,
+   "y": 39279.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -626,7 +626,7 @@
   },
   "iPhone-NO_PLACEMENT-PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 38428,
+   "y": 40616.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -634,7 +634,7 @@
   },
   "iPhone-NO_PLACEMENT-WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-EN.dc.html": {
    "x": 360,
-   "y": 38428,
+   "y": 40616.515625,
    "w": 280,
    "h": 597,
    "page": "iphone",
@@ -658,7 +658,7 @@
   },
   "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitPlansLoaded-EN.dc.html": {
    "x": 0,
-   "y": 2770,
+   "y": 4446,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -666,7 +666,7 @@
   },
   "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitLoading-EN.dc.html": {
    "x": 914,
-   "y": 2770,
+   "y": 4446,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -674,7 +674,7 @@
   },
   "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitPurchaseFailed-EN.dc.html": {
    "x": 1828,
-   "y": 2770,
+   "y": 4446,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -682,7 +682,7 @@
   },
   "iPad-HOME_TOP_LEFT_PREMIUM-Premium-LandscapePlansLoaded-EN.dc.html": {
    "x": 2742,
-   "y": 2770,
+   "y": 4446,
    "w": 1210,
    "h": 834,
    "page": "ipad",
@@ -690,7 +690,7 @@
   },
   "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitPlansLoaded-AR.dc.html": {
    "x": 4032,
-   "y": 2770,
+   "y": 4446,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -698,7 +698,7 @@
   },
   "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitLoading-AR.dc.html": {
    "x": 4946,
-   "y": 2770,
+   "y": 4446,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -706,7 +706,7 @@
   },
   "iPad-HOME_TOP_LEFT_PREMIUM-Premium-PortraitPurchaseFailed-AR.dc.html": {
    "x": 5860,
-   "y": 2770,
+   "y": 4446,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -714,7 +714,7 @@
   },
   "iPad-HOME_TOP_LEFT_PREMIUM-Premium-LandscapePlansLoaded-AR.dc.html": {
    "x": 6774,
-   "y": 2770,
+   "y": 4446,
    "w": 1210,
    "h": 834,
    "page": "ipad",
@@ -722,7 +722,7 @@
   },
   "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-PortraitArmA_Weekly-EN.dc.html": {
    "x": 0,
-   "y": 4760,
+   "y": 6436,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -730,7 +730,7 @@
   },
   "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-PortraitLoading-EN.dc.html": {
    "x": 914,
-   "y": 4760,
+   "y": 6436,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -738,7 +738,7 @@
   },
   "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-LandscapeArmA_Weekly-EN.dc.html": {
    "x": 1828,
-   "y": 4760,
+   "y": 6436,
    "w": 1210,
    "h": 834,
    "page": "ipad",
@@ -746,7 +746,7 @@
   },
   "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-LandscapeLoading-EN.dc.html": {
    "x": 3118,
-   "y": 4760,
+   "y": 6436,
    "w": 1210,
    "h": 834,
    "page": "ipad",
@@ -754,7 +754,7 @@
   },
   "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-PortraitArmA_Weekly-AR.dc.html": {
    "x": 4408,
-   "y": 4760,
+   "y": 6436,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -762,7 +762,7 @@
   },
   "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-PortraitLoading-AR.dc.html": {
    "x": 5322,
-   "y": 4760,
+   "y": 6436,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -770,7 +770,7 @@
   },
   "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-LandscapeArmA_Weekly-AR.dc.html": {
    "x": 6236,
-   "y": 4760,
+   "y": 6436,
    "w": 1210,
    "h": 834,
    "page": "ipad",
@@ -778,7 +778,7 @@
   },
   "iPad-ONBOARDING_YEARLY-OnboardingLastSlide-LandscapeLoading-AR.dc.html": {
    "x": 7526,
-   "y": 4760,
+   "y": 6436,
    "w": 1210,
    "h": 834,
    "page": "ipad",
@@ -786,7 +786,7 @@
   },
   "iPad-SERVER_PREMIUM-PremiumPopUp-PortraitPlain-EN.dc.html": {
    "x": 0,
-   "y": 6750,
+   "y": 8426,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -794,7 +794,7 @@
   },
   "iPad-SERVER_PREMIUM-PremiumPopUp-PortraitServerBanner-EN.dc.html": {
    "x": 914,
-   "y": 6750,
+   "y": 8426,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -802,7 +802,7 @@
   },
   "iPad-SERVER_PREMIUM-PremiumPopUp-LandscapePlain-EN.dc.html": {
    "x": 1828,
-   "y": 6750,
+   "y": 8426,
    "w": 1210,
    "h": 834,
    "page": "ipad",
@@ -810,7 +810,7 @@
   },
   "iPad-SERVER_PREMIUM-PremiumPopUp-PortraitPlain-AR.dc.html": {
    "x": 3118,
-   "y": 6750,
+   "y": 8426,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -818,7 +818,7 @@
   },
   "iPad-SERVER_PREMIUM-PremiumPopUp-PortraitServerBanner-AR.dc.html": {
    "x": 4032,
-   "y": 6750,
+   "y": 8426,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -826,7 +826,7 @@
   },
   "iPad-SERVER_PREMIUM-PremiumPopUp-LandscapePlain-AR.dc.html": {
    "x": 4946,
-   "y": 6750,
+   "y": 8426,
    "w": 1210,
    "h": 834,
    "page": "ipad",
@@ -834,7 +834,7 @@
   },
   "iPad-WATCH_ADS-Advertisement-LandscapeNoAdWatched-AR.dc.html": {
    "x": 0,
-   "y": 8610,
+   "y": 10456,
    "w": 1210,
    "h": 834,
    "page": "ipad",
@@ -842,7 +842,7 @@
   },
   "iPad-DAILY_USING_USERS_FREE-Least_using_Users_FREE_introductory-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 10664,
+   "y": 12510,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -850,7 +850,7 @@
   },
   "iPad-DAILY_USING_USERS_FREE-Least_using_Users_FREE_introductory-AdaptyPreview-AR.dc.html": {
    "x": 528,
-   "y": 10664,
+   "y": 12510,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -858,7 +858,7 @@
   },
   "iPad-NEVER_USED_YEARLY_OFFER-BEST_OFFER_FOR_YEARLY_NEVER_USED-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 11998,
+   "y": 14494,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -866,7 +866,7 @@
   },
   "iPad-NEVER_USED_YEARLY_OFFER-BEST_OFFER_FOR_YEARLY_NEVER_USED-AdaptyPreview-AR.dc.html": {
    "x": 528,
-   "y": 11998,
+   "y": 14494,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -874,7 +874,7 @@
   },
   "iPad-NOT_USING_USERS_PREMIUM-Least_using_users_premiums_promotional-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 13332,
+   "y": 16478,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -882,7 +882,7 @@
   },
   "iPad-NOT_USING_USERS_PREMIUM-Least_using_users_premiums_promotional-AdaptyPreview-AR.dc.html": {
    "x": 528,
-   "y": 13332,
+   "y": 16478,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -890,7 +890,7 @@
   },
   "iPad-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 14666,
+   "y": 18462,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -898,7 +898,7 @@
   },
   "iPad-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-AR.dc.html": {
    "x": 528,
-   "y": 14666,
+   "y": 18462,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -906,7 +906,7 @@
   },
   "iPad-SPEED_PROBLEM_FREEMIUM-SPEED_TEST_PROBLEM_PROMOTIONAL-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 16000,
+   "y": 20446,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -914,7 +914,7 @@
   },
   "iPad-SPEED_PROBLEM_FREEMIUM-SPEED_TEST_PROBLEM_PROMOTIONAL-AdaptyPreview-AR.dc.html": {
    "x": 528,
-   "y": 16000,
+   "y": 20446,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -922,7 +922,7 @@
   },
   "iPad-WIN_BACK_YEARLY_OFFER-ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 17334,
+   "y": 22430,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -930,7 +930,7 @@
   },
   "iPad-WIN_BACK_YEARLY_OFFER-ALTERNATIVE_WIN_BACK_OFFER_YEARLY_PROMOTIONAL-AdaptyPreview-AR.dc.html": {
    "x": 528,
-   "y": 17334,
+   "y": 22430,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -938,7 +938,7 @@
   },
   "iPad-YEARLY_50_OFF-FOR_PROMOTIONAL_FREE_USERS_YEARLY_50-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 18668,
+   "y": 24414,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -946,7 +946,7 @@
   },
   "iPad-YEARLY_50_OFF-FOR_PROMOTIONAL_FREE_USERS_YEARLY_50-AdaptyPreview-AR.dc.html": {
    "x": 528,
-   "y": 18668,
+   "y": 24414,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -954,7 +954,7 @@
   },
   "iPad-ramadan_2026-Premium-PushFallback-EN.dc.html": {
    "x": 0,
-   "y": 20002,
+   "y": 26398,
    "w": 834,
    "h": 1210,
    "page": "ipad",
@@ -962,7 +962,7 @@
   },
   "iPad-ramadan_2026-Ramadan_FEAST-AdaptyPreview-EN.dc.html": {
    "x": 914,
-   "y": 20002,
+   "y": 26398,
    "w": 314,
    "h": 416,
    "page": "ipad",
@@ -970,7 +970,7 @@
   },
   "iPad-ramadan_2026-Ramadan_FEAST-AdaptyPreview-AR.dc.html": {
    "x": 1308,
-   "y": 20002,
+   "y": 26398,
    "w": 314,
    "h": 416,
    "page": "ipad",
@@ -978,7 +978,7 @@
   },
   "iPad-SPEED_PROBLEM_FREEMIUM-SPEED_PROBLEM_ALTERNATIVE_1-AdaptyPreview-EN.dc.html": {
    "x": 0,
-   "y": 22352,
+   "y": 28748,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -986,7 +986,7 @@
   },
   "iPad-SPEED_PROBLEM_FREEMIUM-SPEED_PROBLEM_ALTERNATIVE_1-AdaptyPreview-AR.dc.html": {
    "x": 528,
-   "y": 22352,
+   "y": 28748,
    "w": 448,
    "h": 594,
    "page": "ipad",
@@ -1058,7 +1058,7 @@
   },
   "iPhone-BLACK_FRIDAY-Proposal_VPN873-PlansLoaded-EN.dc.html": {
    "x": 0,
-   "y": 40705,
+   "y": 43204.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -1066,7 +1066,7 @@
   },
   "iPhone-BLACK_FRIDAY-Proposal_VPN873-Loading-EN.dc.html": {
    "x": 482,
-   "y": 40705,
+   "y": 43204.515625,
    "w": 390,
    "h": 844,
    "page": "iphone",
@@ -1074,7 +1074,7 @@
   },
   "iPhone-BLACK_FRIDAY-Proposal_VPN873-LoadFailed-EN.dc.html": {
    "x": 952,
-   "y": 40705,
+   "y": 43204.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -1082,7 +1082,7 @@
   },
   "iPhone-BLACK_FRIDAY-Proposal_VPN873-PlansLoaded-AR.dc.html": {
    "x": 1434,
-   "y": 40705,
+   "y": 43204.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -1090,7 +1090,7 @@
   },
   "iPhone-BLACK_FRIDAY-Proposal_VPN873-Loading-AR.dc.html": {
    "x": 1916,
-   "y": 40705,
+   "y": 43204.515625,
    "w": 390,
    "h": 844,
    "page": "iphone",
@@ -1098,7 +1098,7 @@
   },
   "iPhone-BLACK_FRIDAY-Proposal_VPN873-LoadFailed-AR.dc.html": {
    "x": 2386,
-   "y": 40705,
+   "y": 43204.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -1106,7 +1106,7 @@
   },
   "iPhone-BLACK_FRIDAY-Proposal_VPN873-ChoiceYearlyOffer-EN.dc.html": {
    "x": 0,
-   "y": 42229,
+   "y": 44728.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
@@ -1114,11 +1114,363 @@
   },
   "iPhone-BLACK_FRIDAY-Proposal_VPN873-ChoiceYearlyOffer-AR.dc.html": {
    "x": 482,
-   "y": 42229,
+   "y": 44728.515625,
    "w": 402,
    "h": 874,
    "page": "iphone",
    "title": "Proposal — VPN-873 · BLACK_FRIDAY · choice for the card, not the default: Yearly with its promotional first-year price (com.yearlyMembership) · AR"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-EN.dc.html": {
+   "x": 4176,
+   "y": 4282,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · SecureField — Home Premium · iPhone · Plans loaded · EN"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-AR.dc.html": {
+   "x": 4658,
+   "y": 4282,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · SecureField — Home Premium · iPhone · Plans loaded · AR"
+  },
+  "iPad-HOME_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-EN.dc.html": {
+   "x": 2248,
+   "y": 952,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · SecureField — Home Premium · iPad · Plans loaded · EN"
+  },
+  "iPad-HOME_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-AR.dc.html": {
+   "x": 3162,
+   "y": 952,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · SecureField — Home Premium · iPad · Plans loaded · AR"
+  },
+  "iPhone-SERVER_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-EN.dc.html": {
+   "x": 4176,
+   "y": 6137.734375,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · SecureField — Server Premium · iPhone · Plans loaded · EN"
+  },
+  "iPhone-SERVER_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-AR.dc.html": {
+   "x": 4658,
+   "y": 6137.734375,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · SecureField — Server Premium · iPhone · Plans loaded · AR"
+  },
+  "iPad-SERVER_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-EN.dc.html": {
+   "x": 2248,
+   "y": 2594,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · SecureField — Server Premium · iPad · Plans loaded · EN"
+  },
+  "iPad-SERVER_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-AR.dc.html": {
+   "x": 3162,
+   "y": 2594,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · SecureField — Server Premium · iPad · Plans loaded · AR"
+  },
+  "iPhone-YEARLY_50_OFF-flow-Proposal_VPN727-FreeTrial-EN.dc.html": {
+   "x": 2248,
+   "y": 20214.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50 (flow) · iPhone · Free trial · EN"
+  },
+  "iPhone-YEARLY_50_OFF-flow-Proposal_VPN727-FreeTrial-AR.dc.html": {
+   "x": 2730,
+   "y": 20214.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50 (flow) · iPhone · Free trial · AR"
+  },
+  "iPad-YEARLY_50_OFF-flow-Proposal_VPN727-FreeTrial-EN.dc.html": {
+   "x": 2248,
+   "y": 24546,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50 (flow) · iPad · Free trial · EN"
+  },
+  "iPad-YEARLY_50_OFF-flow-Proposal_VPN727-FreeTrial-AR.dc.html": {
+   "x": 3162,
+   "y": 24546,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50 (flow) · iPad · Free trial · AR"
+  },
+  "iPhone-DAILY_USING_USERS_FREE-Proposal_VPN727-FirstMonthSelected-EN.dc.html": {
+   "x": 2248,
+   "y": 23556.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · Least_using_Users_FREE_introductory · iPhone · Introductory prices · EN"
+  },
+  "iPhone-DAILY_USING_USERS_FREE-Proposal_VPN727-FirstMonthSelected-AR.dc.html": {
+   "x": 2730,
+   "y": 23556.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · Least_using_Users_FREE_introductory · iPhone · Introductory prices · AR"
+  },
+  "iPad-DAILY_USING_USERS_FREE-Proposal_VPN727-FirstMonthSelected-EN.dc.html": {
+   "x": 2248,
+   "y": 12642,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · Least_using_Users_FREE_introductory · iPad · Introductory prices · EN"
+  },
+  "iPad-DAILY_USING_USERS_FREE-Proposal_VPN727-FirstMonthSelected-AR.dc.html": {
+   "x": 3162,
+   "y": 12642,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · Least_using_Users_FREE_introductory · iPad · Introductory prices · AR"
+  },
+  "iPhone-NEVER_USED_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-EN.dc.html": {
+   "x": 2248,
+   "y": 25244.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · BEST_OFFER_FOR_YEARLY_NEVER_USED · iPhone · Introductory price · EN"
+  },
+  "iPhone-NEVER_USED_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-AR.dc.html": {
+   "x": 2730,
+   "y": 25244.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · BEST_OFFER_FOR_YEARLY_NEVER_USED · iPhone · Introductory price · AR"
+  },
+  "iPad-NEVER_USED_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-EN.dc.html": {
+   "x": 2248,
+   "y": 14626,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · BEST_OFFER_FOR_YEARLY_NEVER_USED · iPad · Introductory price · EN"
+  },
+  "iPad-NEVER_USED_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-AR.dc.html": {
+   "x": 3162,
+   "y": 14626,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · BEST_OFFER_FOR_YEARLY_NEVER_USED · iPad · Introductory price · AR"
+  },
+  "iPhone-WIN_BACK_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-EN.dc.html": {
+   "x": 2248,
+   "y": 32454.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL · iPhone · Offer price for the first year · EN"
+  },
+  "iPhone-WIN_BACK_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-AR.dc.html": {
+   "x": 2730,
+   "y": 32454.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL · iPhone · Offer price for the first year · AR"
+  },
+  "iPad-WIN_BACK_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-EN.dc.html": {
+   "x": 2248,
+   "y": 22562,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL · iPad · Offer price for the first year · EN"
+  },
+  "iPad-WIN_BACK_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-AR.dc.html": {
+   "x": 3162,
+   "y": 22562,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL · iPad · Offer price for the first year · AR"
+  },
+  "iPhone-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-Proposal_VPN727-FreeMonth-EN.dc.html": {
+   "x": 2248,
+   "y": 29078.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE · iPhone · Promotional free month · EN"
+  },
+  "iPhone-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-Proposal_VPN727-FreeMonth-AR.dc.html": {
+   "x": 2730,
+   "y": 29078.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE · iPhone · Promotional free month · AR"
+  },
+  "iPad-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-Proposal_VPN727-FreeMonth-EN.dc.html": {
+   "x": 2248,
+   "y": 18594,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE · iPad · Promotional free month · EN"
+  },
+  "iPad-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-Proposal_VPN727-FreeMonth-AR.dc.html": {
+   "x": 3162,
+   "y": 18594,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE · iPad · Promotional free month · AR"
+  },
+  "iPhone-SPEED_PROBLEM_FREEMIUM-Proposal_VPN727-Monthly-EN.dc.html": {
+   "x": 2248,
+   "y": 30766.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · SPEED_TEST_PROBLEM_PROMOTIONAL (arm A, 100 %) · iPhone · Plans loaded · EN"
+  },
+  "iPhone-SPEED_PROBLEM_FREEMIUM-Proposal_VPN727-Monthly-AR.dc.html": {
+   "x": 2730,
+   "y": 30766.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · SPEED_TEST_PROBLEM_PROMOTIONAL (arm A, 100 %) · iPhone · Plans loaded · AR"
+  },
+  "iPad-SPEED_PROBLEM_FREEMIUM-Proposal_VPN727-Monthly-EN.dc.html": {
+   "x": 2248,
+   "y": 20578,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · SPEED_TEST_PROBLEM_PROMOTIONAL (arm A, 100 %) · iPad · Plans loaded · EN"
+  },
+  "iPad-SPEED_PROBLEM_FREEMIUM-Proposal_VPN727-Monthly-AR.dc.html": {
+   "x": 3162,
+   "y": 20578,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · SPEED_TEST_PROBLEM_PROMOTIONAL (arm A, 100 %) · iPad · Plans loaded · AR"
+  },
+  "iPhone-HAPPY_NEW_YEAR-Proposal_VPN727-Monthly-EN.dc.html": {
+   "x": 2248,
+   "y": 40748.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · HAPPY_NEW_YEAR (Adapty template) · iPhone · Plans loaded · EN"
+  },
+  "iPhone-HAPPY_NEW_YEAR-Proposal_VPN727-Monthly-AR.dc.html": {
+   "x": 2730,
+   "y": 40748.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · HAPPY_NEW_YEAR (Adapty template) · iPhone · Plans loaded · AR"
+  },
+  "iPad-HAPPY_NEW_YEAR-Proposal_VPN727-Monthly-EN.dc.html": {
+   "x": 2248,
+   "y": 28880,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · HAPPY_NEW_YEAR (Adapty template) · iPad · Plans loaded · EN"
+  },
+  "iPad-HAPPY_NEW_YEAR-Proposal_VPN727-Monthly-AR.dc.html": {
+   "x": 3162,
+   "y": 28880,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · HAPPY_NEW_YEAR (Adapty template) · iPad · Plans loaded · AR"
+  },
+  "iPhone-ramadan_2026-Proposal_VPN727-FreeTrial-EN.dc.html": {
+   "x": 2248,
+   "y": 35519.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · Ramadan_FEAST · iPhone · 3-day free trial (promotional or introductory: the same texts) · EN"
+  },
+  "iPhone-ramadan_2026-Proposal_VPN727-FreeTrial-AR.dc.html": {
+   "x": 2730,
+   "y": 35519.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · Ramadan_FEAST · iPhone · 3-day free trial (promotional or introductory: the same texts) · AR"
+  },
+  "iPad-ramadan_2026-Proposal_VPN727-FreeTrial-EN.dc.html": {
+   "x": 2248,
+   "y": 26530,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · Ramadan_FEAST · iPad · 3-day free trial (promotional or introductory: the same texts) · EN"
+  },
+  "iPad-ramadan_2026-Proposal_VPN727-FreeTrial-AR.dc.html": {
+   "x": 3162,
+   "y": 26530,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · Ramadan_FEAST · iPad · 3-day free trial (promotional or introductory: the same texts) · AR"
+  },
+  "iPhone-NOT_USING_USERS_PREMIUM-Proposal_VPN727-FirstYearOffer-EN.dc.html": {
+   "x": 2248,
+   "y": 27161.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · Least_using_users_premiums_promotional · iPhone · Offer price for the first year · EN"
+  },
+  "iPhone-NOT_USING_USERS_PREMIUM-Proposal_VPN727-FirstYearOffer-AR.dc.html": {
+   "x": 2730,
+   "y": 27161.515625,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-727 · Least_using_users_premiums_promotional · iPhone · Offer price for the first year · AR"
+  },
+  "iPad-NOT_USING_USERS_PREMIUM-Proposal_VPN727-FirstYearOffer-EN.dc.html": {
+   "x": 2248,
+   "y": 16610,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · Least_using_users_premiums_promotional · iPad · Offer price for the first year · EN"
+  },
+  "iPad-NOT_USING_USERS_PREMIUM-Proposal_VPN727-FirstYearOffer-AR.dc.html": {
+   "x": 3162,
+   "y": 16610,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-727 · Least_using_users_premiums_promotional · iPad · Offer price for the first year · AR"
   }
  },
  "order": [
@@ -1258,7 +1610,51 @@
   "iPhone-BLACK_FRIDAY-Proposal_VPN873-Loading-AR.dc.html",
   "iPhone-BLACK_FRIDAY-Proposal_VPN873-LoadFailed-AR.dc.html",
   "iPhone-BLACK_FRIDAY-Proposal_VPN873-ChoiceYearlyOffer-EN.dc.html",
-  "iPhone-BLACK_FRIDAY-Proposal_VPN873-ChoiceYearlyOffer-AR.dc.html"
+  "iPhone-BLACK_FRIDAY-Proposal_VPN873-ChoiceYearlyOffer-AR.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-EN.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-AR.dc.html",
+  "iPad-HOME_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-EN.dc.html",
+  "iPad-HOME_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-AR.dc.html",
+  "iPhone-SERVER_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-EN.dc.html",
+  "iPhone-SERVER_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-AR.dc.html",
+  "iPad-SERVER_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-EN.dc.html",
+  "iPad-SERVER_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-AR.dc.html",
+  "iPhone-YEARLY_50_OFF-flow-Proposal_VPN727-FreeTrial-EN.dc.html",
+  "iPhone-YEARLY_50_OFF-flow-Proposal_VPN727-FreeTrial-AR.dc.html",
+  "iPad-YEARLY_50_OFF-flow-Proposal_VPN727-FreeTrial-EN.dc.html",
+  "iPad-YEARLY_50_OFF-flow-Proposal_VPN727-FreeTrial-AR.dc.html",
+  "iPhone-DAILY_USING_USERS_FREE-Proposal_VPN727-FirstMonthSelected-EN.dc.html",
+  "iPhone-DAILY_USING_USERS_FREE-Proposal_VPN727-FirstMonthSelected-AR.dc.html",
+  "iPad-DAILY_USING_USERS_FREE-Proposal_VPN727-FirstMonthSelected-EN.dc.html",
+  "iPad-DAILY_USING_USERS_FREE-Proposal_VPN727-FirstMonthSelected-AR.dc.html",
+  "iPhone-NEVER_USED_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-EN.dc.html",
+  "iPhone-NEVER_USED_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-AR.dc.html",
+  "iPad-NEVER_USED_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-EN.dc.html",
+  "iPad-NEVER_USED_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-AR.dc.html",
+  "iPhone-WIN_BACK_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-EN.dc.html",
+  "iPhone-WIN_BACK_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-AR.dc.html",
+  "iPad-WIN_BACK_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-EN.dc.html",
+  "iPad-WIN_BACK_YEARLY_OFFER-Proposal_VPN727-FirstYearOffer-AR.dc.html",
+  "iPhone-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-Proposal_VPN727-FreeMonth-EN.dc.html",
+  "iPhone-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-Proposal_VPN727-FreeMonth-AR.dc.html",
+  "iPad-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-Proposal_VPN727-FreeMonth-EN.dc.html",
+  "iPad-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-Proposal_VPN727-FreeMonth-AR.dc.html",
+  "iPhone-SPEED_PROBLEM_FREEMIUM-Proposal_VPN727-Monthly-EN.dc.html",
+  "iPhone-SPEED_PROBLEM_FREEMIUM-Proposal_VPN727-Monthly-AR.dc.html",
+  "iPad-SPEED_PROBLEM_FREEMIUM-Proposal_VPN727-Monthly-EN.dc.html",
+  "iPad-SPEED_PROBLEM_FREEMIUM-Proposal_VPN727-Monthly-AR.dc.html",
+  "iPhone-HAPPY_NEW_YEAR-Proposal_VPN727-Monthly-EN.dc.html",
+  "iPhone-HAPPY_NEW_YEAR-Proposal_VPN727-Monthly-AR.dc.html",
+  "iPad-HAPPY_NEW_YEAR-Proposal_VPN727-Monthly-EN.dc.html",
+  "iPad-HAPPY_NEW_YEAR-Proposal_VPN727-Monthly-AR.dc.html",
+  "iPhone-ramadan_2026-Proposal_VPN727-FreeTrial-EN.dc.html",
+  "iPhone-ramadan_2026-Proposal_VPN727-FreeTrial-AR.dc.html",
+  "iPad-ramadan_2026-Proposal_VPN727-FreeTrial-EN.dc.html",
+  "iPad-ramadan_2026-Proposal_VPN727-FreeTrial-AR.dc.html",
+  "iPhone-NOT_USING_USERS_PREMIUM-Proposal_VPN727-FirstYearOffer-EN.dc.html",
+  "iPhone-NOT_USING_USERS_PREMIUM-Proposal_VPN727-FirstYearOffer-AR.dc.html",
+  "iPad-NOT_USING_USERS_PREMIUM-Proposal_VPN727-FirstYearOffer-EN.dc.html",
+  "iPad-NOT_USING_USERS_PREMIUM-Proposal_VPN727-FirstYearOffer-AR.dc.html"
  ],
  "notes": {
   "pay-001": {
@@ -1343,7 +1739,7 @@
   },
   "iphone-006": {
    "x": 0,
-   "y": 5424,
+   "y": 5625.734375,
    "text": "SERVER_PREMIUM_FLOW · All users · Adapty Flow “SecureField — Server Premium”",
    "page": "iphone",
    "kind": "title1",
@@ -1351,7 +1747,7 @@
   },
   "iphone-007": {
    "x": 0,
-   "y": 5554,
+   "y": 5755.734375,
    "text": "Today on iPhone: the Adapty Flow, drawn by Adapty. Opened by a tap on a premium server. App screenshots. Arabic device: English texts, left to right (the app sends no language). Purchase failed: local StoreKit test, no real purchase.",
    "page": "iphone",
    "w": 1800,
@@ -1360,8 +1756,8 @@
   },
   "iphone-008": {
    "x": 0,
-   "y": 7078,
-   "text": "SETTINGS_PREMIUM_FLOW · All users · Adapty Flow “SecureField — Home Premium”. Today: the same flow as HOME_PREMIUM_FLOW (see that row), opened by the Premium card in Settings. App screenshot, EN. An Arabic device shows the same English flow.",
+   "y": 7574.515625,
+   "text": "Today: the same flow as HOME_PREMIUM_FLOW (see that row), opened by the Premium card in Settings. App screenshot, EN. An Arabic device shows the same English flow.",
    "page": "iphone",
    "w": 1800,
    "size": "m",
@@ -1370,7 +1766,7 @@
   },
   "iphone-009": {
    "x": 0,
-   "y": 8602,
+   "y": 9138.515625,
    "text": "HOME_TOP_LEFT_PREMIUM · All users · app (Premium screen)",
    "page": "iphone",
    "kind": "title1",
@@ -1378,7 +1774,7 @@
   },
   "iphone-010": {
    "x": 0,
-   "y": 8732,
+   "y": 9268.515625,
    "text": "Today: the app's own Premium screen. The app also shows it when a flow or a pushed paywall cannot draw, for a placement id it does not know, and from the securefield://paywall link. App screenshots. Purchase failed: local StoreKit test, no real purchase.",
    "page": "iphone",
    "w": 1800,
@@ -1387,7 +1783,7 @@
   },
   "iphone-011": {
    "x": 0,
-   "y": 10256,
+   "y": 10792.515625,
    "text": "ONBOARDING · All users (priority 1) · app (Premium screen, one plan) · A/B “Weekly & Yearly Onboarding tesi”",
    "page": "iphone",
    "kind": "title1",
@@ -1395,7 +1791,7 @@
   },
   "iphone-012": {
    "x": 0,
-   "y": 10386,
+   "y": 10922.515625,
    "text": "Today: the app's Premium screen with one plan. Arm B (paywall ONBOARDING, Weekly with a 3-day free trial, 50 %): app screenshot, opened by securefield://paywall/onboarding; opened by a link, no plan is selected. Arm A (paywall ONBOARDING_YEARLY, 50 %): no screenshot, because Adapty served arm B to the test device. Priority 0 “Board test segment”: not shown.",
    "page": "iphone",
    "w": 1800,
@@ -1404,7 +1800,7 @@
   },
   "iphone-013": {
    "x": 0,
-   "y": 11950,
+   "y": 12486.515625,
    "text": "ONBOARDING_YEARLY · All users · app (onboarding, last slide) · A/B “Onboarding Yearly”: arm A 100 %",
    "page": "iphone",
    "kind": "title1",
@@ -1412,7 +1808,7 @@
   },
   "iphone-014": {
    "x": 0,
-   "y": 12080,
+   "y": 12616.515625,
    "text": "Today: the last onboarding slide with arm A (paywall ONBOARDING: Weekly, 3-day free trial, then $8.99 per week). App screenshots. On iPhone the trial line is cut after its first line, so the price after the trial does not show. In Arabic the period stays in English (“3 days”). Arm B (paywall ONBOARDING_YEARLY, 0 %): nobody sees it; see Drafts.",
    "page": "iphone",
    "w": 1800,
@@ -1421,8 +1817,8 @@
   },
   "iphone-015": {
    "x": 0,
-   "y": 13644,
-   "text": "PROFILE_PREMIUM · All users · app (Premium screen). Today: the app's Premium screen with this placement's plans, opened by securefield://paywall/profile or a push. App screenshot, EN. AR: no screenshot.",
+   "y": 14310.515625,
+   "text": "Today: the app's Premium screen with this placement's plans, opened by securefield://paywall/profile or a push. App screenshot, EN. AR: no screenshot.",
    "page": "iphone",
    "w": 1800,
    "size": "m",
@@ -1431,7 +1827,7 @@
   },
   "iphone-016": {
    "x": 0,
-   "y": 15168,
+   "y": 15874.515625,
    "text": "SERVER_PREMIUM · All users · app (Premium pop-up)",
    "page": "iphone",
    "kind": "title1",
@@ -1439,7 +1835,7 @@
   },
   "iphone-017": {
    "x": 0,
-   "y": 15298,
+   "y": 16004.515625,
    "text": "Today: the app's own Premium pop-up, when the Server flow is not ready. App screenshots. The server banner names the server the user tapped (here: Netherlands). Purchase failed: local StoreKit test, no real purchase.",
    "page": "iphone",
    "w": 1800,
@@ -1448,7 +1844,7 @@
   },
   "iphone-018": {
    "x": 0,
-   "y": 16822,
+   "y": 17528.515625,
    "text": "WATCH_ADS · All users · app (Advertisement)",
    "page": "iphone",
    "kind": "title1",
@@ -1456,7 +1852,7 @@
   },
   "iphone-019": {
    "x": 0,
-   "y": 16952,
+   "y": 17658.515625,
    "text": "Today: the app's own Advertisement screen. App screenshots. One ad watched: our house ad (not a network ad), played with the app's test hooks.",
    "page": "iphone",
    "w": 1800,
@@ -1465,7 +1861,7 @@
   },
   "iphone-020": {
    "x": 0,
-   "y": 18436,
+   "y": 19142.515625,
    "text": "iPhone — Campaign (push only). No app screen names these placements. A push or a OneLink opens one by its id. On iPhone the app asks Adapty at the tap and shows the Adapty layout (Flow or Paywall Builder) when the paywall's products load within 8 s. If not, it shows its own Premium screen with the HOME_TOP_LEFT_PREMIUM plans. Free users only. Texts are English on every device. “Adapty preview” = the operator's image from Adapty's builder preview, at its file size; its prices are Adapty's samples. An Adapty preview with no app screenshot was not tested on a device.",
    "page": "iphone",
    "w": 1800,
@@ -1475,7 +1871,7 @@
   },
   "iphone-021": {
    "x": 0,
-   "y": 18956,
+   "y": 19662.515625,
    "text": "YEARLY_50_OFF-flow · All users · Adapty Flow “FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50 (flow)”",
    "page": "iphone",
    "kind": "title1",
@@ -1483,7 +1879,7 @@
   },
   "iphone-022": {
    "x": 0,
-   "y": 19086,
+   "y": 19792.515625,
    "text": "Today the flow does not draw: its products did not load from the App Store (noProductIDsFound). A push opens the app's own Premium screen with the HOME_TOP_LEFT_PREMIUM plans. App screenshots: app running (EN, AR) and cold start (EN). Premium user: no paywall; the main screen stays. None of the flow's offer states shows today. No Adapty preview of this flow is on file.",
    "page": "iphone",
    "w": 1800,
@@ -1492,7 +1888,7 @@
   },
   "iphone-023": {
    "x": 0,
-   "y": 20650,
+   "y": 21390.515625,
    "text": "BLACK_FRIDAY · All users · Adapty paywall “Black Friday” (Adapty template)",
    "page": "iphone",
    "kind": "title1",
@@ -1500,7 +1896,7 @@
   },
   "iphone-024": {
    "x": 0,
-   "y": 20780,
+   "y": 21520.515625,
    "text": "Today: its product (com.monthlyTrialMembership) did not load (noProductIDsFound), so a push opens the app's own Premium screen (app screenshot). The Adapty preview is an untouched Adapty template, English only.",
    "page": "iphone",
    "w": 1800,
@@ -1509,7 +1905,7 @@
   },
   "iphone-025": {
    "x": 0,
-   "y": 22304,
+   "y": 23044.515625,
    "text": "DAILY_USING_USERS_FREE · All users · Adapty paywall “Least_using_Users_FREE_introductory”",
    "page": "iphone",
    "kind": "title1",
@@ -1517,7 +1913,7 @@
   },
   "iphone-026": {
    "x": 0,
-   "y": 22434,
+   "y": 23174.515625,
    "text": "Today on iPhone: this Adapty layout, in English, when its products load. Not tested on a device: Adapty preview only. The Arabic preview is not shown today: the app shows English texts.",
    "page": "iphone",
    "w": 1800,
@@ -1526,7 +1922,7 @@
   },
   "iphone-027": {
    "x": 0,
-   "y": 23681,
+   "y": 24732.515625,
    "text": "NEVER_USED_YEARLY_OFFER · All users · Adapty paywall “BEST_OFFER_FOR_YEARLY_NEVER_USED”",
    "page": "iphone",
    "kind": "title1",
@@ -1534,7 +1930,7 @@
   },
   "iphone-028": {
    "x": 0,
-   "y": 23811,
+   "y": 24862.515625,
    "text": "Today on iPhone: this Adapty layout, in English, when its products load. Not tested on a device: Adapty preview only. The Arabic preview is not shown today: the app shows English texts.",
    "page": "iphone",
    "w": 1800,
@@ -1543,7 +1939,7 @@
   },
   "iphone-029": {
    "x": 0,
-   "y": 25058,
+   "y": 26109.515625,
    "text": "NOT_USING_USERS_FREE · All users · Adapty paywall “Least_using_Users_FREE_introductory”. The same paywall as DAILY_USING_USERS_FREE: see that row.",
    "page": "iphone",
    "w": 1800,
@@ -1552,7 +1948,7 @@
   },
   "iphone-030": {
    "x": 0,
-   "y": 25598,
+   "y": 26649.515625,
    "text": "NOT_USING_USERS_PREMIUM · All users · Adapty paywall “Least_using_users_premiums_promotional”",
    "page": "iphone",
    "kind": "title1",
@@ -1560,7 +1956,7 @@
   },
   "iphone-031": {
    "x": 0,
-   "y": 25728,
+   "y": 26779.515625,
    "text": "Today on iPhone: this Adapty layout, in English, when its products load. Not tested on a device: Adapty preview only. The Arabic preview is not shown today: the app shows English texts.",
    "page": "iphone",
    "w": 1800,
@@ -1569,7 +1965,7 @@
   },
   "iphone-032": {
    "x": 0,
-   "y": 26975,
+   "y": 28026.515625,
    "text": "ONBOARDING_END · All users · paywall “ONBOARDING” (drawn by the app, no Adapty layout). The app has no own screen for this id, so a push shows the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans, as for an unknown id (last row of this block). No screenshot of this placement.",
    "page": "iphone",
    "w": 1800,
@@ -1578,7 +1974,7 @@
   },
   "iphone-033": {
    "x": 0,
-   "y": 27515,
+   "y": 28566.515625,
    "text": "PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY · All users · Adapty paywall “ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE”",
    "page": "iphone",
    "kind": "title1",
@@ -1586,7 +1982,7 @@
   },
   "iphone-034": {
    "x": 0,
-   "y": 27645,
+   "y": 28696.515625,
    "text": "Today on iPhone: this Adapty layout, in English, when its products load. Not tested on a device: Adapty preview only. The Arabic preview is not shown today: the app shows English texts.",
    "page": "iphone",
    "w": 1800,
@@ -1595,7 +1991,7 @@
   },
   "iphone-035": {
    "x": 0,
-   "y": 28892,
+   "y": 30254.515625,
    "text": "SPEED_PROBLEM_FREEMIUM · All users · Adapty paywall “SPEED_TEST_PROBLEM_PROMOTIONAL” · A/B “SPEED TEST”: arm A 100 %",
    "page": "iphone",
    "kind": "title1",
@@ -1603,7 +1999,7 @@
   },
   "iphone-036": {
    "x": 0,
-   "y": 29022,
+   "y": 30384.515625,
    "text": "Today on iPhone: this Adapty layout, in English, when its products load. Not tested on a device: Adapty preview only. The Arabic preview is not shown today: the app shows English texts. Arm B (SPEED_PROBLEM_ALTERNATIVE_1, 0 %): see Drafts. The free-trial texts of this paywall are filler in Adapty.",
    "page": "iphone",
    "w": 1800,
@@ -1612,7 +2008,7 @@
   },
   "iphone-037": {
    "x": 0,
-   "y": 30269,
+   "y": 31942.515625,
    "text": "WIN_BACK_YEARLY_OFFER · All users · Adapty paywall “ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL”",
    "page": "iphone",
    "kind": "title1",
@@ -1620,7 +2016,7 @@
   },
   "iphone-038": {
    "x": 0,
-   "y": 30399,
+   "y": 32072.515625,
    "text": "Today on iPhone: this Adapty layout, in English, when its products load. Not tested on a device: Adapty preview only. The Arabic preview is not shown today: the app shows English texts.",
    "page": "iphone",
    "w": 1800,
@@ -1629,7 +2025,7 @@
   },
   "iphone-039": {
    "x": 0,
-   "y": 31646,
+   "y": 33630.515625,
    "text": "YEARLY_50_OFF · All users · Adapty paywall “FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50”",
    "page": "iphone",
    "kind": "title1",
@@ -1637,7 +2033,7 @@
   },
   "iphone-040": {
    "x": 0,
-   "y": 31776,
+   "y": 33760.515625,
    "text": "Today on iPhone: this Adapty layout, in English, when its products load. Not tested on a device: Adapty preview only. The Arabic preview is not shown today: the app shows English texts.",
    "page": "iphone",
    "w": 1800,
@@ -1646,7 +2042,7 @@
   },
   "iphone-041": {
    "x": 0,
-   "y": 33023,
+   "y": 35007.515625,
    "text": "ramadan_2026 · All users · Adapty paywall “Ramadan_FEAST”",
    "page": "iphone",
    "kind": "title1",
@@ -1654,7 +2050,7 @@
   },
   "iphone-042": {
    "x": 0,
-   "y": 33153,
+   "y": 35137.515625,
    "text": "Today on iPhone: the Adapty-drawn “Ramadan Offer”, in English (app screenshot after a push). Adapty preview EN and AR next to it; the Arabic one is not shown today.",
    "page": "iphone",
    "w": 1800,
@@ -1663,8 +2059,8 @@
   },
   "iphone-043": {
    "x": 0,
-   "y": 34677,
-   "text": "Unknown placement id · push. A push with an id that Adapty does not know (test id VPN838_NOT_A_PLACEMENT): the app's own Premium screen with the HOME_TOP_LEFT_PREMIUM plans. App screenshot, EN.",
+   "y": 36825.515625,
+   "text": "A push with an id that Adapty does not know (test id VPN838_NOT_A_PLACEMENT): the app's own Premium screen with the HOME_TOP_LEFT_PREMIUM plans. App screenshot, EN.",
    "page": "iphone",
    "w": 1800,
    "size": "m",
@@ -1673,7 +2069,7 @@
   },
   "iphone-044": {
    "x": 0,
-   "y": 36201,
+   "y": 38389.515625,
    "text": "Drafts — not live. Only a draft with an operator's Adapty preview is shown. No Adapty preview, so listed only: flows SECUREFIELD ONBOARDING FLOW (placement flow_onboarding; the app does not fetch it), YEDEK - Onboarding (carousel oncesi), Paywall Settings 1, SecureField Free Trial Paywall; arm B (0 %) of “Onboarding Yearly” (paywall ONBOARDING_YEARLY, drawn by the app; Adapty never serves it). HAPPY_NEW_YEAR (Adapty template): its preview shows a person's photo and name, so it is not on this public page. Nothing to show: DRAFT (no layout), DENEME_SONRA_SİL (test placement TEST_DENEME), CANCELLATION (no placement, no app code). Untitled and archived flows: not shown.",
    "page": "iphone",
    "w": 1800,
@@ -1683,7 +2079,7 @@
   },
   "iphone-045": {
    "x": 0,
-   "y": 36751,
+   "y": 38939.515625,
    "text": "Draft — not live — SPEED_PROBLEM_ALTERNATIVE_1 · arm B (0 %) of “SPEED TEST” · SPEED_PROBLEM_FREEMIUM",
    "page": "iphone",
    "kind": "title1",
@@ -1691,7 +2087,7 @@
   },
   "iphone-046": {
    "x": 0,
-   "y": 36881,
+   "y": 39069.515625,
    "text": "Adapty preview. Nobody sees this arm (0 %). “montly” is spelled so in Adapty.",
    "page": "iphone",
    "w": 1800,
@@ -1700,7 +2096,7 @@
   },
   "iphone-047": {
    "x": 0,
-   "y": 38088,
+   "y": 40276.515625,
    "text": "Draft — not live — Paywall Builder paywalls with no placement",
    "page": "iphone",
    "kind": "title1",
@@ -1708,7 +2104,7 @@
   },
   "iphone-048": {
    "x": 0,
-   "y": 38218,
+   "y": 40406.515625,
    "text": "Adapty previews, English only (these paywalls have no Arabic). No placement uses them.",
    "page": "iphone",
    "w": 1800,
@@ -1744,7 +2140,7 @@
   },
   "ipad-052": {
    "x": 0,
-   "y": 2430,
+   "y": 4106,
    "text": "HOME_TOP_LEFT_PREMIUM · All users · app (Premium screen) · also every flow and push on iPad",
    "page": "ipad",
    "kind": "title1",
@@ -1752,7 +2148,7 @@
   },
   "ipad-053": {
    "x": 0,
-   "y": 2560,
+   "y": 4236,
    "text": "Today: the app's own Premium screen, in a sheet. App screenshots. Purchase failed: local StoreKit test, no real purchase.",
    "page": "ipad",
    "w": 1800,
@@ -1761,7 +2157,7 @@
   },
   "ipad-054": {
    "x": 0,
-   "y": 4380,
+   "y": 6056,
    "text": "ONBOARDING_YEARLY · All users · app (onboarding, last slide) · A/B “Onboarding Yearly”: arm A 100 %",
    "page": "ipad",
    "kind": "title1",
@@ -1769,7 +2165,7 @@
   },
   "ipad-055": {
    "x": 0,
-   "y": 4510,
+   "y": 6186,
    "text": "Today: the last onboarding slide with arm A (Weekly, 3-day free trial). App screenshots. In landscape the title, the text, the price and the page dots are below the screen edge: only the shield and Continue show, so the landscape arm A and loading screenshots look the same.",
    "page": "ipad",
    "w": 1800,
@@ -1778,7 +2174,7 @@
   },
   "ipad-056": {
    "x": 0,
-   "y": 6370,
+   "y": 8046,
    "text": "SERVER_PREMIUM · All users · app (Premium pop-up)",
    "page": "ipad",
    "kind": "title1",
@@ -1786,7 +2182,7 @@
   },
   "ipad-057": {
    "x": 0,
-   "y": 6500,
+   "y": 8176,
    "text": "Today: the app's own Premium pop-up. App screenshots. In the plain pop-up the feature lines lie over the Yearly card; in landscape, Close and Restore are not visible.",
    "page": "ipad",
    "w": 1800,
@@ -1795,8 +2191,8 @@
   },
   "ipad-058": {
    "x": 0,
-   "y": 8360,
-   "text": "WATCH_ADS · All users · app (Advertisement). Today: the app's own Advertisement screen. App screenshot, landscape, AR. EN and portrait: no screenshot in this set.",
+   "y": 10166,
+   "text": "Today: the app's own Advertisement screen. App screenshot, landscape, AR. EN and portrait: no screenshot in this set.",
    "page": "ipad",
    "w": 1800,
    "size": "m",
@@ -1805,7 +2201,7 @@
   },
   "ipad-059": {
    "x": 0,
-   "y": 9844,
+   "y": 11690,
    "text": "iPad — Campaign (push only). A push to any placement shows the app's own Premium screen with the HOME_TOP_LEFT_PREMIUM plans on iPad (seen: ramadan_2026). The Adapty previews show what Adapty would draw; no iPad user sees them today. BLACK_FRIDAY: no iPad preview on file. NOT_USING_USERS_FREE: the same paywall as DAILY_USING_USERS_FREE. ONBOARDING_END and YEARLY_50_OFF-flow: no iPad preview.",
    "page": "ipad",
    "w": 1800,
@@ -1815,7 +2211,7 @@
   },
   "ipad-060": {
    "x": 0,
-   "y": 10324,
+   "y": 12170,
    "text": "DAILY_USING_USERS_FREE · All users · Adapty paywall “Least_using_Users_FREE_introductory”",
    "page": "ipad",
    "kind": "title1",
@@ -1823,7 +2219,7 @@
   },
   "ipad-061": {
    "x": 0,
-   "y": 10454,
+   "y": 12300,
    "text": "On iPad today: the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans (see the ramadan_2026 row). Adapty previews: not shown today.",
    "page": "ipad",
    "w": 1800,
@@ -1832,7 +2228,7 @@
   },
   "ipad-062": {
    "x": 0,
-   "y": 11658,
+   "y": 14154,
    "text": "NEVER_USED_YEARLY_OFFER · All users · Adapty paywall “BEST_OFFER_FOR_YEARLY_NEVER_USED”",
    "page": "ipad",
    "kind": "title1",
@@ -1840,7 +2236,7 @@
   },
   "ipad-063": {
    "x": 0,
-   "y": 11788,
+   "y": 14284,
    "text": "On iPad today: the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans (see the ramadan_2026 row). Adapty previews: not shown today.",
    "page": "ipad",
    "w": 1800,
@@ -1849,7 +2245,7 @@
   },
   "ipad-064": {
    "x": 0,
-   "y": 12992,
+   "y": 16138,
    "text": "NOT_USING_USERS_PREMIUM · All users · Adapty paywall “Least_using_users_premiums_promotional”",
    "page": "ipad",
    "kind": "title1",
@@ -1857,7 +2253,7 @@
   },
   "ipad-065": {
    "x": 0,
-   "y": 13122,
+   "y": 16268,
    "text": "On iPad today: the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans (see the ramadan_2026 row). Adapty previews: not shown today.",
    "page": "ipad",
    "w": 1800,
@@ -1866,7 +2262,7 @@
   },
   "ipad-066": {
    "x": 0,
-   "y": 14326,
+   "y": 18122,
    "text": "PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY · All users · Adapty paywall “ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE”",
    "page": "ipad",
    "kind": "title1",
@@ -1874,7 +2270,7 @@
   },
   "ipad-067": {
    "x": 0,
-   "y": 14456,
+   "y": 18252,
    "text": "On iPad today: the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans (see the ramadan_2026 row). Adapty previews: not shown today.",
    "page": "ipad",
    "w": 1800,
@@ -1883,7 +2279,7 @@
   },
   "ipad-068": {
    "x": 0,
-   "y": 15660,
+   "y": 20106,
    "text": "SPEED_PROBLEM_FREEMIUM · All users · Adapty paywall “SPEED_TEST_PROBLEM_PROMOTIONAL” · A/B “SPEED TEST”: arm A 100 %",
    "page": "ipad",
    "kind": "title1",
@@ -1891,7 +2287,7 @@
   },
   "ipad-069": {
    "x": 0,
-   "y": 15790,
+   "y": 20236,
    "text": "On iPad today: the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans (see the ramadan_2026 row). Adapty previews: not shown today.",
    "page": "ipad",
    "w": 1800,
@@ -1900,7 +2296,7 @@
   },
   "ipad-070": {
    "x": 0,
-   "y": 16994,
+   "y": 22090,
    "text": "WIN_BACK_YEARLY_OFFER · All users · Adapty paywall “ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL”",
    "page": "ipad",
    "kind": "title1",
@@ -1908,7 +2304,7 @@
   },
   "ipad-071": {
    "x": 0,
-   "y": 17124,
+   "y": 22220,
    "text": "On iPad today: the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans (see the ramadan_2026 row). Adapty previews: not shown today.",
    "page": "ipad",
    "w": 1800,
@@ -1917,7 +2313,7 @@
   },
   "ipad-072": {
    "x": 0,
-   "y": 18328,
+   "y": 24074,
    "text": "YEARLY_50_OFF · All users · Adapty paywall “FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50”",
    "page": "ipad",
    "kind": "title1",
@@ -1925,7 +2321,7 @@
   },
   "ipad-073": {
    "x": 0,
-   "y": 18458,
+   "y": 24204,
    "text": "On iPad today: the app's Premium screen with the HOME_TOP_LEFT_PREMIUM plans (see the ramadan_2026 row). Adapty previews: not shown today.",
    "page": "ipad",
    "w": 1800,
@@ -1934,7 +2330,7 @@
   },
   "ipad-074": {
    "x": 0,
-   "y": 19662,
+   "y": 26058,
    "text": "ramadan_2026 · All users · Adapty paywall “Ramadan_FEAST”",
    "page": "ipad",
    "kind": "title1",
@@ -1942,7 +2338,7 @@
   },
   "ipad-075": {
    "x": 0,
-   "y": 19792,
+   "y": 26188,
    "text": "On iPad today: a push opens the app's own Premium screen with the HOME_TOP_LEFT_PREMIUM plans (app screenshot). Adapty previews: not shown today.",
    "page": "ipad",
    "w": 1800,
@@ -1951,7 +2347,7 @@
   },
   "ipad-076": {
    "x": 0,
-   "y": 21612,
+   "y": 28008,
    "text": "Drafts — not live. Only a draft with an operator's Adapty preview is shown. Arm B (0 %) of “Onboarding Yearly”: no screenshot (Adapty never serves it).",
    "page": "ipad",
    "w": 1800,
@@ -1961,7 +2357,7 @@
   },
   "ipad-077": {
    "x": 0,
-   "y": 22012,
+   "y": 28408,
    "text": "Draft — not live — SPEED_PROBLEM_ALTERNATIVE_1 · arm B (0 %) of “SPEED TEST” · SPEED_PROBLEM_FREEMIUM",
    "page": "ipad",
    "kind": "title1",
@@ -1969,7 +2365,7 @@
   },
   "ipad-078": {
    "x": 0,
-   "y": 22142,
+   "y": 28538,
    "text": "Adapty preview. Nobody sees this arm (0 %). On iPad the feature list lies over the picture.",
    "page": "ipad",
    "w": 1800,
@@ -2005,7 +2401,7 @@
   },
   "vpn873-01": {
    "x": 0,
-   "y": 39425,
+   "y": 41924.515625,
    "text": "Proposal — VPN-873 — BLACK_FRIDAY · Adapty paywall “Black Friday”, redesigned at the app's quality (for Black Friday, 2026-11-27)",
    "page": "iphone",
    "kind": "title1",
@@ -2013,7 +2409,7 @@
   },
   "vpn873-02": {
    "x": 0,
-   "y": 39555,
+   "y": 42054.515625,
    "text": "What changes. The Adapty template (“Design your life…”, Terms and Privacy to google.com) is replaced by a paywall in the app's own look: the Premium screen's background, header, crown, plan card, Continue button and legal links (design system: GradientBackground, PaywallChrome, PremiumCard, RadioButton, RadialGradientButton, PremiumPopUp feature rows, PremiumMark). Built by the operator in Adapty's Paywall Builder; no app release for the default.\n\nProduct: com.monthlyTrialMembership (Monthly Trial, 1 month). It has no trial and no offer in App Store Connect, so the default sells the normal monthly price. Nothing on it is a Black Friday discount. A discounted choice is in the second row.\nPrices: never typed. [price] = the App Store price of the product, filled by Adapty in the user's currency. [offer price] = the promotional offer's price. The dashed line marks a price slot; it is not drawn in the paywall.\n\nStates (iPhone):\n• Plans loaded: the Adapty paywall. Drawn from tokens.json.\n• Loading: after the tap, the app loads placement, product and layout for up to 8 s. Today nothing shows in that time: the user sees the screen they were on. The frame shows the app's own loading box (LoadingOverlay: black 60 %, 75 × 75 box #3A3F46, radius 15, spinner #5AAD79) over the main screen. This part needs a small iOS change (see Proposals on VPN-873). Frame size 390 × 844, from the screen canvas's main screen.\n• Load failed (no product, no layout, or over 8 s): the app's own Premium screen with the HOME_TOP_LEFT_PREMIUM plans (Monthly, Yearly, Weekly). No Black Friday text. App screenshots, no change. Arabic: the same screen from the HOME_TOP_LEFT_PREMIUM row.\n\nNot shown: premium users (no paywall), a push tapped more than 15 days after it arrived (opens only the app).",
    "page": "iphone",
    "w": 1800,
@@ -2022,7 +2418,7 @@
   },
   "vpn873-03": {
    "x": 1880,
-   "y": 39555,
+   "y": 42054.515625,
    "text": "Texts — EN | AR. Each needs the board's approval on the card. “app” = the text is already in the app (Localizable.xcstrings), same EN and AR.\n• Restore | استعادة (app)\n• BLACK FRIDAY | الجمعة البيضاء (new). AR is “White Friday”: the name most Gulf stores use, because Friday is a holy day. Choice: الجمعة السوداء (“Black Friday”).\n• Experience Premium Service | تجربة الخدمة المميزة (app)\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• Monthly | شهري (app)\n• Then [price] / Month | ثم [السعر] / شهر (app)\n• [price] / Month | [السعر] / شهر (app)\n• Continue | متابعة (app)\n• Renews every month at [price] until you cancel. | يتجدد كل شهر بسعر [السعر] حتى تلغي الاشتراك. (new)\n• Privacy Policy | سياسة الخصوصية (app) → https://securefieldapp.com/policy\n• Terms of Use | شروط الاستخدام (app) → https://securefieldapp.com/terms\nChoice row only:\n• Yearly | سنوي (app)\n• Then [price] / Year | ثم [السعر] / سنة (app)\n• [offer price] / Year | [سعر العرض] / سنة (app pattern)\n• First year at [offer price], then every year at [price] until you cancel. | السنة الأولى بسعر [سعر العرض]، ثم كل سنة بسعر [السعر] حتى تلغي الاشتراك. (new)\nLegal links: SecureField's website pages (checked 2026-11-16, both open). The site has no “About Subscription” page, so the renewal line under the button says the terms instead.\nArabic today: the app asks Adapty with no language, so an Arabic device shows the English texts, left to right. The AR frames show the design for when the app sends the language (iOS change, see the questions).",
    "page": "iphone",
    "w": 1800,
@@ -2031,7 +2427,7 @@
   },
   "vpn873-04": {
    "x": 3760,
-   "y": 39555,
+   "y": 42054.515625,
    "text": "Questions for the Adapty build (operator, through Project Manager):\n1. Fonts: can Paywall Builder use the app's fonts (NAMU-1850 for the title, plan name and button; Red Hat Display for the rest)? Files: design-system/project/fonts. If not: the system font.\n2. Background: the gradient #172231 → #000000 (135°) with World-Map.png blended as “overlay”. If the builder has no blend mode, I can give one flat background image.\n3. Plan card: fill #82B3F2 at 20 %, radius 24, 1 pt border in the orange radial gradient (#FAC762 → #E59807), orange radio dot. If the builder allows only a solid border: #FAC762.\n4. Continue: green radial gradient (#35DF91 → #198F57), radius 24, 333.7 × 71.9 pt. If no radial gradient: linear 135° with the same colours.\n5. Images: crown Logos/Premium.png (180 pt), feature icons Icons/Speed.svg, World.svg, Protection.svg, Done.svg (the builder may need PNG).\n6. Arabic: does the builder mirror the layout for Arabic (close on the right, radio on the left)? And the app must send the language: does SecurefieldiOS add it before 11-24? If not, Arabic users see the English texts on 11-27.\n7. Choice row only: can a Paywall Builder paywall show and apply a promotional offer (com.yearlyMembership “Securefield_promotional_yearly_%50OFF”)? Which Adapty offer id is it (599380d9 or 268f5fc3)?\n\niPad: the app never draws an Adapty paywall. A BLACK_FRIDAY push opens the app's own Premium screen with the HOME_TOP_LEFT_PREMIUM plans (Yearly, Monthly, Weekly), no Black Friday text — as the iPad ramadan_2026 push row shows. Mac: no push and no Adapty paywall, so Mac users see nothing of the campaign.\nContrast: every text pair is 4.5:1 or more, except the white Continue label on the green button (2.37:1). That is the app's own button, kept exact; its fix is in the Design System README (Contrast).",
    "page": "iphone",
    "w": 1800,
@@ -2040,7 +2436,7 @@
   },
   "vpn873-05": {
    "x": 0,
-   "y": 41979,
+   "y": 44478.515625,
    "text": "Proposal — VPN-873 — BLACK_FRIDAY · choice for the card, not the default: Yearly with its promotional first-year price",
    "page": "iphone",
    "kind": "title1",
@@ -2048,9 +2444,613 @@
   },
   "vpn873-06": {
    "x": 0,
-   "y": 42109,
+   "y": 44608.515625,
    "text": "A choice for the board, not the default. Black Friday buyers expect a lower price; the default product (Monthly Trial) has none. This row sells com.yearlyMembership with its existing promotional offer “Securefield_promotional_yearly_%50OFF” (pay up front for the first year; App Store Connect, VPN-731). Same layout and texts; only the card and the renewal line change. Products, prices and offers stay the board's decision. Loading and load failed: as in the row above.",
    "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-row-iphone-008": {
+   "x": 0,
+   "y": 7444.515625,
+   "text": "SETTINGS_PREMIUM_FLOW · All users · Adapty Flow “SecureField — Home Premium”",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "v727-row-iphone-015": {
+   "x": 0,
+   "y": 14180.515625,
+   "text": "PROFILE_PREMIUM · All users · app (Premium screen)",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "v727-row-iphone-043": {
+   "x": 0,
+   "y": 36695.515625,
+   "text": "Unknown placement id · push",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "v727-row-ipad-058": {
+   "x": 0,
+   "y": 10036,
+   "text": "WATCH_ADS · All users · app (Advertisement)",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 1800
+  },
+  "v727-iphone-HOME_PREMIUM_FLOW-t": {
+   "x": 4176,
+   "y": 4152,
+   "text": "Proposal — VPN-727 · SecureField — Home Premium — redesign in the app's look, as an Adapty flow",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4644
+  },
+  "v727-iphone-HOME_PREMIUM_FLOW-n1": {
+   "x": 5220,
+   "y": 4282,
+   "text": "What changes. Today's flow has its own look (comparison table, Tabler icons, flat fills) and is not the app. The proposal uses the Premium screen's parts and keeps the flow's message: the three Free-vs-Premium points become the three gold feature rows. Yearly shows its price per month, Weekly its trial.\nItem: SecureField — Home Premium · Flow (exists, live). Built as the Adapty flow “SecureField — Home Premium (new draft copy; the live flow stays until the board approves)”.\nPlacements and audience: HOME_PREMIUM_FLOW and SETTINGS_PREMIUM_FLOW (flow placements, unchanged) · All users\nProducts and offers (unchanged): com.yearlyMembership (Yearly, default, selected), com.monthlyMembership (Monthly), com.weeklyMembership (Weekly: introductory 3-day free trial for new subscribers). No Adapty offer.\nDrawn state: Plans loaded · Yearly selected (default) · a free user who never subscribed (Weekly shows its introductory 3-day free trial).\nModel: the app's Premium screen (HOME_TOP_LEFT_PREMIUM). Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\nArabic: until VPN-903 ships, an Arabic iPhone shows the English texts. Contrast: every text pair is 4.5:1 or more except two parts of the app kept exact and marked: the white Continue label on the green (2.59:1 at the label centre) and the white tag text on the blue tag (2.55:1 at the light end). The card asks the board once, for all SecureField paywalls.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-HOME_PREMIUM_FLOW-n2": {
+   "x": 7100,
+   "y": 4282,
+   "text": "Texts — EN | AR (SecureField — Home Premium). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• Full protection, no interruptions | حماية كاملة بلا انقطاع (new · in Adapty today)\n• Free protects you in bursts. Premium keeps it on — everywhere, ad-free. | الاشتراك المجاني يحميك على فترات. مع Premium تستمر الحماية في كل مكان وبلا إعلانات. (new · in Adapty today)\n• Every server location | كل مواقع الخوادم (new · in Adapty today)\n• No session time limit | بلا حد زمني للجلسة (new · in Adapty today)\n• No ads to connect | بلا إعلانات قبل الاتصال (new · in Adapty today)\n• Yearly | سنوي (app)\n• Only [monthly price] / month | فقط [السعر الشهري] / شهر (app)\n• [price] / Year | [السعر] / سنة (app)\n• Best offer | أفضل عرض (app)\n• Monthly | شهري (app)\n• Cancel anytime | يمكنك الإلغاء في أي وقت (new · in Adapty today (Home flow))\n• [price] / Month | [السعر] / شهر (app)\n• Weekly | أسبوعي (app)\n• Then [price] / Week | ثم [السعر] / أسبوع (app)\n• 3-day free trial | تجربة مجانية لمدة 3 أيام (app pattern (PREMIUM.SECONDARY_PRICE_TRIAL))\n• Continue | متابعة (app)\n• Renews every year at [price] until you cancel. | يتجدد كل سنة بسعر [السعر] حتى تلغي الاشتراك. (new (VPN-873 pattern))\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): Monthly selected; Weekly selected, user can get the trial; Weekly selected, user had a subscription before (no trial)",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-HOME_PREMIUM_FLOW-t": {
+   "x": 2248,
+   "y": 822,
+   "text": "Proposal — VPN-727 · SecureField — Home Premium — redesign in the app's look, as an Adapty flow",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 5508
+  },
+  "v727-ipad-HOME_PREMIUM_FLOW-n1": {
+   "x": 4156,
+   "y": 952,
+   "text": "What changes. Today's flow has its own look (comparison table, Tabler icons, flat fills) and is not the app. The proposal uses the Premium screen's parts and keeps the flow's message: the three Free-vs-Premium points become the three gold feature rows. Yearly shows its price per month, Weekly its trial.\nItem: SecureField — Home Premium · Flow (exists, live). Built as the Adapty flow “SecureField — Home Premium (new draft copy; the live flow stays until the board approves)”.\nPlacements and audience: HOME_PREMIUM_FLOW and SETTINGS_PREMIUM_FLOW (flow placements, unchanged) · All users\nProducts and offers (unchanged): com.yearlyMembership (Yearly, default, selected), com.monthlyMembership (Monthly), com.weeklyMembership (Weekly: introductory 3-day free trial for new subscribers). No Adapty offer.\nDrawn state: Plans loaded · Yearly selected (default) · a free user who never subscribed (Weekly shows its introductory 3-day free trial).\nModel: the app's Premium screen (HOME_TOP_LEFT_PREMIUM). Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\niPad: Adapty draws nothing on iPad today; iPad users see the app's own Premium screen. These frames show the same flow for the day VPN-903 turns Adapty screens on for iPad (type × 1.3, cards 505 pt, button 460 pt; plans and button show with no scroll).",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-HOME_PREMIUM_FLOW-n2": {
+   "x": 6036,
+   "y": 952,
+   "text": "Texts — EN | AR (SecureField — Home Premium). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• Full protection, no interruptions | حماية كاملة بلا انقطاع (new · in Adapty today)\n• Free protects you in bursts. Premium keeps it on — everywhere, ad-free. | الاشتراك المجاني يحميك على فترات. مع Premium تستمر الحماية في كل مكان وبلا إعلانات. (new · in Adapty today)\n• Every server location | كل مواقع الخوادم (new · in Adapty today)\n• No session time limit | بلا حد زمني للجلسة (new · in Adapty today)\n• No ads to connect | بلا إعلانات قبل الاتصال (new · in Adapty today)\n• Yearly | سنوي (app)\n• Only [monthly price] / month | فقط [السعر الشهري] / شهر (app)\n• [price] / Year | [السعر] / سنة (app)\n• Best offer | أفضل عرض (app)\n• Monthly | شهري (app)\n• Cancel anytime | يمكنك الإلغاء في أي وقت (new · in Adapty today (Home flow))\n• [price] / Month | [السعر] / شهر (app)\n• Weekly | أسبوعي (app)\n• Then [price] / Week | ثم [السعر] / أسبوع (app)\n• 3-day free trial | تجربة مجانية لمدة 3 أيام (app pattern (PREMIUM.SECONDARY_PRICE_TRIAL))\n• Continue | متابعة (app)\n• Renews every year at [price] until you cancel. | يتجدد كل سنة بسعر [السعر] حتى تلغي الاشتراك. (new (VPN-873 pattern))\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): Monthly selected; Weekly selected, user can get the trial; Weekly selected, user had a subscription before (no trial)",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-SERVER_PREMIUM_FLOW-t": {
+   "x": 4176,
+   "y": 6007.734375,
+   "text": "Proposal — VPN-727 · SecureField — Server Premium — redesign in the app's look, as an Adapty flow",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4644
+  },
+  "v727-iphone-SERVER_PREMIUM_FLOW-n1": {
+   "x": 5220,
+   "y": 6137.734375,
+   "text": "What changes. Same parts as Home Premium, with the pop-up's smaller crown, the H6 title and the app's three feature lines. The flow's own title and line keep the server context.\nItem: SecureField — Server Premium · Flow (exists, live). Built as the Adapty flow “SecureField — Server Premium (new draft copy; the live flow stays until the board approves)”.\nPlacements and audience: SERVER_PREMIUM_FLOW (flow placement, unchanged) · All users\nProducts and offers (unchanged): com.yearlyMembership (Yearly, default, selected), com.monthlyMembership, com.weeklyMembership (introductory 3-day free trial). No Adapty offer.\nDrawn state: Plans loaded · Yearly selected (default) · free user who never subscribed.\nModel: the app's Premium pop-up (SERVER_PREMIUM). Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\nArabic: until VPN-903 ships, an Arabic iPhone shows the English texts. Contrast: every text pair is 4.5:1 or more except two parts of the app kept exact and marked: the white Continue label on the green (2.59:1 at the label centre) and the white tag text on the blue tag (2.55:1 at the light end). The card asks the board once, for all SecureField paywalls.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-SERVER_PREMIUM_FLOW-n2": {
+   "x": 7100,
+   "y": 6137.734375,
+   "text": "Texts — EN | AR (SecureField — Server Premium). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• That location is Premium | هذا الموقع لمشتركي Premium (new · in Adapty today)\n• Premium opens every location in the list — including the one you just tapped. | يفتح Premium كل المواقع في القائمة، بما فيها الموقع الذي ضغطت عليه للتو. (new · in Adapty today)\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• Yearly | سنوي (app)\n• Only [monthly price] / month | فقط [السعر الشهري] / شهر (app)\n• [price] / Year | [السعر] / سنة (app)\n• Best offer | أفضل عرض (app)\n• Monthly | شهري (app)\n• Cancel anytime | يمكنك الإلغاء في أي وقت (new · in Adapty today (Home flow))\n• [price] / Month | [السعر] / شهر (app)\n• Weekly | أسبوعي (app)\n• Then [price] / Week | ثم [السعر] / أسبوع (app)\n• 3-day free trial | تجربة مجانية لمدة 3 أيام (app pattern (PREMIUM.SECONDARY_PRICE_TRIAL))\n• Continue | متابعة (app)\n• Renews every year at [price] until you cancel. | يتجدد كل سنة بسعر [السعر] حتى تلغي الاشتراك. (new (VPN-873 pattern))\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): Monthly / Weekly selected",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-SERVER_PREMIUM_FLOW-t": {
+   "x": 2248,
+   "y": 2464,
+   "text": "Proposal — VPN-727 · SecureField — Server Premium — redesign in the app's look, as an Adapty flow",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 5508
+  },
+  "v727-ipad-SERVER_PREMIUM_FLOW-n1": {
+   "x": 4156,
+   "y": 2594,
+   "text": "What changes. Same parts as Home Premium, with the pop-up's smaller crown, the H6 title and the app's three feature lines. The flow's own title and line keep the server context.\nItem: SecureField — Server Premium · Flow (exists, live). Built as the Adapty flow “SecureField — Server Premium (new draft copy; the live flow stays until the board approves)”.\nPlacements and audience: SERVER_PREMIUM_FLOW (flow placement, unchanged) · All users\nProducts and offers (unchanged): com.yearlyMembership (Yearly, default, selected), com.monthlyMembership, com.weeklyMembership (introductory 3-day free trial). No Adapty offer.\nDrawn state: Plans loaded · Yearly selected (default) · free user who never subscribed.\nModel: the app's Premium pop-up (SERVER_PREMIUM). Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\niPad: Adapty draws nothing on iPad today; iPad users see the app's own Premium screen. These frames show the same flow for the day VPN-903 turns Adapty screens on for iPad (type × 1.3, cards 505 pt, button 460 pt; plans and button show with no scroll).",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-SERVER_PREMIUM_FLOW-n2": {
+   "x": 6036,
+   "y": 2594,
+   "text": "Texts — EN | AR (SecureField — Server Premium). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• That location is Premium | هذا الموقع لمشتركي Premium (new · in Adapty today)\n• Premium opens every location in the list — including the one you just tapped. | يفتح Premium كل المواقع في القائمة، بما فيها الموقع الذي ضغطت عليه للتو. (new · in Adapty today)\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• Yearly | سنوي (app)\n• Only [monthly price] / month | فقط [السعر الشهري] / شهر (app)\n• [price] / Year | [السعر] / سنة (app)\n• Best offer | أفضل عرض (app)\n• Monthly | شهري (app)\n• Cancel anytime | يمكنك الإلغاء في أي وقت (new · in Adapty today (Home flow))\n• [price] / Month | [السعر] / شهر (app)\n• Weekly | أسبوعي (app)\n• Then [price] / Week | ثم [السعر] / أسبوع (app)\n• 3-day free trial | تجربة مجانية لمدة 3 أيام (app pattern (PREMIUM.SECONDARY_PRICE_TRIAL))\n• Continue | متابعة (app)\n• Renews every year at [price] until you cancel. | يتجدد كل سنة بسعر [السعر] حتى تلغي الاشتراك. (new (VPN-873 pattern))\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): Monthly / Weekly selected",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-YEARLY_50_OFF-flow-t": {
+   "x": 2248,
+   "y": 20084.515625,
+   "text": "Proposal — VPN-727 · FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50 (flow) — redesign in the app's look, as an Adapty flow",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4644
+  },
+  "v727-iphone-YEARLY_50_OFF-flow-n1": {
+   "x": 3292,
+   "y": 20214.515625,
+   "text": "What changes. Today the flow does not draw (products not found) and the Adapty paywall is a stock layout. The proposal sells the same product in the app's look and says exactly what the user gets: 3 days free, then the yearly price.\nItem: FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50 (flow) · Flow (exists, not drawing today). Built as the Adapty flow “FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50 (flow) — new draft copy”.\nPlacements and audience: YEARLY_50_OFF-flow (push, flow placement, unchanged) · All users. One design for the campaign: the paywall placement YEARLY_50_OFF is not redrawn (see Proposals).\nProducts and offers (unchanged): com.yearlyIntroductoryPromotionalOfferYearly (Yearly With Introductory and Promotional), Adapty offer 23da726b (promotional, pay up front for the first year). Introductory: 3-day free trial.\nDrawn state: Free trial · a free user who never subscribed: the promotional offer reaches only users who have or had a subscription, so most users of this push get the 3-day introductory trial.\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\nArabic: until VPN-903 ships, an Arabic iPhone shows the English texts. Contrast: every text pair is 4.5:1 or more except two parts of the app kept exact and marked: the white Continue label on the green (2.59:1 at the label centre) and the white tag text on the blue tag (2.55:1 at the light end). The card asks the board once, for all SecureField paywalls.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-YEARLY_50_OFF-flow-n2": {
+   "x": 5172,
+   "y": 20214.515625,
+   "text": "Texts — EN | AR (FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50 (flow)). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• EXCLUSIVE OFFER | عرض حصري (new)\n• Exclusive deal just for you | عرض حصري لك فقط (new · in Adapty today (without the 🔥 emoji))\n• Try blazing-fast speeds and ultimate security free. Then keep full Premium access on the yearly plan. | جرّب سرعات فائقة وأمانًا مطلقًا مجانًا. ثم استمر في الوصول الكامل إلى Premium في الباقة السنوية. (new · in Adapty today (trial text))\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• Yearly | سنوي (app)\n• Then [price] / Year | ثم [السعر] / سنة (app)\n• 3-day free trial | تجربة مجانية لمدة 3 أيام (app pattern (PREMIUM.SECONDARY_PRICE_TRIAL))\n• Best offer | أفضل عرض (app)\n• Start 3-day free trial | ابدأ تجربة مجانية لمدة 3 أيام (app pattern (paywall.ctaTrialFmt))\n• Free for 3 days, then [price] every year until you cancel. | مجانًا لمدة 3 أيام، ثم [السعر] كل سنة حتى تلغي الاشتراك. (new)\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): Promotional offer (user has or had a subscription); No offer",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-YEARLY_50_OFF-flow-t": {
+   "x": 2248,
+   "y": 24416,
+   "text": "Proposal — VPN-727 · FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50 (flow) — redesign in the app's look, as an Adapty flow",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 5508
+  },
+  "v727-ipad-YEARLY_50_OFF-flow-n1": {
+   "x": 4156,
+   "y": 24546,
+   "text": "What changes. Today the flow does not draw (products not found) and the Adapty paywall is a stock layout. The proposal sells the same product in the app's look and says exactly what the user gets: 3 days free, then the yearly price.\nItem: FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50 (flow) · Flow (exists, not drawing today). Built as the Adapty flow “FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50 (flow) — new draft copy”.\nPlacements and audience: YEARLY_50_OFF-flow (push, flow placement, unchanged) · All users. One design for the campaign: the paywall placement YEARLY_50_OFF is not redrawn (see Proposals).\nProducts and offers (unchanged): com.yearlyIntroductoryPromotionalOfferYearly (Yearly With Introductory and Promotional), Adapty offer 23da726b (promotional, pay up front for the first year). Introductory: 3-day free trial.\nDrawn state: Free trial · a free user who never subscribed: the promotional offer reaches only users who have or had a subscription, so most users of this push get the 3-day introductory trial.\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\niPad: Adapty draws nothing on iPad today; iPad users see the app's own Premium screen. These frames show the same flow for the day VPN-903 turns Adapty screens on for iPad (type × 1.3, cards 505 pt, button 460 pt; plans and button show with no scroll).",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-YEARLY_50_OFF-flow-n2": {
+   "x": 6036,
+   "y": 24546,
+   "text": "Texts — EN | AR (FOR_PROMOTIONAL_FREE_USERS_YEARLY_%50 (flow)). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• EXCLUSIVE OFFER | عرض حصري (new)\n• Exclusive deal just for you | عرض حصري لك فقط (new · in Adapty today (without the 🔥 emoji))\n• Try blazing-fast speeds and ultimate security free. Then keep full Premium access on the yearly plan. | جرّب سرعات فائقة وأمانًا مطلقًا مجانًا. ثم استمر في الوصول الكامل إلى Premium في الباقة السنوية. (new · in Adapty today (trial text))\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• Yearly | سنوي (app)\n• Then [price] / Year | ثم [السعر] / سنة (app)\n• 3-day free trial | تجربة مجانية لمدة 3 أيام (app pattern (PREMIUM.SECONDARY_PRICE_TRIAL))\n• Best offer | أفضل عرض (app)\n• Start 3-day free trial | ابدأ تجربة مجانية لمدة 3 أيام (app pattern (paywall.ctaTrialFmt))\n• Free for 3 days, then [price] every year until you cancel. | مجانًا لمدة 3 أيام، ثم [السعر] كل سنة حتى تلغي الاشتراك. (new)\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): Promotional offer (user has or had a subscription); No offer",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-DAILY_USING_USERS_FREE-t": {
+   "x": 2248,
+   "y": 23426.515625,
+   "text": "Proposal — VPN-727 · Least_using_Users_FREE_introductory — redesign in the app's look, as an Adapty flow",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4644
+  },
+  "v727-iphone-DAILY_USING_USERS_FREE-n1": {
+   "x": 3292,
+   "y": 23556.515625,
+   "text": "What changes. Today's layout is a stock Adapty template with a 🔥 headline and the texts \"just sale for a month\". The proposal names both introductory prices on two cards, in the app's look.\nItem: Least_using_Users_FREE_introductory · Paywall Builder → new flow. Built as the Adapty flow “Least_using_Users_FREE_introductory (flow)”.\nPlacements and audience: new flow placements DAILY_USING_USERS_FREE-flow and NOT_USING_USERS_FREE-flow (push) · All users. Today's paywall placements DAILY_USING_USERS_FREE and NOT_USING_USERS_FREE stay until the board moves the pushes.\nProducts and offers (unchanged): com.yearlyIntroductoryMembership (introductory: pay up front, first month) — default, selected; com.yearlyBestintroductoryoffer (introductory: pay up front, first year). No Adapty offer.\nDrawn state: Introductory prices · a free user who never subscribed (both cards show their first-period price) · First month selected (default).\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\nArabic: until VPN-903 ships, an Arabic iPhone shows the English texts. Contrast: every text pair is 4.5:1 or more except two parts of the app kept exact and marked: the white Continue label on the green (2.59:1 at the label centre) and the white tag text on the blue tag (2.55:1 at the light end). The card asks the board once, for all SecureField paywalls.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-DAILY_USING_USERS_FREE-n2": {
+   "x": 5172,
+   "y": 23556.515625,
+   "text": "Texts — EN | AR (Least_using_Users_FREE_introductory). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• SPECIAL OFFER | عرض خاص (new)\n• Exclusive deal just for you | عرض حصري لك فقط (new · in Adapty today (without the 🔥 emoji))\n• A special price for your first month or your first year. Then full Premium on the yearly plan. | سعر خاص لشهرك الأول أو لسنتك الأولى. ثم Premium كاملًا في الخطة السنوية. (new)\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• First month | الشهر الأول (new)\n• Then [price] / Year | ثم [السعر] / سنة (app)\n• First year | السنة الأولى (new)\n• Best offer | أفضل عرض (app)\n• Continue | متابعة (app)\n• First month at [offer price], then every year at [price] until you cancel. | الشهر الأول بسعر [سعر العرض]، ثم كل سنة بسعر [السعر] حتى تلغي الاشتراك. (new)\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): First year selected; No introductory price (user had a subscription in the group)",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-DAILY_USING_USERS_FREE-t": {
+   "x": 2248,
+   "y": 12512,
+   "text": "Proposal — VPN-727 · Least_using_Users_FREE_introductory — redesign in the app's look, as an Adapty flow",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 5508
+  },
+  "v727-ipad-DAILY_USING_USERS_FREE-n1": {
+   "x": 4156,
+   "y": 12642,
+   "text": "What changes. Today's layout is a stock Adapty template with a 🔥 headline and the texts \"just sale for a month\". The proposal names both introductory prices on two cards, in the app's look.\nItem: Least_using_Users_FREE_introductory · Paywall Builder → new flow. Built as the Adapty flow “Least_using_Users_FREE_introductory (flow)”.\nPlacements and audience: new flow placements DAILY_USING_USERS_FREE-flow and NOT_USING_USERS_FREE-flow (push) · All users. Today's paywall placements DAILY_USING_USERS_FREE and NOT_USING_USERS_FREE stay until the board moves the pushes.\nProducts and offers (unchanged): com.yearlyIntroductoryMembership (introductory: pay up front, first month) — default, selected; com.yearlyBestintroductoryoffer (introductory: pay up front, first year). No Adapty offer.\nDrawn state: Introductory prices · a free user who never subscribed (both cards show their first-period price) · First month selected (default).\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\niPad: Adapty draws nothing on iPad today; iPad users see the app's own Premium screen. These frames show the same flow for the day VPN-903 turns Adapty screens on for iPad (type × 1.3, cards 505 pt, button 460 pt; plans and button show with no scroll).",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-DAILY_USING_USERS_FREE-n2": {
+   "x": 6036,
+   "y": 12642,
+   "text": "Texts — EN | AR (Least_using_Users_FREE_introductory). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• SPECIAL OFFER | عرض خاص (new)\n• Exclusive deal just for you | عرض حصري لك فقط (new · in Adapty today (without the 🔥 emoji))\n• A special price for your first month or your first year. Then full Premium on the yearly plan. | سعر خاص لشهرك الأول أو لسنتك الأولى. ثم Premium كاملًا في الخطة السنوية. (new)\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• First month | الشهر الأول (new)\n• Then [price] / Year | ثم [السعر] / سنة (app)\n• First year | السنة الأولى (new)\n• Best offer | أفضل عرض (app)\n• Continue | متابعة (app)\n• First month at [offer price], then every year at [price] until you cancel. | الشهر الأول بسعر [سعر العرض]، ثم كل سنة بسعر [السعر] حتى تلغي الاشتراك. (new)\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): First year selected; No introductory price (user had a subscription in the group)",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-NEVER_USED_YEARLY_OFFER-t": {
+   "x": 2248,
+   "y": 25114.515625,
+   "text": "Proposal — VPN-727 · BEST_OFFER_FOR_YEARLY_NEVER_USED — redesign in the app's look, as an Adapty flow",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4644
+  },
+  "v727-iphone-NEVER_USED_YEARLY_OFFER-n1": {
+   "x": 3292,
+   "y": 25244.515625,
+   "text": "What changes. The countdown timer (\"Offer ends in 00:15:59\") is left out: the offer does not end when it reaches zero. The rest keeps the message: our lowest price for the first year.\nItem: BEST_OFFER_FOR_YEARLY_NEVER_USED · Paywall Builder → new flow. Built as the Adapty flow “BEST_OFFER_FOR_YEARLY_NEVER_USED (flow)”.\nPlacements and audience: new flow placement NEVER_USED_YEARLY_OFFER-flow (push) · All users\nProducts and offers (unchanged): com.yearlyBestintroductoryoffer (Yearly Best Introductory Offer; introductory: pay up front, first year). No Adapty offer.\nDrawn state: Introductory price · a user who never subscribed.\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\nArabic: until VPN-903 ships, an Arabic iPhone shows the English texts. Contrast: every text pair is 4.5:1 or more except two parts of the app kept exact and marked: the white Continue label on the green (2.59:1 at the label centre) and the white tag text on the blue tag (2.55:1 at the light end). The card asks the board once, for all SecureField paywalls.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-NEVER_USED_YEARLY_OFFER-n2": {
+   "x": 5172,
+   "y": 25244.515625,
+   "text": "Texts — EN | AR (BEST_OFFER_FOR_YEARLY_NEVER_USED). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• OUR BEST OFFER | أفضل عروضنا (new)\n• Faster, safer internet | إنترنت أسرع وأكثر أمانًا (new)\n• Our lowest price for SecureField Premium, for your first year. | أقل سعر لدينا لـ SecureField Premium في سنتك الأولى. (new)\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• First year | السنة الأولى (new)\n• Then [price] / Year | ثم [السعر] / سنة (app)\n• Best offer | أفضل عرض (app)\n• Continue | متابعة (app)\n• First year at [offer price], then every year at [price] until you cancel. | السنة الأولى بسعر [سعر العرض]، ثم كل سنة بسعر [السعر] حتى تلغي الاشتراك. (new (VPN-873))\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): No introductory price (user had a subscription in the group)",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-NEVER_USED_YEARLY_OFFER-t": {
+   "x": 2248,
+   "y": 14496,
+   "text": "Proposal — VPN-727 · BEST_OFFER_FOR_YEARLY_NEVER_USED — redesign in the app's look, as an Adapty flow",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 5508
+  },
+  "v727-ipad-NEVER_USED_YEARLY_OFFER-n1": {
+   "x": 4156,
+   "y": 14626,
+   "text": "What changes. The countdown timer (\"Offer ends in 00:15:59\") is left out: the offer does not end when it reaches zero. The rest keeps the message: our lowest price for the first year.\nItem: BEST_OFFER_FOR_YEARLY_NEVER_USED · Paywall Builder → new flow. Built as the Adapty flow “BEST_OFFER_FOR_YEARLY_NEVER_USED (flow)”.\nPlacements and audience: new flow placement NEVER_USED_YEARLY_OFFER-flow (push) · All users\nProducts and offers (unchanged): com.yearlyBestintroductoryoffer (Yearly Best Introductory Offer; introductory: pay up front, first year). No Adapty offer.\nDrawn state: Introductory price · a user who never subscribed.\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\niPad: Adapty draws nothing on iPad today; iPad users see the app's own Premium screen. These frames show the same flow for the day VPN-903 turns Adapty screens on for iPad (type × 1.3, cards 505 pt, button 460 pt; plans and button show with no scroll).",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-NEVER_USED_YEARLY_OFFER-n2": {
+   "x": 6036,
+   "y": 14626,
+   "text": "Texts — EN | AR (BEST_OFFER_FOR_YEARLY_NEVER_USED). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• OUR BEST OFFER | أفضل عروضنا (new)\n• Faster, safer internet | إنترنت أسرع وأكثر أمانًا (new)\n• Our lowest price for SecureField Premium, for your first year. | أقل سعر لدينا لـ SecureField Premium في سنتك الأولى. (new)\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• First year | السنة الأولى (new)\n• Then [price] / Year | ثم [السعر] / سنة (app)\n• Best offer | أفضل عرض (app)\n• Continue | متابعة (app)\n• First year at [offer price], then every year at [price] until you cancel. | السنة الأولى بسعر [سعر العرض]، ثم كل سنة بسعر [السعر] حتى تلغي الاشتراك. (new (VPN-873))\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): No introductory price (user had a subscription in the group)",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-WIN_BACK_YEARLY_OFFER-t": {
+   "x": 2248,
+   "y": 32324.515625,
+   "text": "Proposal — VPN-727 · ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL — redesign in the app's look, as an Adapty flow",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4644
+  },
+  "v727-iphone-WIN_BACK_YEARLY_OFFER-n1": {
+   "x": 3292,
+   "y": 32454.515625,
+   "text": "What changes. Today's layout shows four feature titles on a stock layout and \"$59.99 / 7 days\" sample values. The proposal keeps the welcome-back message and three of the four points, in the app's look.\nItem: ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL · Paywall Builder → new flow. Built as the Adapty flow “WIN_BACK_YEARLY_OFFER (flow)”.\nPlacements and audience: new flow placement WIN_BACK_YEARLY_OFFER-flow (push) · All users\nProducts and offers (unchanged): com.yearlyMembership (Yearly), Adapty offer 599380d9 ⚠ (either the promotional first-year price or the 3-month free win-back offer; the export does not say which).\nDrawn state: Offer price for the first year · a former subscriber (eligible for a promotional or win-back offer).\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\nArabic: until VPN-903 ships, an Arabic iPhone shows the English texts. Contrast: every text pair is 4.5:1 or more except two parts of the app kept exact and marked: the white Continue label on the green (2.59:1 at the label centre) and the white tag text on the blue tag (2.55:1 at the light end). The card asks the board once, for all SecureField paywalls.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-WIN_BACK_YEARLY_OFFER-n2": {
+   "x": 5172,
+   "y": 32454.515625,
+   "text": "Texts — EN | AR (ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• WELCOME BACK | مرحبًا بعودتك (new)\n• Secure your connection. Access the world. | أمّن اتصالك. وتصفّح العالم. (new · in Adapty today (AR edited))\n• Private & secure browsing | تصفح خاص وآمن (new · in Adapty today)\n• Access global content | الوصول إلى المحتوى العالمي (new · in Adapty today)\n• Fast & stable connections | اتصالات سريعة ومستقرة (new · in Adapty today)\n• First year | السنة الأولى (new)\n• Then [price] / Year | ثم [السعر] / سنة (app)\n• Best offer | أفضل عرض (app)\n• Continue | متابعة (app)\n• First year at [offer price], then every year at [price] until you cancel. | السنة الأولى بسعر [سعر العرض]، ثم كل سنة بسعر [السعر] حتى تلغي الاشتراك. (new (VPN-873))\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): If 599380d9 is the 3-month free win-back offer; No offer",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-WIN_BACK_YEARLY_OFFER-t": {
+   "x": 2248,
+   "y": 22432,
+   "text": "Proposal — VPN-727 · ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL — redesign in the app's look, as an Adapty flow",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 5508
+  },
+  "v727-ipad-WIN_BACK_YEARLY_OFFER-n1": {
+   "x": 4156,
+   "y": 22562,
+   "text": "What changes. Today's layout shows four feature titles on a stock layout and \"$59.99 / 7 days\" sample values. The proposal keeps the welcome-back message and three of the four points, in the app's look.\nItem: ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL · Paywall Builder → new flow. Built as the Adapty flow “WIN_BACK_YEARLY_OFFER (flow)”.\nPlacements and audience: new flow placement WIN_BACK_YEARLY_OFFER-flow (push) · All users\nProducts and offers (unchanged): com.yearlyMembership (Yearly), Adapty offer 599380d9 ⚠ (either the promotional first-year price or the 3-month free win-back offer; the export does not say which).\nDrawn state: Offer price for the first year · a former subscriber (eligible for a promotional or win-back offer).\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\niPad: Adapty draws nothing on iPad today; iPad users see the app's own Premium screen. These frames show the same flow for the day VPN-903 turns Adapty screens on for iPad (type × 1.3, cards 505 pt, button 460 pt; plans and button show with no scroll).",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-WIN_BACK_YEARLY_OFFER-n2": {
+   "x": 6036,
+   "y": 22562,
+   "text": "Texts — EN | AR (ALTERNATIVE_ WIN_BACK_OFFER_YEARLY_PROMOTIONAL). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• WELCOME BACK | مرحبًا بعودتك (new)\n• Secure your connection. Access the world. | أمّن اتصالك. وتصفّح العالم. (new · in Adapty today (AR edited))\n• Private & secure browsing | تصفح خاص وآمن (new · in Adapty today)\n• Access global content | الوصول إلى المحتوى العالمي (new · in Adapty today)\n• Fast & stable connections | اتصالات سريعة ومستقرة (new · in Adapty today)\n• First year | السنة الأولى (new)\n• Then [price] / Year | ثم [السعر] / سنة (app)\n• Best offer | أفضل عرض (app)\n• Continue | متابعة (app)\n• First year at [offer price], then every year at [price] until you cancel. | السنة الأولى بسعر [سعر العرض]، ثم كل سنة بسعر [السعر] حتى تلغي الاشتراك. (new (VPN-873))\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): If 599380d9 is the 3-month free win-back offer; No offer",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-t": {
+   "x": 2248,
+   "y": 28948.515625,
+   "text": "Proposal — VPN-727 · ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE — redesign in the app's look, as an Adapty flow",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4644
+  },
+  "v727-iphone-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-n1": {
+   "x": 3292,
+   "y": 29078.515625,
+   "text": "What changes. The store offer is one month, not 30 days, so the texts say \"1 month\". The hero picture with English-only \"30 DAYS FREE\" badges is replaced by the crown and the mark.\nItem: ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE · Paywall Builder → new flow. Built as the Adapty flow “PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY (flow)”.\nPlacements and audience: new flow placement PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-flow (push) · All users\nProducts and offers (unchanged): com.monthlyMembership (Monthly), Adapty offer 8eff407d = App Store promotional offer \"Premium 30 Trial - Monthly\" (1 month free).\nDrawn state: Promotional free month · a user who cancelled a subscription (eligible).\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\nArabic: until VPN-903 ships, an Arabic iPhone shows the English texts. Contrast: every text pair is 4.5:1 or more except two parts of the app kept exact and marked: the white Continue label on the green (2.59:1 at the label centre) and the white tag text on the blue tag (2.55:1 at the light end). The card asks the board once, for all SecureField paywalls.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-n2": {
+   "x": 5172,
+   "y": 29078.515625,
+   "text": "Texts — EN | AR (ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• 1 MONTH FREE | شهر مجاني (new)\n• Enjoy 1 month of Premium, free | استمتع بشهر من Premium مجانًا (new (today: \"30 Days of Free VPN Access\"))\n• Unlimited VPN access. Private, fast and secure. | وصول غير محدود إلى VPN. خاص وسريع وآمن. (new · in Adapty today (AR edited))\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• Monthly | شهري (app)\n• Then [price] / Month | ثم [السعر] / شهر (app)\n• 1-month free trial | تجربة مجانية لمدة شهر (app pattern (PREMIUM.SECONDARY_PRICE_TRIAL))\n• Best offer | أفضل عرض (app)\n• Start 1-month free trial | ابدأ تجربة مجانية لمدة شهر (app pattern (paywall.ctaTrialFmt))\n• No charge today. Free for 1 month, then [price] every month until you cancel. | لا رسوم اليوم. مجانًا لمدة شهر، ثم [السعر] كل شهر حتى تلغي الاشتراك. (new)\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): No offer (user never subscribed)",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-t": {
+   "x": 2248,
+   "y": 18464,
+   "text": "Proposal — VPN-727 · ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE — redesign in the app's look, as an Adapty flow",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 5508
+  },
+  "v727-ipad-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-n1": {
+   "x": 4156,
+   "y": 18594,
+   "text": "What changes. The store offer is one month, not 30 days, so the texts say \"1 month\". The hero picture with English-only \"30 DAYS FREE\" badges is replaced by the crown and the mark.\nItem: ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE · Paywall Builder → new flow. Built as the Adapty flow “PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY (flow)”.\nPlacements and audience: new flow placement PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-flow (push) · All users\nProducts and offers (unchanged): com.monthlyMembership (Monthly), Adapty offer 8eff407d = App Store promotional offer \"Premium 30 Trial - Monthly\" (1 month free).\nDrawn state: Promotional free month · a user who cancelled a subscription (eligible).\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\niPad: Adapty draws nothing on iPad today; iPad users see the app's own Premium screen. These frames show the same flow for the day VPN-903 turns Adapty screens on for iPad (type × 1.3, cards 505 pt, button 460 pt; plans and button show with no scroll).",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-PROMOTIONAL_CANCEL_FIRST_SUBSCRIPTION_MONTHLY-n2": {
+   "x": 6036,
+   "y": 18594,
+   "text": "Texts — EN | AR (ALTERNATIVE_2_PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• 1 MONTH FREE | شهر مجاني (new)\n• Enjoy 1 month of Premium, free | استمتع بشهر من Premium مجانًا (new (today: \"30 Days of Free VPN Access\"))\n• Unlimited VPN access. Private, fast and secure. | وصول غير محدود إلى VPN. خاص وسريع وآمن. (new · in Adapty today (AR edited))\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• Monthly | شهري (app)\n• Then [price] / Month | ثم [السعر] / شهر (app)\n• 1-month free trial | تجربة مجانية لمدة شهر (app pattern (PREMIUM.SECONDARY_PRICE_TRIAL))\n• Best offer | أفضل عرض (app)\n• Start 1-month free trial | ابدأ تجربة مجانية لمدة شهر (app pattern (paywall.ctaTrialFmt))\n• No charge today. Free for 1 month, then [price] every month until you cancel. | لا رسوم اليوم. مجانًا لمدة شهر، ثم [السعر] كل شهر حتى تلغي الاشتراك. (new)\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): No offer (user never subscribed)",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-SPEED_PROBLEM_FREEMIUM-t": {
+   "x": 2248,
+   "y": 30636.515625,
+   "text": "Proposal — VPN-727 · SPEED_TEST_PROBLEM_PROMOTIONAL (arm A, 100 %) — redesign in the app's look, as an Adapty flow",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4644
+  },
+  "v727-iphone-SPEED_PROBLEM_FREEMIUM-n1": {
+   "x": 3292,
+   "y": 30766.515625,
+   "text": "What changes. Keeps the speed message. The filler free-trial texts in Adapty (\"wcwwcv w\") are gone, and the 🚀 emoji on the button is replaced by the app's \"Continue\".\nItem: SPEED_TEST_PROBLEM_PROMOTIONAL (arm A, 100 %) · Paywall Builder → new flow. Built as the Adapty flow “SPEED_PROBLEM_FREEMIUM (flow)”.\nPlacements and audience: new flow placement SPEED_PROBLEM_FREEMIUM-flow (push) · All users. Today: A/B \"SPEED TEST\", arm A 100 %; a flow placement has no paywall A/B test, so the flow replaces arm A.\nProducts and offers (unchanged): com.monthlyMembership (Monthly). No Adapty offer.\nDrawn state: Plans loaded · Monthly · no offer.\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\nArabic: until VPN-903 ships, an Arabic iPhone shows the English texts. Contrast: every text pair is 4.5:1 or more except two parts of the app kept exact and marked: the white Continue label on the green (2.59:1 at the label centre) and the white tag text on the blue tag (2.55:1 at the light end). The card asks the board once, for all SecureField paywalls.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-SPEED_PROBLEM_FREEMIUM-n2": {
+   "x": 5172,
+   "y": 30766.515625,
+   "text": "Texts — EN | AR (SPEED_TEST_PROBLEM_PROMOTIONAL (arm A, 100 %)). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• Enjoy full speed | استمتع بالسرعة الكاملة (new (today: \"Enjoy Full Speed Access!\"))\n• High demand slows down free servers. Premium gives you priority high-speed servers. | الطلب العالي يبطئ الخوادم المجانية. يمنحك Premium أولوية على الخوادم عالية السرعة. (new · in Adapty today (shortened))\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• Monthly | شهري (app)\n• Cancel anytime | يمكنك الإلغاء في أي وقت (new · in Adapty today (Home flow))\n• [price] / Month | [السعر] / شهر (app)\n• Continue | متابعة (app)\n• Renews every month at [price] until you cancel. | يتجدد كل شهر بسعر [السعر] حتى تلغي الاشتراك. (new (VPN-873))\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states: none.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-SPEED_PROBLEM_FREEMIUM-t": {
+   "x": 2248,
+   "y": 20448,
+   "text": "Proposal — VPN-727 · SPEED_TEST_PROBLEM_PROMOTIONAL (arm A, 100 %) — redesign in the app's look, as an Adapty flow",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 5508
+  },
+  "v727-ipad-SPEED_PROBLEM_FREEMIUM-n1": {
+   "x": 4156,
+   "y": 20578,
+   "text": "What changes. Keeps the speed message. The filler free-trial texts in Adapty (\"wcwwcv w\") are gone, and the 🚀 emoji on the button is replaced by the app's \"Continue\".\nItem: SPEED_TEST_PROBLEM_PROMOTIONAL (arm A, 100 %) · Paywall Builder → new flow. Built as the Adapty flow “SPEED_PROBLEM_FREEMIUM (flow)”.\nPlacements and audience: new flow placement SPEED_PROBLEM_FREEMIUM-flow (push) · All users. Today: A/B \"SPEED TEST\", arm A 100 %; a flow placement has no paywall A/B test, so the flow replaces arm A.\nProducts and offers (unchanged): com.monthlyMembership (Monthly). No Adapty offer.\nDrawn state: Plans loaded · Monthly · no offer.\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\niPad: Adapty draws nothing on iPad today; iPad users see the app's own Premium screen. These frames show the same flow for the day VPN-903 turns Adapty screens on for iPad (type × 1.3, cards 505 pt, button 460 pt; plans and button show with no scroll).",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-SPEED_PROBLEM_FREEMIUM-n2": {
+   "x": 6036,
+   "y": 20578,
+   "text": "Texts — EN | AR (SPEED_TEST_PROBLEM_PROMOTIONAL (arm A, 100 %)). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• Enjoy full speed | استمتع بالسرعة الكاملة (new (today: \"Enjoy Full Speed Access!\"))\n• High demand slows down free servers. Premium gives you priority high-speed servers. | الطلب العالي يبطئ الخوادم المجانية. يمنحك Premium أولوية على الخوادم عالية السرعة. (new · in Adapty today (shortened))\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• Monthly | شهري (app)\n• Cancel anytime | يمكنك الإلغاء في أي وقت (new · in Adapty today (Home flow))\n• [price] / Month | [السعر] / شهر (app)\n• Continue | متابعة (app)\n• Renews every month at [price] until you cancel. | يتجدد كل شهر بسعر [السعر] حتى تلغي الاشتراك. (new (VPN-873))\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states: none.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-HAPPY_NEW_YEAR-t": {
+   "x": 2248,
+   "y": 40618.515625,
+   "text": "Proposal — VPN-727 · HAPPY_NEW_YEAR (Adapty template) — redesign in the app's look, as an Adapty flow",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4644
+  },
+  "v727-iphone-HAPPY_NEW_YEAR-n1": {
+   "x": 3292,
+   "y": 40748.515625,
+   "text": "What changes. Replaces the untouched Adapty Christmas template (sample review with a stock photo). Same product, no discount (see Proposals).\nItem: HAPPY_NEW_YEAR (Adapty template) · Paywall Builder → new flow. Built as the Adapty flow “HAPPY_NEW_YEAR (flow)”.\nPlacements and audience: none today. A placement (for example HAPPY_NEW_YEAR-flow) and a New Year push (2027-01-01) are separate board decisions.\nProducts and offers (unchanged): com.monthlyMembership (Monthly). No Adapty offer.\nDrawn state: Plans loaded · Monthly · no offer.\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\nArabic: until VPN-903 ships, an Arabic iPhone shows the English texts. Contrast: every text pair is 4.5:1 or more except two parts of the app kept exact and marked: the white Continue label on the green (2.59:1 at the label centre) and the white tag text on the blue tag (2.55:1 at the light end). The card asks the board once, for all SecureField paywalls.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-HAPPY_NEW_YEAR-n2": {
+   "x": 5172,
+   "y": 40748.515625,
+   "text": "Texts — EN | AR (HAPPY_NEW_YEAR (Adapty template)). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• HAPPY NEW YEAR | سنة جديدة سعيدة (new)\n• Start the new year protected | ابدأ العام الجديد بحماية كاملة (new)\n• Fast, private internet on every network, all year long. | إنترنت سريع وخاص على كل شبكة، طوال العام. (new)\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• Monthly | شهري (app)\n• Cancel anytime | يمكنك الإلغاء في أي وقت (new · in Adapty today (Home flow))\n• [price] / Month | [السعر] / شهر (app)\n• Continue | متابعة (app)\n• Renews every month at [price] until you cancel. | يتجدد كل شهر بسعر [السعر] حتى تلغي الاشتراك. (new (VPN-873))\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states: none.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-HAPPY_NEW_YEAR-t": {
+   "x": 2248,
+   "y": 28750,
+   "text": "Proposal — VPN-727 · HAPPY_NEW_YEAR (Adapty template) — redesign in the app's look, as an Adapty flow",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 5508
+  },
+  "v727-ipad-HAPPY_NEW_YEAR-n1": {
+   "x": 4156,
+   "y": 28880,
+   "text": "What changes. Replaces the untouched Adapty Christmas template (sample review with a stock photo). Same product, no discount (see Proposals).\nItem: HAPPY_NEW_YEAR (Adapty template) · Paywall Builder → new flow. Built as the Adapty flow “HAPPY_NEW_YEAR (flow)”.\nPlacements and audience: none today. A placement (for example HAPPY_NEW_YEAR-flow) and a New Year push (2027-01-01) are separate board decisions.\nProducts and offers (unchanged): com.monthlyMembership (Monthly). No Adapty offer.\nDrawn state: Plans loaded · Monthly · no offer.\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\niPad: Adapty draws nothing on iPad today; iPad users see the app's own Premium screen. These frames show the same flow for the day VPN-903 turns Adapty screens on for iPad (type × 1.3, cards 505 pt, button 460 pt; plans and button show with no scroll).",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-HAPPY_NEW_YEAR-n2": {
+   "x": 6036,
+   "y": 28880,
+   "text": "Texts — EN | AR (HAPPY_NEW_YEAR (Adapty template)). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• HAPPY NEW YEAR | سنة جديدة سعيدة (new)\n• Start the new year protected | ابدأ العام الجديد بحماية كاملة (new)\n• Fast, private internet on every network, all year long. | إنترنت سريع وخاص على كل شبكة، طوال العام. (new)\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• Monthly | شهري (app)\n• Cancel anytime | يمكنك الإلغاء في أي وقت (new · in Adapty today (Home flow))\n• [price] / Month | [السعر] / شهر (app)\n• Continue | متابعة (app)\n• Renews every month at [price] until you cancel. | يتجدد كل شهر بسعر [السعر] حتى تلغي الاشتراك. (new (VPN-873))\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states: none.",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-ramadan_2026-t": {
+   "x": 2248,
+   "y": 35389.515625,
+   "text": "Proposal — VPN-727 · Ramadan_FEAST — redesign in the app's look, as an Adapty flow",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4644
+  },
+  "v727-iphone-ramadan_2026-n1": {
+   "x": 3292,
+   "y": 35519.515625,
+   "text": "What changes. Today: a stock layout with \"Skip\" in Arabic, an English subhead in Arabic and the price per \"weekly\". The proposal is the app's look with a Ramadan mark.\nItem: Ramadan_FEAST · Paywall Builder → new flow. Built as the Adapty flow “Ramadan_FEAST (flow)”.\nPlacements and audience: new flow placement ramadan-flow (push; name for the board) · All users. Next Ramadan: February 2027.\nProducts and offers (unchanged): com.weeklyMembership (Weekly), Adapty offer 0091d7f1 = promotional \"Promo_weekly\" (3-day free trial). New subscribers get the introductory 3-day free trial instead.\nDrawn state: 3-day free trial (promotional or introductory: the same texts).\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\nArabic: until VPN-903 ships, an Arabic iPhone shows the English texts. Contrast: every text pair is 4.5:1 or more except two parts of the app kept exact and marked: the white Continue label on the green (2.59:1 at the label centre) and the white tag text on the blue tag (2.55:1 at the light end). The card asks the board once, for all SecureField paywalls.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-ramadan_2026-n2": {
+   "x": 5172,
+   "y": 35519.515625,
+   "text": "Texts — EN | AR (Ramadan_FEAST). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• RAMADAN KAREEM | رمضان كريم (new)\n• Ramadan Offer | عرض رمضان (new · in Adapty today)\n• Fast, secure and seamless use of your favourite sites — anytime, anywhere. | استخدام سريع وآمن وسلس لمواقعك المفضلة — في أي وقت ومن أي مكان. (new · EN in Adapty today, AR new (today not translated))\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• Weekly | أسبوعي (app)\n• Then [price] / Week | ثم [السعر] / أسبوع (app)\n• 3-day free trial | تجربة مجانية لمدة 3 أيام (app pattern (PREMIUM.SECONDARY_PRICE_TRIAL))\n• Best offer | أفضل عرض (app)\n• Start 3-day free trial | ابدأ تجربة مجانية لمدة 3 أيام (app pattern (paywall.ctaTrialFmt))\n• Free for 3 days, then [price] every week until you cancel. | مجانًا لمدة 3 أيام، ثم [السعر] كل أسبوع حتى تلغي الاشتراك. (new)\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): No trial (used before)",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-ramadan_2026-t": {
+   "x": 2248,
+   "y": 26400,
+   "text": "Proposal — VPN-727 · Ramadan_FEAST — redesign in the app's look, as an Adapty flow",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 5508
+  },
+  "v727-ipad-ramadan_2026-n1": {
+   "x": 4156,
+   "y": 26530,
+   "text": "What changes. Today: a stock layout with \"Skip\" in Arabic, an English subhead in Arabic and the price per \"weekly\". The proposal is the app's look with a Ramadan mark.\nItem: Ramadan_FEAST · Paywall Builder → new flow. Built as the Adapty flow “Ramadan_FEAST (flow)”.\nPlacements and audience: new flow placement ramadan-flow (push; name for the board) · All users. Next Ramadan: February 2027.\nProducts and offers (unchanged): com.weeklyMembership (Weekly), Adapty offer 0091d7f1 = promotional \"Promo_weekly\" (3-day free trial). New subscribers get the introductory 3-day free trial instead.\nDrawn state: 3-day free trial (promotional or introductory: the same texts).\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\niPad: Adapty draws nothing on iPad today; iPad users see the app's own Premium screen. These frames show the same flow for the day VPN-903 turns Adapty screens on for iPad (type × 1.3, cards 505 pt, button 460 pt; plans and button show with no scroll).",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-ramadan_2026-n2": {
+   "x": 6036,
+   "y": 26530,
+   "text": "Texts — EN | AR (Ramadan_FEAST). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• RAMADAN KAREEM | رمضان كريم (new)\n• Ramadan Offer | عرض رمضان (new · in Adapty today)\n• Fast, secure and seamless use of your favourite sites — anytime, anywhere. | استخدام سريع وآمن وسلس لمواقعك المفضلة — في أي وقت ومن أي مكان. (new · EN in Adapty today, AR new (today not translated))\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• Weekly | أسبوعي (app)\n• Then [price] / Week | ثم [السعر] / أسبوع (app)\n• 3-day free trial | تجربة مجانية لمدة 3 أيام (app pattern (PREMIUM.SECONDARY_PRICE_TRIAL))\n• Best offer | أفضل عرض (app)\n• Start 3-day free trial | ابدأ تجربة مجانية لمدة 3 أيام (app pattern (paywall.ctaTrialFmt))\n• Free for 3 days, then [price] every week until you cancel. | مجانًا لمدة 3 أيام، ثم [السعر] كل أسبوع حتى تلغي الاشتراك. (new)\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): No trial (used before)",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-NOT_USING_USERS_PREMIUM-t": {
+   "x": 2248,
+   "y": 27031.515625,
+   "text": "Proposal — VPN-727 · Least_using_users_premiums_promotional — redesign in the app's look, as an Adapty flow",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4644
+  },
+  "v727-iphone-NOT_USING_USERS_PREMIUM-n1": {
+   "x": 3292,
+   "y": 27161.515625,
+   "text": "What changes. Today the English and Arabic card texts differ (\"Advantageous offer\" vs a 🔥 headline). The proposal shows one clear first-year price in both languages.\nItem: Least_using_users_premiums_promotional · Paywall Builder → new flow. Built as the Adapty flow “NOT_USING_USERS_PREMIUM (flow)”.\nPlacements and audience: new flow placement NOT_USING_USERS_PREMIUM-flow (push) · All users (see Proposals: the app shows a pushed paywall only to free users)\nProducts and offers (unchanged): com.yearlyMembership (Yearly), Adapty offer 268f5fc3 ⚠ (promotional first-year price or the 3-month free win-back offer; the export does not say which). Drawn: pay up front, as today's texts.\nDrawn state: Offer price for the first year · a former subscriber.\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\nArabic: until VPN-903 ships, an Arabic iPhone shows the English texts. Contrast: every text pair is 4.5:1 or more except two parts of the app kept exact and marked: the white Continue label on the green (2.59:1 at the label centre) and the white tag text on the blue tag (2.55:1 at the light end). The card asks the board once, for all SecureField paywalls.",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-iphone-NOT_USING_USERS_PREMIUM-n2": {
+   "x": 5172,
+   "y": 27161.515625,
+   "text": "Texts — EN | AR (Least_using_users_premiums_promotional). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• SPECIAL OFFER | عرض خاص (new)\n• Premium, for less | Premium بسعر أقل (new (today: \"Special Offer Unlock Premium for Less!\"))\n• We noticed you haven't used your VPN much. Stay secure and fast all year long. | لاحظنا أنك لم تستخدم VPN كثيرًا. ابقَ آمنًا وسريعًا طوال العام. (new · in Adapty today (shortened))\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• First year | السنة الأولى (new)\n• Then [price] / Year | ثم [السعر] / سنة (app)\n• Best offer | أفضل عرض (app)\n• Continue | متابعة (app)\n• First year at [offer price], then every year at [price] until you cancel. | السنة الأولى بسعر [سعر العرض]، ثم كل سنة بسعر [السعر] حتى تلغي الاشتراك. (new (VPN-873))\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): If 268f5fc3 is the 3-month free win-back offer; No offer",
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-NOT_USING_USERS_PREMIUM-t": {
+   "x": 2248,
+   "y": 16480,
+   "text": "Proposal — VPN-727 · Least_using_users_premiums_promotional — redesign in the app's look, as an Adapty flow",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 5508
+  },
+  "v727-ipad-NOT_USING_USERS_PREMIUM-n1": {
+   "x": 4156,
+   "y": 16610,
+   "text": "What changes. Today the English and Arabic card texts differ (\"Advantageous offer\" vs a 🔥 headline). The proposal shows one clear first-year price in both languages.\nItem: Least_using_users_premiums_promotional · Paywall Builder → new flow. Built as the Adapty flow “NOT_USING_USERS_PREMIUM (flow)”.\nPlacements and audience: new flow placement NOT_USING_USERS_PREMIUM-flow (push) · All users (see Proposals: the app shows a pushed paywall only to free users)\nProducts and offers (unchanged): com.yearlyMembership (Yearly), Adapty offer 268f5fc3 ⚠ (promotional first-year price or the 3-month free win-back offer; the export does not say which). Drawn: pay up front, as today's texts.\nDrawn state: Offer price for the first year · a former subscriber.\nModel: the app's Premium screen. Parts as on VPN-873 (BLACK_FRIDAY), in builder-safe form: one flat background image (gradient + world map, design-paywalls/assets/flow/bg-*.jpg), Close and Restore header, crown Logos/Premium.png, gold feature rows (PNG icons), PremiumCard with the blue tag, orange radio, green Continue as a linear 135° gradient, renewal line and legal links next to the button. ✕ and Restore stay on top and never scroll.\niPad: Adapty draws nothing on iPad today; iPad users see the app's own Premium screen. These frames show the same flow for the day VPN-903 turns Adapty screens on for iPad (type × 1.3, cards 505 pt, button 460 pt; plans and button show with no scroll).",
+   "page": "ipad",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray"
+  },
+  "v727-ipad-NOT_USING_USERS_PREMIUM-n2": {
+   "x": 6036,
+   "y": 16610,
+   "text": "Texts — EN | AR (Least_using_users_premiums_promotional). “app” = already in the app (Localizable.xcstrings); every other text is new and needs the board's approval on the card. [price], [offer price], [monthly price] = Adapty product tags, filled from the App Store; never typed.\n• Restore | استعادة (app)\n• Close | إغلاق (app)\n• SPECIAL OFFER | عرض خاص (new)\n• Premium, for less | Premium بسعر أقل (new (today: \"Special Offer Unlock Premium for Less!\"))\n• We noticed you haven't used your VPN much. Stay secure and fast all year long. | لاحظنا أنك لم تستخدم VPN كثيرًا. ابقَ آمنًا وسريعًا طوال العام. (new · in Adapty today (shortened))\n• Ultra-fast connection | اتصال فائق السرعة (app)\n• Worldwide locations | مواقع عالمية (app)\n• Unlimited protection | حماية غير محدودة (app)\n• First year | السنة الأولى (new)\n• Then [price] / Year | ثم [السعر] / سنة (app)\n• Best offer | أفضل عرض (app)\n• Continue | متابعة (app)\n• First year at [offer price], then every year at [price] until you cancel. | السنة الأولى بسعر [سعر العرض]، ثم كل سنة بسعر [السعر] حتى تلغي الاشتراك. (new (VPN-873))\n• Privacy Policy | سياسة الخصوصية (app)\n• Terms of Use | شروط الاستخدام (app)\nPrivacy Policy → https://securefieldapp.com/policy · Terms of Use → https://securefieldapp.com/terms\nOther states (texts in the adapty-build document): If 268f5fc3 is the 3-month free win-back offer; No offer",
+   "page": "ipad",
    "w": 1800,
    "size": "m",
    "fill": "gray"
