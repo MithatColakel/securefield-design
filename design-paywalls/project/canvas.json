@@ -1503,6 +1503,78 @@
    "h": 1210,
    "page": "ipad",
    "title": "Proposal — VPN-727 · Least_using_Users_FREE_introductory · arm B · iPad · Introductory first-year price · AR"
+  },
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-Image.dc.html": {
+   "x": 0,
+   "y": 48106.828125,
+   "w": 3840,
+   "h": 2160,
+   "page": "iphone",
+   "title": "Proposal — VPN-1049 · the image for M1, M2 and M3 · 3840 × 2160 PNG, no words, no transparency · the same for every language"
+  },
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M1-Dark-EN.dc.html": {
+   "x": 0,
+   "y": 50666.828125,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-1049 · Apple cancel screen · M1 · Weekly · text and image (no offer) · Dark · EN · Apple draws it"
+  },
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M1-Light-EN.dc.html": {
+   "x": 482,
+   "y": 50666.828125,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-1049 · Apple cancel screen · M1 · Weekly · text and image (no offer) · Light · EN · Apple draws it"
+  },
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M1-Dark-AR.dc.html": {
+   "x": 964,
+   "y": 50666.828125,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-1049 · Apple cancel screen · M1 · Weekly · text and image (no offer) · Dark · AR · Apple draws it"
+  },
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M1-Light-AR.dc.html": {
+   "x": 1446,
+   "y": 50666.828125,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-1049 · Apple cancel screen · M1 · Weekly · text and image (no offer) · Light · AR · Apple draws it"
+  },
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M2M3-Dark-EN.dc.html": {
+   "x": 0,
+   "y": 51940.828125,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-1049 · Apple cancel screen · M2 · Monthly and M3 · Yearly, 6-month · text and image (no offer) · Dark · EN · Apple draws it"
+  },
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M2M3-Light-EN.dc.html": {
+   "x": 482,
+   "y": 51940.828125,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-1049 · Apple cancel screen · M2 · Monthly and M3 · Yearly, 6-month · text and image (no offer) · Light · EN · Apple draws it"
+  },
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M2M3-Dark-AR.dc.html": {
+   "x": 964,
+   "y": 51940.828125,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-1049 · Apple cancel screen · M2 · Monthly and M3 · Yearly, 6-month · text and image (no offer) · Dark · AR · Apple draws it"
+  },
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M2M3-Light-AR.dc.html": {
+   "x": 1446,
+   "y": 51940.828125,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-1049 · Apple cancel screen · M2 · Monthly and M3 · Yearly, 6-month · text and image (no offer) · Light · AR · Apple draws it"
   }
  },
  "order": [
@@ -1690,7 +1762,16 @@
   "iPhone-NOT_USING_USERS_PREMIUM-Proposal_VPN727-FirstYearOffer-EN.dc.html",
   "iPhone-NOT_USING_USERS_PREMIUM-Proposal_VPN727-FirstYearOffer-AR.dc.html",
   "iPad-NOT_USING_USERS_PREMIUM-Proposal_VPN727-FirstYearOffer-EN.dc.html",
-  "iPad-NOT_USING_USERS_PREMIUM-Proposal_VPN727-FirstYearOffer-AR.dc.html"
+  "iPad-NOT_USING_USERS_PREMIUM-Proposal_VPN727-FirstYearOffer-AR.dc.html",
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-Image.dc.html",
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M1-Dark-EN.dc.html",
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M1-Light-EN.dc.html",
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M1-Dark-AR.dc.html",
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M1-Light-AR.dc.html",
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M2M3-Dark-EN.dc.html",
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M2M3-Light-EN.dc.html",
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M2M3-Dark-AR.dc.html",
+  "iPhone-RETENTION_MESSAGE-Proposal_VPN1049-M2M3-Light-AR.dc.html"
  ],
  "notes": {
   "pay-001": {
@@ -3142,6 +3223,56 @@
    "w": 1800,
    "size": "m",
    "fill": "gray"
+  },
+  "vpn1049-block": {
+   "x": 0,
+   "y": 47606.828125,
+   "text": "Proposal — VPN-1049 · RETENTION_MESSAGE · Apple's cancel screen (Retention Messaging) · M1 Weekly, M2 Monthly, M3 Yearly and 6-month · users with no offer · Apple draws it · no A/B",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1049-row-img": {
+   "x": 0,
+   "y": 47806.828125,
+   "text": "Proposal — VPN-1049 · the image (one for M1, M2, M3; every language) · 3840 × 2160 PNG",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1049-about": {
+   "x": 3960,
+   "y": 48106.828125,
+   "text": "Apple's cancel screen (Retention Messaging). App Store Connect → the subscription group → Retention Messaging; drafts made in VPN-1019, nothing live.\nWhere: the user taps Cancel Subscription in the App Store's subscription settings (iPhone, iPad, Mac with macOS 14+). Apple draws the whole screen; we give a header, a text and one image (or an offer).\nWho sees the image: only when no offer shows. M3 (Yearly, 6-month): always. M1 (Weekly), M2 (Monthly): users who cannot get the offer: trial users, less than 1 paid month, Kuwait, an offer in the last 6 months. Most viewers are trial users who cancel (about 246 a week, mostly the Gulf and Jordan).\nOne image for all 3 messages: it has no words, so English and Arabic readers see the same image; the three messages share one promise (a private connection on every network), so there is nothing to show per plan. Apple allows only one image per message, the same for every language.\nWhat it is: the app's splash, in 16:9. The app's page background (gradient-background #172231 → #000000, corner to corner, with World-Map.png in overlay blend, as GradientBackground.swift) and the splash logo (Lotties/Logo.json, last frame, rendered as vector at 50 % of the width, centred). Users know it from every app start. No prices, no offer marks, no words except the SecureField word-mark, no part of Apple's screens.\nFile: design-paywalls/assets/retention/SecureField-RetentionMessage-3840x2160.png · 3840 × 2160 · PNG, RGB, no alpha channel · 2.5 MB. SecurefieldiOS adds it to M1, M2 and M3 after the board approves. Apple's alt text: not asked for in App Store Connect (the API needs it: \"SecureField\").",
+   "page": "iphone",
+   "w": 1400,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn1049-row-m1": {
+   "x": 0,
+   "y": 50366.828125,
+   "text": "Proposal — VPN-1049 · M1 · Weekly · text and image (no offer) · Dark, Light · EN, then AR",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1049-screen": {
+   "x": 1968,
+   "y": 50666.828125,
+   "text": "How to read these frames: Apple draws this screen, not the app. Layout from third-party screenshots of Apple's cancel screen (RevenueCat blog, 2025); no Apple page was opened.\nApple's own texts (Confirm Cancellation, the end-date line, From the developer, Cancel Subscription, Keep Subscription): Apple writes them. The Arabic of Apple's texts here is our approximation, not Apple's string. The date is a sample.\nOur texts: the VPN-1019 drafts, exact. Header above the text (Apple's default position), the image above both. Arabic: Apple sets right to left; the image is not mirrored.\nApple's screen follows the device: dark and light are both shown. Font: Apple's system font (SF Pro, SF Arabic); the runner has no Apple fonts, so the renders use a fallback.\nApple shows the image 16:9 with rounded corners; the logo stays well inside the edges, so a small crop loses nothing.",
+   "page": "iphone",
+   "w": 1100,
+   "size": "m",
+   "fill": "orange"
+  },
+  "vpn1049-row-m2": {
+   "x": 0,
+   "y": 51640.828125,
+   "text": "Proposal — VPN-1049 · M2 · Monthly and M3 · Yearly, 6-month (the same texts) · text and image (no offer) · Dark, Light · EN, then AR",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4000
   }
  }
 }
