@@ -1863,6 +1863,70 @@
    "h": 672,
    "page": "mac",
    "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help · AR"
+  },
+  "iPhone-ServerList-FreeUser-TodayVPN1058-EN.dc.html": {
+   "x": 0,
+   "y": 22764,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-1058 · Server list · free user · today, for comparison · EN"
+  },
+  "iPhone-ServerList-FreeUser-ProposalVPN1058-EN.dc.html": {
+   "x": 470,
+   "y": 22764,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-1058 · Server list · free user · premium icon · EN"
+  },
+  "iPhone-ServerList-FreeUser-TodayVPN1058-AR.dc.html": {
+   "x": 940,
+   "y": 22764,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-1058 · Server list · free user · today, for comparison · AR"
+  },
+  "iPhone-ServerList-FreeUser-ProposalVPN1058-AR.dc.html": {
+   "x": 1410,
+   "y": 22764,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-1058 · Server list · free user · premium icon · AR"
+  },
+  "iPad-ServerList-Portrait-FreeUser-TodayVPN1058-EN.dc.html": {
+   "x": 0,
+   "y": 23530,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-1058 · Server list · portrait sheet · free user · today, for comparison · EN"
+  },
+  "iPad-ServerList-Portrait-FreeUser-ProposalVPN1058-EN.dc.html": {
+   "x": 914,
+   "y": 23530,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-1058 · Server list · portrait sheet · free user · premium icon · EN"
+  },
+  "iPad-ServerList-Portrait-FreeUser-TodayVPN1058-AR.dc.html": {
+   "x": 1828,
+   "y": 23530,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-1058 · Server list · portrait sheet · free user · today, for comparison · AR"
+  },
+  "iPad-ServerList-Portrait-FreeUser-ProposalVPN1058-AR.dc.html": {
+   "x": 2742,
+   "y": 23530,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-1058 · Server list · portrait sheet · free user · premium icon · AR"
   }
  },
  "order": [
@@ -2095,7 +2159,15 @@
   "iPad-Connect-Portrait-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html",
   "iPad-Connect-Landscape-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html",
   "Mac-Connect-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html",
-  "Mac-Connect-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html"
+  "Mac-Connect-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html",
+  "iPhone-ServerList-FreeUser-TodayVPN1058-EN.dc.html",
+  "iPhone-ServerList-FreeUser-ProposalVPN1058-EN.dc.html",
+  "iPhone-ServerList-FreeUser-TodayVPN1058-AR.dc.html",
+  "iPhone-ServerList-FreeUser-ProposalVPN1058-AR.dc.html",
+  "iPad-ServerList-Portrait-FreeUser-TodayVPN1058-EN.dc.html",
+  "iPad-ServerList-Portrait-FreeUser-ProposalVPN1058-EN.dc.html",
+  "iPad-ServerList-Portrait-FreeUser-TodayVPN1058-AR.dc.html",
+  "iPad-ServerList-Portrait-FreeUser-ProposalVPN1058-AR.dc.html"
  ],
  "notes": {
   "iphone-Splash": {
@@ -2835,6 +2907,92 @@
    "w": 900,
    "size": "m",
    "fill": "orange"
+  },
+  "vpn1058-iphone-block": {
+   "x": 0,
+   "y": 22264,
+   "text": "Proposal — VPN-1058 · premium icon in place of the \"PREMIUM\" tag in the free user's server list",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1058-iphone-row": {
+   "x": 0,
+   "y": 22464,
+   "text": "Proposal — VPN-1058 · Server list · free user (today, then proposal; EN, then AR)",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1058-iphone-icon": {
+   "x": 1880,
+   "y": 22764,
+   "page": "iphone",
+   "w": 900,
+   "size": "m",
+   "fill": "orange",
+   "text": "Proposal — VPN-1058: the premium icon in place of the \"PREMIUM\" tag (board, 11-21).\nWhere: each premium row in the free user's server list (ServerItem, ServerListScreen.swift). Today the PremiumMark pill (SERVER_LIST.PREMIUM_MARK, \"PREMIUM\" / \"مميز\") sits before the signal bars. The proposal puts the icon in the same place. Flag, name, signal bars, radio button and spacing (12 pt while the mark shows) stay as today.\nIcon: Design System icons/Premium (assets/Icons/Premium.svg, the app asset icons/Premium). It is the crown at the top left of the iPhone Main screen, the free user's way to Premium. So the user already knows it as \"premium\".\nSize: 20 × 20 pt, scaledToFit. That is the height of today's pill (Caption line, 2 pt padding top and bottom), so the row height (63 pt on a 390 pt phone) and the alignment do not change. The signal bars are 25.2 pt and the radio 29.4 pt, so the crown stays the smallest mark in the row.\nColour: the asset's own stroke, lightYellow #FAC762 (text.quaternary / border.secondary, the premium colour; the orange radio ring of the same row has it). No tint. Contrast on the page background (#172231 to #000000): 10.2:1 to 13.4:1, above 3:1 for icons.\nArabic: the crown is symmetric and is not mirrored. In RTL it stays before the signal bars in reading order (left of them on screen).\nWho sees it: only a free user, only on a premium server (Server.showsPremiumMark). A premium user sees no tag today and no icon in the proposal. Tap on the row opens the Premium screen, as today.\nNot changed: the two-column iPad list (WideServerList, heading \"Premium\" with a crown), the Mac app, the onboarding."
+  },
+  "vpn1058-iphone-voiceover": {
+   "x": 2860,
+   "y": 22764,
+   "page": "iphone",
+   "w": 700,
+   "size": "m",
+   "fill": "orange",
+   "text": "VoiceOver (step 3).\nToday: the row is one button. VoiceOver reads the name and the tag text: \"Netherlands, PREMIUM, button\" / \"هولندا، مميز، زر\".\nProposal: the icon gets an accessibility label with the same catalog text, SERVER_LIST.PREMIUM_MARK (\"PREMIUM\" / \"مميز\"). So VoiceOver reads the same words as today. No new text, no new translation.\nWithout a label, VoiceOver would read the asset name (\"icons/Premium\") or nothing. So the label is required.\nKeep the accessibilityIdentifier \"server_list.premium_mark\" on the icon, so UI tests find it as today."
+  },
+  "vpn1058-iphone-mark": {
+   "x": 2350,
+   "y": 7180,
+   "page": "iphone",
+   "w": 700,
+   "size": "m",
+   "fill": "orange",
+   "text": "Proposal — VPN-1058 (below): the premium icon (icons/Premium, 20 pt) in place of the \"PREMIUM\" tag on locked rows. These free-user frames stay until the board approves."
+  },
+  "vpn1058-ipad-block": {
+   "x": 0,
+   "y": 23030,
+   "text": "Proposal — VPN-1058 · premium icon in place of the \"PREMIUM\" tag in the free user's server list",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1058-ipad-row": {
+   "x": 0,
+   "y": 23230,
+   "text": "Proposal — VPN-1058 · Server list · portrait sheet · free user (today, then proposal; EN, then AR)",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1058-ipad-icon": {
+   "x": 3656,
+   "y": 23530,
+   "page": "ipad",
+   "w": 900,
+   "size": "m",
+   "fill": "orange",
+   "text": "Proposal — VPN-1058: the premium icon in place of the \"PREMIUM\" tag (board, 11-21).\nWhere: each premium row in the free user's server list (ServerItem, ServerListScreen.swift). Today the PremiumMark pill (SERVER_LIST.PREMIUM_MARK, \"PREMIUM\" / \"مميز\") sits before the signal bars. The proposal puts the icon in the same place. Flag, name, signal bars, radio button and spacing (12 pt while the mark shows) stay as today.\nIcon: Design System icons/Premium (assets/Icons/Premium.svg, the app asset icons/Premium). It is the crown at the top left of the iPhone Main screen, the free user's way to Premium. So the user already knows it as \"premium\".\nSize: 20 × 20 pt, scaledToFit. That is the height of today's pill (Caption line, 2 pt padding top and bottom), so the row height (63 pt on a 390 pt phone) and the alignment do not change. The signal bars are 25.2 pt and the radio 29.4 pt, so the crown stays the smallest mark in the row.\nColour: the asset's own stroke, lightYellow #FAC762 (text.quaternary / border.secondary, the premium colour; the orange radio ring of the same row has it). No tint. Contrast on the page background (#172231 to #000000): 10.2:1 to 13.4:1, above 3:1 for icons.\nArabic: the crown is symmetric and is not mirrored. In RTL it stays before the signal bars in reading order (left of them on screen).\nWho sees it: only a free user, only on a premium server (Server.showsPremiumMark). A premium user sees no tag today and no icon in the proposal. Tap on the row opens the Premium screen, as today.\nNot changed: the two-column iPad list (WideServerList, heading \"Premium\" with a crown), the Mac app, the onboarding."
+  },
+  "vpn1058-ipad-voiceover": {
+   "x": 4636,
+   "y": 23530,
+   "page": "ipad",
+   "w": 700,
+   "size": "m",
+   "fill": "orange",
+   "text": "VoiceOver (step 3).\nToday: the row is one button. VoiceOver reads the name and the tag text: \"Netherlands, PREMIUM, button\" / \"هولندا، مميز، زر\".\nProposal: the icon gets an accessibility label with the same catalog text, SERVER_LIST.PREMIUM_MARK (\"PREMIUM\" / \"مميز\"). So VoiceOver reads the same words as today. No new text, no new translation.\nWithout a label, VoiceOver would read the asset name (\"icons/Premium\") or nothing. So the label is required.\nKeep the accessibilityIdentifier \"server_list.premium_mark\" on the icon, so UI tests find it as today."
+  },
+  "vpn1058-ipad-mark": {
+   "x": 1828,
+   "y": 8850,
+   "page": "ipad",
+   "w": 700,
+   "size": "m",
+   "fill": "orange",
+   "text": "Proposal — VPN-1058 (below): the premium icon (icons/Premium, 20 pt) in place of the \"PREMIUM\" tag on locked rows. These free-user frames stay until the board approves."
   }
  }
 }
