@@ -1799,6 +1799,22 @@
    "h": 640,
    "page": "mac",
    "title": "Deferred (board, 2026-11-20) · Proposal — VPN-1020 · Intro offer · arm B · first year (com.yearlyBestintroductoryoffer) · Mac · AR · the app's Mac paywall"
+  },
+  "iPhone-YEARLY_50_OFF-flow-Proposal_VPN1070-LegalTexts.dc.html": {
+   "x": 7052,
+   "y": 20214.515625,
+   "w": 1800,
+   "h": 2275,
+   "page": "iphone",
+   "title": "Proposal — VPN-1070 · YEARLY_50_OFF-flow · Skip, Terms, Privacy, Restore · 8 languages · today and new (text table)"
+  },
+  "iPhone-flow_onboarding-Proposal_VPN1070-TrialLineTexts.dc.html": {
+   "x": 1880,
+   "y": 40123.828125,
+   "w": 1800,
+   "h": 681,
+   "page": "iphone",
+   "title": "Proposal — VPN-1070 · flow_onboarding · trial price line, offer length in words · EN, AR (text table)"
   }
  },
  "order": [
@@ -1875,6 +1891,7 @@
   "iPhone-ramadan_2026-Ramadan_FEAST-AdaptyPreview-EN.dc.html",
   "iPhone-ramadan_2026-Ramadan_FEAST-AdaptyPreview-AR.dc.html",
   "iPhone-UNKNOWN_ID-Premium-PushFallback-EN.dc.html",
+  "iPhone-flow_onboarding-Proposal_VPN1070-TrialLineTexts.dc.html",
   "iPhone-SPEED_PROBLEM_FREEMIUM-SPEED_PROBLEM_ALTERNATIVE_1-AdaptyPreview-EN.dc.html",
   "iPhone-SPEED_PROBLEM_FREEMIUM-SPEED_PROBLEM_ALTERNATIVE_1-AdaptyPreview-AR.dc.html",
   "iPhone-NO_PLACEMENT-PROMOTIONAL_FOR_CHURNED_30_DAYS_FREE-AdaptyPreview-EN.dc.html",
@@ -1949,6 +1966,7 @@
   "iPad-SERVER_PREMIUM_FLOW-Proposal_VPN727-YearlySelected-AR.dc.html",
   "iPhone-YEARLY_50_OFF-flow-Proposal_VPN727-FirstYearIntro-EN.dc.html",
   "iPhone-YEARLY_50_OFF-flow-Proposal_VPN727-FirstYearIntro-AR.dc.html",
+  "iPhone-YEARLY_50_OFF-flow-Proposal_VPN1070-LegalTexts.dc.html",
   "iPad-YEARLY_50_OFF-flow-Proposal_VPN727-FirstYearIntro-EN.dc.html",
   "iPad-YEARLY_50_OFF-flow-Proposal_VPN727-FirstYearIntro-AR.dc.html",
   "iPhone-DAILY_USING_USERS_FREE-Proposal_VPN727-ArmA_FirstMonth-EN.dc.html",
@@ -3763,6 +3781,22 @@
    "kind": "title1",
    "maxW": 1800,
    "text": "Deferred (board, 2026-11-20) · Proposal — VPN-1020 · Mac · Intro offer (E) · audience 5 · arm B: first year"
+  },
+  "vpn1070-y50-t": {
+   "x": 7052,
+   "y": 20084.515625,
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800,
+   "text": "Proposal — VPN-1070 · YEARLY_50_OFF-flow · All users · Adapty Flow · Skip, Terms, Privacy and Restore in 8 languages (texts only)"
+  },
+  "vpn1070-onb-t": {
+   "x": 1880,
+   "y": 39993.828125,
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 1800,
+   "text": "Proposal — VPN-1070 · flow_onboarding · All users · Adapty Flow “SECUREFIELD ONBOARDING FLOW” (not live) · trial price line with the offer length in words (texts only)"
   }
  }
 }

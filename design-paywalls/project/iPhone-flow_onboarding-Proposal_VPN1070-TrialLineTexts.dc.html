@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow">
+<title>Proposal — VPN-1070 · flow_onboarding · trial price line with the offer length in words · EN and AR</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+@font-face { font-family: "Red Hat Display"; src: url("../../design-system/project/fonts/RedHatDisplay-Regular.ttf"); font-weight: 400; font-style: normal; }
+@font-face { font-family: "Red Hat Display"; src: url("../../design-system/project/fonts/RedHatDisplay-Bold.ttf"); font-weight: 700; font-style: normal; }
+body { margin: 0; }
+.pg { width: 1800px; box-sizing: border-box; padding: 40px 44px 44px; background: #172231; color: #ffffff; font-family: "Red Hat Display", "Noto Sans Arabic UI", "Noto Sans Hebrew", "Noto Sans CJK JP", sans-serif; font-size: 20px; line-height: 1.35; }
+h1 { margin: 0 0 8px; font-size: 30px; font-weight: 700; }
+.sub { margin: 0 0 24px; color: #d1dcea; font-size: 19px; }
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; font-weight: 700; color: #d1dcea; font-size: 17px; padding: 10px 12px; border-bottom: 2px solid rgba(255,255,255,0.12); vertical-align: bottom; }
+td { padding: 10px 12px; border-bottom: 1px solid rgba(255,255,255,0.12); vertical-align: top; }
+tr.lang td { border-top: 2px solid rgba(255,255,255,0.12); }
+td.k { color: #d1dcea; font-size: 17px; white-space: nowrap; }
+.today { color: #d1dcea; }
+.new { color: #35df91; font-weight: 700; }
+.short { color: #fac762; font-weight: 700; }
+.tag { display: block; font-size: 15px; font-weight: 400; color: #d1dcea; margin-top: 2px; }
+.warn { color: #fac762; }
+[dir=rtl] { text-align: right; }
+.foot { margin-top: 22px; color: #d1dcea; font-size: 17px; }
+.foot p { margin: 6px 0; }
+</style>
+</helmet>
+<div class="pg">
+<h1>Proposal — VPN-1070 · flow_onboarding · the trial price line with the offer length in words</h1>
+<p class="sub">Flow “SECUREFIELD ONBOARDING FLOW” (placement flow_onboarding, version 5 in the read-only export of 2026-11-12). Not live: the app does not ask Adapty for this placement. Element “Trial price copy” (trial_offer__price_copy), Red Hat Display 12 pt, under the onboarding steps. Texts only, no layout change.</p>
+<table>
+<tr><th style="width:210px">State the flow shows</th><th style="width:290px">Product and offer</th><th style="width:300px">Today (en; the flow has no Arabic)</th><th>New — English</th><th>New — Arabic</th></tr>
+<tr class="lang"><td><b>Free trial</b><span class="tag">condition: is_free_trial = true</span></td>
+<td>com.weeklyMembership (Weekly) · Adapty offer 0091d7f1 “Promo_weekly”: free trial, <b>3 days</b><span class="tag">The product’s introductory offer is also a 3-day free trial (155 storefronts; not IRQ, LBY).</span></td>
+<td><span class="today">Start your {offer duration} free trial,<br>then [price per week] per week</span><span class="tag">SDK 4.1.2 does not know the offer-duration tag, so the phone draws this line empty.</span></td>
+<td><span class="new">Start your 3-day free trial,<br>then [price per week] per week</span><span class="tag">new: only “3-day” replaces the tag</span></td>
+<td dir="rtl"><span class="new">ابدأ تجربتك المجانية لمدة 3 أيام<br>ثم [السعر الأسبوعي] كل أسبوع</span><span class="tag" dir="ltr">app: ONBOARDING.SUBSCRIPTION_TRIAL (ar), with the trial length “3 days” and the period “week” (PRODUCTS.WEEK_UNIT)</span></td></tr>
+<tr class="lang"><td><b>No trial</b><span class="tag">default: a user who cannot get the trial</span></td>
+<td>com.weeklyMembership at its normal weekly price</td>
+<td><span class="today">Get started with just [price per week] per week</span></td>
+<td><span class="today">Get started with just [price per week] per week</span><span class="tag">no change: this line has no offer length</span></td>
+<td dir="rtl"><span class="new">ابدأ مقابل [السعر الأسبوعي] فقط كل أسبوع</span><span class="tag" dir="ltr">new: not in the app (only for an Arabic version of the flow)</span></td></tr>
+</table>
+<div class="foot">
+<p>[price per week] / [السعر الأسبوعي] = the Adapty product tag prod_price_per_week, filled from the App Store. Never typed.</p>
+<p>For reference, the board’s 11-18 choice for YEARLY_50_OFF-flow: “Free for 3 days” / “مجانًا لمدة 3 أيام” in place of the same tag.</p>
+<p class="warn">The flow has one language only (en). The Arabic lines show only after an Arabic version of the whole flow is added. Until then an Arabic phone sees the English line.</p>
+<p class="warn">Risk: if the trial length of the offer changes in App Store Connect or Adapty, this text must change too.</p>
+</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview": {"width": 1800, "height": 681}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return {};
+  }
+}
+</script>
+</body>
+</html>
