@@ -1815,6 +1815,38 @@
    "h": 681,
    "page": "iphone",
    "title": "Proposal — VPN-1070 · flow_onboarding · trial price line, offer length in words · EN, AR (text table)"
+  },
+  "iPhone-BLACK_FRIDAY-Proposal_VPN1076-Offer-EN.dc.html": {
+   "x": 0,
+   "y": 62750,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-1076 · BLACK_FRIDAY-flow · Offer (never subscribed in the group: App Store introductory offer, first year at [offer price]) · EN · Black Friday content, drawn for the Adapty Flow Builder"
+  },
+  "iPhone-BLACK_FRIDAY-Proposal_VPN1076-NoOffer-EN.dc.html": {
+   "x": 482,
+   "y": 62750,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-1076 · BLACK_FRIDAY-flow · No offer (subscribed before: [price] every year, no price promise) · EN · Black Friday content, drawn for the Adapty Flow Builder"
+  },
+  "iPhone-BLACK_FRIDAY-Proposal_VPN1076-Offer-AR.dc.html": {
+   "x": 964,
+   "y": 62750,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-1076 · BLACK_FRIDAY-flow · Offer (never subscribed in the group: App Store introductory offer, first year at [offer price]) · AR · Black Friday content, drawn for the Adapty Flow Builder"
+  },
+  "iPhone-BLACK_FRIDAY-Proposal_VPN1076-NoOffer-AR.dc.html": {
+   "x": 1446,
+   "y": 62750,
+   "w": 402,
+   "h": 874,
+   "page": "iphone",
+   "title": "Proposal — VPN-1076 · BLACK_FRIDAY-flow · No offer (subscribed before: [price] every year, no price promise) · AR · Black Friday content, drawn for the Adapty Flow Builder"
   }
  },
  "order": [
@@ -2041,7 +2073,11 @@
   "Mac-HOME_TOP_LEFT_PREMIUM-Proposal_VPN1020-IntroArmA_FirstMonth-EN.dc.html",
   "Mac-HOME_TOP_LEFT_PREMIUM-Proposal_VPN1020-IntroArmA_FirstMonth-AR.dc.html",
   "Mac-HOME_TOP_LEFT_PREMIUM-Proposal_VPN1020-IntroArmB_FirstYear-EN.dc.html",
-  "Mac-HOME_TOP_LEFT_PREMIUM-Proposal_VPN1020-IntroArmB_FirstYear-AR.dc.html"
+  "Mac-HOME_TOP_LEFT_PREMIUM-Proposal_VPN1020-IntroArmB_FirstYear-AR.dc.html",
+  "iPhone-BLACK_FRIDAY-Proposal_VPN1076-Offer-EN.dc.html",
+  "iPhone-BLACK_FRIDAY-Proposal_VPN1076-NoOffer-EN.dc.html",
+  "iPhone-BLACK_FRIDAY-Proposal_VPN1076-Offer-AR.dc.html",
+  "iPhone-BLACK_FRIDAY-Proposal_VPN1076-NoOffer-AR.dc.html"
  ],
  "notes": {
   "pay-001": {
@@ -3797,6 +3833,41 @@
    "kind": "title1",
    "maxW": 1800,
    "text": "Proposal — VPN-1070 · flow_onboarding · All users · Adapty Flow “SECUREFIELD ONBOARDING FLOW” (not live) · trial price line with the offer length in words (texts only)"
+  },
+  "vpn1076-t": {
+   "x": 0,
+   "y": 62620,
+   "text": "Proposal — VPN-1076 · BLACK_FRIDAY-flow · users who are not premium · Adapty Flow “BLACK_FRIDAY 2026 (flow) VPN-873” (5106288a), new version · Black Friday content: headline, lines, picture, card badge · Offer, No offer · EN, then AR",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 7600
+  },
+  "vpn1076-who": {
+   "x": 1928,
+   "y": 62750,
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray",
+   "text": "What changes (board, 2026-11-21: “Nothing on them shows that they are for Black Friday”). The live version (VPN-873 rows above, built at fd5bb1a) keeps the app's Premium texts; only the pill says Black Friday. This version keeps the app's look (background tones, header, card, Continue, legal row) and changes the content:\n• Picture (new, my own drawing, no words, one for EN and AR): a black price tag with a gold edge, a string and a dashed inner line, with the app's crown (Logos/Premium.png) on it; behind it a gold glow, two crossed gold ribbons and gold confetti over the app's dark world-map background.\n• Headline and subline per state (Black Friday in both), new feature lines about safe and fast shopping, a bigger BLACK FRIDAY pill, and a “Black Friday price” badge on the card in the Offer state only.\n• Kept: product com.yearlyBestintroductoryoffer only, Close, Restore, Continue (buys the plan), Privacy Policy → https://securefieldapp.com/policy, Terms of Use → https://securefieldapp.com/terms, the renewal lines.\n\nStates (Apple decides; the flow switches on is_pay_up_front of the selected product, as today):\n• Offer = never subscribed in the group: the headline, the subline, the badge and the card name the first-year price [offer price].\n• No offer = subscribed before: no lower price, no saving, no “deal” or “offer” word. The headline sells safe shopping on Black Friday.\nPrices only as fields: [price], [offer price]. No typed price, no percent (the saving is not the same in every country). No end date, no countdown, no “today only”: the introductory offer has no end date.\n\nWho and where:\n• Users who are not premium only. The operator sets this audience on 11-26 and the push leaves out premium users. Never an offer to a premium user.\n• Placement BLACK_FRIDAY-flow (flow placement). Opened only by the Black Friday push (11-27) or the link securefield://paywall?flow=BLACK_FRIDAY-flow. Never in the onboarding: no onboarding placement, page, text, offer or order changes.\n• Loading and Load failed: no change (they show the app; see the VPN-873 rows).\n• iPad: the app's own Premium screen, no change. Mac: no push, nothing.\n• Arabic phones with SecureField 7.5 or older get the English texts (the app sends its language to Adapty from 7.6).\n\nPicture files (design-paywalls/assets/flow): bf1076-bg-iphone.jpg (1206 × 2622, 39 KB, full-screen background; replaces bg-iphone.jpg in this flow) and bf1076-hero.webp (780 × 540 = 260 × 180 pt at 3×, 50 KB, transparent; replaces the crown PNG). Feature, close and check icons: the PNGs already in the flow. The flow's images grow from 73 KB to about 120 KB (estimate).\nContrast: pill and badge #000000 on #FAC762 → #E59807: 9.0:1 or more. Feature lines #FFFFFF and subline #FAC762 on the dark picture: 10:1 or more. White Continue label on the green button: 2.37:1, the app's own button, kept as live today (fix proposed in the Design System README)."
+  },
+  "vpn1076-texts": {
+   "x": 3808,
+   "y": 62750,
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray",
+   "text": "Texts — EN | AR. NEW = new text, needs the board's approval on the card. live = on the live flow today (VPN-873 table, approved). app = in the app (Localizable.xcstrings).\nBoth states:\n• Restore | استعادة (app)\n• BLACK FRIDAY | الجمعة البيضاء (live; pill, now Body1 instead of Caption)\n• Safe checkout on any Wi-Fi | دفع آمن على أي شبكة Wi-Fi (NEW)\n• Fast on busy shopping days | سرعة عالية في أيام التسوّق المزدحمة (NEW)\n• Shop from worldwide locations | تسوّق من مواقع حول العالم (NEW)\n• Yearly | سنوي (app)\n• Continue | متابعة (app)\n• Privacy Policy | سياسة الخصوصية (app) · Terms of Use | شروط الاستخدام (app)\nOffer state only:\n• Your Black Friday offer | عرضك في الجمعة البيضاء (NEW, headline)\n• Your first year of Premium at [offer price] | سنتك الأولى في Premium بسعر [سعر العرض] (NEW, subline)\n• Black Friday price | سعر الجمعة البيضاء (NEW, badge on the card)\n• Then [price] / Year | ثم [السعر] / سنة (live)\n• [offer price] / Year | [سعر العرض] / سنة (live)\n• First year at [offer price], then every year at [price] until you cancel. | السنة الأولى بسعر [سعر العرض]، ثم كل سنة بسعر [السعر] حتى تلغي الاشتراك. (live)\nNo offer state only:\n• Shop safely this Black Friday | تسوّق بأمان في الجمعة البيضاء (NEW, headline)\n• Premium keeps your shopping private | Premium يحافظ على خصوصية تسوّقك (NEW, subline)\n• Renews every year | يتجدد كل سنة (NEW; replaces “Then [price] / Year” under Yearly, because there is no first price to follow)\n• [price] / Year | [السعر] / سنة (live)\n• Renews every year at [price] until you cancel. | يتجدد كل سنة بسعر [السعر] حتى تلغي الاشتراك. (live)\nRemoved from this flow: “Experience Premium Service” and the 3 app feature lines (Ultra-fast connection, Worldwide locations, Unlimited protection).\nArabic: “Premium” stays in Latin letters, as in the app's Arabic purchase messages. The pill stays “White Friday” (الجمعة البيضاء, board decision).\n[price] and [offer price] are Adapty's price fields (prod_price, offer_price). “first year” is words, not the offer-length field."
+  },
+  "vpn1076-q": {
+   "x": 5688,
+   "y": 62750,
+   "page": "iphone",
+   "w": 1800,
+   "size": "m",
+   "fill": "gray",
+   "text": "Builder questions (for SecurefieldiOS, through Project Manager). Everything in the frames uses only what works with SDK 4.1.2 (VPN-873 build-report §4–§5): one background image, PNG and WEBP images, solid colours, linear gradients, NAMU-1850 and RedHatDisplay-Regular, a text per state, Arabic right to left. Radial glow, ribbons and texture are in the picture. No radial gradient, blend mode, SVG, animation, percent width or balanced wrap.\n1. Hero image: bf1076-hero.webp (WEBP with transparency). If WEBP with alpha does not draw on 4.1.2, I give a PNG (larger, about 200 KB) or a smaller 2× version. Please say which.\n2. Card badge “Black Friday price” (Offer state only): a pill that overlaps the top edge of the card by half its height (top −11 pt, 24 pt from the leading edge). Can the builder place an element over the card edge and show it only in the Offer state (the same is_pay_up_front switch as the price text)? If not: put the badge inside the card above “Yearly”, or leave it out; the headline and subline still carry the offer.\n3. Headline and subline: a different text per state (same switch as today). The subline holds [offer price] in the Offer state.\n4. Pill: Body1 (15/21), letter spacing 1.2 in EN and 0 in AR, padding 4 × 14, text #000000. Confirm per-language letter spacing works; if not, 0.6 for both.\n5. Images load time: about 120 KB in total instead of 73 KB. Please check it stays well inside the app's 8 s after a push tap.\n6. Small iPhones (375 × 667): the hero is 260 × 180 and there is one more text line than today. Today the screen scrolls 9 pt there; please check the new version on that size. If it scrolls much more, the hero can go to 220 × 152.\n7. The renewal line in EN Offer may wrap with one short word on line 2 (no balanced wrap in the builder). That is acceptable; nothing is cut.\nThe picture is not mirrored in Arabic (it has no direction meaning)."
   }
  }
 }
