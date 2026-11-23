@@ -2023,6 +2023,70 @@
    "h": 732,
    "page": "mac",
    "title": "Proposal — VPN-1152 · Settings · offers switch on · AR"
+  },
+  "iPad-OffersQuestion-Portrait-OverMain-ProposalVPN1152-EN.dc.html": {
+   "x": 0,
+   "y": 26540,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-1152 · Offers question over Main, form sheet (after the onboarding) · portrait · EN"
+  },
+  "iPad-OffersQuestion-Landscape-OverMain-ProposalVPN1152-EN.dc.html": {
+   "x": 914,
+   "y": 26540,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Proposal — VPN-1152 · Offers question over Main, form sheet (after the onboarding) · landscape · EN"
+  },
+  "iPad-OffersQuestion-Portrait-OverMain-ProposalVPN1152-AR.dc.html": {
+   "x": 2204,
+   "y": 26540,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-1152 · Offers question over Main, form sheet (after the onboarding) · portrait · AR"
+  },
+  "iPad-OffersQuestion-Landscape-OverMain-ProposalVPN1152-AR.dc.html": {
+   "x": 3118,
+   "y": 26540,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Proposal — VPN-1152 · Offers question over Main, form sheet (after the onboarding) · landscape · AR"
+  },
+  "iPad-Settings-Portrait-OffersOff-ProposalVPN1152-EN.dc.html": {
+   "x": 0,
+   "y": 28450,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-1152 · Settings · sidebar · offers switch off (default) · portrait · EN"
+  },
+  "iPad-Settings-Landscape-OffersOn-ProposalVPN1152-EN.dc.html": {
+   "x": 914,
+   "y": 28450,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Proposal — VPN-1152 · Settings · sidebar · offers switch on · landscape · EN"
+  },
+  "iPad-Settings-Portrait-OffersOff-ProposalVPN1152-AR.dc.html": {
+   "x": 2204,
+   "y": 28450,
+   "w": 834,
+   "h": 1210,
+   "page": "ipad",
+   "title": "Proposal — VPN-1152 · Settings · sidebar · offers switch off (default) · portrait · AR"
+  },
+  "iPad-Settings-Landscape-OffersOn-ProposalVPN1152-AR.dc.html": {
+   "x": 3118,
+   "y": 28450,
+   "w": 1210,
+   "h": 834,
+   "page": "ipad",
+   "title": "Proposal — VPN-1152 · Settings · sidebar · offers switch on · landscape · AR"
   }
  },
  "order": [
@@ -2275,7 +2339,15 @@
   "Mac-Settings-OffersOff-ProposalVPN1152-EN.dc.html",
   "Mac-Settings-OffersOn-ProposalVPN1152-EN.dc.html",
   "Mac-Settings-OffersOff-ProposalVPN1152-AR.dc.html",
-  "Mac-Settings-OffersOn-ProposalVPN1152-AR.dc.html"
+  "Mac-Settings-OffersOn-ProposalVPN1152-AR.dc.html",
+  "iPad-OffersQuestion-Portrait-OverMain-ProposalVPN1152-EN.dc.html",
+  "iPad-OffersQuestion-Landscape-OverMain-ProposalVPN1152-EN.dc.html",
+  "iPad-OffersQuestion-Portrait-OverMain-ProposalVPN1152-AR.dc.html",
+  "iPad-OffersQuestion-Landscape-OverMain-ProposalVPN1152-AR.dc.html",
+  "iPad-Settings-Portrait-OffersOff-ProposalVPN1152-EN.dc.html",
+  "iPad-Settings-Landscape-OffersOn-ProposalVPN1152-EN.dc.html",
+  "iPad-Settings-Portrait-OffersOff-ProposalVPN1152-AR.dc.html",
+  "iPad-Settings-Landscape-OffersOn-ProposalVPN1152-AR.dc.html"
  ],
  "notes": {
   "iphone-Splash": {
@@ -3152,7 +3224,7 @@
    "w": 700,
    "size": "m",
    "fill": "orange",
-   "text": "iPad: YES, it needs its own frames (not drawn in this round).\n• The question: on iPad a sheet is a form sheet in the middle of the screen (as the Report sheet, 580 pt wide), not a bottom sheet. Portrait and landscape.\n• Settings on iPad is another view (WideSettingsView): a form sheet with a 320 pt sidebar (premium row, then the rows card) and a detail pane. The switch card goes into the sidebar, under the premium row. Type sizes × 1.3 (tablet rule).\nReady to draw in the next round when Project Manager sends it."
+   "text": "iPad: its own frames are on the iPad page, block \"Proposal — VPN-1152\": the question as a form sheet in the middle of the screen, and the switch card in the Settings sidebar under the premium row; portrait and landscape, EN and AR."
   },
   "vpn1152-iphone-row2": {
    "x": 0,
@@ -3242,8 +3314,8 @@
   },
   "vpn1152-ipad-block": {
    "x": 0,
-   "y": 25140,
-   "text": "Proposal — VPN-1152 · Offers question and its Settings switch: iPad frames not drawn yet (see the iPhone page)",
+   "y": 26040,
+   "text": "Proposal — VPN-1152 · Offers question (yes or no to offer notifications), after the onboarding, and its Settings switch — iPad",
    "page": "ipad",
    "kind": "title1",
    "maxW": 4000
@@ -3256,6 +3328,40 @@
    "size": "m",
    "fill": "orange",
    "text": "iPad needs its own frames: the question is a form sheet in the middle of the screen (not a bottom sheet), and Settings is the sidebar form sheet (WideSettingsView): the switch card goes under the premium row in the 320 pt sidebar. Portrait and landscape, EN and AR. Drawn in the next round when Project Manager sends it. Flow, texts and parts: iPhone page, Proposal — VPN-1152."
+  },
+  "vpn1152-ipad-row1": {
+   "x": 0,
+   "y": 26240,
+   "text": "Proposal — VPN-1152 · Offers question over Main, form sheet (once, after the onboarding); portrait and landscape, EN, then AR",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1152-ipad-question": {
+   "x": 4408,
+   "y": 26540,
+   "page": "ipad",
+   "w": 900,
+   "size": "m",
+   "fill": "orange",
+   "text": "iPad question — the same question, texts and rules as on iPhone (see the iPhone page: Flow and Texts).\n• A form sheet in the middle of the screen, over Main, 580 pt wide; its height fits the content. Dimmed Main behind it (black 48 %). Corner radius 12 (system form sheet), as the VPN-907 help sheet on iPad.\n• Once, the first time Main is visible: after the privacy consent and the onboarding. Nothing in the onboarding changes. iPadOS's notification prompt waits until the user answers.\n• Two equal buttons, \"No\" first (leading side; in Arabic on the right), \"Yes\" second. No close (✕), no swipe-down, no tap outside to close: the sheet goes away only with No or Yes.\n• Tablet rule (tokens.json): type × 1.3. Title H6 28.6/31.5 NAMU-1850. Body and service line Body1 19.5/27.3 (service line text-tertiary #D1DCEA). Footnote Caption 15.6/21.8 text-tertiary. Buttons: GradientBorderButton surface (iceBlue, gradient edge, radius 24), height 56, gap 12, label Red Hat Display 20.8 white. Padding 40 top, 32 sides and bottom; gap 15.6.\n• Split View and Slide Over: the form sheet becomes a bottom sheet in a compact width, as on iPhone (iPhone frames)."
+  },
+  "vpn1152-ipad-row2": {
+   "x": 0,
+   "y": 28150,
+   "text": "Proposal — VPN-1152 · Settings · sidebar · offers switch off (default, and after No) in portrait, on (after Yes) in landscape; EN, then AR",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1152-ipad-settings": {
+   "x": 4408,
+   "y": 28450,
+   "page": "ipad",
+   "w": 900,
+   "size": "m",
+   "fill": "orange",
+   "text": "iPad Settings (WideSettingsView, form sheet with a 320 pt sidebar).\n• The new card \"Offers and promotions\" sits in the sidebar under the premium row and above the rows card. Same width as the premium row (320 × 0.915 = 292.8), same card edge (GradientBorderCard, radius 28, iceBlue), 12 below. Min height 76 (as the premium row), padding 12 / 16.\n• Label Body1 19.5/27.3 white; caption Caption 15.6/21.8 text-tertiary #D1DCEA. Switch: the iOS system switch 51 × 31, tint lightGreen #35DF91. Off by default and after \"No\"; on after \"Yes\".\n• In English the label wraps to 2 lines in the 292.8 pt card; the card grows. Nothing is cut off. The sidebar scrolls as today, so in landscape \"Restore purchases\" may need a scroll.\n• The detail pane does not change (Protocols drawn, as when Settings opens).\n• Drawn: portrait with the switch off, landscape with the switch on; EN, then AR."
   }
  }
 }
