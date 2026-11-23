@@ -1927,6 +1927,102 @@
    "h": 1210,
    "page": "ipad",
    "title": "Proposal — VPN-1058 · Server list · portrait sheet · free user · premium icon · AR"
+  },
+  "iPhone-OffersQuestion-OverMain-ProposalVPN1152-EN.dc.html": {
+   "x": 0,
+   "y": 24508,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-1152 · Offers question over Main (after the onboarding) · EN"
+  },
+  "iPhone-OffersQuestion-OverMain-ProposalVPN1152-AR.dc.html": {
+   "x": 470,
+   "y": 24508,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-1152 · Offers question over Main (after the onboarding) · AR"
+  },
+  "iPhone-Settings-OffersOff-ProposalVPN1152-EN.dc.html": {
+   "x": 0,
+   "y": 26052,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-1152 · Settings · free user · offers switch off (default) · EN"
+  },
+  "iPhone-Settings-OffersOn-ProposalVPN1152-EN.dc.html": {
+   "x": 470,
+   "y": 26052,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-1152 · Settings · free user · offers switch on · EN"
+  },
+  "iPhone-Settings-OffersOff-ProposalVPN1152-AR.dc.html": {
+   "x": 940,
+   "y": 26052,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-1152 · Settings · free user · offers switch off (default) · AR"
+  },
+  "iPhone-Settings-OffersOn-ProposalVPN1152-AR.dc.html": {
+   "x": 1410,
+   "y": 26052,
+   "w": 390,
+   "h": 844,
+   "page": "iphone",
+   "title": "Proposal — VPN-1152 · Settings · free user · offers switch on · AR"
+  },
+  "Mac-OffersQuestion-OverMainWindow-ProposalVPN1152-EN.dc.html": {
+   "x": 0,
+   "y": 22220,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-1152 · Offers question over the main window (after first launch) · EN"
+  },
+  "Mac-OffersQuestion-OverMainWindow-ProposalVPN1152-AR.dc.html": {
+   "x": 1002,
+   "y": 22220,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Proposal — VPN-1152 · Offers question over the main window (after first launch) · AR"
+  },
+  "Mac-Settings-OffersOff-ProposalVPN1152-EN.dc.html": {
+   "x": 0,
+   "y": 23542,
+   "w": 460,
+   "h": 732,
+   "page": "mac",
+   "title": "Proposal — VPN-1152 · Settings · offers switch off (default) · EN"
+  },
+  "Mac-Settings-OffersOn-ProposalVPN1152-EN.dc.html": {
+   "x": 540,
+   "y": 23542,
+   "w": 460,
+   "h": 732,
+   "page": "mac",
+   "title": "Proposal — VPN-1152 · Settings · offers switch on · EN"
+  },
+  "Mac-Settings-OffersOff-ProposalVPN1152-AR.dc.html": {
+   "x": 1080,
+   "y": 23542,
+   "w": 460,
+   "h": 732,
+   "page": "mac",
+   "title": "Proposal — VPN-1152 · Settings · offers switch off (default) · AR"
+  },
+  "Mac-Settings-OffersOn-ProposalVPN1152-AR.dc.html": {
+   "x": 1620,
+   "y": 23542,
+   "w": 460,
+   "h": 732,
+   "page": "mac",
+   "title": "Proposal — VPN-1152 · Settings · offers switch on · AR"
   }
  },
  "order": [
@@ -2167,7 +2263,19 @@
   "iPad-ServerList-Portrait-FreeUser-TodayVPN1058-EN.dc.html",
   "iPad-ServerList-Portrait-FreeUser-ProposalVPN1058-EN.dc.html",
   "iPad-ServerList-Portrait-FreeUser-TodayVPN1058-AR.dc.html",
-  "iPad-ServerList-Portrait-FreeUser-ProposalVPN1058-AR.dc.html"
+  "iPad-ServerList-Portrait-FreeUser-ProposalVPN1058-AR.dc.html",
+  "iPhone-OffersQuestion-OverMain-ProposalVPN1152-EN.dc.html",
+  "iPhone-OffersQuestion-OverMain-ProposalVPN1152-AR.dc.html",
+  "iPhone-Settings-OffersOff-ProposalVPN1152-EN.dc.html",
+  "iPhone-Settings-OffersOn-ProposalVPN1152-EN.dc.html",
+  "iPhone-Settings-OffersOff-ProposalVPN1152-AR.dc.html",
+  "iPhone-Settings-OffersOn-ProposalVPN1152-AR.dc.html",
+  "Mac-OffersQuestion-OverMainWindow-ProposalVPN1152-EN.dc.html",
+  "Mac-OffersQuestion-OverMainWindow-ProposalVPN1152-AR.dc.html",
+  "Mac-Settings-OffersOff-ProposalVPN1152-EN.dc.html",
+  "Mac-Settings-OffersOn-ProposalVPN1152-EN.dc.html",
+  "Mac-Settings-OffersOff-ProposalVPN1152-AR.dc.html",
+  "Mac-Settings-OffersOn-ProposalVPN1152-AR.dc.html"
  ],
  "notes": {
   "iphone-Splash": {
@@ -2993,6 +3101,161 @@
    "size": "m",
    "fill": "orange",
    "text": "Proposal — VPN-1058 (below): the premium icon (icons/Premium, 20 pt) in place of the \"PREMIUM\" tag on locked rows. These free-user frames stay until the board approves."
+  },
+  "vpn1152-iphone-block": {
+   "x": 0,
+   "y": 24008,
+   "text": "Proposal — VPN-1152 · Offers question (yes or no to offer notifications), after the onboarding, and its Settings switch",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1152-iphone-row1": {
+   "x": 0,
+   "y": 24208,
+   "text": "Proposal — VPN-1152 · Offers question over Main (once, after the onboarding; EN, then AR)",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1152-iphone-flow": {
+   "x": 940,
+   "y": 24508,
+   "page": "iphone",
+   "w": 900,
+   "size": "m",
+   "fill": "orange",
+   "text": "Flow (iPhone; Mac the same, see the Mac page). From the built VPN-129 screen (commit 330305a, not merged), brought to today's design.\n1 The question shows ONCE, over the Main screen, the first time Main is visible: after the privacy consent and the onboarding. Nothing in the onboarding changes.\n2 iOS's notification prompt waits until the user answers (as built in VPN-129: the prompt is asked on Main today, after the onboarding). So the question never shows during the onboarding and never next to an iOS prompt.\n3 Users who update from an older version see it once, on Main.\n4 Both answers are equal: same button, same size, same colour. Nothing is chosen for the user. No close (✕) and no swipe-down: the sheet goes away with No or Yes. \"No\" is first (leading side), \"Yes\" second.\n5 The answer goes to the switch in Settings: Yes = on, No = off. Not answered = off. The app sends the answer with the push-token registration (VPN-129); BackendEngineer stores it.\n6 The answer is about OFFER notifications only. Connection and account notifications stay as today. iOS's own notification switch is separate.\nChanges from the VPN-129 build: full screen → a sheet over Main (the user sees where they are); unequal buttons (green \"Yes, send offers\" + outline \"Not now\") → two equal buttons No | Yes; Heart icon removed (it is the \"Rate us\" icon); title \"Offers worth hearing about?\" and body \"Premium plans, free trials and seasonal prices\" → plain words with no offer promise; the Settings switch gets a caption and sits in its own card."
+  },
+  "vpn1152-iphone-texts": {
+   "x": 1920,
+   "y": 24508,
+   "page": "iphone",
+   "w": 900,
+   "size": "m",
+   "fill": "orange",
+   "text": "Texts — EN | AR. All new (MARKETING_OPT_IN.*; the VPN-129 build had other words, see Flow). Plain words; no promise of an offer.\nThe question (iPhone sheet, Mac sheet):\n• TITLE: Offers and promotions | العروض الترويجية\n• BODY: Can Securefield send you notifications about offers and promotions? | هل يمكن أن يرسل لك Securefield إشعارات حول العروض الترويجية؟\n• SERVICE: Notifications about your connection and your account do not change. | لن تتغير الإشعارات الخاصة باتصالك وحسابك.\n• DECLINE (button): No | لا\n• ACCEPT (button): Yes | نعم\n• FOOTNOTE: You can change your answer at any time in Settings. | يمكنك تغيير إجابتك في أي وقت من الإعدادات.\nSettings:\n• SETTINGS_ROW: Offers and promotions | العروض الترويجية\n• SETTINGS_CAPTION (new): Send me notifications about offers | أرسل لي إشعارات حول العروض\nVoiceOver: the switch reads \"Offers and promotions, Send me notifications about offers, switch, off\" / Arabic the same order. The two buttons read \"No, button\" and \"Yes, button\"."
+  },
+  "vpn1152-iphone-parts": {
+   "x": 2900,
+   "y": 24508,
+   "page": "iphone",
+   "w": 900,
+   "size": "m",
+   "fill": "orange",
+   "text": "Parts and tokens (all from design-system/project/tokens.json; no new token).\nQuestion sheet: the VPN-907 help sheet shape — background gradient bgGraphit → bgBlack 135°, radius 40/40/60/60, behind it Main with a black 48 % layer. Padding 32 top, 24 sides, 42 bottom. Title H6 (NAMU-1850 22/24.2, text-primary). Body Body1 (Red Hat Display 15/21, text-primary). Service line Body1 in text-tertiary (lightGray #D1DCEA). Footnote Caption (12/16.8, text-tertiary). Gaps 12; 16 above the buttons.\nButtons: GradientBorderButton surface (iceBlue fill, gradient edge, radius-button 24), label Red Hat Display 16 white; height 56, two side by side, gap 12. New use: the component today is full width with aspect 4.64; here half width, height 56.\nSettings card: GradientBorderCard (radius 28, iceBlue), height 72, padding 20 leading / 16 trailing, 12 below, between \"Restore purchases\" and the actions card. Label Body1; caption Caption in text-tertiary. Switch: the iOS system switch (51 × 31), tint lightGreen #35DF91 (text-secondary, as built in VPN-129). The off track and the knob are drawn by iOS.\nNEW component: a switch row (the iPhone app has no switch today). It goes into the Design System after approval.\nContrast: white on iceBlue card ≥ 4.5:1 and lightGray on it ≥ 4.5:1 (the same pairs as the Settings rows today). The on track #35DF91 on the card ≥ 3:1. The off track is the iOS system colour (not ours)."
+  },
+  "vpn1152-iphone-ipad": {
+   "x": 3880,
+   "y": 24508,
+   "page": "iphone",
+   "w": 700,
+   "size": "m",
+   "fill": "orange",
+   "text": "iPad: YES, it needs its own frames (not drawn in this round).\n• The question: on iPad a sheet is a form sheet in the middle of the screen (as the Report sheet, 580 pt wide), not a bottom sheet. Portrait and landscape.\n• Settings on iPad is another view (WideSettingsView): a form sheet with a 320 pt sidebar (premium row, then the rows card) and a detail pane. The switch card goes into the sidebar, under the premium row. Type sizes × 1.3 (tablet rule).\nReady to draw in the next round when Project Manager sends it."
+  },
+  "vpn1152-iphone-row2": {
+   "x": 0,
+   "y": 25752,
+   "text": "Proposal — VPN-1152 · Settings · free user · offers switch off (default, and after No), then on (after Yes); EN, then AR",
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1152-iphone-settings": {
+   "x": 1880,
+   "y": 26052,
+   "page": "iphone",
+   "w": 700,
+   "size": "m",
+   "fill": "orange",
+   "text": "Settings: a new card \"Offers and promotions\" with a switch, between \"Restore purchases\" and the rows card. Free and premium users: the same card (premium users get offers too, for example a yearly plan). Drawn on the free user's Settings; on the premium user's Settings it sits in the same place. The rows card moves down by 84 pt; Settings scrolls as today."
+  },
+  "vpn1152-iphone-mark-main": {
+   "x": 6620,
+   "y": 6560,
+   "page": "iphone",
+   "w": 700,
+   "size": "m",
+   "fill": "orange",
+   "text": "Proposal — VPN-1152 (below): the offers question shows once over this Main screen, after the onboarding. This row does not change until the board approves."
+  },
+  "vpn1152-iphone-mark-settings": {
+   "x": 1880,
+   "y": 11312,
+   "page": "iphone",
+   "w": 700,
+   "size": "m",
+   "fill": "orange",
+   "text": "Proposal — VPN-1152 (below): a new \"Offers and promotions\" switch card between Restore purchases and the rows. These frames stay until the board approves."
+  },
+  "vpn1152-mac-block": {
+   "x": 0,
+   "y": 21720,
+   "text": "Proposal — VPN-1152 · Offers question and its Settings switch (Mac: see the note — the Mac app has no push today)",
+   "page": "mac",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1152-mac-row1": {
+   "x": 0,
+   "y": 21920,
+   "text": "Proposal — VPN-1152 · Offers question over the main window (once, after first launch; EN, then AR)",
+   "page": "mac",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1152-mac-note": {
+   "x": 2004,
+   "y": 22220,
+   "page": "mac",
+   "w": 900,
+   "size": "m",
+   "fill": "orange",
+   "text": "Mac — read before deciding.\n• The Mac app has NO push today: no push entitlement (aps-environment) and no notification code in native/MacApp. So no offer notification can reach a Mac now.\n• If the answer is stored per device (as in VPN-129: it goes with the iPhone's push token), the Mac question has no effect. Recommendation: do not show the question on Mac until the Mac gets push; draw it now only so the board sees it.\n• If the backend stores it per account, a Mac answer would also change the iPhone's offers. Then the Mac question makes sense. A question for Project Manager / BackendEngineer.\nFrames: the question as a sheet over the main window (after first launch, never in it); the switch in Settings › General under \"Connect when the app opens\", system switch (tint lightGreen), caption in system 11 pt lightGray. Buttons: OutlineButtonStyle (height 44, capsule, surface, 1.5 pt hairline), two equal, No first."
+  },
+  "vpn1152-mac-texts": {
+   "x": 2984,
+   "y": 22220,
+   "page": "mac",
+   "w": 900,
+   "size": "m",
+   "fill": "orange",
+   "text": "Texts — EN | AR. All new (MARKETING_OPT_IN.*; the VPN-129 build had other words, see Flow). Plain words; no promise of an offer.\nThe question (iPhone sheet, Mac sheet):\n• TITLE: Offers and promotions | العروض الترويجية\n• BODY: Can Securefield send you notifications about offers and promotions? | هل يمكن أن يرسل لك Securefield إشعارات حول العروض الترويجية؟\n• SERVICE: Notifications about your connection and your account do not change. | لن تتغير الإشعارات الخاصة باتصالك وحسابك.\n• DECLINE (button): No | لا\n• ACCEPT (button): Yes | نعم\n• FOOTNOTE: You can change your answer at any time in Settings. | يمكنك تغيير إجابتك في أي وقت من الإعدادات.\nSettings:\n• SETTINGS_ROW: Offers and promotions | العروض الترويجية\n• SETTINGS_CAPTION (new): Send me notifications about offers | أرسل لي إشعارات حول العروض\nVoiceOver: the switch reads \"Offers and promotions, Send me notifications about offers, switch, off\" / Arabic the same order. The two buttons read \"No, button\" and \"Yes, button\"."
+  },
+  "vpn1152-mac-row2": {
+   "x": 0,
+   "y": 23242,
+   "text": "Proposal — VPN-1152 · Settings · offers switch off (default), then on; EN, then AR",
+   "page": "mac",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1152-mac-mark-settings": {
+   "x": 2160,
+   "y": 3810,
+   "page": "mac",
+   "w": 700,
+   "size": "m",
+   "fill": "orange",
+   "text": "Proposal — VPN-1152 (below): a new \"Offers and promotions\" switch in General, under \"Connect when the app opens\". Only if the board keeps the question on Mac."
+  },
+  "vpn1152-ipad-block": {
+   "x": 0,
+   "y": 25140,
+   "text": "Proposal — VPN-1152 · Offers question and its Settings switch: iPad frames not drawn yet (see the iPhone page)",
+   "page": "ipad",
+   "kind": "title1",
+   "maxW": 4000
+  },
+  "vpn1152-ipad-note": {
+   "x": 0,
+   "y": 25340,
+   "page": "ipad",
+   "w": 900,
+   "size": "m",
+   "fill": "orange",
+   "text": "iPad needs its own frames: the question is a form sheet in the middle of the screen (not a bottom sheet), and Settings is the sidebar form sheet (WideSettingsView): the switch card goes under the premium row in the 320 pt sidebar. Portrait and landscape, EN and AR. Drawn in the next round when Project Manager sends it. Flow, texts and parts: iPhone page, Proposal — VPN-1152."
   }
  }
 }
