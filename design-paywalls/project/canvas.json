@@ -1831,6 +1831,14 @@
    "h": 668,
    "page": "iphone",
    "title": "BLACK_FRIDAY-flow · All users (not premium) · No offer · EN · Built in Adapty — VPN-1076 (7ae70733, unchanged in b7e15553) · Adapty render 375 × 667, whole screen · sample prices"
+  },
+  "iPhone-BLACK_FRIDAY-flow-Proposal_VPN1269-Texts10Languages.dc.html": {
+   "x": 8480,
+   "y": 23424.515625,
+   "w": 3400,
+   "h": 2932,
+   "page": "iphone",
+   "title": "Proposal — VPN-1269 · BLACK_FRIDAY-flow · All users · every text × 10 app languages (en, ar live; de, es, fr, he, it, ja, ru, uk new) · text table"
   }
  },
  "order": [
@@ -1899,6 +1907,7 @@
   "iPhone-BLACK_FRIDAY-flow-BlackFriday2026-NoOffer_BuiltInAdapty390-AR.dc.html",
   "iPhone-BLACK_FRIDAY-flow-BlackFriday2026-Offer_BuiltInAdapty375-EN.dc.html",
   "iPhone-BLACK_FRIDAY-flow-BlackFriday2026-NoOffer_BuiltInAdapty375-EN.dc.html",
+  "iPhone-BLACK_FRIDAY-flow-Proposal_VPN1269-Texts10Languages.dc.html",
   "iPhone-DAILY_USING_USERS_FREE-Least_using_Users_FREE_introductory-AdaptyPreview-EN.dc.html",
   "iPhone-DAILY_USING_USERS_FREE-Least_using_Users_FREE_introductory-AdaptyPreview-AR.dc.html",
   "iPhone-NEVER_USED_YEARLY_OFFER-BEST_OFFER_FOR_YEARLY_NEVER_USED-AdaptyPreview-EN.dc.html",
@@ -3807,6 +3816,14 @@
    "size": "m",
    "fill": "gray",
    "text": "Build facts (SecurefieldiOS; build-report §5 and §13 on VPN-1076).\n• Live: Adapty Flow b7e15553 “BLACK_FRIDAY 2026 (flow) VPN-1076 first-year badge”, version dd59618b, published 2026-11-23 14:15Z. It is a copy of 7ae70733 with only the badge text changed.\n• Ways back (published, on no placement): 7ae70733 (badge “Black Friday price”, live 11-22 to 11-23) and 5106288a (the VPN-873 version, live 11-20 to 11-22).\n• Fonts: NAMU-1850 and RedHatDisplay-Regular. Arabic letters in the system Arabic font.\nDifferences from the approved proposal frames, all accepted in the design review (DESIGN PASS, 2026-11-21). The frames in this row include them:\n• Pill letter spacing 0.6 in both languages (fallback: the builder has one letter spacing per text). On iOS the Arabic letters stay joined; the joins get a little longer.\n• 11 pt room above the card in the Offer state only, so the badge covers no feature line at 375 × 667. On larger iPhones the card sits 5.5 pt lower in the Offer state.\n• The picture stays 260 × 180 on every iPhone. At 375 × 667 the screen scrolls 9 pt (Offer) and 12 pt (No offer).\n• At 375 × 667 the English Offer renewal line wraps with “cancel.” on line 2. Nothing is cut.\n• Hero as WEBP with transparency (draws on SDK 4.1.2). Radio: the flow's PNG (small shading difference). Continue width as before. Status bar: drawn by iOS.\n• Images 98 KB together, config 62.5 KB: about 3.3 s at 400 kbit/s, inside the app's 8 s after a push tap."
+  },
+  "vpn1269-t": {
+   "x": 8480,
+   "y": 23044.515625,
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 3400,
+   "text": "Proposal — VPN-1269 · BLACK_FRIDAY-flow · All users · Adapty Flow b7e15553 · the 8 missing app languages (texts only, no layout change)"
   }
  }
 }
