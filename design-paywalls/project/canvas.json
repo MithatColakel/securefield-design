@@ -798,7 +798,7 @@
    "w": 834,
    "h": 1210,
    "page": "ipad",
-   "title": "SERVER_PREMIUM · pop-up with the server banner · portrait · EN · app screenshot"
+   "title": "SERVER_PREMIUM · pop-up with the server banner · portrait · EN · debug path only — users never see this · app screenshot"
   },
   "iPad-SERVER_PREMIUM-PremiumPopUp-LandscapePlain-EN.dc.html": {
    "x": 1828,
@@ -822,7 +822,7 @@
    "w": 834,
    "h": 1210,
    "page": "ipad",
-   "title": "SERVER_PREMIUM · pop-up with the server banner · portrait · AR · app screenshot"
+   "title": "SERVER_PREMIUM · pop-up with the server banner · portrait · AR · debug path only — users never see this · app screenshot"
   },
   "iPad-SERVER_PREMIUM-PremiumPopUp-LandscapePlain-AR.dc.html": {
    "x": 4946,
@@ -2588,7 +2588,7 @@
   "ipad-057": {
    "x": 0,
    "y": 8176,
-   "text": "Today: the app's own Premium pop-up. App screenshots. In the plain pop-up the feature lines lie over the Yearly card; in landscape, Close and Restore are not visible.",
+   "text": "Today: the app's own Premium pop-up. App screenshots. In the plain pop-up the feature lines lie over the Yearly card; in landscape, Close and Restore are not visible. The pop-up with the server banner (portrait, EN and AR) is debug path only — users never see this. On the iPad a premium server opens the plain pop-up.",
    "page": "ipad",
    "w": 1800,
    "size": "m",

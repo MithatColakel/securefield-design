@@ -1232,86 +1232,6 @@
    "page": "mac",
    "title": "Menu bar panel · location picker open · AR"
   },
-  "Mac-MainWindow-NotConnected-EN.dc.html": {
-   "x": 0,
-   "y": 2388,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Main window · not connected, not premium · EN"
-  },
-  "Mac-MainWindow-Connecting-EN.dc.html": {
-   "x": 1002,
-   "y": 2388,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Main window · connecting · EN"
-  },
-  "Mac-MainWindow-Connected-EN.dc.html": {
-   "x": 2004,
-   "y": 2388,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Main window · connected, premium · EN"
-  },
-  "Mac-MainWindow-NotConnected-AR.dc.html": {
-   "x": 3006,
-   "y": 2388,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Main window · not connected, not premium · AR"
-  },
-  "Mac-MainWindow-Connecting-AR.dc.html": {
-   "x": 4008,
-   "y": 2388,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Main window · connecting · AR"
-  },
-  "Mac-MainWindow-Connected-AR.dc.html": {
-   "x": 5010,
-   "y": 2388,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Main window · connected, premium · AR"
-  },
-  "Mac-Settings-Premium-EN.dc.html": {
-   "x": 0,
-   "y": 3810,
-   "w": 460,
-   "h": 732,
-   "page": "mac",
-   "title": "Settings · premium · EN"
-  },
-  "Mac-Settings-NotPremium-EN.dc.html": {
-   "x": 540,
-   "y": 3810,
-   "w": 460,
-   "h": 732,
-   "page": "mac",
-   "title": "Settings · not premium · EN"
-  },
-  "Mac-Settings-Premium-AR.dc.html": {
-   "x": 1080,
-   "y": 3810,
-   "w": 460,
-   "h": 732,
-   "page": "mac",
-   "title": "Settings · premium · AR"
-  },
-  "Mac-Settings-NotPremium-AR.dc.html": {
-   "x": 1620,
-   "y": 3810,
-   "w": 460,
-   "h": 732,
-   "page": "mac",
-   "title": "Settings · not premium · AR"
-  },
   "Mac-Report-Default-EN.dc.html": {
    "x": 0,
    "y": 4942,
@@ -1378,7 +1298,7 @@
   },
   "Mac-Panel-ConnectedOpenButton-ProposalVPN795-EN.dc.html": {
    "x": 0,
-   "y": 7542,
+   "y": 17284,
    "w": 340,
    "h": 292,
    "page": "mac",
@@ -1386,123 +1306,11 @@
   },
   "Mac-Panel-ConnectedOpenButton-ProposalVPN795-AR.dc.html": {
    "x": 420,
-   "y": 7542,
+   "y": 17284,
    "w": 340,
    "h": 292,
    "page": "mac",
    "title": "Proposal — VPN-795 · Menu bar panel · connected, new Open button · AR"
-  },
-  "Mac-MainWindow-NotConnected-ProposalVPN809-EN.dc.html": {
-   "x": 0,
-   "y": 9534,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Proposal — VPN-809 · Main window, no top bar · not connected, not premium · EN"
-  },
-  "Mac-MainWindow-Connecting-ProposalVPN809-EN.dc.html": {
-   "x": 1002,
-   "y": 9534,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Proposal — VPN-809 · Main window, no top bar · connecting · EN"
-  },
-  "Mac-MainWindow-Connected-ProposalVPN809-EN.dc.html": {
-   "x": 2004,
-   "y": 9534,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Proposal — VPN-809 · Main window, no top bar · connected, premium · EN"
-  },
-  "Mac-MainWindow-NotConnected-ProposalVPN809-AR.dc.html": {
-   "x": 3006,
-   "y": 9534,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Proposal — VPN-809 · Main window, no top bar · not connected, not premium · AR"
-  },
-  "Mac-MainWindow-Connecting-ProposalVPN809-AR.dc.html": {
-   "x": 4008,
-   "y": 9534,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Proposal — VPN-809 · Main window, no top bar · connecting · AR"
-  },
-  "Mac-MainWindow-Connected-ProposalVPN809-AR.dc.html": {
-   "x": 5010,
-   "y": 9534,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Proposal — VPN-809 · Main window, no top bar · connected, premium · AR"
-  },
-  "Mac-Settings-PremiumShowInDockOn-ProposalVPN809-EN.dc.html": {
-   "x": 0,
-   "y": 11356,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Proposal — VPN-809 · Settings in the window · premium · Show in Dock on (default) · EN"
-  },
-  "Mac-Settings-PremiumShowInDockOff-ProposalVPN809-EN.dc.html": {
-   "x": 1002,
-   "y": 11356,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Proposal — VPN-809 · Settings in the window · premium · Show in Dock off · EN"
-  },
-  "Mac-Settings-NotPremiumShowInDockOn-ProposalVPN809-EN.dc.html": {
-   "x": 2004,
-   "y": 11356,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Proposal — VPN-809 · Settings in the window · not premium · Show in Dock on (default) · EN"
-  },
-  "Mac-Settings-NotPremiumShowInDockOff-ProposalVPN809-EN.dc.html": {
-   "x": 3006,
-   "y": 11356,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Proposal — VPN-809 · Settings in the window · not premium · Show in Dock off · EN"
-  },
-  "Mac-Settings-PremiumShowInDockOn-ProposalVPN809-AR.dc.html": {
-   "x": 4008,
-   "y": 11356,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Proposal — VPN-809 · Settings in the window · premium · Show in Dock on (default) · AR"
-  },
-  "Mac-Settings-PremiumShowInDockOff-ProposalVPN809-AR.dc.html": {
-   "x": 5010,
-   "y": 11356,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Proposal — VPN-809 · Settings in the window · premium · Show in Dock off · AR"
-  },
-  "Mac-Settings-NotPremiumShowInDockOn-ProposalVPN809-AR.dc.html": {
-   "x": 6012,
-   "y": 11356,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Proposal — VPN-809 · Settings in the window · not premium · Show in Dock on (default) · AR"
-  },
-  "Mac-Settings-NotPremiumShowInDockOff-ProposalVPN809-AR.dc.html": {
-   "x": 7014,
-   "y": 11356,
-   "w": 922,
-   "h": 622,
-   "page": "mac",
-   "title": "Proposal — VPN-809 · Settings in the window · not premium · Show in Dock off · AR"
   },
   "iPhone-Main-PremiumDisconnected-EN.dc.html": {
    "x": 2350,
@@ -1550,7 +1358,7 @@
    "w": 390,
    "h": 844,
    "page": "iphone",
-   "title": "Proposal — VPN-907 · Connect · 1 first Connect: iOS prompt over Main (stand-in) · EN"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 1 first Connect: iOS prompt over Main (stand-in) · EN"
   },
   "iPhone-Connect-HelpAfterDecline-ProposalVPN907-EN.dc.html": {
    "x": 470,
@@ -1558,7 +1366,7 @@
    "w": 390,
    "h": 844,
    "page": "iphone",
-   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help sheet · EN"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 2 after Don't Allow: help sheet · EN"
   },
   "iPhone-Connect-FirstConnectPrompt-ProposalVPN907-AR.dc.html": {
    "x": 940,
@@ -1566,7 +1374,7 @@
    "w": 390,
    "h": 844,
    "page": "iphone",
-   "title": "Proposal — VPN-907 · Connect · 1 first Connect: iOS prompt over Main (stand-in) · AR"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 1 first Connect: iOS prompt over Main (stand-in) · AR"
   },
   "iPhone-Connect-HelpAfterDecline-ProposalVPN907-AR.dc.html": {
    "x": 1410,
@@ -1574,7 +1382,7 @@
    "w": 390,
    "h": 844,
    "page": "iphone",
-   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help sheet · AR"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 2 after Don't Allow: help sheet · AR"
   },
   "iPad-Connect-Portrait-FirstConnectPrompt-ProposalVPN907-EN.dc.html": {
    "x": 0,
@@ -1582,7 +1390,7 @@
    "w": 834,
    "h": 1210,
    "page": "ipad",
-   "title": "Proposal — VPN-907 · Connect · 1 first Connect: iPadOS prompt over Main (stand-in) · portrait · EN"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 1 first Connect: iPadOS prompt over Main (stand-in) · portrait · EN"
   },
   "iPad-Connect-Portrait-HelpAfterDecline-ProposalVPN907-EN.dc.html": {
    "x": 914,
@@ -1590,7 +1398,7 @@
    "w": 834,
    "h": 1210,
    "page": "ipad",
-   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help sheet · portrait · EN"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 2 after Don't Allow: help sheet · portrait · EN"
   },
   "iPad-Connect-Landscape-FirstConnectPrompt-ProposalVPN907-EN.dc.html": {
    "x": 1828,
@@ -1598,7 +1406,7 @@
    "w": 1210,
    "h": 834,
    "page": "ipad",
-   "title": "Proposal — VPN-907 · Connect · 1 first Connect: iPadOS prompt over Main (stand-in) · landscape · EN"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 1 first Connect: iPadOS prompt over Main (stand-in) · landscape · EN"
   },
   "iPad-Connect-Landscape-HelpAfterDecline-ProposalVPN907-EN.dc.html": {
    "x": 3118,
@@ -1606,7 +1414,7 @@
    "w": 1210,
    "h": 834,
    "page": "ipad",
-   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help sheet · landscape · EN"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 2 after Don't Allow: help sheet · landscape · EN"
   },
   "iPad-Connect-Portrait-FirstConnectPrompt-ProposalVPN907-AR.dc.html": {
    "x": 4408,
@@ -1614,7 +1422,7 @@
    "w": 834,
    "h": 1210,
    "page": "ipad",
-   "title": "Proposal — VPN-907 · Connect · 1 first Connect: iPadOS prompt over Main (stand-in) · portrait · AR"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 1 first Connect: iPadOS prompt over Main (stand-in) · portrait · AR"
   },
   "iPad-Connect-Portrait-HelpAfterDecline-ProposalVPN907-AR.dc.html": {
    "x": 5322,
@@ -1622,7 +1430,7 @@
    "w": 834,
    "h": 1210,
    "page": "ipad",
-   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help sheet · portrait · AR"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 2 after Don't Allow: help sheet · portrait · AR"
   },
   "iPad-Connect-Landscape-FirstConnectPrompt-ProposalVPN907-AR.dc.html": {
    "x": 6236,
@@ -1630,7 +1438,7 @@
    "w": 1210,
    "h": 834,
    "page": "ipad",
-   "title": "Proposal — VPN-907 · Connect · 1 first Connect: iPadOS prompt over Main (stand-in) · landscape · AR"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 1 first Connect: iPadOS prompt over Main (stand-in) · landscape · AR"
   },
   "iPad-Connect-Landscape-HelpAfterDecline-ProposalVPN907-AR.dc.html": {
    "x": 7526,
@@ -1638,167 +1446,167 @@
    "w": 1210,
    "h": 834,
    "page": "ipad",
-   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help sheet · landscape · AR"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 2 after Don't Allow: help sheet · landscape · AR"
   },
   "Mac-Connect-FirstConnectPrompt-ProposalVPN907-EN.dc.html": {
    "x": 0,
-   "y": 12678,
+   "y": 7642,
    "w": 922,
    "h": 622,
    "page": "mac",
-   "title": "Proposal — VPN-907 · Connect · 1 first Connect: macOS prompt over the main window (stand-in) · EN"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 1 first Connect: macOS prompt over the main window (stand-in) · EN"
   },
   "Mac-Connect-HelpAfterDecline-ProposalVPN907-EN.dc.html": {
    "x": 1002,
-   "y": 12678,
+   "y": 7642,
    "w": 480,
    "h": 672,
    "page": "mac",
-   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help (replaces First launch · permission denied) · EN"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 2 after Don't Allow: help (replaces First launch · permission denied) · EN"
   },
   "Mac-Connect-FirstConnectPrompt-ProposalVPN907-AR.dc.html": {
    "x": 1562,
-   "y": 12678,
+   "y": 7642,
    "w": 922,
    "h": 622,
    "page": "mac",
-   "title": "Proposal — VPN-907 · Connect · 1 first Connect: macOS prompt over the main window (stand-in) · AR"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 1 first Connect: macOS prompt over the main window (stand-in) · AR"
   },
   "Mac-Connect-HelpAfterDecline-ProposalVPN907-AR.dc.html": {
    "x": 2564,
-   "y": 12678,
+   "y": 7642,
    "w": 480,
    "h": 672,
    "page": "mac",
-   "title": "Proposal — VPN-907 · Connect · 2 after Don't Allow: help (replaces First launch · permission denied) · AR"
+   "title": "Approved, not built — VPN-924 · VPN-907 · Connect · 2 after Don't Allow: help (replaces First launch · permission denied) · AR"
   },
   "Mac-MainWindow-NotConnected-ProposalVPN923-EN.dc.html": {
    "x": 0,
-   "y": 14050,
+   "y": 10786,
    "w": 922,
    "h": 622,
    "page": "mac",
-   "title": "Proposal — VPN-923 · Main window · not connected · button normal (Connect) · EN"
+   "title": "Approved, not built — VPN-981 · VPN-923 · Main window · not connected · button normal (Connect) · EN"
   },
   "Mac-MainWindow-ConnectPressed-ProposalVPN923-EN.dc.html": {
    "x": 1002,
-   "y": 14050,
+   "y": 10786,
    "w": 922,
    "h": 622,
    "page": "mac",
-   "title": "Proposal — VPN-923 · Main window · not connected · button pressed · EN"
+   "title": "Approved, not built — VPN-981 · VPN-923 · Main window · not connected · button pressed · EN"
   },
   "Mac-MainWindow-Disconnecting-ProposalVPN923-EN.dc.html": {
    "x": 2004,
-   "y": 14050,
+   "y": 10786,
    "w": 922,
    "h": 622,
    "page": "mac",
-   "title": "Proposal — VPN-923 · Main window · disconnecting · button disabled (Disconnect) · EN"
+   "title": "Approved, not built — VPN-981 · VPN-923 · Main window · disconnecting · button disabled (Disconnect) · EN"
   },
   "Mac-MainWindow-NotConnected-ProposalVPN923-AR.dc.html": {
    "x": 3006,
-   "y": 14050,
+   "y": 10786,
    "w": 922,
    "h": 622,
    "page": "mac",
-   "title": "Proposal — VPN-923 · Main window · not connected · button normal (Connect) · AR"
+   "title": "Approved, not built — VPN-981 · VPN-923 · Main window · not connected · button normal (Connect) · AR"
   },
   "Mac-MainWindow-ConnectPressed-ProposalVPN923-AR.dc.html": {
    "x": 4008,
-   "y": 14050,
+   "y": 10786,
    "w": 922,
    "h": 622,
    "page": "mac",
-   "title": "Proposal — VPN-923 · Main window · not connected · button pressed · AR"
+   "title": "Approved, not built — VPN-981 · VPN-923 · Main window · not connected · button pressed · AR"
   },
   "Mac-MainWindow-Disconnecting-ProposalVPN923-AR.dc.html": {
    "x": 5010,
-   "y": 14050,
+   "y": 10786,
    "w": 922,
    "h": 622,
    "page": "mac",
-   "title": "Proposal — VPN-923 · Main window · disconnecting · button disabled (Disconnect) · AR"
+   "title": "Approved, not built — VPN-981 · VPN-923 · Main window · disconnecting · button disabled (Disconnect) · AR"
   },
   "Mac-FirstLaunch-Welcome-ProposalVPN923-EN.dc.html": {
    "x": 0,
-   "y": 15372,
+   "y": 12108,
    "w": 480,
    "h": 672,
    "page": "mac",
-   "title": "Proposal — VPN-923 · First launch · welcome · button normal · EN"
+   "title": "Approved, not built — VPN-981 · VPN-923 · First launch · welcome · button normal · EN"
   },
   "Mac-FirstLaunch-WelcomePressed-ProposalVPN923-EN.dc.html": {
    "x": 560,
-   "y": 15372,
+   "y": 12108,
    "w": 480,
    "h": 672,
    "page": "mac",
-   "title": "Proposal — VPN-923 · First launch · welcome · button pressed · EN"
+   "title": "Approved, not built — VPN-981 · VPN-923 · First launch · welcome · button pressed · EN"
   },
   "Mac-FirstLaunch-Welcome-ProposalVPN923-AR.dc.html": {
    "x": 1120,
-   "y": 15372,
+   "y": 12108,
    "w": 480,
    "h": 672,
    "page": "mac",
-   "title": "Proposal — VPN-923 · First launch · welcome · button normal · AR"
+   "title": "Approved, not built — VPN-981 · VPN-923 · First launch · welcome · button normal · AR"
   },
   "Mac-FirstLaunch-WelcomePressed-ProposalVPN923-AR.dc.html": {
    "x": 1680,
-   "y": 15372,
+   "y": 12108,
    "w": 480,
    "h": 672,
    "page": "mac",
-   "title": "Proposal — VPN-923 · First launch · welcome · button pressed · AR"
+   "title": "Approved, not built — VPN-981 · VPN-923 · First launch · welcome · button pressed · AR"
   },
   "Mac-Report-Default-ProposalVPN923-EN.dc.html": {
    "x": 0,
-   "y": 16744,
+   "y": 13480,
    "w": 480,
    "h": 640,
    "page": "mac",
-   "title": "Proposal — VPN-923 · Report · default · Send normal · EN"
+   "title": "Approved, not built — VPN-981 · VPN-923 · Report · default · Send normal · EN"
   },
   "Mac-Report-Default-ProposalVPN923-AR.dc.html": {
    "x": 560,
-   "y": 16744,
+   "y": 13480,
    "w": 480,
    "h": 640,
    "page": "mac",
-   "title": "Proposal — VPN-923 · Report · default · Send normal · AR"
+   "title": "Approved, not built — VPN-981 · VPN-923 · Report · default · Send normal · AR"
   },
   "Mac-Panel-NotConnected-ProposalVPN923-EN.dc.html": {
    "x": 0,
-   "y": 18084,
+   "y": 14820,
    "w": 340,
    "h": 292,
    "page": "mac",
-   "title": "Proposal — VPN-923 · Menu bar panel · not connected · Connect normal · EN"
+   "title": "Approved, not built — VPN-981 · VPN-923 · Menu bar panel · not connected · Connect normal · EN"
   },
   "Mac-Panel-NotConnected-ProposalVPN923-AR.dc.html": {
    "x": 420,
-   "y": 18084,
+   "y": 14820,
    "w": 340,
    "h": 292,
    "page": "mac",
-   "title": "Proposal — VPN-923 · Menu bar panel · not connected · Connect normal · AR"
+   "title": "Approved, not built — VPN-981 · VPN-923 · Menu bar panel · not connected · Connect normal · AR"
   },
   "Mac-Connect-HelpAfterDecline-ProposalVPN923-EN.dc.html": {
    "x": 0,
-   "y": 19076,
+   "y": 15812,
    "w": 480,
    "h": 672,
    "page": "mac",
-   "title": "Proposal — VPN-923 · Help after Don't Allow (VPN-907) · Try again normal · EN"
+   "title": "Approved, not built — VPN-981 · VPN-923 · Help after Don't Allow (VPN-907) · Try again normal · EN"
   },
   "Mac-Connect-HelpAfterDecline-ProposalVPN923-AR.dc.html": {
    "x": 560,
-   "y": 19076,
+   "y": 15812,
    "w": 480,
    "h": 672,
    "page": "mac",
-   "title": "Proposal — VPN-923 · Help after Don't Allow (VPN-907) · Try again normal · AR"
+   "title": "Approved, not built — VPN-981 · VPN-923 · Help after Don't Allow (VPN-907) · Try again normal · AR"
   },
   "iPhone-Connect-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html": {
    "x": 0,
@@ -1806,7 +1614,7 @@
    "w": 390,
    "h": 844,
    "page": "iphone",
-   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help sheet · EN"
+   "title": "Approved, not built — VPN-924 · VPN-907 NoPrompt · Connect · no system prompt: help sheet · EN"
   },
   "iPhone-Connect-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html": {
    "x": 470,
@@ -1814,7 +1622,7 @@
    "w": 390,
    "h": 844,
    "page": "iphone",
-   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help sheet · AR"
+   "title": "Approved, not built — VPN-924 · VPN-907 NoPrompt · Connect · no system prompt: help sheet · AR"
   },
   "iPad-Connect-Portrait-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html": {
    "x": 0,
@@ -1822,7 +1630,7 @@
    "w": 834,
    "h": 1210,
    "page": "ipad",
-   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help sheet · portrait · EN"
+   "title": "Approved, not built — VPN-924 · VPN-907 NoPrompt · Connect · no system prompt: help sheet · portrait · EN"
   },
   "iPad-Connect-Landscape-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html": {
    "x": 914,
@@ -1830,7 +1638,7 @@
    "w": 1210,
    "h": 834,
    "page": "ipad",
-   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help sheet · landscape · EN"
+   "title": "Approved, not built — VPN-924 · VPN-907 NoPrompt · Connect · no system prompt: help sheet · landscape · EN"
   },
   "iPad-Connect-Portrait-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html": {
    "x": 2204,
@@ -1838,7 +1646,7 @@
    "w": 834,
    "h": 1210,
    "page": "ipad",
-   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help sheet · portrait · AR"
+   "title": "Approved, not built — VPN-924 · VPN-907 NoPrompt · Connect · no system prompt: help sheet · portrait · AR"
   },
   "iPad-Connect-Landscape-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html": {
    "x": 3118,
@@ -1846,23 +1654,23 @@
    "w": 1210,
    "h": 834,
    "page": "ipad",
-   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help sheet · landscape · AR"
+   "title": "Approved, not built — VPN-924 · VPN-907 NoPrompt · Connect · no system prompt: help sheet · landscape · AR"
   },
   "Mac-Connect-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html": {
    "x": 0,
-   "y": 20648,
+   "y": 9214,
    "w": 480,
    "h": 672,
    "page": "mac",
-   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help · EN"
+   "title": "Approved, not built — VPN-924 · VPN-907 NoPrompt · Connect · no system prompt: help · EN"
   },
   "Mac-Connect-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html": {
    "x": 560,
-   "y": 20648,
+   "y": 9214,
    "w": 480,
    "h": 672,
    "page": "mac",
-   "title": "Proposal — VPN-907 NoPrompt · Connect · no system prompt: help · AR"
+   "title": "Approved, not built — VPN-924 · VPN-907 NoPrompt · Connect · no system prompt: help · AR"
   },
   "iPhone-ServerList-FreeUser-TodayVPN1058-EN.dc.html": {
    "x": 0,
@@ -1928,165 +1736,117 @@
    "page": "ipad",
    "title": "Proposal — VPN-1058 · Server list · portrait sheet · free user · premium icon · AR"
   },
-  "iPhone-OffersQuestion-OverMain-ProposalVPN1152-EN.dc.html": {
+  "Mac-MainWindow-NotConnected-EN.dc.html": {
    "x": 0,
-   "y": 24508,
-   "w": 390,
-   "h": 844,
-   "page": "iphone",
-   "title": "Proposal — VPN-1152 · Offers question over Main (after the onboarding) · EN"
-  },
-  "iPhone-OffersQuestion-OverMain-ProposalVPN1152-AR.dc.html": {
-   "x": 470,
-   "y": 24508,
-   "w": 390,
-   "h": 844,
-   "page": "iphone",
-   "title": "Proposal — VPN-1152 · Offers question over Main (after the onboarding) · AR"
-  },
-  "iPhone-Settings-OffersOff-ProposalVPN1152-EN.dc.html": {
-   "x": 0,
-   "y": 26052,
-   "w": 390,
-   "h": 844,
-   "page": "iphone",
-   "title": "Proposal — VPN-1152 · Settings · free user · offers switch off (default) · EN"
-  },
-  "iPhone-Settings-OffersOn-ProposalVPN1152-EN.dc.html": {
-   "x": 470,
-   "y": 26052,
-   "w": 390,
-   "h": 844,
-   "page": "iphone",
-   "title": "Proposal — VPN-1152 · Settings · free user · offers switch on · EN"
-  },
-  "iPhone-Settings-OffersOff-ProposalVPN1152-AR.dc.html": {
-   "x": 940,
-   "y": 26052,
-   "w": 390,
-   "h": 844,
-   "page": "iphone",
-   "title": "Proposal — VPN-1152 · Settings · free user · offers switch off (default) · AR"
-  },
-  "iPhone-Settings-OffersOn-ProposalVPN1152-AR.dc.html": {
-   "x": 1410,
-   "y": 26052,
-   "w": 390,
-   "h": 844,
-   "page": "iphone",
-   "title": "Proposal — VPN-1152 · Settings · free user · offers switch on · AR"
-  },
-  "Mac-OffersQuestion-OverMainWindow-ProposalVPN1152-EN.dc.html": {
-   "x": 0,
-   "y": 22220,
+   "y": 2388,
    "w": 922,
    "h": 622,
    "page": "mac",
-   "title": "Proposal — VPN-1152 · Offers question over the main window (after first launch) · EN"
+   "title": "Main window · not connected, not premium · EN"
   },
-  "Mac-OffersQuestion-OverMainWindow-ProposalVPN1152-AR.dc.html": {
+  "Mac-MainWindow-Connecting-EN.dc.html": {
    "x": 1002,
-   "y": 22220,
+   "y": 2388,
    "w": 922,
    "h": 622,
    "page": "mac",
-   "title": "Proposal — VPN-1152 · Offers question over the main window (after first launch) · AR"
+   "title": "Main window · connecting · EN"
   },
-  "Mac-Settings-OffersOff-ProposalVPN1152-EN.dc.html": {
+  "Mac-MainWindow-Connected-EN.dc.html": {
+   "x": 2004,
+   "y": 2388,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Main window · connected, premium · EN"
+  },
+  "Mac-MainWindow-NotConnected-AR.dc.html": {
+   "x": 3006,
+   "y": 2388,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Main window · not connected, not premium · AR"
+  },
+  "Mac-MainWindow-Connecting-AR.dc.html": {
+   "x": 4008,
+   "y": 2388,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Main window · connecting · AR"
+  },
+  "Mac-MainWindow-Connected-AR.dc.html": {
+   "x": 5010,
+   "y": 2388,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Main window · connected, premium · AR"
+  },
+  "Mac-Settings-PremiumShowInDockOn-EN.dc.html": {
    "x": 0,
-   "y": 23542,
-   "w": 460,
-   "h": 732,
+   "y": 3810,
+   "w": 922,
+   "h": 622,
    "page": "mac",
-   "title": "Proposal — VPN-1152 · Settings · offers switch off (default) · EN"
+   "title": "Settings in the window · premium · Show in Dock on (default) · EN"
   },
-  "Mac-Settings-OffersOn-ProposalVPN1152-EN.dc.html": {
-   "x": 540,
-   "y": 23542,
-   "w": 460,
-   "h": 732,
+  "Mac-Settings-PremiumShowInDockOff-EN.dc.html": {
+   "x": 1002,
+   "y": 3810,
+   "w": 922,
+   "h": 622,
    "page": "mac",
-   "title": "Proposal — VPN-1152 · Settings · offers switch on · EN"
+   "title": "Settings in the window · premium · Show in Dock off · EN"
   },
-  "Mac-Settings-OffersOff-ProposalVPN1152-AR.dc.html": {
-   "x": 1080,
-   "y": 23542,
-   "w": 460,
-   "h": 732,
+  "Mac-Settings-NotPremiumShowInDockOn-EN.dc.html": {
+   "x": 2004,
+   "y": 3810,
+   "w": 922,
+   "h": 622,
    "page": "mac",
-   "title": "Proposal — VPN-1152 · Settings · offers switch off (default) · AR"
+   "title": "Settings in the window · not premium · Show in Dock on (default) · EN"
   },
-  "Mac-Settings-OffersOn-ProposalVPN1152-AR.dc.html": {
-   "x": 1620,
-   "y": 23542,
-   "w": 460,
-   "h": 732,
+  "Mac-Settings-NotPremiumShowInDockOff-EN.dc.html": {
+   "x": 3006,
+   "y": 3810,
+   "w": 922,
+   "h": 622,
    "page": "mac",
-   "title": "Proposal — VPN-1152 · Settings · offers switch on · AR"
+   "title": "Settings in the window · not premium · Show in Dock off · EN"
   },
-  "iPad-OffersQuestion-Portrait-OverMain-ProposalVPN1152-EN.dc.html": {
-   "x": 0,
-   "y": 26540,
-   "w": 834,
-   "h": 1210,
-   "page": "ipad",
-   "title": "Proposal — VPN-1152 · Offers question over Main, form sheet (after the onboarding) · portrait · EN"
+  "Mac-Settings-PremiumShowInDockOn-AR.dc.html": {
+   "x": 4008,
+   "y": 3810,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Settings in the window · premium · Show in Dock on (default) · AR"
   },
-  "iPad-OffersQuestion-Landscape-OverMain-ProposalVPN1152-EN.dc.html": {
-   "x": 914,
-   "y": 26540,
-   "w": 1210,
-   "h": 834,
-   "page": "ipad",
-   "title": "Proposal — VPN-1152 · Offers question over Main, form sheet (after the onboarding) · landscape · EN"
+  "Mac-Settings-PremiumShowInDockOff-AR.dc.html": {
+   "x": 5010,
+   "y": 3810,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Settings in the window · premium · Show in Dock off · AR"
   },
-  "iPad-OffersQuestion-Portrait-OverMain-ProposalVPN1152-AR.dc.html": {
-   "x": 2204,
-   "y": 26540,
-   "w": 834,
-   "h": 1210,
-   "page": "ipad",
-   "title": "Proposal — VPN-1152 · Offers question over Main, form sheet (after the onboarding) · portrait · AR"
+  "Mac-Settings-NotPremiumShowInDockOn-AR.dc.html": {
+   "x": 6012,
+   "y": 3810,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Settings in the window · not premium · Show in Dock on (default) · AR"
   },
-  "iPad-OffersQuestion-Landscape-OverMain-ProposalVPN1152-AR.dc.html": {
-   "x": 3118,
-   "y": 26540,
-   "w": 1210,
-   "h": 834,
-   "page": "ipad",
-   "title": "Proposal — VPN-1152 · Offers question over Main, form sheet (after the onboarding) · landscape · AR"
-  },
-  "iPad-Settings-Portrait-OffersOff-ProposalVPN1152-EN.dc.html": {
-   "x": 0,
-   "y": 28450,
-   "w": 834,
-   "h": 1210,
-   "page": "ipad",
-   "title": "Proposal — VPN-1152 · Settings · sidebar · offers switch off (default) · portrait · EN"
-  },
-  "iPad-Settings-Landscape-OffersOn-ProposalVPN1152-EN.dc.html": {
-   "x": 914,
-   "y": 28450,
-   "w": 1210,
-   "h": 834,
-   "page": "ipad",
-   "title": "Proposal — VPN-1152 · Settings · sidebar · offers switch on · landscape · EN"
-  },
-  "iPad-Settings-Portrait-OffersOff-ProposalVPN1152-AR.dc.html": {
-   "x": 2204,
-   "y": 28450,
-   "w": 834,
-   "h": 1210,
-   "page": "ipad",
-   "title": "Proposal — VPN-1152 · Settings · sidebar · offers switch off (default) · portrait · AR"
-  },
-  "iPad-Settings-Landscape-OffersOn-ProposalVPN1152-AR.dc.html": {
-   "x": 3118,
-   "y": 28450,
-   "w": 1210,
-   "h": 834,
-   "page": "ipad",
-   "title": "Proposal — VPN-1152 · Settings · sidebar · offers switch on · landscape · AR"
+  "Mac-Settings-NotPremiumShowInDockOff-AR.dc.html": {
+   "x": 7014,
+   "y": 3810,
+   "w": 922,
+   "h": 622,
+   "page": "mac",
+   "title": "Settings in the window · not premium · Show in Dock off · AR"
   }
  },
  "order": [
@@ -2252,10 +2012,14 @@
   "Mac-MainWindow-NotConnected-AR.dc.html",
   "Mac-MainWindow-Connecting-AR.dc.html",
   "Mac-MainWindow-Connected-AR.dc.html",
-  "Mac-Settings-Premium-EN.dc.html",
-  "Mac-Settings-NotPremium-EN.dc.html",
-  "Mac-Settings-Premium-AR.dc.html",
-  "Mac-Settings-NotPremium-AR.dc.html",
+  "Mac-Settings-PremiumShowInDockOn-EN.dc.html",
+  "Mac-Settings-PremiumShowInDockOff-EN.dc.html",
+  "Mac-Settings-NotPremiumShowInDockOn-EN.dc.html",
+  "Mac-Settings-NotPremiumShowInDockOff-EN.dc.html",
+  "Mac-Settings-PremiumShowInDockOn-AR.dc.html",
+  "Mac-Settings-PremiumShowInDockOff-AR.dc.html",
+  "Mac-Settings-NotPremiumShowInDockOn-AR.dc.html",
+  "Mac-Settings-NotPremiumShowInDockOff-AR.dc.html",
   "Mac-Report-Default-EN.dc.html",
   "Mac-Report-Sent-EN.dc.html",
   "Mac-Report-Default-AR.dc.html",
@@ -2264,22 +2028,6 @@
   "Mac-Document-Page-EN.dc.html",
   "Mac-Document-FAQList-AR.dc.html",
   "Mac-Document-Page-AR.dc.html",
-  "Mac-Panel-ConnectedOpenButton-ProposalVPN795-EN.dc.html",
-  "Mac-Panel-ConnectedOpenButton-ProposalVPN795-AR.dc.html",
-  "Mac-MainWindow-NotConnected-ProposalVPN809-EN.dc.html",
-  "Mac-MainWindow-Connecting-ProposalVPN809-EN.dc.html",
-  "Mac-MainWindow-Connected-ProposalVPN809-EN.dc.html",
-  "Mac-MainWindow-NotConnected-ProposalVPN809-AR.dc.html",
-  "Mac-MainWindow-Connecting-ProposalVPN809-AR.dc.html",
-  "Mac-MainWindow-Connected-ProposalVPN809-AR.dc.html",
-  "Mac-Settings-PremiumShowInDockOn-ProposalVPN809-EN.dc.html",
-  "Mac-Settings-PremiumShowInDockOff-ProposalVPN809-EN.dc.html",
-  "Mac-Settings-NotPremiumShowInDockOn-ProposalVPN809-EN.dc.html",
-  "Mac-Settings-NotPremiumShowInDockOff-ProposalVPN809-EN.dc.html",
-  "Mac-Settings-PremiumShowInDockOn-ProposalVPN809-AR.dc.html",
-  "Mac-Settings-PremiumShowInDockOff-ProposalVPN809-AR.dc.html",
-  "Mac-Settings-NotPremiumShowInDockOn-ProposalVPN809-AR.dc.html",
-  "Mac-Settings-NotPremiumShowInDockOff-ProposalVPN809-AR.dc.html",
   "iPhone-Connect-FirstConnectPrompt-ProposalVPN907-EN.dc.html",
   "iPhone-Connect-HelpAfterDecline-ProposalVPN907-EN.dc.html",
   "iPhone-Connect-FirstConnectPrompt-ProposalVPN907-AR.dc.html",
@@ -2296,6 +2044,8 @@
   "Mac-Connect-HelpAfterDecline-ProposalVPN907-EN.dc.html",
   "Mac-Connect-FirstConnectPrompt-ProposalVPN907-AR.dc.html",
   "Mac-Connect-HelpAfterDecline-ProposalVPN907-AR.dc.html",
+  "Mac-Connect-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html",
+  "Mac-Connect-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html",
   "Mac-MainWindow-NotConnected-ProposalVPN923-EN.dc.html",
   "Mac-MainWindow-ConnectPressed-ProposalVPN923-EN.dc.html",
   "Mac-MainWindow-Disconnecting-ProposalVPN923-EN.dc.html",
@@ -2318,8 +2068,8 @@
   "iPad-Connect-Landscape-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html",
   "iPad-Connect-Portrait-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html",
   "iPad-Connect-Landscape-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html",
-  "Mac-Connect-NoPrompt-ProposalVPN907NoPrompt-EN.dc.html",
-  "Mac-Connect-NoPrompt-ProposalVPN907NoPrompt-AR.dc.html",
+  "Mac-Panel-ConnectedOpenButton-ProposalVPN795-EN.dc.html",
+  "Mac-Panel-ConnectedOpenButton-ProposalVPN795-AR.dc.html",
   "iPhone-ServerList-FreeUser-TodayVPN1058-EN.dc.html",
   "iPhone-ServerList-FreeUser-ProposalVPN1058-EN.dc.html",
   "iPhone-ServerList-FreeUser-TodayVPN1058-AR.dc.html",
@@ -2327,27 +2077,7 @@
   "iPad-ServerList-Portrait-FreeUser-TodayVPN1058-EN.dc.html",
   "iPad-ServerList-Portrait-FreeUser-ProposalVPN1058-EN.dc.html",
   "iPad-ServerList-Portrait-FreeUser-TodayVPN1058-AR.dc.html",
-  "iPad-ServerList-Portrait-FreeUser-ProposalVPN1058-AR.dc.html",
-  "iPhone-OffersQuestion-OverMain-ProposalVPN1152-EN.dc.html",
-  "iPhone-OffersQuestion-OverMain-ProposalVPN1152-AR.dc.html",
-  "iPhone-Settings-OffersOff-ProposalVPN1152-EN.dc.html",
-  "iPhone-Settings-OffersOn-ProposalVPN1152-EN.dc.html",
-  "iPhone-Settings-OffersOff-ProposalVPN1152-AR.dc.html",
-  "iPhone-Settings-OffersOn-ProposalVPN1152-AR.dc.html",
-  "Mac-OffersQuestion-OverMainWindow-ProposalVPN1152-EN.dc.html",
-  "Mac-OffersQuestion-OverMainWindow-ProposalVPN1152-AR.dc.html",
-  "Mac-Settings-OffersOff-ProposalVPN1152-EN.dc.html",
-  "Mac-Settings-OffersOn-ProposalVPN1152-EN.dc.html",
-  "Mac-Settings-OffersOff-ProposalVPN1152-AR.dc.html",
-  "Mac-Settings-OffersOn-ProposalVPN1152-AR.dc.html",
-  "iPad-OffersQuestion-Portrait-OverMain-ProposalVPN1152-EN.dc.html",
-  "iPad-OffersQuestion-Landscape-OverMain-ProposalVPN1152-EN.dc.html",
-  "iPad-OffersQuestion-Portrait-OverMain-ProposalVPN1152-AR.dc.html",
-  "iPad-OffersQuestion-Landscape-OverMain-ProposalVPN1152-AR.dc.html",
-  "iPad-Settings-Portrait-OffersOff-ProposalVPN1152-EN.dc.html",
-  "iPad-Settings-Landscape-OffersOn-ProposalVPN1152-EN.dc.html",
-  "iPad-Settings-Portrait-OffersOff-ProposalVPN1152-AR.dc.html",
-  "iPad-Settings-Landscape-OffersOn-ProposalVPN1152-AR.dc.html"
+  "iPad-ServerList-Portrait-FreeUser-ProposalVPN1058-AR.dc.html"
  ],
  "notes": {
   "iphone-Splash": {
@@ -2553,7 +2283,7 @@
   "ipad-approved": {
    "x": 0,
    "y": 18510,
-   "text": "Approved, not built — none at this commit.",
+   "text": "Approved, not built — VPN-924 (designs VPN-907 and VPN-907 NoPrompt), below. Proposals come after them.",
    "w": 900,
    "page": "ipad",
    "size": "l",
@@ -2586,9 +2316,9 @@
   "mac-Settings": {
    "x": 0,
    "y": 3510,
-   "text": "Settings",
+   "text": "Settings (in the main window)",
    "kind": "title1",
-   "maxW": 2088,
+   "maxW": 7936,
    "page": "mac"
   },
   "mac-Report": {
@@ -2610,7 +2340,7 @@
   "mac-approved": {
    "x": 0,
    "y": 6942,
-   "text": "Approved, not built — none at this commit.",
+   "text": "Approved, not built — VPN-924 (designs VPN-907 and VPN-907 NoPrompt) and VPN-981 (design VPN-923), below. Proposals come after them.",
    "w": 900,
    "page": "mac",
    "size": "l",
@@ -2645,7 +2375,7 @@
   },
   "mac-proposal-VPN795": {
    "x": 0,
-   "y": 7142,
+   "y": 16884,
    "text": "Proposal — VPN-795 · Mac menu-bar-only mode (no Dock icon)",
    "kind": "title1",
    "maxW": 4000,
@@ -2653,7 +2383,7 @@
   },
   "mac-VPN795-panel": {
    "x": 0,
-   "y": 7242,
+   "y": 16984,
    "text": "Proposal — VPN-795 · Menu bar panel",
    "kind": "title1",
    "maxW": 1800,
@@ -2661,7 +2391,7 @@
   },
   "mac-VPN795-panel-texts": {
    "x": 840,
-   "y": 7542,
+   "y": 17284,
    "w": 700,
    "page": "mac",
    "size": "m",
@@ -2670,77 +2400,17 @@
   },
   "mac-VPN795-board": {
    "x": 3000,
-   "y": 7542,
+   "y": 17284,
    "w": 1300,
    "page": "mac",
    "size": "l",
    "fill": "orange",
    "text": "VPN-795 — how the user gets menu-bar-only mode\nRECOMMENDED (b): a \"Show in Dock\" switch in Settings, default on. Nothing changes for current users. A user who wants a menu-bar-only app turns it off.\nOther options:\n(a) Always menu-bar-only, no setting. Not recommended: every user loses the Dock icon, Command-Tab and the app menu; a new user may not find the app after first launch.\n(c) Dock icon only while a Securefield window is open. Not recommended: the icon comes and goes, which looks unstable; it also needs the new panel button.\n(b) with default off is possible. Then first launch changes, and I add a first-launch hint frame (new text).\n\nEvery place that changes when \"Show in Dock\" is off:\n• Main window at launch: it does not open when the Mac opens the app at login (Open at login). It opens when the user opens the app (Finder, Launchpad, Spotlight). If the code cannot tell a login launch from a user launch, it opens at every launch, as today.\n• Open the main window again: new panel button \"Open Securefield\" (frames above). Opening the app again from Finder, Launchpad or Spotlight also opens it. There is no Dock icon to click.\n• Settings: panel gear and main-window toolbar gear, as today. Command-comma works only while a Securefield window is in front.\n• Quit: panel power button \"Quit Securefield\", as today. Closing the windows does not quit, as today.\n• Help, Report, Premium, Connect: in the panel and the main window, as today. The app menu and the Connection menu are not visible, so their shortcuts have no visible menu.\n• First launch: no change (default on). Welcome and VPN permission open as today.\n• Command-Tab: Securefield is not in it. Each button that opens a window brings it to the front.\nNo change: main window, first launch, report, FAQ and document windows, the iPhone and iPad pages."
   },
-  "mac-proposal-VPN809": {
-   "x": 0,
-   "y": 9034,
-   "text": "Proposal — VPN-809 · Mac window: no top bar, Connect as on iPhone, Settings in the window",
-   "kind": "title1",
-   "maxW": 6000,
-   "page": "mac"
-  },
-  "mac-VPN809-main": {
-   "x": 0,
-   "y": 9234,
-   "text": "Proposal — VPN-809 · Main window",
-   "kind": "title1",
-   "maxW": 5932,
-   "page": "mac"
-  },
-  "mac-VPN809-settings": {
-   "x": 0,
-   "y": 11056,
-   "text": "Proposal — VPN-809 · Settings in the main window (replaces the VPN-795 Settings proposals)",
-   "kind": "title1",
-   "maxW": 7936,
-   "page": "mac"
-  },
-  "mac-VPN809-main-note": {
-   "x": 6012,
-   "y": 9534,
-   "w": 900,
-   "page": "mac",
-   "size": "m",
-   "fill": "orange",
-   "text": "Main window, new form (board finding 4: no title or top bar).\n• No title bar and no toolbar. One background fills the whole window: BrandBackground (native/Design/Brand.swift: Brand.backgroundGradient #172231 → #000000, top-leading to bottom-trailing, World-Map in blend mode overlay), the same background as the first-launch screens. SwiftUI: .windowStyle(.hiddenTitleBar) on Window(\"Securefield\", id: \"main\"); the content goes under the top edge.\n• The window buttons (close, minimise, zoom) sit on the background, top left, where macOS puts them. The user drags the window by its background.\n• The sidebar has no fill of its own now (was black 25 %). The divider stays: hairline, white 12 %. The logo stays under the window buttons.\n• Report, FAQ, Settings: the same 3 buttons (SF Symbols exclamationmark.circle, questionmark.circle, gearshape, 16 pt, lightGray) at the top right of the window, now on the background, without the toolbar capsule. Tooltips as today: settings.report, settings.faq, menu.settings. Same place in Arabic, as in the current frames.\n• Connection column: the iPhone connect control (next note). For a user who is not premium: the Get Premium Now card at the bottom, as today. The error line under the control stays as today (caption, lightRed); not drawn.\n• Removed from the connection column: the power-button ring (ConnectOrb), the two-line label 'Not connected / Click to connect', the flag and location line, the session timer and the Connect / Disconnect pill. The iPhone has none of these. The chosen location stays visible: it is the selected row in the sidebar. Connect and disconnect: click the button, or Command-Return (Connection menu), as today.\n• No new text. No new artwork. No new component: the Design System page already has MainConnectButton and ConnectionStatusText."
-  },
-  "mac-VPN809-motion": {
-   "x": 7012,
-   "y": 9534,
-   "w": 900,
-   "page": "mac",
-   "size": "m",
-   "fill": "orange",
-   "text": "Connect control = the iPhone control, one to one (board finding 3). The Mac uses the same SwiftUI views:\n• native/SecureFieldApp/SecureFieldApp/UI/MainConnectButton.swift — MainConnectButton (artwork and ring).\n• native/SecureFieldApp/SecureFieldApp/UI/MainScreen.swift — ConnectionStatusText (status line and dots).\nArtwork: the iOS Lottie files TTD.json (to disconnected: the globe) and TTC.json (to connected: the green button with the stop square). No new artwork.\nLayout: status line above the button, 36 pt apart (MainScreen: VStack spacing 36). Button edge on iPhone: 0.53 × layout width = 206.7 pt at 390 pt. Mac: a fixed 206.7 pt (proposal: the Mac has no phone width). Centred in the connection column.\nStatus texts (Subtitle1: NAMU 1850, 17 / 19.04; white, Connected in lightGreen = text-secondary): not connected 'Click to connect' (hint.click, the Mac wording of MAIN.DISCONNECTED 'Tap to connect'); connecting 'Connecting' (MAIN.CONNECTING) + dots; optimizing MAIN.OPTIMIZING, no dots; connected 'Connected' (MAIN.CONNECTED); disconnecting 'Disconnecting' (MAIN.DISCONNECTING) + dots. All existing texts.\nMotion, as the iOS code does it:\n• Status change: the text fades out in 300 ms (linear), changes, fades in in 300 ms.\n• Dots (connecting, disconnecting only): 3 circles 4 × 4 pt, 1 pt apart, 2 pt after the text, on its baseline. Cycle 1300 ms: dot 1, 2, 3 fade in (250 ms each) at 0, 150, 300 ms; all 3 stay on; at 750 ms all fade out (300 ms); the cycle starts again at 1300 ms.\n• Ring: stroke 6 pt, round cap, angular gradient darkBlue #0073C5 16 %, lightBlue #33A9FE 41.3 %, lightGreen #35DF91 57.5 %, mediumGreen #178F59 80.2 %. Diameter 0.89 × edge − 6. Starts at 12 o'clock and fills clockwise in every language (never mirrored, also in Arabic). On connect: fades in in 100 ms (ease-out) and fills the whole circle in 40 s (linear, by clock). It shows progress, not a countdown.\n• Connected: the ring closes the rest of the circle (300 ms for a whole circle), fades out in 500 ms (ease-in-out), then TTC plays from its first frame. Ring and green button are never on screen together.\n• Disconnect or failed connect: the ring fades out in 500 ms, then TTD plays (only when the artwork changes).\n• Tunnel already up at launch: the last frame of TTC, no ring, no animation.\n• Press: opacity 0.8 while pressed. The iPhone haptic: none on the Mac.\nTimer: the iPhone timer is the free-time countdown (MainTimerView), for free users only. The Mac has no free time (MacLive). So the Mac window shows no timer, as the iPhone does for a premium user. Other option for the board: keep the Mac session timer ('00:12:34') under the button.\nQuestion for SecurefieldiOS (through PM): MainConnectButton uses Lottie (LottiePlayer) and a UIKit haptic. Can the Mac target use Lottie and share these 2 views, with the haptic left out on the Mac?"
-  },
-  "mac-VPN809-settings-note": {
-   "x": 8016,
-   "y": 11356,
-   "w": 900,
-   "page": "mac",
-   "size": "m",
-   "fill": "orange",
-   "text": "Settings inside the main window (board finding 2). RECOMMENDED form, drawn in the frames: Settings takes the place of the connection in the connection column (right; left in Arabic). The locations sidebar stays. There is no Settings window any more.\nHow the user opens Settings: (1) the gear at the top right of the window; (2) the gear in the menu bar panel footer: it brings the main window to the front with Settings shown (it opens the window if it is closed); (3) Command-comma, app menu 'Settings…'.\nHow the user goes back to the connection: (1) the back button at the top of the column (icons/Back, 24 pt, lightGray, mirrored in Arabic; tooltip and accessibility label 'Connection' / 'الاتصال' = nav.connect, an existing text); (2) the Escape key; (3) the gear again. Choosing a location in the sidebar also goes back to the connection.\nHeader: back button + 'Settings' (settings.title), Mac subtitle style (NAMU 1850, 17), white, in the 52 pt strip at the height of the window buttons. No new text.\nContent: the current Mac Settings page, unchanged: same groups, rows and order, 460 pt wide (the old window width), centred in the column. It scrolls under the header. Not premium: the subscription group starts with 'Get Premium Now'.\nReport a problem, FAQ, Privacy Policy, Terms of Use from Settings: they open as sheets on this window, as today.\nShow in Dock (VPN-795 option (b), approved by the board 2026-11-15): second row in General, default on; its note under the General group. Texts as approved on VPN-795 (not new): settings.showInDock EN 'Show in Dock', AR 'إظهار في Dock'; settings.showInDock.note EN 'When this is off, Securefield is only in the menu bar at the top of the screen.', AR 'عند إيقاف هذا الخيار، يظهر Securefield في شريط القائمة أعلى الشاشة فقط.' On / off: the Dock icon goes or comes back at once, no restart.\nThese 8 frames replace the VPN-795 Settings proposals (Mac-Settings-ShowInDockOn/Off-ProposalVPN795-EN/AR); I removed those 4 frames from the canvas. The VPN-795 panel proposal (Mac-Panel-ConnectedOpenButton-ProposalVPN795-EN/AR) stays.\nOther forms for the board (not drawn):\n(B) A sheet on the main window, like Report, with Done. Not recommended: it covers the window like a separate page.\n(C) Settings fills the whole window, sidebar hidden, with a back button (like the iPhone). Not recommended: the user loses the locations.\n(D) A third column at the right of the connection. Not recommended: the window must grow by about 460 pt, or the connection column gets too narrow."
-  },
-  "mac-VPN809-other": {
-   "x": 8012,
-   "y": 9534,
-   "w": 1100,
-   "page": "mac",
-   "size": "m",
-   "fill": "orange",
-   "text": "VPN-809 — every other place that changes because of these proposals (not drawn; no new text):\n• First launch (Welcome, VPN permission, Permission denied): this is the same main window at 480 × 640, so it also has no title bar. The window buttons sit on its BrandBackground, top left. The current frames draw no title bar, so they stay.\n• Paywall, Report, FAQ and document sheets: sheets have no title bar. No change. From Settings they now open on the same window (before, Settings sent them to the main window).\n• Menu bar panel: its gear opens the main window with Settings shown. The panel and its connect control stay as approved.\n• App menu 'Settings…' (Command-comma): shows Settings in the main window. The Window menu no longer lists a 'Settings' window.\n• Show in Dock off (VPN-795): Settings is reached from the panel gear and the window gear, both in the main window now. The VPN-795 note above says 'toolbar gear'; read 'window gear'.\n• Connect / Disconnect from the keyboard: Command-Return (Connection menu) only; the Connect pill and its shortcut are gone.\n• Mac store screenshots and the Mac checks (code, not design): MacShoot draws a 'settings' scene as its own window, and MacActionCheck looks for a window titled 'Settings'. Owner: SecurefieldiOS, in the build task.\n• Not changed: the iPhone and iPad pages, the menu bar panel frames, the paywall canvas."
-  },
   "vpn907-iphone-block": {
    "x": 0,
    "y": 18776,
-   "text": "Proposal — VPN-907 · Connect opens the iOS prompt directly; help only after a decline",
+   "text": "Approved, not built — VPN-924 · VPN-907 · Connect opens the iOS prompt directly; help only after a decline",
    "page": "iphone",
    "kind": "title1",
    "maxW": 4000
@@ -2748,7 +2418,7 @@
   "vpn907-iphone-row": {
    "x": 0,
    "y": 18976,
-   "text": "Proposal — VPN-907 · Connect, first press and decline (1 prompt, 2 help)",
+   "text": "Approved, not built — VPN-924 · VPN-907 · Connect, first press and decline (1 prompt, 2 help)",
    "page": "iphone",
    "kind": "title1",
    "maxW": 4000
@@ -2756,11 +2426,11 @@
   "vpn907-iphone-flow": {
    "x": 1920,
    "y": 19276,
-   "text": "iPhone flow (and iPad, same app):\n1 First Connect: iOS shows its prompt at once. No screen of ours comes before it. This is how the app works today; it stays.\n2 Don't Allow: the help sheet opens over Main. NEW. It replaces today's system alert \"VPN configuration not added\" (Try again / OK, MainScreen.VPNPermissionAlerts).\n3 Try again: the sheet closes, then the app asks again, and iOS shows its prompt over Main (= frame 1). Allow → Connecting (current frame \"Main · connecting\"). Don't Allow again → the help sheet again.\n4 ✕: the sheet closes. Back to Main, \"Tap to connect\" (current frame \"Main · disconnected, free user\"). The next Connect asks again. Nothing is remembered from a decline.\n5 A management profile can block new VPN configurations; then iOS shows no prompt and the press ends as a decline. The last line of the help says where to look.\nNot changed: the 20-second alert \"Could not start the connection\" (VPN-342).\nReplaces: the system alert above. It has no frame on this canvas, so no current frame goes away on the iPhone and iPad pages.",
+   "text": "iPhone flow (and iPad, same app):\n1 First Connect: iOS shows its prompt at once. No screen of ours comes before it. This is how the app works today; it stays.\n2 Don't Allow: the help sheet opens over Main. NEW. It replaces today's system alert \"VPN configuration not added\" (Try again / OK, MainScreen.VPNPermissionAlerts).\n3 Try again: the sheet closes, then the app asks again, and iOS shows its prompt over Main (= frame 1). Allow → Connecting (current frame \"Main · connecting\"). Don't Allow again → the help sheet again.\n4 ✕: the sheet closes. Back to Main, \"Tap to connect\" (current frame \"Main · disconnected, free user\"). The next Connect asks again. Nothing is remembered from a decline.\n5 A management profile can block new VPN configurations; then iOS shows no prompt and the press ends as a decline. The last line of the help says where to look.\nNot changed: the 20-second alert \"Could not start the connection\" (VPN-342).\nReplaces: the system alert above. It has no frame on this canvas, so no current frame goes away on the iPhone and iPad pages.\nThe last line of the help after a decline (iPhone, iPad) is not built (board, 2026-11-18).",
    "page": "iphone",
    "w": 900,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907-iphone-texts": {
    "x": 2900,
@@ -2769,7 +2439,7 @@
    "page": "iphone",
    "w": 1300,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907-iphone-picture": {
    "x": 4280,
@@ -2778,21 +2448,21 @@
    "page": "iphone",
    "w": 900,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907-iphone-mark": {
    "x": 6620,
    "y": 5936,
-   "text": "Proposal — VPN-907 (below): after Don't Allow, a help sheet opens over Main. It replaces the system alert \"VPN configuration not added\" (not drawn on this canvas). These Main frames stay.",
+   "text": "Approved, not built — VPN-924 · VPN-907 (below): after Don't Allow, a help sheet opens over Main. It replaces the system alert \"VPN configuration not added\" (not drawn on this canvas). These Main frames stay.",
    "page": "iphone",
    "w": 700,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907-ipad-block": {
    "x": 0,
    "y": 18810,
-   "text": "Proposal — VPN-907 · Connect opens the iPadOS prompt directly; help only after a decline",
+   "text": "Approved, not built — VPN-924 · VPN-907 · Connect opens the iPadOS prompt directly; help only after a decline",
    "page": "ipad",
    "kind": "title1",
    "maxW": 4000
@@ -2800,7 +2470,7 @@
   "vpn907-ipad-row": {
    "x": 0,
    "y": 19010,
-   "text": "Proposal — VPN-907 · Connect, first press and decline (portrait, landscape)",
+   "text": "Approved, not built — VPN-924 · VPN-907 · Connect, first press and decline (portrait, landscape)",
    "page": "ipad",
    "kind": "title1",
    "maxW": 4000
@@ -2808,11 +2478,11 @@
   "vpn907-ipad-flow": {
    "x": 8856,
    "y": 19310,
-   "text": "iPad: the same flow as the iPhone (see the iPhone page): 1 Connect → iPadOS prompt at once; 2 Don't Allow → help sheet; Try again closes the sheet and asks again (= frame 1); ✕ → back to Main, \"Tap to connect\".\nSheet: a form sheet 580 pt wide, as the Report sheet. It is 760 pt high (Report: 658), because the help has more lines; in landscape it still fits between the status bar and the home indicator. Type × 1.3 (Theme.typography on a tablet). The prompt picture is not scaled.\nReplaces: the system alert \"VPN configuration not added\" (no frame on this canvas). The Main frames stay.",
+   "text": "iPad: the same flow as the iPhone (see the iPhone page): 1 Connect → iPadOS prompt at once; 2 Don't Allow → help sheet; Try again closes the sheet and asks again (= frame 1); ✕ → back to Main, \"Tap to connect\".\nSheet: a form sheet 580 pt wide, as the Report sheet. It is 760 pt high (Report: 658), because the help has more lines; in landscape it still fits between the status bar and the home indicator. Type × 1.3 (Theme.typography on a tablet). The prompt picture is not scaled.\nReplaces: the system alert \"VPN configuration not added\" (no frame on this canvas). The Main frames stay.\nThe last line of the help after a decline (iPhone, iPad) is not built (board, 2026-11-18).",
    "page": "ipad",
    "w": 900,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907-ipad-texts": {
    "x": 9836,
@@ -2821,7 +2491,7 @@
    "page": "ipad",
    "w": 1300,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907-ipad-picture": {
    "x": 11216,
@@ -2830,139 +2500,139 @@
    "page": "ipad",
    "w": 900,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907-ipad-mark": {
    "x": 17672,
    "y": 6840,
-   "text": "Proposal — VPN-907 (below): after Don't Allow, a help sheet opens over Main. It replaces the system alert \"VPN configuration not added\" (not drawn on this canvas). These Main frames stay.",
+   "text": "Approved, not built — VPN-924 · VPN-907 (below): after Don't Allow, a help sheet opens over Main. It replaces the system alert \"VPN configuration not added\" (not drawn on this canvas). These Main frames stay.",
    "page": "ipad",
    "w": 700,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907-mac-block": {
    "x": 0,
-   "y": 12178,
-   "text": "Proposal — VPN-907 · Mac: no step before the macOS prompt; help only after a decline",
+   "y": 7142,
+   "text": "Approved, not built — VPN-924 · VPN-907 · Mac: no step before the macOS prompt; help only after a decline",
    "page": "mac",
    "kind": "title1",
    "maxW": 4000
   },
   "vpn907-mac-row": {
    "x": 0,
-   "y": 12378,
-   "text": "Proposal — VPN-907 · Connect, first press and decline (1 prompt, 2 help)",
+   "y": 7342,
+   "text": "Approved, not built — VPN-924 · VPN-907 · Connect, first press and decline (1 prompt, 2 help)",
    "page": "mac",
    "kind": "title1",
    "maxW": 4000
   },
   "vpn907-mac-flow": {
    "x": 3164,
-   "y": 12678,
-   "text": "Mac flow:\n1 First launch: Welcome (privacy, current frame, no change) → the main window. The step \"Allow the VPN configuration\" is REMOVED: no screen of ours before the prompt.\n2 First Connect: macOS shows its prompt over the main window. The Mac is premium only: a free user's Connect opens the paywall first, as today, so the prompt comes at the first Connect after premium. The frame shows a premium user (crowns, no Get Premium card).\n3 Don't Allow: the window shows the help. It replaces \"First launch · permission denied\". Try again → the macOS prompt again. Open System Settings → the VPN page, as today. Not now (NEW) → the main window, Connect; the next Connect asks again.\nToday the Mac asks for the permission from the first-launch step, before premium (MacRootView.requestPermission). After this change it asks from Connect (MacLive.toggle).\nThe frames use today's main window. If the board approves VPN-809 (window without top bar), the prompt sits over that window form; nothing else changes.\nReplaces: Mac \"First launch · VPN permission\" EN and AR (removed) and \"First launch · permission denied\" EN and AR (replaced by frame 2).",
+   "y": 7642,
+   "text": "Mac flow:\n1 First launch: Welcome (privacy, current frame, no change) → the main window. The step \"Allow the VPN configuration\" is REMOVED: no screen of ours before the prompt.\n2 First Connect: macOS shows its prompt over the main window. The Mac is premium only: a free user's Connect opens the paywall first, as today, so the prompt comes at the first Connect after premium. The frame shows a premium user (crowns, no Get Premium card).\n3 Don't Allow: the window shows the help. It replaces \"First launch · permission denied\". Try again → the macOS prompt again. Open System Settings → the VPN page, as today. Not now (NEW) → the main window, Connect; the next Connect asks again.\nToday the Mac asks for the permission from the first-launch step, before premium (MacRootView.requestPermission). After this change it asks from Connect (MacLive.toggle).\nThe frames use today's main window. VPN-809 (window without top bar) is built (VPN-810, 7.6): the prompt sits over that window form; nothing else changes.\nReplaces: Mac \"First launch · VPN permission\" EN and AR (removed) and \"First launch · permission denied\" EN and AR (replaced by frame 2).",
    "page": "mac",
    "w": 900,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907-mac-texts": {
    "x": 4144,
-   "y": 12678,
+   "y": 7642,
    "text": "Texts — EN | AR. (app) = already in the app (Localizable.xcstrings), same EN and AR. (new) = new text. (system) = text of iOS or macOS, not ours.\nHelp after a decline, iPhone and iPad:\n• VPN configuration not added | لم تتم إضافة إعداد VPN (app: VPN_PERMISSION.DENIED_TITLE)\n• Securefield can't connect without a VPN configuration. Tap Try again and choose Allow. | لا يمكن لـ Securefield الاتصال بدون إعداد VPN. اضغط «حاول مرة أخرى» واختر «سماح». (app: perm.deniedBody)\n• The system window looks like this: | تظهر نافذة النظام هكذا: (new)\n• 1 Tap Allow in the system window | اضغط «سماح» في نافذة النظام (app: perm.step1.ios)\n• 2 Confirm with Face ID, Touch ID or your passcode | أكّد بـ Face ID أو Touch ID أو رمز الدخول (app: perm.step2.ios)\n• 3 Securefield connects. Nothing else to set up | يتصل Securefield. لا يلزم أي إعداد آخر (app: perm.step3)\n• If the iOS window doesn't appear, new VPN configurations may be blocked on this device; see Settings › General › VPN & Device Management. | إذا لم تظهر نافذة iOS، فقد تكون إضافة إعدادات VPN جديدة محظورة على هذا الجهاز؛ راجع الإعدادات › عام › VPN وإدارة الجهاز. (new: the second half of VPN_PERMISSION.DENIED_MESSAGE as its own line)\n• Try again | حاول مرة أخرى (app: VPN_PERMISSION.TRY_AGAIN)\n• ✕ = Close, as on the Report sheet (no visible text).\nHelp after a decline, Mac:\n• VPN configuration not added | لم تتم إضافة إعداد VPN (app: perm.deniedTitle)\n• Securefield can't connect without a VPN configuration. Click Try again and choose Allow. | لا يمكن لـ Securefield الاتصال بدون إعداد VPN. انقر «حاول مرة أخرى» واختر «سماح». (new: Mac wording; perm.deniedBody says \"Tap\")\n• The system window looks like this: | تظهر نافذة النظام هكذا: (new, the same text as above)\n• 1 Click Allow in the macOS window | انقر «سماح» في نافذة macOS (app: perm.step1.mac)\n• 2 Confirm with Touch ID or your Mac password | أكّد بـ Touch ID أو كلمة مرور جهاز Mac (app: perm.step2.mac)\n• Try again | حاول مرة أخرى (app: perm.tryAgain)\n• Open System Settings | فتح إعدادات النظام (app: perm.openSettings)\n• Not now | ليس الآن (app text: CONNECTION_RATING.SKIP; new on the Mac)\nSystem prompt (system; stand-in until the real screenshot, AR wording to confirm from it):\n• “Securefield VPN” Would Like to Add VPN Configurations | يريد “Securefield VPN” إضافة إعدادات VPN\n• All network activity on this iPhone (iPad, Mac) may be filtered or monitored when using VPN. | قد تتم تصفية كل نشاط الشبكة على هذا الـ iPhone (iPad، Mac) أو مراقبته عند استخدام VPN.\n• Don’t Allow | عدم السماح   • Allow | سماح\nNo longer shown: perm.title, perm.body.mac, perm.step3 on the Mac, perm.continue (the Mac step before the prompt) and VPN_PERMISSION.DENIED_MESSAGE (the iPhone and iPad alert). The keys can stay.",
    "page": "mac",
    "w": 1300,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907-mac-picture": {
    "x": 5524,
-   "y": 12678,
+   "y": 7642,
    "text": "The prompt picture. The board asked for the real iOS prompt picture. No screenshot of it is on the runner, and the runner may not open Apple pages. So every prompt in these frames (over the screens and inside the help) is a STAND-IN drawing in the dark look. Before the build, SecurefieldiOS takes the real prompt on SecureField's own test devices (iPhone, iPad and Mac), EN and AR, and the help uses a crop of it as an image asset (Assets › Images, one per platform and language). I then swap the drawing for the crop on this canvas. The green ring around Allow is ours (lightGreen #35DF91, 2.5 px, radius 12), drawn over the crop.\n\nTokens and components: GradientBackground; the Report sheet (iPhone radius 40/40/60/60, iPad form sheet radius 12); GradientBorderCard (iceBlue, radius 18, border gradient); the PermissionView step circles (darkBlue #0073C5, 26 pt, white bold); text lightGray #D1DCEA and white; RadialGradientButton green; Mac: PrimaryButtonStyle (#33A9FE → #1EB972), links lightGreen. No new token. New component: PromptPicture (card + crop of the system prompt + ring on Allow).\nContrast: white on darkBlue 4.93:1; lightGray on the card 7.72:1; lightGreen on the background 9.25:1. Below 4.5:1, kept exact because they are the app's own buttons: white on the green button 2.37:1, white on the Mac button 2.55:1 (see Proposals on VPN-907).",
    "page": "mac",
    "w": 900,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907-mac-mark": {
    "x": 3400,
    "y": 400,
-   "text": "Proposal — VPN-907 (below) replaces two frames of this row: \"VPN permission\" EN and AR are removed (no step before the macOS prompt), and \"permission denied\" EN and AR are replaced by the help after a decline. Welcome stays.",
+   "text": "Approved, not built — VPN-924 · VPN-907 (below) replaces two frames of this row: \"VPN permission\" EN and AR are removed (no step before the macOS prompt), and \"permission denied\" EN and AR are replaced by the help after a decline. Welcome stays.",
    "page": "mac",
    "w": 700,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn923-mac-block": {
    "x": 0,
-   "y": 13550,
-   "text": "Proposal — VPN-923 · Mac primary button: dark text on the brand gradient (contrast 4.5:1 in every state)",
+   "y": 10286,
+   "text": "Approved, not built — VPN-981 · VPN-923 · Mac primary button: dark text on the brand gradient (contrast 4.5:1 in every state)",
    "page": "mac",
    "kind": "title1",
    "maxW": 4000
   },
   "vpn923-mac-row0": {
    "x": 0,
-   "y": 13750,
-   "text": "Proposal — VPN-923 · Main window (today's window, until VPN-809 is built)",
+   "y": 10486,
+   "text": "Approved, not built — VPN-981 · VPN-923 · Main window (drawn on the window before VPN-810; the built window has no primary button, so this row is out of date)",
    "page": "mac",
    "kind": "title1",
    "maxW": 4000
   },
   "vpn923-mac-row1": {
    "x": 0,
-   "y": 15072,
-   "text": "Proposal — VPN-923 · First launch · welcome",
+   "y": 11808,
+   "text": "Approved, not built — VPN-981 · VPN-923 · First launch · welcome",
    "page": "mac",
    "kind": "title1",
    "maxW": 4000
   },
   "vpn923-mac-row2": {
    "x": 0,
-   "y": 16444,
-   "text": "Proposal — VPN-923 · Report",
+   "y": 13180,
+   "text": "Approved, not built — VPN-981 · VPN-923 · Report",
    "page": "mac",
    "kind": "title1",
    "maxW": 4000
   },
   "vpn923-mac-row3": {
    "x": 0,
-   "y": 17784,
-   "text": "Proposal — VPN-923 · Menu bar panel (ConnectStyle, the same gradient)",
+   "y": 14520,
+   "text": "Approved, not built — VPN-981 · VPN-923 · Menu bar panel (ConnectStyle, the same gradient)",
    "page": "mac",
    "kind": "title1",
    "maxW": 4000
   },
   "vpn923-mac-row4": {
    "x": 0,
-   "y": 18776,
-   "text": "Proposal — VPN-923 · Help after a decline (Proposal — VPN-907)",
+   "y": 15512,
+   "text": "Approved, not built — VPN-981 · VPN-923 · Help after a decline (Approved, not built — VPN-924 · VPN-907)",
    "page": "mac",
    "kind": "title1",
    "maxW": 4000
   },
   "vpn923-mac-contrast": {
    "x": 6052,
-   "y": 14050,
+   "y": 10786,
    "text": "VPN-923 — Mac primary button: contrast per state (WCAG 2.x; text Red Hat Display Bold 15 pt = normal text, needs 4.5:1).\nMeasured from the values, at every point of the gradient; for pressed and disabled the button is laid over the window background (graphite #172231 → black), and the worst point counts.\n\nTODAY (white text, #FFFFFF):\n• normal: 2.55:1 (lightBlue end 2.55, green end 2.55, middle 2.59) — FAIL\n• pressed (opacity 0.85): 2.40:1 worst point — FAIL\n• disabled (opacity 0.4): 1.75:1 worst point — FAIL (WCAG does not require contrast for a disabled control; the board asked for 4.5:1 in every state)\n\nPROPOSAL (drawn in these frames):\n• normal: text graphite #172231 on lightBlue #33A9FE → green #1EB972: 6.15:1 worst point (6.30 at the blue end, 6.29 at the green end) — PASS\n• pressed: as today, opacity 0.85 and scale 0.98: 4.79:1 worst point — PASS\n• disabled: fill surfaceHigh (white 10 %, no gradient), text lightGray #D1DCEA: 8.54:1 over graphite, 12.61:1 over black — PASS\nPixel check on the renders of these 16 frames (Chromium; solid text colour against the fill at each column under the label; worst column): normal 6.10–6.16:1; pressed 4.74–4.81:1 (Welcome lowest: the map shows through); disabled 11.07:1. Today's frames, same check: 2.58:1.\n\nWhy dark text and not a darker gradient:\n• Dark text keeps the brand gradient exactly, and it uses an existing token (graphite). The app already has a dark-text button: PremiumButtonStyle (#1B1305 on the yellow gradient).\n• A darker gradient needs two new colours. darkBlue #0073C5 → darkGreen #198F57 gives only 4.11:1 at the green end. #0073C5 → #167F4E passes at rest (4.93) but fails when pressed (4.38).\nTokens: lightBlue, green, graphite, surfaceHigh, lightGray. No new token.\n\nBuild (SecurefieldiOS, Mac only):\n• PrimaryButtonStyle (native/Design/Brand.swift): .foregroundStyle(Brand.graphite) when enabled. Disabled: Capsule fill Brand.surfaceHigh and text Brand.lightGray, in place of .opacity(0.4). Pressed: no change.\n• ConnectStyle (native/MacApp/MacPanel.swift), Connect side (on == false): text Brand.graphite. The Disconnect side (white 10 % fill, white text) does not change.\n• A ProgressView in the button (Report, while sending) takes the same disabled fill.\n• iPhone and iPad: no change.",
    "page": "mac",
    "w": 1100,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn923-mac-uses": {
    "x": 7232,
-   "y": 14050,
+   "y": 10786,
    "text": "VPN-923 — every Mac frame with this button (current gradient, white text). All change in the same way when this is built.\nScreen canvas, current rows:\n• First launch · welcome EN, AR (Accept and continue)\n• First launch · VPN permission EN, AR (Continue) — removed by VPN-907\n• First launch · permission denied EN, AR (Try again) — replaced by the VPN-907 help\n• Menu bar panel · not connected EN, AR; not premium, strip EN, AR (Connect; ConnectStyle)\n• Main window · not connected EN, AR (Connect); connecting EN, AR and connected EN, AR (Disconnect)\n• Report · default EN, AR; sent EN, AR (Send, 44 pt high)\nScreen canvas, proposals:\n• VPN-907: Connect · 1 first Connect EN, AR (the button is in the main window under the prompt); Connect · 2 help after Don't Allow EN, AR (Try again)\n• VPN-809 main window (approved by the board): NO primary button. Connect there is the iPhone Connect control (ring + text); Settings in the window has no primary button either. After VPN-809 is built, the main-window rows above leave the app; the button stays on Welcome, Report, the VPN-907 help and the panel.\n• VPN-795 panel proposal: the panel shows Connected (Disconnect, no gradient): no change.\nPaywall canvas, Mac frames (HOME_TOP_LEFT_PREMIUM · plans loaded, loading, load failed, purchase message; EN, AR): NOT this button. They use PremiumButtonStyle (dark text on yellow) and OutlineButtonStyle. No change.\nSettings (current Mac rows): no primary button.\nFAQ and documents: no primary button.",
    "page": "mac",
    "w": 1100,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907np-iphone-block": {
    "x": 0,
    "y": 20520,
-   "text": "Proposal — VPN-907 NoPrompt · iOS shows no VPN prompt: help sheet without the prompt picture",
+   "text": "Approved, not built — VPN-924 · VPN-907 NoPrompt · iOS shows no VPN prompt: help sheet without the prompt picture",
    "page": "iphone",
    "kind": "title1",
    "maxW": 4000
@@ -2970,7 +2640,7 @@
   "vpn907np-iphone-row": {
    "x": 0,
    "y": 20720,
-   "text": "Proposal — VPN-907 NoPrompt · Connect, no system prompt",
+   "text": "Approved, not built — VPN-924 · VPN-907 NoPrompt · Connect, no system prompt",
    "page": "iphone",
    "kind": "title1",
    "maxW": 4000
@@ -2982,7 +2652,7 @@
    "page": "iphone",
    "w": 900,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907np-iphone-texts": {
    "x": 1960,
@@ -2991,7 +2661,7 @@
    "page": "iphone",
    "w": 1300,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907np-iphone-parts": {
    "x": 3340,
@@ -3000,12 +2670,12 @@
    "page": "iphone",
    "w": 900,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907np-ipad-block": {
    "x": 0,
    "y": 20920,
-   "text": "Proposal — VPN-907 NoPrompt · iPadOS shows no VPN prompt: help sheet without the prompt picture",
+   "text": "Approved, not built — VPN-924 · VPN-907 NoPrompt · iPadOS shows no VPN prompt: help sheet without the prompt picture",
    "page": "ipad",
    "kind": "title1",
    "maxW": 4000
@@ -3013,7 +2683,7 @@
   "vpn907np-ipad-row": {
    "x": 0,
    "y": 21120,
-   "text": "Proposal — VPN-907 NoPrompt · Connect, no system prompt (portrait, landscape)",
+   "text": "Approved, not built — VPN-924 · VPN-907 NoPrompt · Connect, no system prompt (portrait, landscape)",
    "page": "ipad",
    "kind": "title1",
    "maxW": 4000
@@ -3025,7 +2695,7 @@
    "page": "ipad",
    "w": 900,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907np-ipad-texts": {
    "x": 5428,
@@ -3034,7 +2704,7 @@
    "page": "ipad",
    "w": 1300,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907np-ipad-parts": {
    "x": 6808,
@@ -3043,50 +2713,50 @@
    "page": "ipad",
    "w": 900,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907np-mac-block": {
    "x": 0,
-   "y": 20148,
-   "text": "Proposal — VPN-907 NoPrompt · macOS shows no VPN prompt: help without the prompt picture",
+   "y": 8714,
+   "text": "Approved, not built — VPN-924 · VPN-907 NoPrompt · macOS shows no VPN prompt: help without the prompt picture",
    "page": "mac",
    "kind": "title1",
    "maxW": 4000
   },
   "vpn907np-mac-row": {
    "x": 0,
-   "y": 20348,
-   "text": "Proposal — VPN-907 NoPrompt · Connect, no system prompt",
+   "y": 8914,
+   "text": "Approved, not built — VPN-924 · VPN-907 NoPrompt · Connect, no system prompt",
    "page": "mac",
    "kind": "title1",
    "maxW": 4000
   },
   "vpn907np-mac-flow": {
    "x": 1160,
-   "y": 20648,
+   "y": 9214,
    "text": "No-prompt flow (Mac):\n1 Connect (premium user, as round 1): the app asks macOS for the VPN configuration.\n2 macOS shows no prompt → THIS help in the window (decline → the round-1 Mac help).\n3 Try again: asks again at once; the prompt shows, or this help comes again.\n4 Open System Settings: as today (perm.openSettings, the VPN page). SecurefieldiOS: say if the Device Management page can be opened instead.\n5 Not now: back to the main window, Connect. The next Connect asks again.\nScrolling: as item 41; the buttons stay fixed.\nReplaces: no current frame.\nThe board's 11-17 answer: macOS 7.6 may ship with today's first-launch step; the VPN-907 Mac change, with this screen, comes in the next Mac version.",
    "page": "mac",
    "w": 900,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907np-mac-texts": {
    "x": 2140,
-   "y": 20648,
+   "y": 9214,
    "text": "Texts — EN | AR. (app) = already in the app (Localizable.xcstrings), same EN and AR. (new) = new text.\niPhone and iPad:\n• iOS didn't show the VPN window | لم يعرض iOS نافذة VPN (new)\n• New VPN configurations may be blocked on this device. | قد تكون إضافة إعدادات VPN جديدة محظورة على هذا الجهاز. (new: the first half of the approved round-1 help line)\n• See | راجع (new, from the approved help line)\n• Settings › General › VPN & Device Management | الإعدادات › عام › VPN وإدارة الجهاز (new, from the approved help line; the iOS path)\n• Try again | حاول مرة أخرى (app: VPN_PERMISSION.TRY_AGAIN)\n• ✕ = Close, as on the Report sheet (no visible text).\nMac:\n• macOS didn't show the VPN window | لم يعرض macOS نافذة VPN (new)\n• New VPN configurations may be blocked on this device. | قد تكون إضافة إعدادات VPN جديدة محظورة على هذا الجهاز. (new, the same text as above)\n• See | راجع (new, the same text as above)\n• System Settings › General › Device Management | إعدادات النظام › عام › إدارة الجهاز (new) — TO BE CHECKED ON THE MAC. This is the macOS 15 path (from web search results). The app runs from macOS 14; on macOS 14 the profiles are in System Settings › Privacy & Security › Profiles. The AR names must match the Arabic macOS menus.\n• Try again | حاول مرة أخرى (app: perm.tryAgain)\n• Open System Settings | فتح إعدادات النظام (app: perm.openSettings)\n• Not now | ليس الآن (app text: CONNECTION_RATING.SKIP; new on the Mac in round 1)\nIn Arabic the › marks mirror on their own (Unicode mirrored character); the path reads right to left.",
    "page": "mac",
    "w": 1300,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn907np-mac-parts": {
    "x": 3520,
-   "y": 20648,
+   "y": 9214,
    "text": "Parts and tokens: the round-1 help on each device. iPhone: the Report sheet (radius 40/40/60/60). iPad: the Report form sheet, 580 × 658 pt as today (this content fits; the round-1 help needs 760). Type × 1.3 on the iPad (Theme.typography). Mac: the round-1 Mac help window (480 × 640 + title bar).\nIn place of the prompt picture: the app's own Warning icon (assets/Icons/Warning.png, the main header report button), template, white (Theme.icon.primary), 44 pt (iPad 57 pt), in a GradientBorderCard (iceBlue, radius 18) on iPhone and iPad and in the round-1 Mac card.\nText: title NAMU-1850 white; line Red Hat Display lightGray #D1DCEA; path Red Hat Display bold white; button RadialGradientButton green (iPhone, iPad), PrimaryButtonStyle #33A9FE → #1EB972 (Mac); links lightGreen #35DF91. No new token, no new component, no new asset.\nContrast: lightGray on the card 7.72:1; white text and the white icon on the card 10.72:1 (at its lightest point); Mac card (white 6 %): white 13.48:1, lightGray 9.72:1; lightGreen on the background 9.25:1. Below 4.5:1, kept exact (the app's own buttons): white on the green button 2.37:1; white on the Mac button 2.55:1 — if the board approves VPN-923, the Mac button takes its new look here too.\nCheck: the iPhone sheet fits iPhone SE (375 × 667) in EN and AR without scrolling (rendered, not on the canvas).",
    "page": "mac",
    "w": 900,
    "size": "m",
-   "fill": "orange"
+   "fill": "green"
   },
   "vpn1058-iphone-block": {
    "x": 0,
@@ -3174,194 +2844,23 @@
    "fill": "orange",
    "text": "Proposal — VPN-1058 (below): the premium icon (icons/Premium, 20 pt) in place of the \"PREMIUM\" tag on locked rows. These free-user frames stay until the board approves."
   },
-  "vpn1152-iphone-block": {
-   "x": 0,
-   "y": 24008,
-   "text": "Proposal — VPN-1152 · Offers question (yes or no to offer notifications), after the onboarding, and its Settings switch",
-   "page": "iphone",
-   "kind": "title1",
-   "maxW": 4000
-  },
-  "vpn1152-iphone-row1": {
-   "x": 0,
-   "y": 24208,
-   "text": "Proposal — VPN-1152 · Offers question over Main (once, after the onboarding; EN, then AR)",
-   "page": "iphone",
-   "kind": "title1",
-   "maxW": 4000
-  },
-  "vpn1152-iphone-flow": {
-   "x": 940,
-   "y": 24508,
-   "page": "iphone",
+  "mac-MainWindow-built": {
+   "x": 6012,
+   "y": 2388,
+   "text": "Built with VPN-810 (design VPN-809), in the app since 7.6 (2026-11-25): no title bar, the iPhone connect control, Settings in this window.",
    "w": 900,
-   "size": "m",
-   "fill": "orange",
-   "text": "Flow (iPhone; Mac the same, see the Mac page). From the built VPN-129 screen (commit 330305a, not merged), brought to today's design.\n1 The question shows ONCE, over the Main screen, the first time Main is visible: after the privacy consent and the onboarding. Nothing in the onboarding changes.\n2 iOS's notification prompt waits until the user answers (as built in VPN-129: the prompt is asked on Main today, after the onboarding). So the question never shows during the onboarding and never next to an iOS prompt.\n3 Users who update from an older version see it once, on Main.\n4 Both answers are equal: same button, same size, same colour. Nothing is chosen for the user. No close (✕) and no swipe-down: the sheet goes away with No or Yes. \"No\" is first (leading side), \"Yes\" second.\n5 The answer goes to the switch in Settings: Yes = on, No = off. Not answered = off. The app sends the answer with the push-token registration (VPN-129); BackendEngineer stores it.\n6 The answer is about OFFER notifications only. Connection and account notifications stay as today. iOS's own notification switch is separate.\nChanges from the VPN-129 build: full screen → a sheet over Main (the user sees where they are); unequal buttons (green \"Yes, send offers\" + outline \"Not now\") → two equal buttons No | Yes; Heart icon removed (it is the \"Rate us\" icon); title \"Offers worth hearing about?\" and body \"Premium plans, free trials and seasonal prices\" → plain words with no offer promise; the Settings switch gets a caption and sits in its own card."
-  },
-  "vpn1152-iphone-texts": {
-   "x": 1920,
-   "y": 24508,
-   "page": "iphone",
-   "w": 900,
-   "size": "m",
-   "fill": "orange",
-   "text": "Texts — EN | AR. All new (MARKETING_OPT_IN.*; the VPN-129 build had other words, see Flow). Plain words; no promise of an offer.\nThe question (iPhone sheet, Mac sheet):\n• TITLE: Offers and promotions | العروض الترويجية\n• BODY: Can Securefield send you notifications about offers and promotions? | هل يمكن أن يرسل لك Securefield إشعارات حول العروض الترويجية؟\n• SERVICE: Notifications about your connection and your account do not change. | لن تتغير الإشعارات الخاصة باتصالك وحسابك.\n• DECLINE (button): No | لا\n• ACCEPT (button): Yes | نعم\n• FOOTNOTE: You can change your answer at any time in Settings. | يمكنك تغيير إجابتك في أي وقت من الإعدادات.\nSettings:\n• SETTINGS_ROW: Offers and promotions | العروض الترويجية\n• SETTINGS_CAPTION (new): Send me notifications about offers | أرسل لي إشعارات حول العروض\nVoiceOver: the switch reads \"Offers and promotions, Send me notifications about offers, switch, off\" / Arabic the same order. The two buttons read \"No, button\" and \"Yes, button\"."
-  },
-  "vpn1152-iphone-parts": {
-   "x": 2900,
-   "y": 24508,
-   "page": "iphone",
-   "w": 900,
-   "size": "m",
-   "fill": "orange",
-   "text": "Parts and tokens (all from design-system/project/tokens.json; no new token).\nQuestion sheet: the VPN-907 help sheet shape — background gradient bgGraphit → bgBlack 135°, radius 40/40/60/60, behind it Main with a black 48 % layer. Padding 32 top, 24 sides, 42 bottom. Title H6 (NAMU-1850 22/24.2, text-primary). Body Body1 (Red Hat Display 15/21, text-primary). Service line Body1 in text-tertiary (lightGray #D1DCEA). Footnote Caption (12/16.8, text-tertiary). Gaps 12; 16 above the buttons.\nButtons: GradientBorderButton surface (iceBlue fill, gradient edge, radius-button 24), label Red Hat Display 16 white; height 56, two side by side, gap 12. New use: the component today is full width with aspect 4.64; here half width, height 56.\nSettings card: GradientBorderCard (radius 28, iceBlue), height 72, padding 20 leading / 16 trailing, 12 below, between \"Restore purchases\" and the actions card. Label Body1; caption Caption in text-tertiary. Switch: the iOS system switch (51 × 31), tint lightGreen #35DF91 (text-secondary, as built in VPN-129). The off track and the knob are drawn by iOS.\nNEW component: a switch row (the iPhone app has no switch today). It goes into the Design System after approval.\nContrast: white on iceBlue card ≥ 4.5:1 and lightGray on it ≥ 4.5:1 (the same pairs as the Settings rows today). The on track #35DF91 on the card ≥ 3:1. The off track is the iOS system colour (not ours)."
-  },
-  "vpn1152-iphone-ipad": {
-   "x": 3880,
-   "y": 24508,
-   "page": "iphone",
-   "w": 700,
-   "size": "m",
-   "fill": "orange",
-   "text": "iPad: its own frames are on the iPad page, block \"Proposal — VPN-1152\": the question as a form sheet in the middle of the screen, and the switch card in the Settings sidebar under the premium row; portrait and landscape, EN and AR."
-  },
-  "vpn1152-iphone-row2": {
-   "x": 0,
-   "y": 25752,
-   "text": "Proposal — VPN-1152 · Settings · free user · offers switch off (default, and after No), then on (after Yes); EN, then AR",
-   "page": "iphone",
-   "kind": "title1",
-   "maxW": 4000
-  },
-  "vpn1152-iphone-settings": {
-   "x": 1880,
-   "y": 26052,
-   "page": "iphone",
-   "w": 700,
-   "size": "m",
-   "fill": "orange",
-   "text": "Settings: a new card \"Offers and promotions\" with a switch, between \"Restore purchases\" and the rows card. Free and premium users: the same card (premium users get offers too, for example a yearly plan). Drawn on the free user's Settings; on the premium user's Settings it sits in the same place. The rows card moves down by 84 pt; Settings scrolls as today."
-  },
-  "vpn1152-iphone-mark-main": {
-   "x": 6620,
-   "y": 6560,
-   "page": "iphone",
-   "w": 700,
-   "size": "m",
-   "fill": "orange",
-   "text": "Proposal — VPN-1152 (below): the offers question shows once over this Main screen, after the onboarding. This row does not change until the board approves."
-  },
-  "vpn1152-iphone-mark-settings": {
-   "x": 1880,
-   "y": 11312,
-   "page": "iphone",
-   "w": 700,
-   "size": "m",
-   "fill": "orange",
-   "text": "Proposal — VPN-1152 (below): a new \"Offers and promotions\" switch card between Restore purchases and the rows. These frames stay until the board approves."
-  },
-  "vpn1152-mac-block": {
-   "x": 0,
-   "y": 21720,
-   "text": "Proposal — VPN-1152 · Offers question and its Settings switch (Mac: see the note — the Mac app has no push today)",
    "page": "mac",
-   "kind": "title1",
-   "maxW": 4000
-  },
-  "vpn1152-mac-row1": {
-   "x": 0,
-   "y": 21920,
-   "text": "Proposal — VPN-1152 · Offers question over the main window (once, after first launch; EN, then AR)",
-   "page": "mac",
-   "kind": "title1",
-   "maxW": 4000
-  },
-  "vpn1152-mac-note": {
-   "x": 2004,
-   "y": 22220,
-   "page": "mac",
-   "w": 900,
    "size": "m",
-   "fill": "orange",
-   "text": "Mac — read before deciding.\n• The Mac app has NO push today: no push entitlement (aps-environment) and no notification code in native/MacApp. So no offer notification can reach a Mac now.\n• If the answer is stored per device (as in VPN-129: it goes with the iPhone's push token), the Mac question has no effect. Recommendation: do not show the question on Mac until the Mac gets push; draw it now only so the board sees it.\n• If the backend stores it per account, a Mac answer would also change the iPhone's offers. Then the Mac question makes sense. A question for Project Manager / BackendEngineer.\nFrames: the question as a sheet over the main window (after first launch, never in it); the switch in Settings › General under \"Connect when the app opens\", system switch (tint lightGreen), caption in system 11 pt lightGray. Buttons: OutlineButtonStyle (height 44, capsule, surface, 1.5 pt hairline), two equal, No first."
+   "fill": "gray"
   },
-  "vpn1152-mac-texts": {
-   "x": 2984,
-   "y": 22220,
-   "page": "mac",
-   "w": 900,
-   "size": "m",
-   "fill": "orange",
-   "text": "Texts — EN | AR. All new (MARKETING_OPT_IN.*; the VPN-129 build had other words, see Flow). Plain words; no promise of an offer.\nThe question (iPhone sheet, Mac sheet):\n• TITLE: Offers and promotions | العروض الترويجية\n• BODY: Can Securefield send you notifications about offers and promotions? | هل يمكن أن يرسل لك Securefield إشعارات حول العروض الترويجية؟\n• SERVICE: Notifications about your connection and your account do not change. | لن تتغير الإشعارات الخاصة باتصالك وحسابك.\n• DECLINE (button): No | لا\n• ACCEPT (button): Yes | نعم\n• FOOTNOTE: You can change your answer at any time in Settings. | يمكنك تغيير إجابتك في أي وقت من الإعدادات.\nSettings:\n• SETTINGS_ROW: Offers and promotions | العروض الترويجية\n• SETTINGS_CAPTION (new): Send me notifications about offers | أرسل لي إشعارات حول العروض\nVoiceOver: the switch reads \"Offers and promotions, Send me notifications about offers, switch, off\" / Arabic the same order. The two buttons read \"No, button\" and \"Yes, button\"."
-  },
-  "vpn1152-mac-row2": {
-   "x": 0,
-   "y": 23242,
-   "text": "Proposal — VPN-1152 · Settings · offers switch off (default), then on; EN, then AR",
-   "page": "mac",
-   "kind": "title1",
-   "maxW": 4000
-  },
-  "vpn1152-mac-mark-settings": {
-   "x": 2160,
+  "mac-Settings-built": {
+   "x": 8016,
    "y": 3810,
+   "text": "Built with VPN-810 (design VPN-809), in the app since 7.6 (2026-11-25): Settings shows in the main window, in place of the connection. There is no Settings window. The \"Show in Dock\" switch in these frames comes from VPN-795 (Proposal below); the app does not have it yet.",
+   "w": 900,
    "page": "mac",
-   "w": 700,
    "size": "m",
-   "fill": "orange",
-   "text": "Proposal — VPN-1152 (below): a new \"Offers and promotions\" switch in General, under \"Connect when the app opens\". Only if the board keeps the question on Mac."
-  },
-  "vpn1152-ipad-block": {
-   "x": 0,
-   "y": 26040,
-   "text": "Proposal — VPN-1152 · Offers question (yes or no to offer notifications), after the onboarding, and its Settings switch — iPad",
-   "page": "ipad",
-   "kind": "title1",
-   "maxW": 4000
-  },
-  "vpn1152-ipad-note": {
-   "x": 0,
-   "y": 25340,
-   "page": "ipad",
-   "w": 900,
-   "size": "m",
-   "fill": "orange",
-   "text": "iPad needs its own frames: the question is a form sheet in the middle of the screen (not a bottom sheet), and Settings is the sidebar form sheet (WideSettingsView): the switch card goes under the premium row in the 320 pt sidebar. Portrait and landscape, EN and AR. Drawn in the next round when Project Manager sends it. Flow, texts and parts: iPhone page, Proposal — VPN-1152."
-  },
-  "vpn1152-ipad-row1": {
-   "x": 0,
-   "y": 26240,
-   "text": "Proposal — VPN-1152 · Offers question over Main, form sheet (once, after the onboarding); portrait and landscape, EN, then AR",
-   "page": "ipad",
-   "kind": "title1",
-   "maxW": 4000
-  },
-  "vpn1152-ipad-question": {
-   "x": 4408,
-   "y": 26540,
-   "page": "ipad",
-   "w": 900,
-   "size": "m",
-   "fill": "orange",
-   "text": "iPad question — the same question, texts and rules as on iPhone (see the iPhone page: Flow and Texts).\n• A form sheet in the middle of the screen, over Main, 580 pt wide; its height fits the content. Dimmed Main behind it (black 48 %). Corner radius 12 (system form sheet), as the VPN-907 help sheet on iPad.\n• Once, the first time Main is visible: after the privacy consent and the onboarding. Nothing in the onboarding changes. iPadOS's notification prompt waits until the user answers.\n• Two equal buttons, \"No\" first (leading side; in Arabic on the right), \"Yes\" second. No close (✕), no swipe-down, no tap outside to close: the sheet goes away only with No or Yes.\n• Tablet rule (tokens.json): type × 1.3. Title H6 28.6/31.5 NAMU-1850. Body and service line Body1 19.5/27.3 (service line text-tertiary #D1DCEA). Footnote Caption 15.6/21.8 text-tertiary. Buttons: GradientBorderButton surface (iceBlue, gradient edge, radius 24), height 56, gap 12, label Red Hat Display 20.8 white. Padding 40 top, 32 sides and bottom; gap 15.6.\n• Split View and Slide Over: the form sheet becomes a bottom sheet in a compact width, as on iPhone (iPhone frames)."
-  },
-  "vpn1152-ipad-row2": {
-   "x": 0,
-   "y": 28150,
-   "text": "Proposal — VPN-1152 · Settings · sidebar · offers switch off (default, and after No) in portrait, on (after Yes) in landscape; EN, then AR",
-   "page": "ipad",
-   "kind": "title1",
-   "maxW": 4000
-  },
-  "vpn1152-ipad-settings": {
-   "x": 4408,
-   "y": 28450,
-   "page": "ipad",
-   "w": 900,
-   "size": "m",
-   "fill": "orange",
-   "text": "iPad Settings (WideSettingsView, form sheet with a 320 pt sidebar).\n• The new card \"Offers and promotions\" sits in the sidebar under the premium row and above the rows card. Same width as the premium row (320 × 0.915 = 292.8), same card edge (GradientBorderCard, radius 28, iceBlue), 12 below. Min height 76 (as the premium row), padding 12 / 16.\n• Label Body1 19.5/27.3 white; caption Caption 15.6/21.8 text-tertiary #D1DCEA. Switch: the iOS system switch 51 × 31, tint lightGreen #35DF91. Off by default and after \"No\"; on after \"Yes\".\n• In English the label wraps to 2 lines in the 292.8 pt card; the card grows. Nothing is cut off. The sidebar scrolls as today, so in landscape \"Restore purchases\" may need a scroll.\n• The detail pane does not change (Protocols drawn, as when Settings opens).\n• Drawn: portrait with the switch off, landscape with the switch on; EN, then AR."
+   "fill": "gray"
   }
  }
 }
