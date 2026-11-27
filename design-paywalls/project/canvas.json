@@ -2007,6 +2007,54 @@
    "h": 3020,
    "page": "iphone",
    "title": "BLACK_FRIDAY-flow · All users · every text × 10 app languages · live in “BLACK_FRIDAY 2026 (flow) VPN-1269 10 languages” (214e2a2c) since 2026-11-27 16:32 UTC · text table"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1284-TrialEnded_Texts10Languages.dc.html": {
+   "x": 0,
+   "y": 67080,
+   "w": 3400,
+   "h": 2738,
+   "page": "iphone",
+   "title": "Proposal — VPN-1284 · flow 1 “Keep Premium for less — trial ended (flow) VPN-1020” (7ee92610) on test_trial_ended · every text × 10 app languages (en, ar unchanged; de, es, fr, he, it, ja, ru, uk new) · text table"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1284-WelcomeBackA_FreeMonth_Texts10Languages.dc.html": {
+   "x": 3480,
+   "y": 67080,
+   "w": 3400,
+   "h": 2940,
+   "page": "iphone",
+   "title": "Proposal — VPN-1284 · flow 2A “Welcome back — 1 month free, arm A (flow) VPN-1020” (8569c981) on test_welcome_back_free · every text × 10 app languages (en, ar unchanged; de, es, fr, he, it, ja, ru, uk new) · text table"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1284-WelcomeBackB_HalfFirstMonth_Texts10Languages.dc.html": {
+   "x": 6960,
+   "y": 67080,
+   "w": 3400,
+   "h": 2983,
+   "page": "iphone",
+   "title": "Proposal — VPN-1284 · flow 2B “Welcome back — first month half price, arm B (flow) VPN-1020” (2b91ac08) on test_welcome_back_half · every text × 10 app languages (en, ar unchanged; de, es, fr, he, it, ja, ru, uk new) · text table"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1284-WelcomeBack_YearlyWinBack_Texts10Languages.dc.html": {
+   "x": 10440,
+   "y": 67080,
+   "w": 3400,
+   "h": 2872,
+   "page": "iphone",
+   "title": "Proposal — VPN-1284 · flow 3 “Welcome back — yearly win-back (flow) VPN-1020” (d321d74f) on test_welcome_back_yearly · every text × 10 app languages (en, ar unchanged; de, es, fr, he, it, ja, ru, uk new) · text table"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1284-IntroArmA_FirstMonth_Texts10Languages.dc.html": {
+   "x": 13920,
+   "y": 67080,
+   "w": 3400,
+   "h": 2945,
+   "page": "iphone",
+   "title": "Proposal — VPN-1284 · flow 5A “Intro offer — first month, arm A (flow) VPN-1020” (9778664d) on test_intro_first_month · every text × 10 app languages (en, ar unchanged; de, es, fr, he, it, ja, ru, uk new) · text table"
+  },
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1284-IntroArmB_FirstYear_Texts10Languages.dc.html": {
+   "x": 17400,
+   "y": 67080,
+   "w": 3400,
+   "h": 2945,
+   "page": "iphone",
+   "title": "Proposal — VPN-1284 · flow 5B “Intro offer — first year, arm B (flow) VPN-1020” (107b840f) on test_intro_first_year · every text × 10 app languages (en, ar unchanged; de, es, fr, he, it, ja, ru, uk new) · text table"
   }
  },
  "order": [
@@ -2244,6 +2292,12 @@
   "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1020-IntroArmB_FirstYear-EN.dc.html",
   "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1020-IntroArmA_FirstMonth-AR.dc.html",
   "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1020-IntroArmB_FirstYear-AR.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1284-TrialEnded_Texts10Languages.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1284-WelcomeBackA_FreeMonth_Texts10Languages.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1284-WelcomeBackB_HalfFirstMonth_Texts10Languages.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1284-WelcomeBack_YearlyWinBack_Texts10Languages.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1284-IntroArmA_FirstMonth_Texts10Languages.dc.html",
+  "iPhone-HOME_PREMIUM_FLOW-Proposal_VPN1284-IntroArmB_FirstYear_Texts10Languages.dc.html",
   "iPad-HOME_PREMIUM_FLOW-Proposal_VPN1020-AppPremiumScreen-EN.dc.html",
   "iPad-HOME_PREMIUM_FLOW-Proposal_VPN1020-AppPremiumScreen-AR.dc.html",
   "Mac-HOME_TOP_LEFT_PREMIUM-Proposal_VPN1020-TrialEnded_MonthlyFirst-EN.dc.html",
@@ -4005,6 +4059,23 @@
    "size": "m",
    "fill": "gray",
    "text": "Built in Adapty — VPN-1269, live since 2026-11-27 16:32 UTC.\nUsers now see the Black Friday screen in their app's language: en, ar, de, es, fr, he, it, ja, ru, uk. Before 16:32Z the push (16:00–16:05Z) opened the en and ar flow b7e15553.\nThe renders below are SecurefieldiOS's Adapty renders of the stored config (same as the published data). Prices are samples, not store prices: the App Store sets the price per country. States were set in throwaway copies, never in Adapty.\nNo text changed in this step."
+  },
+  "vpn1284-block": {
+   "x": 0,
+   "y": 66400,
+   "page": "iphone",
+   "kind": "title1",
+   "maxW": 20800,
+   "text": "Proposal — VPN-1284 · the 6 offer flows of VPN-1020 (test placements) · the 8 missing app languages: de, es, fr, he, it, ja, ru, uk · texts only, no layout change"
+  },
+  "iphone-VPN1284-texts": {
+   "x": 0,
+   "y": 66530,
+   "page": "iphone",
+   "w": 3400,
+   "size": "m",
+   "fill": "gray",
+   "text": "Texts — VPN-1284. Every text of the 6 VPN-1020 offer flows in the 10 languages of SecureField (en, ar, de, es, fr, he, it, ja, ru, uk). en and ar do not change. One text table per flow, to the right: text id × 10 languages, both states (offer and no offer), longer texts in yellow. The same words are in the file VPN-1284_six_flows_texts_10_languages.csv on VPN-1284 (for the draft copies, step 2). No new screen: the layout does not change.\nFonts. NAMU-1850 has Latin and Cyrillic letters, no Hebrew, Japanese or Arabic. RedHatDisplay-Regular has Latin letters only. de, es, fr, it: every text in the flow fonts. ru, uk: title, plan names and button in NAMU-1850; the other texts (Restore, mark, sub line, features, captions, prices, tag, renewal line, legal row) show Cyrillic letters in the iOS system font. he, ja: every text in the iOS system font, as Arabic today.\nHebrew. Adapty mirrors the whole screen for ar (close on the right, Restore on the left, tag on the left, text aligned right). Hebrew needs the same and nothing else. The Arabic layout works for Hebrew as it is. No right-to-left marks in any text.\nFit (measured at 375 pt and 390 pt with sample prices). Every one-line text fits. Titles and sub lines keep the number of lines of en, except: de “Premium, das ganze Jahr” (5A, 5B no offer) is 2 lines at 375 pt only; renewal lines in 5A and 5B can take 2 lines at 390 pt, as ar does today. The plan card is tight in ru with long ruble prices (1, 2A, 2B, 3); ru is the longest language of every flow, so the 375-pt renders in step 2 are ru."
   }
  }
 }
