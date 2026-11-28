@@ -2012,7 +2012,7 @@
    "x": 0,
    "y": 67080,
    "w": 3400,
-   "h": 3071,
+   "h": 3177,
    "page": "iphone",
    "title": "Proposal — VPN-1284 · flow 1 “Keep Premium for less — trial ended (flow) VPN-1020” (7ee92610) on test_trial_ended · every text × 10 app languages (en, ar unchanged; de, es, fr, he, it, ja, ru, uk new) · text table"
   },
@@ -2020,7 +2020,7 @@
    "x": 3480,
    "y": 67080,
    "w": 3400,
-   "h": 3179,
+   "h": 3275,
    "page": "iphone",
    "title": "Proposal — VPN-1284 · flow 2A “Welcome back — 1 month free, arm A (flow) VPN-1020” (8569c981) on test_welcome_back_free · every text × 10 app languages (en, ar unchanged; de, es, fr, he, it, ja, ru, uk new) · text table"
   },
@@ -2028,7 +2028,7 @@
    "x": 6960,
    "y": 67080,
    "w": 3400,
-   "h": 3241,
+   "h": 3346,
    "page": "iphone",
    "title": "Proposal — VPN-1284 · flow 2B “Welcome back — first month half price, arm B (flow) VPN-1020” (2b91ac08) on test_welcome_back_half · every text × 10 app languages (en, ar unchanged; de, es, fr, he, it, ja, ru, uk new) · text table"
   },
@@ -2036,7 +2036,7 @@
    "x": 10440,
    "y": 67080,
    "w": 3400,
-   "h": 3105,
+   "h": 3317,
    "page": "iphone",
    "title": "Proposal — VPN-1284 · flow 3 “Welcome back — yearly win-back (flow) VPN-1020” (d321d74f) on test_welcome_back_yearly · every text × 10 app languages (en, ar unchanged; de, es, fr, he, it, ja, ru, uk new) · text table"
   },
@@ -3812,7 +3812,7 @@
    "w": 1800,
    "size": "m",
    "fill": "gray",
-   "text": "Texts — EN | AR. “app” = already in the app (Localizable.xcstrings). “approved 11-17” = on the approved VPN-727 card at d684e851. “Adapty today” = in a live Adapty flow today. “new” = needs the board's approval on this card.\n• Restore | استعادة (app) · Close | إغلاق (app)\n• Your trial has ended | انتهت فترتك التجريبية (new)\n• Keep Premium for less with the monthly plan. | احتفظ بـ Premium بسعر أقل مع الباقة الشهرية. (new)\n• Ultra-fast connection | اتصال فائق السرعة (app) · Worldwide locations | مواقع عالمية (app) · Unlimited protection | حماية غير محدودة (app)\n• Monthly | شهري (app) · Best offer | أفضل عرض (app)\n• Only [weekly price] / week | فقط [السعر الأسبوعي] / أسبوع (new)\n• [price] / Month | [السعر] / شهر (app)\n• Weekly | أسبوعي (app) · Cancel anytime | يمكنك الإلغاء في أي وقت (approved 11-17)\n• [price] / Week | [السعر] / أسبوع (app)\n• Continue | متابعة (app)\n• Renews every month at [price] until you cancel. | يتجدد كل شهر بسعر [السعر] حتى تلغي الاشتراك. (approved 11-17)\n• Weekly selected: Renews every week at [price] until you cancel. | يتجدد كل أسبوع بسعر [السعر] حتى تلغي الاشتراك. (approved 11-17)\n• Privacy Policy | سياسة الخصوصية (app) → https://securefieldapp.com/policy · Terms of Use | شروط الاستخدام (app) → https://securefieldapp.com/terms"
+   "text": "Texts — EN | AR. “app” = already in the app (Localizable.xcstrings). “approved 11-17” = on the approved VPN-727 card at d684e851. “Adapty today” = in a live Adapty flow today. “new” = needs the board's approval on this card.\n• Restore | استعادة (app) · Close | إغلاق (app)\n• Your trial has ended | انتهت فترتك التجريبية (new)\n• Keep Premium for less with the monthly plan. | احتفظ بـ Premium بسعر أقل مع الباقة الشهرية. (new)\n• Ultra-fast connection | اتصال فائق السرعة (app) · Worldwide locations | مواقع عالمية (app) · Unlimited protection | حماية غير محدودة (app)\n• Monthly | شهري (app) · Best offer | أفضل عرض (app)\n• [weekly price] / week | فقط [السعر الأسبوعي] / أسبوع (new · EN shorter, board 11-28)\n• [price] | [السعر] / شهر (app · EN shorter, board 11-28)\n• Weekly | أسبوعي (app) · Cancel anytime | يمكنك الإلغاء في أي وقت (approved 11-17)\n• [price] / Week | [السعر] / أسبوع (app)\n• Continue | متابعة (app)\n• Renews every month at [price] until you cancel. | يتجدد كل شهر بسعر [السعر] حتى تلغي الاشتراك. (approved 11-17)\n• Weekly selected: Renews every week at [price] until you cancel. | يتجدد كل أسبوع بسعر [السعر] حتى تلغي الاشتراك. (approved 11-17)\n• Privacy Policy | سياسة الخصوصية (app) → https://securefieldapp.com/policy · Terms of Use | شروط الاستخدام (app) → https://securefieldapp.com/terms"
   },
   "vpn1020-row-WelcomeBack_FreeMonth": {
    "x": 0,
@@ -3838,7 +3838,7 @@
    "w": 1800,
    "size": "m",
    "fill": "gray",
-   "text": "Texts — EN | AR. “app” = already in the app (Localizable.xcstrings). “approved 11-17” = on the approved VPN-727 card at d684e851. “Adapty today” = in a live Adapty flow today. “new” = needs the board's approval on this card.\n• WELCOME BACK | مرحبًا بعودتك (approved 11-17)\n• We saved your Premium spot | حفظنا لك مكانك في Premium (new)\n• Come back free for [offer duration]. Cancel anytime. | عُد مجانًا لمدة [مدة العرض]. يمكنك الإلغاء في أي وقت. (new)\n• Feature rows, Restore, Close, Privacy, Terms: as in “Keep Premium for less” (app)\n• Monthly | شهري (app) · Best offer | أفضل عرض (app)\n• Then [price] / Month | ثم [السعر] / شهر (app)\n• Free for [offer duration] | مجانًا لمدة [مدة العرض] (Adapty today)\n• Come back | عُد إلينا (new)\n• No charge today. Free for [offer duration], then [price] every month until you cancel. | لا رسوم اليوم. مجانًا لمدة [مدة العرض]، ثم [السعر] كل شهر حتى تلغي الاشتراك. (approved 11-17)\nUsers who get no offer:\n• Come back to Premium | عُد إلى Premium (approved 11-17) — in place of the subtitle\n• Cancel anytime | يمكنك الإلغاء في أي وقت (approved 11-17) · [price] / Month | [السعر] / شهر (app)\n• Renews every month at [price] until you cancel. | يتجدد كل شهر بسعر [السعر] حتى تلغي الاشتراك. (approved 11-17)"
+   "text": "Texts — EN | AR. “app” = already in the app (Localizable.xcstrings). “approved 11-17” = on the approved VPN-727 card at d684e851. “Adapty today” = in a live Adapty flow today. “new” = needs the board's approval on this card.\n• WELCOME BACK | مرحبًا بعودتك (approved 11-17)\n• We saved your Premium spot | حفظنا لك مكانك في Premium (new)\n• Come back free for [offer duration]. Cancel anytime. | عُد مجانًا لمدة [مدة العرض]. يمكنك الإلغاء في أي وقت. (new)\n• Feature rows, Restore, Close, Privacy, Terms: as in “Keep Premium for less” (app)\n• Monthly | شهري (app) · Best offer | أفضل عرض (app)\n• Then [price] | ثم [السعر] / شهر (app · EN shorter, board 11-28)\n• [offer duration] free | مجانًا لمدة [مدة العرض] (Adapty today · EN shorter, board 11-28)\n• Come back | عُد إلينا (new)\n• No charge today. Free for [offer duration], then [price] every month until you cancel. | لا رسوم اليوم. مجانًا لمدة [مدة العرض]، ثم [السعر] كل شهر حتى تلغي الاشتراك. (approved 11-17)\nUsers who get no offer:\n• Come back to Premium | عُد إلى Premium (approved 11-17) — in place of the subtitle\n• Cancel anytime | يمكنك الإلغاء في أي وقت (approved 11-17) · [price] / Month | [السعر] / شهر (app)\n• Renews every month at [price] until you cancel. | يتجدد كل شهر بسعر [السعر] حتى تلغي الاشتراك. (approved 11-17)"
   },
   "vpn1020-row-WelcomeBack_HalfFirstMonth": {
    "x": 0,
@@ -3864,7 +3864,7 @@
    "w": 1800,
    "size": "m",
    "fill": "gray",
-   "text": "Texts — EN | AR. “app” = already in the app (Localizable.xcstrings). “approved 11-17” = on the approved VPN-727 card at d684e851. “Adapty today” = in a live Adapty flow today. “new” = needs the board's approval on this card.\n• WELCOME BACK | مرحبًا بعودتك (approved 11-17)\n• We saved your Premium spot | حفظنا لك مكانك في Premium (new)\n• Your first month back is half price. | شهرك الأول بعد العودة بنصف السعر. (new)\n• Monthly | شهري (app) · Then [price] / Month | ثم [السعر] / شهر (app)\n• [offer price] first month | [سعر العرض] للشهر الأول (new)\n• 50% off | خصم 50% (new) — on the tag\n• Come back | عُد إلينا (new)\n• First month at [offer price], then every month at [price] until you cancel. | الشهر الأول بسعر [سعر العرض]، ثم كل شهر بسعر [السعر] حتى تلغي الاشتراك. (new; the pattern of the approved first-month line)\nUsers who get no offer: the no-offer texts of arm A."
+   "text": "Texts — EN | AR. “app” = already in the app (Localizable.xcstrings). “approved 11-17” = on the approved VPN-727 card at d684e851. “Adapty today” = in a live Adapty flow today. “new” = needs the board's approval on this card.\n• WELCOME BACK | مرحبًا بعودتك (approved 11-17)\n• We saved your Premium spot | حفظنا لك مكانك في Premium (new)\n• Your first month back is half price. | شهرك الأول بعد العودة بنصف السعر. (new)\n• Monthly | شهري (app) · Then [price] | ثم [السعر] / شهر (app · EN shorter, board 11-28)\n• [offer price] | [سعر العرض] للشهر الأول (new · EN shorter, board 11-28)\n• 50% off | خصم 50% (new) — on the tag\n• Come back | عُد إلينا (new)\n• First month at [offer price], then every month at [price] until you cancel. | الشهر الأول بسعر [سعر العرض]، ثم كل شهر بسعر [السعر] حتى تلغي الاشتراك. (new; the pattern of the approved first-month line)\nUsers who get no offer: the no-offer texts of arm A."
   },
   "vpn1020-row-WelcomeBack_YearlyWinBack": {
    "x": 0,
@@ -3890,7 +3890,7 @@
    "w": 1800,
    "size": "m",
    "fill": "gray",
-   "text": "Texts — EN | AR. “app” = already in the app (Localizable.xcstrings). “approved 11-17” = on the approved VPN-727 card at d684e851. “Adapty today” = in a live Adapty flow today. “new” = needs the board's approval on this card.\n• WELCOME BACK | مرحبًا بعودتك (approved 11-17)\n• We saved your Premium spot | حفظنا لك مكانك في Premium (new)\n• Thank you for your loyalty. Come back on the yearly plan, free for [offer duration]. | شكرًا لوفائك. عُد مع الباقة السنوية مجانًا لمدة [مدة العرض]. (new)\n• Yearly | سنوي (app) · Best offer | أفضل عرض (app) · Then [price] / Year | ثم [السعر] / سنة (app)\n• Free for [offer duration] | مجانًا لمدة [مدة العرض] (Adapty today)\n• Come back | عُد إلينا (new)\n• No charge today. Free for [offer duration], then [price] every year until you cancel. | لا رسوم اليوم. مجانًا لمدة [مدة العرض]، ثم [السعر] كل سنة حتى تلغي الاشتراك. (new; the pattern of the approved monthly line)\nUsers who get no offer (second frame):\n• Thank you for your loyalty. Come back to Premium on the yearly plan. | شكرًا لوفائك. عُد إلى Premium مع الباقة السنوية. (new)\n• Only [monthly price] / month | فقط [السعر الشهري] / شهر (app) · [price] / Year | [السعر] / سنة (app)\n• Renews every year at [price] until you cancel. | يتجدد كل سنة بسعر [السعر] حتى تلغي الاشتراك. (approved 11-17)"
+   "text": "Texts — EN | AR. “app” = already in the app (Localizable.xcstrings). “approved 11-17” = on the approved VPN-727 card at d684e851. “Adapty today” = in a live Adapty flow today. “new” = needs the board's approval on this card.\n• WELCOME BACK | مرحبًا بعودتك (approved 11-17)\n• We saved your Premium spot | حفظنا لك مكانك في Premium (new)\n• Thank you for your loyalty. Come back on the yearly plan, free for [offer duration]. | شكرًا لوفائك. عُد مع الباقة السنوية مجانًا لمدة [مدة العرض]. (new)\n• Yearly | سنوي (app) · Best offer | أفضل عرض (app) · Then [price] | ثم [السعر] / سنة (app · EN shorter, board 11-28)\n• [offer duration] free | مجانًا لمدة [مدة العرض] (Adapty today · EN shorter, board 11-28)\n• Come back | عُد إلينا (new)\n• No charge today. Free for [offer duration], then [price] every year until you cancel. | لا رسوم اليوم. مجانًا لمدة [مدة العرض]، ثم [السعر] كل سنة حتى تلغي الاشتراك. (new; the pattern of the approved monthly line)\nUsers who get no offer (second frame):\n• Thank you for your loyalty. Come back to Premium on the yearly plan. | شكرًا لوفائك. عُد إلى Premium مع الباقة السنوية. (new)\n• [monthly price] / month | فقط [السعر الشهري] / شهر (app · EN shorter, board 11-28) · [price] | [السعر] / سنة (app · EN shorter, board 11-28)\n• Renews every year at [price] until you cancel. | يتجدد كل سنة بسعر [السعر] حتى تلغي الاشتراك. (approved 11-17)"
   },
   "vpn1020-row-Intro": {
    "x": 0,
