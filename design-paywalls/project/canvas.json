@@ -2012,7 +2012,7 @@
    "x": 0,
    "y": 67080,
    "w": 3400,
-   "h": 2738,
+   "h": 2817,
    "page": "iphone",
    "title": "Proposal — VPN-1284 · flow 1 “Keep Premium for less — trial ended (flow) VPN-1020” (7ee92610) on test_trial_ended · every text × 10 app languages (en, ar unchanged; de, es, fr, he, it, ja, ru, uk new) · text table"
   },
@@ -2020,7 +2020,7 @@
    "x": 3480,
    "y": 67080,
    "w": 3400,
-   "h": 2940,
+   "h": 3035,
    "page": "iphone",
    "title": "Proposal — VPN-1284 · flow 2A “Welcome back — 1 month free, arm A (flow) VPN-1020” (8569c981) on test_welcome_back_free · every text × 10 app languages (en, ar unchanged; de, es, fr, he, it, ja, ru, uk new) · text table"
   },
@@ -2028,7 +2028,7 @@
    "x": 6960,
    "y": 67080,
    "w": 3400,
-   "h": 2983,
+   "h": 3097,
    "page": "iphone",
    "title": "Proposal — VPN-1284 · flow 2B “Welcome back — first month half price, arm B (flow) VPN-1020” (2b91ac08) on test_welcome_back_half · every text × 10 app languages (en, ar unchanged; de, es, fr, he, it, ja, ru, uk new) · text table"
   },
@@ -2036,7 +2036,7 @@
    "x": 10440,
    "y": 67080,
    "w": 3400,
-   "h": 2872,
+   "h": 3012,
    "page": "iphone",
    "title": "Proposal — VPN-1284 · flow 3 “Welcome back — yearly win-back (flow) VPN-1020” (d321d74f) on test_welcome_back_yearly · every text × 10 app languages (en, ar unchanged; de, es, fr, he, it, ja, ru, uk new) · text table"
   },
@@ -4075,7 +4075,7 @@
    "w": 3400,
    "size": "m",
    "fill": "gray",
-   "text": "Texts — VPN-1284. Every text of the 6 VPN-1020 offer flows in the 10 languages of SecureField (en, ar, de, es, fr, he, it, ja, ru, uk). en and ar do not change. One text table per flow, to the right: text id × 10 languages, both states (offer and no offer), longer texts in yellow. The same words are in the file VPN-1284_six_flows_texts_10_languages.csv on VPN-1284 (for the draft copies, step 2). No new screen: the layout does not change.\nFonts. NAMU-1850 has Latin and Cyrillic letters, no Hebrew, Japanese or Arabic. RedHatDisplay-Regular has Latin letters only. de, es, fr, it: every text in the flow fonts. ru, uk: title, plan names and button in NAMU-1850; the other texts (Restore, mark, sub line, features, captions, prices, tag, renewal line, legal row) show Cyrillic letters in the iOS system font. he, ja: every text in the iOS system font, as Arabic today.\nHebrew. Adapty mirrors the whole screen for ar (close on the right, Restore on the left, tag on the left, text aligned right). Hebrew needs the same and nothing else. The Arabic layout works for Hebrew as it is. No right-to-left marks in any text.\nFit (measured at 375 pt and 390 pt with sample prices). Every one-line text fits. Titles and sub lines keep the number of lines of en, except: de “Premium, das ganze Jahr” (5A, 5B no offer) is 2 lines at 375 pt only; renewal lines in 5A and 5B can take 2 lines at 390 pt, as ar does today. The plan card is tight in ru with long ruble prices (1, 2A, 2B, 3); ru is the longest language of every flow, so the 375-pt renders in step 2 are ru."
+   "text": "Texts — VPN-1284. Every text of the 6 VPN-1020 offer flows in the 10 languages of SecureField (en, ar, de, es, fr, he, it, ja, ru, uk). en and ar do not change. One text table per flow, to the right: text id × 10 languages, both states (offer and no offer), longer texts in yellow. The same words are in the file VPN-1284_six_flows_texts_10_languages.csv on VPN-1284 (for the draft copies, step 2). No new screen: the layout does not change.\nFonts. NAMU-1850 has Latin and Cyrillic letters, no Hebrew, Japanese or Arabic. RedHatDisplay-Regular has Latin letters only. de, es, fr, it: every text in the flow fonts. ru, uk: title, plan names and button in NAMU-1850; the other texts (Restore, mark, sub line, features, captions, prices, tag, renewal line, legal row) show Cyrillic letters in the iOS system font. he, ja: every text in the iOS system font, as Arabic today.\nHebrew. Adapty mirrors the whole screen for ar (close on the right, Restore on the left, tag on the left, text aligned right). Hebrew needs the same and nothing else. The Arabic layout works for Hebrew as it is. No right-to-left marks in any text.\nFit (measured at 375 pt and 390 pt with sample prices). Every one-line text fits. Titles and sub lines keep the number of lines of en, except: de “Premium, das ganze Jahr” (5A, 5B no offer) is 2 lines at 375 pt only; renewal lines in 5A and 5B can take 2 lines at 390 pt, as ar does today. The plan card is tight in ru with long ruble prices (1, 2A, 2B, 3); ru is the longest language of every flow, so the 375-pt renders in step 2 are ru.\nDesign review (step 3, 2026-11-28): DESIGN FAIL on the first draft copies, fixed by 11 text changes (no layout change). F1, ru plan card with long ruble prices: 2A and 3 caption without “Затем” (lc_17), 2B price slot shows the price only (lc_19). F2, he: non-breaking hyphen U+2011 in “ב‑Premium” (titles lc_4 of 2A, 2B, 3) and “ל‑Premium” (lc_6), so no line break after the hyphen. F3, ja: flow 1 title “トライアル終了” and 2A sub line “1か月無料で再開。いつでもキャンセル可能。” on one line. Accepted: renewal lines of 5A (ru, uk) and 5B (ru) on 2 lines at 390 pt, as ar. Each changed cell is marked in the tables."
   }
  }
 }
